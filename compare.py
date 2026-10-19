@@ -122,6 +122,8 @@ def potential_details(p):
 
 
 def duration_text(value):
+    if value == '即时 / 见描述':
+        return '即时'
     return '持续时间 ' + value if re.fullmatch(r'\d+(?:\.\d+)?\s*秒', value) else value
 
 
