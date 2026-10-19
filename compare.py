@@ -106,20 +106,36 @@ def value_text(value):
     return str(value)
 
 
+def potential_details(p):
+    """Resolve talent enhancements from consecutive potential variants, in talent-slot order."""
+    result = []
+    variants = p.get('variants', [])
+    for i, label in enumerate(p.get('potential', [])):
+        enhanced = []
+        if '天赋' in label and i + 1 < len(variants):
+            before = variants[i].get('talents', [])
+            for j, talent in enumerate(variants[i + 1].get('talents', [])):
+                if j >= len(before) or talent != before[j]:
+                    enhanced.append(talent['name'] + '（提升后）：' + talent['description'])
+        result.append('；'.join(enhanced) if enhanced else label)
+    return result
+
+
 def details_operator(p):
     variant = p['variants'][0]
     lines = [f"### {p['name']} · {p['rarity']}★ · {p['profession']} / {p['branch']}", '',
              f"精英{p['phase']} · 满级 {p['level']} · 满信赖 · 一潜", '',
-             ' / '.join(f'{LABELS.get(k,k)} {v:g}' for k, v in variant['stats'].items()), '',
-             '特性：' + variant['trait']]
+             ' / '.join(f'{LABELS.get(k,k)} {v:g}' for k, v in variant['stats'].items() if k != 'attackSpeed'), '',
+             '#### 特性与天赋', '', '特性：' + variant['trait']]
     for talent in variant['talents']:
         lines += ['', talent['name'] + '：' + talent['description']]
+    lines += ['', '#### 潜能', '']
+    lines += ([f'- 潜能{i}：{v}' for i, v in enumerate(potential_details(p), 2)]
+              or ['该干员无潜能提升。'])
     for skill in p['skills']:
         lines += ['', f"#### 技能{skill['index']} · {skill['name']}"]
         for lev in reversed(skill['levels']):
-            lines += ['', f"{lev['label']} · {lev['recovery']} / {lev['trigger']} · 初始 {lev['initial']} / 消耗 {lev['cost']} 技力 · {lev['duration']}", '', lev['description']]
-    if p['potential']:
-        lines += ['', '潜能提升：', ''] + [f'- 潜能{i}：{v}' for i, v in enumerate(p['potential'], 2)]
+            lines += ['', f"{lev['label']} · {lev['recovery']} / {lev['trigger']} · 初始 {lev['initial']} / 消耗 {lev['cost']} 技力 · 持续时间 {lev['duration']}", '', lev['description']]
     return lines
 
 

@@ -8,10 +8,20 @@ const e = escapeHTML;
 const text = value => String(value ?? '').split(/(\d+(?:\.\d+)?%?)/g).map((part,i)=>i%2?`<span class="number">${e(part)}</span>`:e(part)).join('');
 const versionText = v => `客户端 ${v.client_version || '未记录'} · 数据 ${v.official_version}`;
 const potentialText = count => `潜能 ${Math.min(state.potential,count)}`;
-const attrs = [['maxHp','生命上限'],['atk','攻击'],['def','防御'],['magicResistance','法术抗性'],['cost','部署费用'],['blockCnt','阻挡数'],['baseAttackTime','基础攻击间隔 / 秒'],['respawnTime','再部署时间 / 秒'],['attackSpeed','攻击速度']];
+const attrs = [['maxHp','生命上限'],['atk','攻击'],['def','防御'],['magicResistance','法术抗性'],['cost','部署费用'],['blockCnt','阻挡数'],['baseAttackTime','基础攻击间隔 / 秒'],['respawnTime','再部署时间 / 秒']];
 const statusNames = {added:'新增',changed:'修改',removed:'移除',current:'当前版本资料'};
-function statsHTML(stats){return '<div class="attribute-table">'+[0,3,6].map(start=>'<div class="attribute-row">'+attrs.slice(start,start+3).map(([key,label])=>`<div class="attribute-cell"><small>${label}</small><strong>${e(stats[key] ?? '—')}</strong></div>`).join('')+'</div>').join('')+'</div>';}
-function levelHTML(level){return `<div class="skill-level"><div class="skill-metadata"><span class="level-tag">${e(level.label)}</span><span>初始 ${e(level.initial)} / 消耗 ${e(level.cost)} 技力</span><span>${e(level.duration)}</span>${level.charges>1?`<span>可充能 ${e(level.charges)} 次</span>`:''}</div><p class="effect-text">${text(level.description)}</p></div>`;}
+function statsHTML(stats){return '<div class="attribute-table">'+attrs.map(([key,label])=>`<div class="attribute-cell"><small>${label}</small><strong>${e(stats[key] ?? '—')}</strong></div>`).join('')+'</div>';}
+function levelHTML(level){return `<div class="skill-level"><div class="skill-metadata"><span class="level-tag">${e(level.label)}</span><span>初始 ${e(level.initial)} / 消耗 ${e(level.cost)} 技力</span><span>持续时间 ${e(level.duration)}</span>${level.charges>1?`<span>可充能 ${e(level.charges)} 次</span>`:''}</div><p class="effect-text">${text(level.description)}</p></div>`;}
+function potentialHTML(p){
+  if(!p.potential?.length)return '<p class="card-note">该干员无潜能提升。</p>';
+  return '<table class="info-table potential-table"><tbody>'+p.potential.map((label,i)=>{
+    const before=p.variants[i]?.talents,after=p.variants[i+1]?.talents;
+    // Talent slots keep their order, including robots whose talent names change at each potential.
+    const enhanced=label.includes('天赋')&&before&&after?after.filter((t,j)=>t.name!==before[j]?.name||t.description!==before[j]?.description):[];
+    const effect=enhanced.length?enhanced.map(t=>`<div class="potential-effect"><strong class="talent-name">${e(t.name)} · 提升后</strong><p class="effect-text">${text(t.description)}</p></div>`).join(''):`<p class="effect-text">${text(label)}</p>`;
+    return `<tr><th scope="row">潜能 ${i+2}</th><td>${effect}</td></tr>`;
+  }).join('')+'</tbody></table>';
+}
 function skillHTML(skill,index){
   const levels = state.skills==='all'?skill.levels:[skill.levels.at(-1)];
   return `<section class="skill-box" data-skill="${index}"><div class="skill-heading"><h4><span class="skill-index">SKILL ${e(skill.index)}</span>${e(skill.name)}</h4><span class="skill-type">${e(skill.levels.at(-1).recovery)} · ${e(skill.levels.at(-1).trigger)}</span></div>${state.skills==='max'&&skill.levels.length>1?`<div class="level-tabs no-export" role="group" aria-label="${e(skill.name)}技能等级">${skill.levels.map((lev,i)=>`<button type="button" data-level="${i}" class="${i===skill.levels.length-1?'active':''}" aria-pressed="${i===skill.levels.length-1}">${e(lev.label)}</button>`).join('')}</div>`:''}<div class="skill-content">${levels.map(levelHTML).join('')}</div></section>`;
@@ -22,8 +32,8 @@ function operatorBody(p){
   body+='<h3 class="card-section-title">基础属性</h3>'+statsHTML(v.stats)+'<p class="card-note">已计入满信赖与所选潜能；不叠加模组、天赋或技能的战斗增益。</p>';
   body+='<h3 class="card-section-title">特性与天赋</h3><table class="info-table"><tbody><tr><th>特性</th><td><p class="effect-text">'+text(v.trait)+'</p></td></tr>';
   body+=v.talents.map((t,i)=>`<tr><th><span class="talent-name">天赋 ${i+1}</span>${e(t.name)}</th><td><p class="effect-text">${text(t.description)}</p></td></tr>`).join('')+'</tbody></table>';
+  body+='<h3 class="card-section-title">潜能</h3>'+potentialHTML(p);
   body+='<h3 class="card-section-title">技能</h3>'+(p.skills.map(skillHTML).join('')||'<p class="card-note">该干员没有技能。</p>');
-  if(p.potential?.length)body+='<details class="supplement"><summary>潜能提升一览</summary><ul>'+p.potential.map((s,i)=>`<li>潜能 ${i+2}：${e(s)}</li>`).join('')+'</ul></details>';
   if(p.tokens?.length)body+='<details class="supplement"><summary>关联召唤物 · 最高等级基础属性</summary>'+p.tokens.map(t=>`<section class="token-block"><h4>${e(t.name)}</h4>${statsHTML(t.stats)}<p class="effect-text">${text(t.trait)}</p>${t.skills.map((s,i)=>skillHTML(s,'token-'+i)).join('')}</section>`).join('')+'</details>';
   return body;
 }
