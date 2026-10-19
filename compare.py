@@ -121,6 +121,10 @@ def potential_details(p):
     return result
 
 
+def duration_text(value):
+    return '持续时间 ' + value if re.fullmatch(r'\d+(?:\.\d+)?\s*秒', value) else value
+
+
 def details_operator(p):
     variant = p['variants'][0]
     lines = [f"### {p['name']} · {p['rarity']}★ · {p['profession']} / {p['branch']}", '',
@@ -135,7 +139,7 @@ def details_operator(p):
     for skill in p['skills']:
         lines += ['', f"#### 技能{skill['index']} · {skill['name']}"]
         for lev in reversed(skill['levels']):
-            lines += ['', f"{lev['label']} · {lev['recovery']} / {lev['trigger']} · 初始 {lev['initial']} / 消耗 {lev['cost']} 技力 · 持续时间 {lev['duration']}", '', lev['description']]
+            lines += ['', f"{lev['label']} · {lev['recovery']} / {lev['trigger']} · 初始 {lev['initial']} / 消耗 {lev['cost']} 技力 · {duration_text(lev['duration'])}", '', lev['description']]
     return lines
 
 

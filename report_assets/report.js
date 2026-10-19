@@ -11,7 +11,8 @@ const potentialText = count => `潜能 ${Math.min(state.potential,count)}`;
 const attrs = [['maxHp','生命上限'],['atk','攻击'],['def','防御'],['magicResistance','法术抗性'],['cost','部署费用'],['blockCnt','阻挡数'],['baseAttackTime','基础攻击间隔 / 秒'],['respawnTime','再部署时间 / 秒']];
 const statusNames = {added:'新增',changed:'修改',removed:'移除',current:'当前版本资料'};
 function statsHTML(stats){return '<div class="attribute-table">'+attrs.map(([key,label])=>`<div class="attribute-cell"><small>${label}</small><strong>${e(stats[key] ?? '—')}</strong></div>`).join('')+'</div>';}
-function levelHTML(level){return `<div class="skill-level"><div class="skill-metadata"><span class="level-tag">${e(level.label)}</span><span>初始 ${e(level.initial)} / 消耗 ${e(level.cost)} 技力</span><span>持续时间 ${e(level.duration)}</span>${level.charges>1?`<span>可充能 ${e(level.charges)} 次</span>`:''}</div><p class="effect-text">${text(level.description)}</p></div>`;}
+const durationText = value => /^\d+(?:\.\d+)?\s*秒$/.test(value) ? `持续时间 ${value}` : value;
+function levelHTML(level){return `<div class="skill-level"><div class="skill-metadata"><span class="level-tag">${e(level.label)}</span><span>初始 ${e(level.initial)} / 消耗 ${e(level.cost)} 技力</span><span>${e(durationText(level.duration))}</span>${level.charges>1?`<span>可充能 ${e(level.charges)} 次</span>`:''}</div><p class="effect-text">${text(level.description)}</p></div>`;}
 function potentialHTML(p){
   if(!p.potential?.length)return '<p class="card-note">该干员无潜能提升。</p>';
   return '<table class="info-table potential-table"><tbody>'+p.potential.map((label,i)=>{
