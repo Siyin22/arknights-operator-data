@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_caper",
+  "name": "暖意的归宿",
+  "type": "LPS-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，28%几率当次攻击的攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，28%几率当次攻击的攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，28%几率当次攻击的攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，28%几率当次攻击的攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，28%几率当次攻击的攻击力提升至165%（+10%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，28%几率当次攻击的攻击力提升至165%（+10%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，30%几率当次攻击的攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，30%几率当次攻击的攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，30%几率当次攻击的攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，30%几率当次攻击的攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，30%几率当次攻击的攻击力提升至170%（+10%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "戏耍随心",
+            "description": "攻击时，30%几率当次攻击的攻击力提升至170%（+10%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4100_caper",
+  "operator_name": "跃跃",
+  "profession": "狙击",
+  "branch": "回环射手"
+}

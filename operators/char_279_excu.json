@@ -1,0 +1,238 @@
+{
+  "id": "char_279_excu",
+  "name": "送葬人",
+  "english": "Executor",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "散射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2330,
+        "atk": 785,
+        "def": 185,
+        "magicResistance": 0,
+        "cost": 31,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "终结改装",
+          "description": "攻击时无视目标160的防御力"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2330,
+        "atk": 785,
+        "def": 185,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "终结改装",
+          "description": "攻击时无视目标160的防御力"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2330,
+        "atk": 785,
+        "def": 185,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "终结改装",
+          "description": "攻击时无视目标160的防御力"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2330,
+        "atk": 814.0,
+        "def": 185,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "终结改装",
+          "description": "攻击时无视目标160的防御力"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2330,
+        "atk": 814.0,
+        "def": 185,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "终结改装",
+          "description": "攻击时无视目标175（+15）的防御力"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2330,
+        "atk": 814.0,
+        "def": 185,
+        "magicResistance": 0,
+        "cost": 29.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "终结改装",
+          "description": "攻击时无视目标175（+15）的防御力"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+29",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "铳口收束",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，攻击时对攻击范围内的所有敌人应用特性加成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 19,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+55%，攻击时对攻击范围内的所有敌人应用特性加成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 21,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+60%，攻击时对攻击范围内的所有敌人应用特性加成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 23,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+70%，攻击时对攻击范围内的所有敌人应用特性加成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 25,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "最终旅程",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "普通攻击变为二连击，且攻击间隔一定程度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 29,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "普通攻击变为二连击，且攻击间隔一定程度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 73,
+          "initial": 31,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "普通攻击变为二连击，且攻击间隔较大幅度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 72,
+          "initial": 33,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "普通攻击变为二连击，且攻击间隔较大幅度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 35,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

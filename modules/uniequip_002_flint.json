@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_flint",
+  "name": "这些花朵的含义",
+  "type": "FGT-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升45%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升45%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升45%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升45%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升50%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升50%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 185.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升55%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "身轻无痕",
+            "description": "对未被自身阻挡的敌人造成的伤害提升55%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_415_flint",
+  "operator_name": "燧石",
+  "profession": "近卫",
+  "branch": "斗士"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_brigid",
+  "name": "风的颜色",
+  "type": "LPS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成18次伤害后，攻击力+6%，获得40%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成18次伤害后，攻击力+6%，获得40%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成18次伤害后，攻击力+6%，获得40%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成18次伤害后，攻击力+6%，获得40%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成18次伤害后，攻击力+6%，获得43%（+3%）物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成18次伤害后，攻击力+6%，获得43%（+3%）物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成16次伤害后，攻击力+10%，获得45%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成16次伤害后，攻击力+10%，获得45%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成16次伤害后，攻击力+10%，获得45%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成16次伤害后，攻击力+10%，获得45%物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成16次伤害后，攻击力+10%，获得48%（+3%）物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击周围8格的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "结绳老手",
+            "description": "造成16次伤害后，攻击力+10%，获得48%（+3%）物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4177_brigid",
+  "operator_name": "水灯心",
+  "profession": "狙击",
+  "branch": "回环射手"
+}

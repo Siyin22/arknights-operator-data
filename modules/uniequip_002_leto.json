@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_leto",
+  "name": "旧衣服",
+  "type": "LOR-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 39.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+27，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+27，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+27，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+27，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+30（+3），持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+30（+3），持续至技能结束",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 59.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+32，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+32，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+32，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+32，持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+35（+3），持续至技能结束",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "快点快点！",
+            "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+35（+3），持续至技能结束",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_194_leto",
+  "operator_name": "烈夏",
+  "profession": "近卫",
+  "branch": "领主"
+}

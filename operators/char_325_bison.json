@@ -1,0 +1,238 @@
+{
+  "id": "char_325_bison",
+  "name": "拜松",
+  "english": "Bison",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3456,
+        "atk": 375,
+        "def": 781,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "交叉掩护",
+          "description": "在场时自身防御力+50，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3456,
+        "atk": 375,
+        "def": 781,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "交叉掩护",
+          "description": "在场时自身防御力+50，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3456,
+        "atk": 375,
+        "def": 781,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "交叉掩护",
+          "description": "在场时自身防御力+50，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3456,
+        "atk": 375,
+        "def": 781,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "交叉掩护",
+          "description": "在场时自身防御力+50，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3456,
+        "atk": 375,
+        "def": 781,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "交叉掩护",
+          "description": "在场时自身防御力+70（+20），自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3456,
+        "atk": 375,
+        "def": 781,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "交叉掩护",
+          "description": "在场时自身防御力+70（+20），自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "防御力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "深化阵线",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击敌人；防御力+80%，周围4格内的其余友方单位防御力+25%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 16,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击敌人；防御力+90%，周围4格内的其余友方单位防御力+25%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 17,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击敌人；防御力+100%，周围4格内的其余友方单位防御力+25%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 18,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击敌人；防御力+120%，周围4格内的其余友方单位防御力+30%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 20,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

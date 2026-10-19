@@ -1,0 +1,309 @@
+{
+  "id": "char_426_billro",
+  "name": "卡涅利安",
+  "english": "Carnelian",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "阵法术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "群攻",
+    "防护"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2106,
+        "atk": 926,
+        "def": 258,
+        "magicResistance": 15.0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命之餐",
+          "description": "开启技能时立即恢复40%最大生命值；\n蓄力时效果翻倍"
+        },
+        {
+          "name": "蓄势待发",
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2106,
+        "atk": 926,
+        "def": 258,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命之餐",
+          "description": "开启技能时立即恢复40%最大生命值；\n蓄力时效果翻倍"
+        },
+        {
+          "name": "蓄势待发",
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2106,
+        "atk": 926,
+        "def": 258,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命之餐",
+          "description": "开启技能时立即恢复40%最大生命值；\n蓄力时效果翻倍"
+        },
+        {
+          "name": "蓄势待发",
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2106,
+        "atk": 960.0,
+        "def": 258,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命之餐",
+          "description": "开启技能时立即恢复40%最大生命值；\n蓄力时效果翻倍"
+        },
+        {
+          "name": "蓄势待发",
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2106,
+        "atk": 960.0,
+        "def": 258,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命之餐",
+          "description": "开启技能时立即恢复45%（+5%）最大生命值；\n蓄力时效果翻倍"
+        },
+        {
+          "name": "蓄势待发",
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2106,
+        "atk": 960.0,
+        "def": 258,
+        "magicResistance": 15.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命之餐",
+          "description": "开启技能时立即恢复45%（+5%）最大生命值；\n蓄力时效果翻倍"
+        },
+        {
+          "name": "蓄势待发",
+          "description": "技力超过上限时，技力自然回复速度+0.6/秒"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+34",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "沙暴守卫",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，防御力+70%；\n蓄力额外效果：特性效果在技能期间继续生效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 1,
+          "charges": 2,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+45%，防御力+80%；\n蓄力额外效果：特性效果在技能期间继续生效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 2,
+          "charges": 2,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+50%，防御力+90%；\n蓄力额外效果：特性效果在技能期间继续生效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 3,
+          "charges": 2,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+60%，防御力+100%；\n蓄力额外效果：特性效果在技能期间继续生效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 2,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "沙缚镣锁",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔较大幅度缩短，每次攻击对目标造成0.3秒停顿；\n蓄力额外效果：攻击力+15%且停顿变为束缚0.4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 7,
+          "charges": 2,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔较大幅度缩短，每次攻击对目标造成0.3秒停顿；\n蓄力额外效果：攻击力+15%且停顿变为束缚0.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 8,
+          "charges": 2,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔较大幅度缩短，每次攻击对目标造成0.3秒停顿；\n蓄力额外效果：攻击力+20%且停顿变为束缚0.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 9,
+          "charges": 2,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔大幅度缩短，每次攻击对目标造成0.3秒停顿；\n蓄力额外效果：攻击力+20%且停顿变为束缚0.6秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 2,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "食噬之印",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力逐渐增至+200%\n蓄力额外效果：每次攻击使目标受到来自卡涅利安的伤害提升20%（最多叠加5次），持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 1,
+          "charges": 2,
+          "duration": "21 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力逐渐增至+220%\n蓄力额外效果：每次攻击使目标受到来自卡涅利安的伤害提升20%（最多叠加5次），持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 2,
+          "charges": 2,
+          "duration": "21 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力逐渐增至+240%\n蓄力额外效果：每次攻击使目标受到来自卡涅利安的伤害提升20%（最多叠加5次），持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 3,
+          "charges": 2,
+          "duration": "21 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力逐渐增至+280%\n蓄力额外效果：每次攻击使目标受到来自卡涅利安的伤害提升20%（最多叠加5次），持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 5,
+          "charges": 2,
+          "duration": "21 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

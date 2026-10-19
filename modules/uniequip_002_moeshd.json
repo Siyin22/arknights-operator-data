@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_moeshd",
+  "name": "作战靴",
+  "type": "PRO-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 275.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有24%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有24%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有24%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有24%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有27%（+3%）的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有27%（+3%）的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 68.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有27%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有27%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有27%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有27%的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有30%（+3%）的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "奇迹力场",
+            "description": "有30%（+3%）的几率抵挡物理和法术伤害。周围四格内的友方单位获得一半该效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_201_moeshd",
+  "operator_name": "可颂",
+  "profession": "重装",
+  "branch": "铁卫"
+}

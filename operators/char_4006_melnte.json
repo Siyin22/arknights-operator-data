@@ -1,0 +1,239 @@
+{
+  "id": "char_4006_melnte",
+  "name": "玫拉",
+  "english": "Melanite",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "重射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "爆发"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1664,
+        "atk": 882,
+        "def": 210,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "参数校准",
+          "description": "首次释放技能后，后续技能期间造成的伤害提升15%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1664,
+        "atk": 882,
+        "def": 210,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "参数校准",
+          "description": "首次释放技能后，后续技能期间造成的伤害提升15%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1664,
+        "atk": 882,
+        "def": 210,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "参数校准",
+          "description": "首次释放技能后，后续技能期间造成的伤害提升15%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1664,
+        "atk": 912.0,
+        "def": 210,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "参数校准",
+          "description": "首次释放技能后，后续技能期间造成的伤害提升15%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1664,
+        "atk": 912.0,
+        "def": 210,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "参数校准",
+          "description": "首次释放技能后，后续技能期间造成的伤害提升16%（+1%）"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1664,
+        "atk": 912.0,
+        "def": 210,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "参数校准",
+          "description": "首次释放技能后，后续技能期间造成的伤害提升16%（+1%）"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "饱和脉冲",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+160%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+170%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 23,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+175%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 24,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+180%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "临界爆发",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向正前方射击穿透弹，对沿途敌人造成攻击力450%的物理伤害；伤害随距离衰减至最低180%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "向正前方射击穿透弹，对沿途敌人造成攻击力465%的物理伤害；伤害随距离衰减至最低180%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "向正前方射击穿透弹，对沿途敌人造成攻击力480%的物理伤害；伤害随距离衰减至最低180%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "向正前方射击穿透弹，对沿途敌人造成攻击力500%的物理伤害；伤害随距离衰减至最低180%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_pudd",
+  "name": "便携测电设备",
+  "type": "CHA-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+13%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "电磁波",
+            "description": "攻击力+16%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4004_pudd",
+  "operator_name": "布丁",
+  "profession": "术师",
+  "branch": "链术师"
+}

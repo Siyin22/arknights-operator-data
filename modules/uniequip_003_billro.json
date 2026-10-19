@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_billro",
+  "name": "乡音",
+  "type": "PLX-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+0.8/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 95.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内敌人越多造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "蓄势待发",
+            "description": "技力超过上限时，技力自然回复速度+1.0/秒；蓄力状态开启技能时，更不容易受到敌人攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_426_billro",
+  "operator_name": "卡涅利安",
+  "profession": "术师",
+  "branch": "阵法术师"
+}

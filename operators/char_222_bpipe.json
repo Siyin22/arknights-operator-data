@@ -1,0 +1,309 @@
+{
+  "id": "char_222_bpipe",
+  "name": "风笛",
+  "english": "Bagpipe",
+  "rarity": 6,
+  "profession": "先锋",
+  "branch": "冲锋手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "费用回复",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 671,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 13,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精密填弹",
+          "description": "每次攻击有25%的概率攻击力提升至130%，且额外攻击一个目标"
+        },
+        {
+          "name": "军事传统",
+          "description": "编入队伍时所有【先锋】干员的初始技力+6"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 671,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精密填弹",
+          "description": "每次攻击有25%的概率攻击力提升至130%，且额外攻击一个目标"
+        },
+        {
+          "name": "军事传统",
+          "description": "编入队伍时所有【先锋】干员的初始技力+6"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 671,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精密填弹",
+          "description": "每次攻击有28%（+3%）的概率攻击力提升至130%，且额外攻击一个目标"
+        },
+        {
+          "name": "军事传统",
+          "description": "编入队伍时所有【先锋】干员的初始技力+6"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 696.0,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精密填弹",
+          "description": "每次攻击有28%（+3%）的概率攻击力提升至130%，且额外攻击一个目标"
+        },
+        {
+          "name": "军事传统",
+          "description": "编入队伍时所有【先锋】干员的初始技力+6"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 696.0,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精密填弹",
+          "description": "每次攻击有28%（+3%）的概率攻击力提升至130%，且额外攻击一个目标"
+        },
+        {
+          "name": "军事传统",
+          "description": "编入队伍时所有【先锋】干员的初始技力+8（+2）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 696.0,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精密填弹",
+          "description": "每次攻击有28%（+3%）的概率攻击力提升至130%，且额外攻击一个目标"
+        },
+        {
+          "name": "军事传统",
+          "description": "编入队伍时所有【先锋】干员的初始技力+8（+2）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+25",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "高效冲击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次的攻击力提升至160%，且额外攻击一次\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次的攻击力提升至170%，且额外攻击一次\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次的攻击力提升至180%，且额外攻击一次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次的攻击力提升至200%，且额外攻击一次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "闭膛连发",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，阻挡数+1，攻击力和防御力+90%，攻击变为三连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，阻挡数+1，攻击力和防御力+100%，攻击变为三连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，阻挡数+1，攻击力和防御力+110%，攻击变为三连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 21,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，阻挡数+1，攻击力和防御力+120%，攻击变为三连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

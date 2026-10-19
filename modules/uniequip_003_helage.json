@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_helage",
+  "name": "“热的雪”",
+  "type": "SBL-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复70生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复70生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复70生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复70生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复80（+10）生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复80（+10）生命",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 90.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复80生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复80生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复80生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复80生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复90（+10）生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "被击倒时不撤退且回复30%生命（单次部署只触发1次）",
+            "condition": ""
+          },
+          {
+            "name": "运筹帷幄",
+            "description": "未阻挡敌人或生命值低于30%时每秒回复90（+10）生命",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_188_helage",
+  "operator_name": "赫拉格",
+  "profession": "近卫",
+  "branch": "武者"
+}

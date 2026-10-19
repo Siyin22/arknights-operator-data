@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_surtr",
+  "name": "旅游必需品",
+  "type": "AFT-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 56.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+20，8秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+20，8秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+20，9（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+20，9（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+20，9（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+20，9（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+30，9秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+30，9秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+30，10（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+30，10（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+30，10（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身阻挡的敌人受到10%的法术脆弱效果",
+            "condition": ""
+          },
+          {
+            "name": "余烬",
+            "description": "受到致命伤害时持续使生命值不低于1，期间攻击速度+30，10（+1）秒后强制退出战场",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_350_surtr",
+  "operator_name": "史尔特尔",
+  "profession": "近卫",
+  "branch": "术战者"
+}

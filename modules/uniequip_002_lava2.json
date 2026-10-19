@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_lava2",
+  "name": "萨卡兹的刀",
+  "type": "SPC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得33点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得33点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得33点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得33点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得38（+5）点技力，每次部署时使在场术师干员技力+5（+1），在场时其余友方术师干员初始技力+5（+1）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得38（+5）点技力，每次部署时使在场术师干员技力+5（+1），在场时其余友方术师干员初始技力+5（+1）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 62.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得35点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得35点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得35点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得35点技力，每次部署时使在场术师干员技力+4，在场时其余友方术师干员初始技力+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得40（+5）点技力，每次部署时使在场术师干员技力+5（+1），在场时其余友方术师干员初始技力+5（+1）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "咒术阵线",
+            "description": "首次部署后立即获得40（+5）点技力，每次部署时使在场术师干员技力+5（+1），在场时其余友方术师干员初始技力+5（+1）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1011_lava2",
+  "operator_name": "炎狱炎熔",
+  "profession": "术师",
+  "branch": "扩散术师"
+}

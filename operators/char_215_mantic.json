@@ -1,0 +1,239 @@
+{
+  "id": "char_215_mantic",
+  "name": "狮蝎",
+  "english": "Manticore",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "伏击客",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1630,
+        "atk": 871,
+        "def": 373,
+        "magicResistance": 30.0,
+        "cost": 20,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "隐匿的杀手·精英",
+          "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+50%。停止攻击5秒后，重新进入隐匿状态"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1630,
+        "atk": 871,
+        "def": 373,
+        "magicResistance": 30.0,
+        "cost": 19.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "隐匿的杀手·精英",
+          "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+50%。停止攻击5秒后，重新进入隐匿状态"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1630,
+        "atk": 871,
+        "def": 373,
+        "magicResistance": 30.0,
+        "cost": 19.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "隐匿的杀手·精英",
+          "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+50%。停止攻击5秒后，重新进入隐匿状态"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1630,
+        "atk": 901.0,
+        "def": 373,
+        "magicResistance": 30.0,
+        "cost": 19.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "隐匿的杀手·精英",
+          "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+50%。停止攻击5秒后，重新进入隐匿状态"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1630,
+        "atk": 901.0,
+        "def": 373,
+        "magicResistance": 30.0,
+        "cost": 19.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "隐匿的杀手·精英",
+          "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+54%（+4%）。停止攻击5秒后，重新进入隐匿状态"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1630,
+        "atk": 901.0,
+        "def": 373,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "隐匿的杀手·精英",
+          "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+54%（+4%）。停止攻击5秒后，重新进入隐匿状态"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "蝎毒",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击会在-1秒内令命中目标移动速度-35%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击会在-1秒内令命中目标移动速度-40%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击会在-1秒内令命中目标移动速度-45%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击会在-1秒内令命中目标移动速度-50%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "蓄力毒尾击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击前摇和攻击间隔增大，攻击力+60%，使命中目标晕眩0.7秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 5,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击前摇和攻击间隔增大，攻击力+70%，使命中目标晕眩0.8秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 6,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击前摇和攻击间隔增大，攻击力+80%，使命中目标晕眩0.9秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 8,
+          "charges": 1,
+          "duration": "39 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击前摇和攻击间隔增大，攻击力+90%，使命中目标晕眩1.0秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_158_milu",
+  "name": "守林人",
+  "english": "Firewatch",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "神射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "爆发"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1450,
+        "atk": 1175,
+        "def": 131,
+        "magicResistance": 0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "暗杀者",
+          "description": "攻击使用远程武器的敌人时，攻击力提升至140%"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1450,
+        "atk": 1175,
+        "def": 131,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "暗杀者",
+          "description": "攻击使用远程武器的敌人时，攻击力提升至140%"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1450,
+        "atk": 1175,
+        "def": 131,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "暗杀者",
+          "description": "攻击使用远程武器的敌人时，攻击力提升至140%"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1450,
+        "atk": 1210.0,
+        "def": 131,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "暗杀者",
+          "description": "攻击使用远程武器的敌人时，攻击力提升至140%"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1450,
+        "atk": 1210.0,
+        "def": 131,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "暗杀者",
+          "description": "攻击使用远程武器的敌人时，攻击力提升至145%（+5%）"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1450,
+        "atk": 1210.0,
+        "def": 131,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "暗杀者",
+          "description": "攻击使用远程武器的敌人时，攻击力提升至145%（+5%）"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "环境伪装",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，进入隐匿状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 0,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+50%，进入隐匿状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 0,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+60%，进入隐匿状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+70%，进入隐匿状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "50 秒"
+        }
+      ]
+    },
+    {
+      "name": "战术电台",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对攻击范围内随机投下2枚炸弹进行轰炸（优先选择有敌人的位置），每颗炸弹对周围所有敌人造成相当于攻击力240%的物理伤害。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对攻击范围内随机投下3枚炸弹进行轰炸（优先选择有敌人的位置），每颗炸弹对周围所有敌人造成相当于攻击力260%的物理伤害。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对攻击范围内随机投下3枚炸弹进行轰炸（优先选择有敌人的位置），每颗炸弹对周围所有敌人造成相当于攻击力280%的物理伤害。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对攻击范围内随机投下3枚炸弹进行轰炸（优先选择有敌人的位置），每颗炸弹对周围所有敌人造成相当于攻击力300%的物理伤害。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_shu",
+  "name": "“钦天司时”",
+  "type": "GUA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得10%庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得10%庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得10%庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得10%庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复85（+5）生命、获得12%（+2%）庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复85（+5）生命、获得12%（+2%）庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得15%庇护，部署时立即给所处地块播种该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得15%庇护，部署时立即给所处地块播种该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得15%庇护，部署时立即给所处地块播种该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复80生命、获得15%庇护，部署时立即给所处地块播种该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复85（+5）生命、获得17%（+2%）庇护，部署时立即给所处地块播种该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "百谷长青",
+            "description": "治疗干员时对其与周围四格地块进行播种施加如下效果：每秒恢复85（+5）生命、获得17%（+2%）庇护，部署时立即给所处地块播种该效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2025_shu",
+  "operator_name": "黍",
+  "profession": "重装",
+  "branch": "守护者"
+}

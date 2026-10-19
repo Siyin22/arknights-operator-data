@@ -1,0 +1,295 @@
+{
+  "id": "uniequip_002_tecno",
+  "name": "烧烤店官方优惠章",
+  "type": "SOC-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "木偶舞者",
+          "bonuses": [
+            {
+              "key": "maxHp",
+              "label": "生命上限",
+              "value": 400.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 100.0
+            },
+            {
+              "key": "def",
+              "label": "防御",
+              "value": 50.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "木偶舞者",
+          "bonuses": [
+            {
+              "key": "maxHp",
+              "label": "生命上限",
+              "value": 400.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 100.0
+            },
+            {
+              "key": "def",
+              "label": "防御",
+              "value": 50.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害，木偶舞者存在时自身攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害，木偶舞者存在时自身攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害，木偶舞者存在时自身攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害，木偶舞者存在时自身攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害，木偶舞者存在时自身攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "即兴制偶",
+            "description": "攻击范围内的地面敌人被击倒时原地生成一个属性更强的木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害，木偶舞者存在时自身攻击力+15%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4164_tecno",
+  "operator_name": "特克诺",
+  "profession": "术师",
+  "branch": "塑灵术师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_skgoat",
+  "name": "待确认的申请表",
+  "type": "DEC-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "更加延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "更加延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "进一步延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "进一步延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "进一步延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "进一步延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "更进一步延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "地质勘探",
+            "description": "更进一步延长特性停顿的持续时间",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_183_skgoat",
+  "operator_name": "地灵",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

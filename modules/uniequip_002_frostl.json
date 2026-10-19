@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_frostl",
+  "name": "不歇律动",
+  "type": "LOR-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 34.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 41.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有15%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有15%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有15%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有15%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有15%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有15%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有25%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有25%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有25%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有25%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有25%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "掩护打击",
+            "description": "攻击范围扩大，攻击有25%概率造成1.5秒寒冷，但攻击间隔略微增大",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_193_frostl",
+  "operator_name": "霜叶",
+  "profession": "近卫",
+  "branch": "领主"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_zuole",
+  "name": "“岂苦夜长”",
+  "type": "SBL-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+60攻击速度和技力自然回复速度+2.2/秒的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+60攻击速度和技力自然回复速度+2.2/秒的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+60攻击速度和技力自然回复速度+2.2/秒的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+60攻击速度和技力自然回复速度+2.2/秒的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+60攻击速度和技力自然回复速度+2.2/秒的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+60攻击速度和技力自然回复速度+2.2/秒的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 90.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+70攻击速度和技力自然回复速度+2.3/秒的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+70攻击速度和技力自然回复速度+2.3/秒的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+70攻击速度和技力自然回复速度+2.3/秒的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+70攻击速度和技力自然回复速度+2.3/秒的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+70攻击速度和技力自然回复速度+2.3/秒的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "秉烛照影",
+            "description": "在场时，自身获得最高+70攻击速度和技力自然回复速度+2.3/秒的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4121_zuole",
+  "operator_name": "左乐",
+  "profession": "近卫",
+  "branch": "武者"
+}

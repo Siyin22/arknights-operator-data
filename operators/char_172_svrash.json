@@ -1,0 +1,309 @@
+{
+  "id": "char_172_svrash",
+  "name": "银灰",
+  "english": "SilverAsh",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "领主",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 763,
+        "def": 447,
+        "magicResistance": 10.0,
+        "cost": 20,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "领袖",
+          "description": "攻击力+10%，编入队伍时所有我方单位的再部署时间-10%"
+        },
+        {
+          "name": "鹰眼视觉",
+          "description": "攻击范围内敌人的隐匿效果失效"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 763,
+        "def": 447,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "领袖",
+          "description": "攻击力+10%，编入队伍时所有我方单位的再部署时间-10%"
+        },
+        {
+          "name": "鹰眼视觉",
+          "description": "攻击范围内敌人的隐匿效果失效"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 763,
+        "def": 447,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "领袖",
+          "description": "攻击力+10%，编入队伍时所有我方单位的再部署时间-10%"
+        },
+        {
+          "name": "鹰眼视觉",
+          "description": "攻击范围内敌人的隐匿效果失效"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 789.0,
+        "def": 447,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "领袖",
+          "description": "攻击力+10%，编入队伍时所有我方单位的再部署时间-10%"
+        },
+        {
+          "name": "鹰眼视觉",
+          "description": "攻击范围内敌人的隐匿效果失效"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 789.0,
+        "def": 447,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "领袖",
+          "description": "攻击力+12%（+2%），编入队伍时所有我方单位的再部署时间-12%（+2%）"
+        },
+        {
+          "name": "鹰眼视觉",
+          "description": "攻击范围内敌人的隐匿效果失效"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 789.0,
+        "def": 447,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "领袖",
+          "description": "攻击力+12%（+2%），编入队伍时所有我方单位的再部署时间-12%（+2%）"
+        },
+        {
+          "name": "鹰眼视觉",
+          "description": "攻击范围内敌人的隐匿效果失效"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+26",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强力击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至225%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至245%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至265%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至290%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "雪境生存法则",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "可以在下列状态和初始状态间切换：\n攻击范围缩小，防御力+65%，每秒恢复最大生命的4.0%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "可以在下列状态和初始状态间切换：\n攻击范围缩小，防御力+75%，每秒恢复最大生命的4.5%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "可以在下列状态和初始状态间切换：\n攻击范围缩小，防御力+85%，每秒恢复最大生命的5.0%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "可以在下列状态和初始状态间切换：\n攻击范围缩小，防御力+100%，每秒恢复最大生命的6.0%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "真银斩",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力-70%，攻击力+140%，攻击范围扩大，同时攻击至多5个目标（视为近距离攻击）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 60,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力-70%，攻击力+160%，攻击范围扩大，同时攻击至多5个目标（视为近距离攻击）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 65,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力-70%，攻击力+180%，攻击范围扩大，同时攻击至多5个目标（视为近距离攻击）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 70,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力-70%，攻击力+200%，攻击范围扩大，同时攻击至多6个目标（视为近距离攻击）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 75,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,309 @@
+{
+  "id": "char_4027_heyak",
+  "name": "霍尔海雅",
+  "english": "Ho'olheyak",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "中坚术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1770,
+        "atk": 723,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "传承终焉",
+          "description": "攻击空中目标时攻击力提升至120%，并使其特殊能力失效3秒"
+        },
+        {
+          "name": "曾有羽翼",
+          "description": "攻击范围内所有生命值高于80%的敌人失重"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1770,
+        "atk": 723,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "传承终焉",
+          "description": "攻击空中目标时攻击力提升至120%，并使其特殊能力失效3秒"
+        },
+        {
+          "name": "曾有羽翼",
+          "description": "攻击范围内所有生命值高于80%的敌人失重"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1770,
+        "atk": 723,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "传承终焉",
+          "description": "攻击空中目标时攻击力提升至120%，并使其特殊能力失效3秒"
+        },
+        {
+          "name": "曾有羽翼",
+          "description": "攻击范围内所有生命值高于80%的敌人失重"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1770,
+        "atk": 750.0,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "传承终焉",
+          "description": "攻击空中目标时攻击力提升至120%，并使其特殊能力失效3秒"
+        },
+        {
+          "name": "曾有羽翼",
+          "description": "攻击范围内所有生命值高于80%的敌人失重"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1770,
+        "atk": 750.0,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "传承终焉",
+          "description": "攻击空中目标时攻击力提升至123%（+3%），并使其特殊能力失效3秒"
+        },
+        {
+          "name": "曾有羽翼",
+          "description": "攻击范围内所有生命值高于80%的敌人失重"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1770,
+        "atk": 750.0,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "传承终焉",
+          "description": "攻击空中目标时攻击力提升至123%（+3%），并使其特殊能力失效3秒"
+        },
+        {
+          "name": "曾有羽翼",
+          "description": "攻击范围内所有生命值高于80%的敌人失重"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "但为求索",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击额外攻击一个目标并造成相当于攻击力240%的法术伤害，仅攻击到1名目标时使其浮空3秒\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击额外攻击一个目标并造成相当于攻击力260%的法术伤害，仅攻击到1名目标时使其浮空3.5秒\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击额外攻击一个目标并造成相当于攻击力280%的法术伤害，仅攻击到1名目标时使其浮空3.5秒\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击额外攻击一个目标并造成相当于攻击力300%的法术伤害，仅攻击到1名目标时使其浮空4秒\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "群星逶迤",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击变为攻击力35%的9连发，随机攻击范围内的目标，每发有12%的概率使目标浮空1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 22,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击变为攻击力38%的9连发，随机攻击范围内的目标，每发有13%的概率使目标浮空1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 23,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击变为攻击力41%的9连发，随机攻击范围内的目标，每发有14%的概率使目标浮空1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 24,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击变为攻击力45%的9连发，随机攻击范围内的目标，每发有15%的概率使目标浮空1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 25,
+          "charges": 1,
+          "duration": "16 秒"
+        }
+      ]
+    },
+    {
+      "name": "博览者的狂语",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击间隔延长，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标浮空2秒，并造成最高380%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 64,
+          "initial": 42,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击间隔延长，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标浮空2秒，并造成最高400%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 63,
+          "initial": 43,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击间隔延长，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标浮空2秒，并造成最高410%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 62,
+          "initial": 44,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击间隔延长，攻击变为向前吹出平行的旋风，旋风伤害随行进距离正比增强并在行进三格后达到最大，使命中的第一个目标浮空2.2秒，并造成最高420%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 45,
+          "charges": 1,
+          "duration": "45 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

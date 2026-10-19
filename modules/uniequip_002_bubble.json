@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_bubble",
+  "name": "泡泡闪光必杀剑",
+  "type": "PRO-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 220.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降10%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降10%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降10%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降10%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降10%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降10%，持续5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降12%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降12%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降12%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降12%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降12%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "尖刺盾",
+            "description": "敌人攻击泡泡后，攻击力下降12%，持续5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_381_bubble",
+  "operator_name": "泡泡",
+  "profession": "重装",
+  "branch": "铁卫"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_yukari",
+  "name": "命运的奖赏",
+  "type": "RAN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 36.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 10.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力110%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力110%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力110%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力110%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力110%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力110%的生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力120%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力120%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力120%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力120%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力120%的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内有干员处于技能持续期间时，自身攻击力+8%",
+            "condition": ""
+          },
+          {
+            "name": "治愈之风",
+            "description": "技能结束后，治疗自身和攻击范围内最多3名干员相当于岳羽由加莉攻击力120%的生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4219_yukari",
+  "operator_name": "岳羽由加莉",
+  "profession": "辅助",
+  "branch": "游击手"
+}

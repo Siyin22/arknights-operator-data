@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_podego",
+  "name": "“不谢的苗圃”",
+  "type": "DEC-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+11%（+2%），攻击速度+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+11%（+2%），攻击速度+3",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+9%，攻击速度+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+11%（+2%），攻击速度+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "园丁",
+            "description": "在场时，所有【辅助】干员攻击力+11%（+2%），攻击速度+5",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_258_podego",
+  "operator_name": "波登可",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

@@ -1,0 +1,466 @@
+{
+  "id": "char_1012_skadi2",
+  "name": "浊心斯卡蒂",
+  "english": "Skadi the Corrupting Heart",
+  "rarity": 6,
+  "profession": "辅助",
+  "branch": "吟游者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "支援",
+    "生存",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1603,
+        "atk": 418,
+        "def": 263,
+        "magicResistance": 0,
+        "cost": 8,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "远古血亲",
+          "description": "可以使用一个持续25秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸"
+        },
+        {
+          "name": "捕食习性",
+          "description": "自身或海嗣攻击范围内存在我方干员时，自身攻击力+6%；存在【深海猎人】干员时改为攻击力+15%"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1603,
+        "atk": 418,
+        "def": 263,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "远古血亲",
+          "description": "可以使用一个持续25秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸"
+        },
+        {
+          "name": "捕食习性",
+          "description": "自身或海嗣攻击范围内存在我方干员时，自身攻击力+6%；存在【深海猎人】干员时改为攻击力+15%"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1603,
+        "atk": 418,
+        "def": 263,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 64.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "远古血亲",
+          "description": "可以使用一个持续25秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸"
+        },
+        {
+          "name": "捕食习性",
+          "description": "自身或海嗣攻击范围内存在我方干员时，自身攻击力+6%；存在【深海猎人】干员时改为攻击力+15%"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1603,
+        "atk": 445.0,
+        "def": 263,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 64.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "远古血亲",
+          "description": "可以使用一个持续25秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸"
+        },
+        {
+          "name": "捕食习性",
+          "description": "自身或海嗣攻击范围内存在我方干员时，自身攻击力+6%；存在【深海猎人】干员时改为攻击力+15%"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1603,
+        "atk": 445.0,
+        "def": 263,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 64.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "远古血亲",
+          "description": "可以使用一个持续25秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸"
+        },
+        {
+          "name": "捕食习性",
+          "description": "自身或海嗣攻击范围内存在我方干员时，自身攻击力+9%（+3%）；存在【深海猎人】干员时改为攻击力+18%（+3%）"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1603,
+        "atk": 445.0,
+        "def": 263,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 64.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "远古血亲",
+          "description": "可以使用一个持续25秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸"
+        },
+        {
+          "name": "捕食习性",
+          "description": "自身或海嗣攻击范围内存在我方干员时，自身攻击力+9%（+3%）；存在【深海猎人】干员时改为攻击力+18%（+3%）"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-6秒",
+    "攻击力+27",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "同归殊途之吟",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即回复自身所有生命值且生命上限+140%，特性效果提高至60%，攻击范围内我方所有单位受到伤害的50%直接转移给浊心斯卡蒂承担（同类效果取最高）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即回复自身所有生命值且生命上限+150%，特性效果提高至70%，攻击范围内我方所有单位受到伤害的50%直接转移给浊心斯卡蒂承担（同类效果取最高）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即回复自身所有生命值且生命上限+160%，特性效果提高至70%，攻击范围内我方所有单位受到伤害的50%直接转移给浊心斯卡蒂承担（同类效果取最高）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即回复自身所有生命值且生命上限+170%，特性效果提高至80%，攻击范围内我方所有单位受到伤害的50%直接转移给浊心斯卡蒂承担（同类效果取最高）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "同葬无光之愿",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内所有其他友方单位获得相当于浊心斯卡蒂45%攻击力与防御力的鼓舞效果，自身特性效果提高至17%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 64,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内所有其他友方单位获得相当于浊心斯卡蒂50%攻击力与防御力的鼓舞效果，自身特性效果提高至18%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 61,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内所有其他友方单位获得相当于浊心斯卡蒂55%攻击力与防御力的鼓舞效果，自身特性效果提高至19%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 59,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内所有其他友方单位获得相当于浊心斯卡蒂60%攻击力与防御力的鼓舞效果，自身特性效果提高至20%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 56,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "\"潮涌，潮枯\"",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "特性变为自身每秒流失5%生命，使范围内所有敌人每秒受到55%攻击力的真实伤害（自身与海嗣造成的伤害可叠加），范围内所有友方单位获得相当于浊心斯卡蒂80%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "特性变为自身每秒流失5%生命，使范围内所有敌人每秒受到60%攻击力的真实伤害（自身与海嗣造成的伤害可叠加），范围内所有友方单位获得相当于浊心斯卡蒂90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "特性变为自身每秒流失5%生命，使范围内所有敌人每秒受到65%攻击力的真实伤害（自身与海嗣造成的伤害可叠加），范围内所有友方单位获得相当于浊心斯卡蒂100%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "特性变为自身每秒流失5%生命，使范围内所有敌人每秒受到70%攻击力的真实伤害（自身与海嗣造成的伤害可叠加），范围内所有友方单位获得相当于浊心斯卡蒂110%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "斯卡蒂的海嗣",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 30,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "共鸣",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "共鸣",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "共鸣",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "攻击范围视为浊心斯卡蒂攻击范围的延伸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

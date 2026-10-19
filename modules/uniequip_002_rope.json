@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_rope",
+  "name": "铁皮首饰盒",
+  "type": "HOK-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得35%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得35%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得35%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得35%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得39%（+4%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得39%（+4%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 31.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得40%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得40%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得40%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得40%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得44%（+4%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "听觉训练",
+            "description": "获得44%（+4%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_236_rope",
+  "operator_name": "暗索",
+  "profession": "特种",
+  "branch": "钩索师"
+}

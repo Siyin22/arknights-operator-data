@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_hsguma",
+  "name": "友人们的赠礼",
+  "type": "PRO-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 62.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 90.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得30%的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得30%的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得33%（+3%）的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得33%（+3%）的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得33%（+3%）的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得33%（+3%）的伤害抵挡，成功抵挡伤害后3秒内攻击力+20%（不叠加）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 100.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得32%的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得32%的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得35%（+3%）的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得35%（+3%）的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得35%（+3%）的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "战术装甲",
+            "description": "获得35%（+3%）的伤害抵挡，成功抵挡伤害后5秒内攻击力+35%（不叠加）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_136_hsguma",
+  "operator_name": "星熊",
+  "profession": "重装",
+  "branch": "铁卫"
+}

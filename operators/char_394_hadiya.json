@@ -1,0 +1,240 @@
+{
+  "id": "char_394_hadiya",
+  "name": "哈蒂娅",
+  "english": "Hadiya",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "佣兵",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "控场",
+    ""
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2895,
+        "atk": 585,
+        "def": 393,
+        "magicResistance": 10.0,
+        "cost": 10,
+        "blockCnt": 2,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野的后裔",
+          "description": "通过部署、开启技能、使用装备应变消耗费用后，攻击力+4%，使攻击范围内的敌人晕眩2秒（攻击力最多提升5次）"
+        }
+      ],
+      "trait": "可消耗部署费用来强化作战能力"
+    },
+    {
+      "stats": {
+        "maxHp": 2895,
+        "atk": 585,
+        "def": 393,
+        "magicResistance": 10.0,
+        "cost": 9.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野的后裔",
+          "description": "通过部署、开启技能、使用装备应变消耗费用后，攻击力+4%，使攻击范围内的敌人晕眩2秒（攻击力最多提升5次）"
+        }
+      ],
+      "trait": "可消耗部署费用来强化作战能力"
+    },
+    {
+      "stats": {
+        "maxHp": 2895,
+        "atk": 585,
+        "def": 393,
+        "magicResistance": 10.0,
+        "cost": 9.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野的后裔",
+          "description": "通过部署、开启技能、使用装备应变消耗费用后，攻击力+4%，使攻击范围内的敌人晕眩2秒（攻击力最多提升5次）"
+        }
+      ],
+      "trait": "可消耗部署费用来强化作战能力"
+    },
+    {
+      "stats": {
+        "maxHp": 2895,
+        "atk": 615.0,
+        "def": 393,
+        "magicResistance": 10.0,
+        "cost": 9.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野的后裔",
+          "description": "通过部署、开启技能、使用装备应变消耗费用后，攻击力+4%，使攻击范围内的敌人晕眩2秒（攻击力最多提升5次）"
+        }
+      ],
+      "trait": "可消耗部署费用来强化作战能力"
+    },
+    {
+      "stats": {
+        "maxHp": 2895,
+        "atk": 615.0,
+        "def": 393,
+        "magicResistance": 10.0,
+        "cost": 9.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野的后裔",
+          "description": "通过部署、开启技能、使用装备应变消耗费用后，攻击力+5%（+1%），使攻击范围内的敌人晕眩2秒（攻击力最多提升5次）"
+        }
+      ],
+      "trait": "可消耗部署费用来强化作战能力"
+    },
+    {
+      "stats": {
+        "maxHp": 2895,
+        "atk": 615.0,
+        "def": 393,
+        "magicResistance": 10.0,
+        "cost": 8.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野的后裔",
+          "description": "通过部署、开启技能、使用装备应变消耗费用后，攻击力+5%（+1%），使攻击范围内的敌人晕眩2秒（攻击力最多提升5次）"
+        }
+      ],
+      "trait": "可消耗部署费用来强化作战能力"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "沙地战术改良",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力+70%\n装备应变：消耗10点部署费用，攻击力+70%，持续到技能结束\n技力满时可使用装备应变来开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 9,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力+80%\n装备应变：消耗10点部署费用，攻击力+80%，持续到技能结束\n技力满时可使用装备应变来开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力+90%\n装备应变：消耗10点部署费用，攻击力+90%，持续到技能结束\n技力满时可使用装备应变来开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 11,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力+100%\n装备应变：消耗10点部署费用，攻击力+100%，持续到技能结束\n技力满时可使用装备应变来开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 13,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "剑角之锋",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "消耗10点部署费用组合剑和杖，攻击范围扩大，攻击力+135%，同时攻击3个目标；\n技能期间可消耗15点部署费用使用装备应变，延长15秒技能持续时间",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 11,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "消耗10点部署费用组合剑和杖，攻击范围扩大，攻击力+140%，同时攻击3个目标；\n技能期间可消耗15点部署费用使用装备应变，延长15秒技能持续时间",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 12,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "消耗10点部署费用组合剑和杖，攻击范围扩大，攻击力+145%，同时攻击3个目标；\n技能期间可消耗15点部署费用使用装备应变，延长15秒技能持续时间",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 14,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "消耗10点部署费用组合剑和杖，攻击范围扩大，攻击力+150%，同时攻击3个目标；\n技能期间可消耗15点部署费用使用装备应变，延长15秒技能持续时间",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

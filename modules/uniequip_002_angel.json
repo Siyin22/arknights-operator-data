@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_angel",
+  "name": "能天使的杰作",
+  "type": "MAR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+6%，生命上限+10%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+6%，生命上限+10%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+6%，生命上限+10%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+6%，生命上限+10%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+6%，生命上限+10%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+8%（+2%），生命上限+13%（+3%）。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 41.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+8%，生命上限+14%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+8%，生命上限+14%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+8%，生命上限+14%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+8%，生命上限+14%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+8%，生命上限+14%。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "天使的祝福",
+            "description": "攻击力+10%（+2%），生命上限+17%（+3%）。置入战场后这个效果会同样赋予给两名随机友方单位",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_103_angel",
+  "operator_name": "能天使",
+  "profession": "狙击",
+  "branch": "速射手"
+}

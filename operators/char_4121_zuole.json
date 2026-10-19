@@ -1,0 +1,309 @@
+{
+  "id": "char_4121_zuole",
+  "name": "左乐",
+  "english": "Zuo Le",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "武者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4198,
+        "atk": 820,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 26,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "秉烛照影",
+          "description": "在场时，自身获得最高+50攻击速度和技力自然回复速度+2/秒的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "守正自明",
+          "description": "攻击时有20%的概率获得1点技力，生命低于50%时概率变为70%"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4198,
+        "atk": 820,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "秉烛照影",
+          "description": "在场时，自身获得最高+50攻击速度和技力自然回复速度+2/秒的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "守正自明",
+          "description": "攻击时有20%的概率获得1点技力，生命低于50%时概率变为70%"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4198,
+        "atk": 820,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "秉烛照影",
+          "description": "在场时，自身获得最高+50攻击速度和技力自然回复速度+2/秒的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "守正自明",
+          "description": "攻击时有20%的概率获得1点技力，生命低于50%时概率变为70%"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4198,
+        "atk": 846.0,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "秉烛照影",
+          "description": "在场时，自身获得最高+50攻击速度和技力自然回复速度+2/秒的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "守正自明",
+          "description": "攻击时有20%的概率获得1点技力，生命低于50%时概率变为70%"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4198,
+        "atk": 846.0,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "秉烛照影",
+          "description": "在场时，自身获得最高+50攻击速度和技力自然回复速度+2/秒的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "守正自明",
+          "description": "攻击时有23%（+3%）的概率获得1点技力，生命低于50%时概率变为75%（+5%）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4198,
+        "atk": 846.0,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "秉烛照影",
+          "description": "在场时，自身获得最高+50攻击速度和技力自然回复速度+2/秒的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "守正自明",
+          "description": "攻击时有23%（+3%）的概率获得1点技力，生命低于50%时概率变为75%（+5%）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+26",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "破虏",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提升至160%，自身生命低于80%时额外攻击1次，低于50%时额外攻击2次\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 4,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提升至170%，自身生命低于80%时额外攻击1次，低于50%时额外攻击2次\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 5,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提升至180%，自身生命低于80%时额外攻击1次，低于50%时额外攻击2次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 5,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提升至200%，自身生命低于80%时额外攻击1次，低于50%时额外攻击2次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 6,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "行险",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即流失50%当前生命并获得相当于最大生命90%的屏障，攻击力+140%，阻挡数+1，同时攻击所有阻挡的敌人\n屏障最高叠加至最大生命的2倍，技能结束后逐渐流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 10,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即流失50%当前生命并获得相当于最大生命100%的屏障，攻击力+150%，阻挡数+1，同时攻击所有阻挡的敌人\n屏障最高叠加至最大生命的2倍，技能结束后逐渐流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 11,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即流失50%当前生命并获得相当于最大生命110%的屏障，攻击力+160%，阻挡数+1，同时攻击所有阻挡的敌人\n屏障最高叠加至最大生命的2倍，技能结束后逐渐流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 12,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即流失50%当前生命并获得相当于最大生命120%的屏障，攻击力+170%，阻挡数+1，同时攻击所有阻挡的敌人\n屏障最高叠加至最大生命的2倍，技能结束后逐渐流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 13,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    },
+    {
+      "name": "佑序有炎",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻对前方进行7次斩击，每次对最多3名敌人造成攻击力220%的物理伤害（最后一击系数加倍且使目标晕眩4秒），期间特性的生命回复改为获得相当于回复量3倍的屏障\n屏障最高叠加至最大生命的2倍，持续15秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 6,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻对前方进行7次斩击，每次对最多3名敌人造成攻击力225%的物理伤害（最后一击系数加倍且使目标晕眩4秒），期间特性的生命回复改为获得相当于回复量3倍的屏障\n屏障最高叠加至最大生命的2倍，持续15秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 7,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻对前方进行7次斩击，每次对最多3名敌人造成攻击力235%的物理伤害（最后一击系数加倍且使目标晕眩5秒），期间特性的生命回复改为获得相当于回复量3倍的屏障\n屏障最高叠加至最大生命的2倍，持续15秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 8,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻对前方进行7次斩击，每次对最多3名敌人造成攻击力245%的物理伤害（最后一击系数加倍且使目标晕眩5秒），期间特性的生命回复改为获得相当于回复量3倍的屏障\n屏障最高叠加至最大生命的2倍，持续15秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

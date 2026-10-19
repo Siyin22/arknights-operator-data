@@ -1,0 +1,239 @@
+{
+  "id": "char_4107_vrdant",
+  "name": "维荻",
+  "english": "Verdant",
+  "rarity": 4,
+  "profession": "特种",
+  "branch": "傀儡师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "生存",
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2366,
+        "atk": 732,
+        "def": 259,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "植物自愈力",
+          "description": "每秒回复3.5%生命值"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2366,
+        "atk": 732,
+        "def": 259,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "植物自愈力",
+          "description": "每秒回复3.5%生命值"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2366,
+        "atk": 732,
+        "def": 259,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "植物自愈力",
+          "description": "每秒回复3.5%生命值"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2526.0,
+        "atk": 732,
+        "def": 259,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "植物自愈力",
+          "description": "每秒回复3.5%生命值"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2526.0,
+        "atk": 732,
+        "def": 259,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "植物自愈力",
+          "description": "每秒回复4%（+0.5%）生命值"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2526.0,
+        "atk": 732,
+        "def": 259,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "植物自愈力",
+          "description": "每秒回复4%（+0.5%）生命值"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+160",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "苍翠屏障",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "最大生命值+18%，法术抗性+10",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "最大生命值+20%，法术抗性+11",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "最大生命值+22%，法术抗性+13",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "最大生命值+25%，法术抗性+15",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "双刃毒藤",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "伤害类型变为法术，攻击速度+50，每次攻击到敌人时使自身流失4%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 16,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "伤害类型变为法术，攻击速度+60，每次攻击到敌人时使自身流失4%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 16,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "伤害类型变为法术，攻击速度+70，每次攻击到敌人时使自身流失4%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 16,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "伤害类型变为法术，攻击速度+80，每次攻击到敌人时使自身流失4%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 16,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

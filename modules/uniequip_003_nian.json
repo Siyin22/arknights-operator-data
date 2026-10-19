@@ -1,0 +1,283 @@
+{
+  "id": "uniequip_003_nian",
+  "name": "“请勿叩门”",
+  "type": "PRO-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 320.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 21.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 440.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 26.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+19%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升3%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+19%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升3%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+19%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升3%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+19%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升3%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+23%（+4%）；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升3%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+23%（+4%）；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升3%，最多叠加3层",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 550.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+21%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升4%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+21%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升4%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+21%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升4%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+21%；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升4%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+25%（+4%）；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升4%，最多叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "积甲成山",
+            "description": "编入队伍时，所有【重装】职业干员的生命上限+25%（+4%）；场上每有一名重装干员，自身受到治疗效果和生命上限额外提升4%，最多叠加3层",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2014_nian",
+  "operator_name": "年",
+  "profession": "重装",
+  "branch": "铁卫"
+}

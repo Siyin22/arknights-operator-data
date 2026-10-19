@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_morgan",
+  "name": "“钢铁之心”",
+  "type": "DRE-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 310.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 74.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+55%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+55%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+55%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+55%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+57%（+2%）攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+57%（+2%）攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 82.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+58%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+58%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+58%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+58%攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+60%（+2%）攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "沸血先锋",
+            "description": "在场时，自身获得最高+60%（+2%）攻击力的坚忍（损失70%生命值时达最大加成）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_154_morgan",
+  "operator_name": "摩根",
+  "profession": "近卫",
+  "branch": "无畏者"
+}

@@ -1,0 +1,309 @@
+{
+  "id": "char_4042_lumen",
+  "name": "流明",
+  "english": "Lumen",
+  "rarity": 6,
+  "profession": "医疗",
+  "branch": "疗养师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1825,
+        "atk": 585,
+        "def": 141,
+        "magicResistance": 10.0,
+        "cost": 23,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凡人之愿",
+          "description": "治疗的目标获得4秒抵抗，若目标生命值高于75%则改为6秒抵抗"
+        },
+        {
+          "name": "应急处理",
+          "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力80%的生命，该效果有12秒冷却时间"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1825,
+        "atk": 585,
+        "def": 141,
+        "magicResistance": 10.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凡人之愿",
+          "description": "治疗的目标获得4秒抵抗，若目标生命值高于75%则改为6秒抵抗"
+        },
+        {
+          "name": "应急处理",
+          "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力80%的生命，该效果有12秒冷却时间"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1825,
+        "atk": 585,
+        "def": 141,
+        "magicResistance": 10.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凡人之愿",
+          "description": "治疗的目标获得4秒抵抗，若目标生命值高于75%则改为6秒抵抗"
+        },
+        {
+          "name": "应急处理",
+          "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力80%的生命，该效果有12秒冷却时间"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1825,
+        "atk": 585,
+        "def": 141,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凡人之愿",
+          "description": "治疗的目标获得4秒抵抗，若目标生命值高于75%则改为6秒抵抗"
+        },
+        {
+          "name": "应急处理",
+          "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力80%的生命，该效果有12秒冷却时间"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1825,
+        "atk": 585,
+        "def": 141,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凡人之愿",
+          "description": "治疗的目标获得4秒抵抗，若目标生命值高于75%则改为6秒抵抗"
+        },
+        {
+          "name": "应急处理",
+          "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力80%的生命，该效果有10（-2）秒冷却时间"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1825,
+        "atk": 585,
+        "def": 141,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凡人之愿",
+          "description": "治疗的目标获得4秒抵抗，若目标生命值高于75%则改为6秒抵抗"
+        },
+        {
+          "name": "应急处理",
+          "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力80%的生命，该效果有10（-2）秒冷却时间"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "沐雨",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击使目标和周围的友军每秒受到相当于40%流明攻击力的治疗效果，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击使目标和周围的友军每秒受到相当于45%流明攻击力的治疗效果，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击使目标和周围的友军每秒受到相当于50%流明攻击力的治疗效果，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击使目标和周围的友军每秒受到相当于55%流明攻击力的治疗效果，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "沛霖",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻恢复攻击范围内最多2名友方单位相当于攻击力200%的生命；\n蓄力额外效果：并解除目标所受的异常状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻恢复攻击范围内最多3名友方单位相当于攻击力220%的生命；\n蓄力额外效果：并解除目标所受的异常状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻恢复攻击范围内最多3名友方单位相当于攻击力240%的生命；\n蓄力额外效果：并解除目标所受的异常状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻恢复攻击范围内最多3名友方单位相当于攻击力260%的生命；\n蓄力额外效果：并解除目标所受的异常状态",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "灯火不灭",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，攻击速度+20，优先治疗处于异常状态中的单位；只在治疗异常状态中的单位时会消耗子弹，使该次治疗量提升至攻击力的150%并解除目标所受的异常状态\n攻击装有6发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 57,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+45%，攻击速度+30，优先治疗处于异常状态中的单位；只在治疗异常状态中的单位时会消耗子弹，使该次治疗量提升至攻击力的170%并解除目标所受的异常状态\n攻击装有6发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+50%，攻击速度+30，优先治疗处于异常状态中的单位；只在治疗异常状态中的单位时会消耗子弹，使该次治疗量提升至攻击力的185%并解除目标所受的异常状态\n攻击装有7发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+55%，攻击速度+30，优先治疗处于异常状态中的单位；只在治疗异常状态中的单位时会消耗子弹，使该次治疗量提升至攻击力的200%并解除目标所受的异常状态\n攻击装有8发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

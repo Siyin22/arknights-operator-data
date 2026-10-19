@@ -1,0 +1,239 @@
+{
+  "id": "char_469_indigo",
+  "name": "深靛",
+  "english": "Indigo",
+  "rarity": 4,
+  "profession": "术师",
+  "branch": "秘术师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1435,
+        "atk": 1216,
+        "def": 117,
+        "magicResistance": 20.0,
+        "cost": 23,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "柔光缚目",
+          "description": "攻击时有18%的几率使目标束缚4秒，不以束缚状态的敌人为攻击目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1435,
+        "atk": 1216,
+        "def": 117,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "柔光缚目",
+          "description": "攻击时有18%的几率使目标束缚4秒，不以束缚状态的敌人为攻击目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1435,
+        "atk": 1216,
+        "def": 117,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "柔光缚目",
+          "description": "攻击时有18%的几率使目标束缚4秒，不以束缚状态的敌人为攻击目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1435,
+        "atk": 1252.0,
+        "def": 117,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "柔光缚目",
+          "description": "攻击时有18%的几率使目标束缚4秒，不以束缚状态的敌人为攻击目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1435,
+        "atk": 1252.0,
+        "def": 117,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "柔光缚目",
+          "description": "攻击时有20%（+2%）的几率使目标束缚4秒，不以束缚状态的敌人为攻击目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1435,
+        "atk": 1252.0,
+        "def": 117,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "柔光缚目",
+          "description": "攻击时有20%（+2%）的几率使目标束缚4秒，不以束缚状态的敌人为攻击目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+36",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "灯塔守卫者",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力40%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 5,
+          "charges": 1,
+          "duration": "4 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力43%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 1,
+          "duration": "4 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力46%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 5,
+          "charges": 1,
+          "duration": "4 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 1,
+          "duration": "4 秒"
+        }
+      ]
+    },
+    {
+      "name": "光影迷宫",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔一定程度缩短，天赋的触发几率提升至2.5倍，攻击范围内处于束缚状态的敌人每0.5秒受到相当于深靛攻击力15%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔一定程度缩短，天赋的触发几率提升至2.5倍，攻击范围内处于束缚状态的敌人每0.5秒受到相当于深靛攻击力17%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 17,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔一定程度缩短，天赋的触发几率提升至3.0倍，攻击范围内处于束缚状态的敌人每0.5秒受到相当于深靛攻击力17%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔缩短，天赋的触发几率提升至3.0倍，攻击范围内处于束缚状态的敌人每0.5秒受到相当于深靛攻击力20%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

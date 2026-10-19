@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_sora",
+  "name": "“齐唱”",
+  "type": "BAR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 142.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 13.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 172.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复50%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复50%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复50%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复50%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复50%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复50%的最大技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复60%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复60%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复60%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复60%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复60%的最大技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "安可",
+            "description": "技能结束后，60%几率立即回复60%的最大技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_101_sora",
+  "operator_name": "空",
+  "profession": "辅助",
+  "branch": "吟游者"
+}

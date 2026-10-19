@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_mantic",
+  "name": "训练用尾部防护套装",
+  "type": "AMB-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 58.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 72.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+55%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+55%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+55%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+55%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+59%（+4%）。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+59%（+4%）。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 31.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+60%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+60%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+60%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+60%。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+64%（+4%）。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "隐匿的杀手·精英",
+            "description": "平时处于隐匿状态，攻击时会解除隐匿状态，且当次攻击的攻击力+64%（+4%）。停止攻击5秒后，重新进入隐匿状态",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_215_mantic",
+  "operator_name": "狮蝎",
+  "profession": "特种",
+  "branch": "伏击客"
+}

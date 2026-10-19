@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_serum",
+  "name": "无可抹消",
+  "type": "BLA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 49.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.65（+0.05）/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.65（+0.05）/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.65/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.65/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.65/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.65/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.7（+0.05）/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "战术性调整",
+            "description": "4秒内没有主动攻击过，技力自然回复速度+0.7（+0.05）/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_489_serum",
+  "operator_name": "蚀清",
+  "profession": "术师",
+  "branch": "轰击术师"
+}

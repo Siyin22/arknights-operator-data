@@ -1,0 +1,308 @@
+{
+  "id": "char_2012_typhon",
+  "name": "提丰",
+  "english": "Typhon",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "攻城手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1702,
+        "atk": 1155,
+        "def": 113,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "锐如兽牙",
+          "description": "连续攻击时逐渐无视敌人的防御力，最高无视其防御力的50%（每次攻击提升10%的无视防御比例），8秒内未攻击则失去加成"
+        },
+        {
+          "name": "重如沼泥",
+          "description": "技能期间对每个敌人首次造成伤害时，攻击力提升至160%并使目标停顿3秒"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1702,
+        "atk": 1155,
+        "def": 113,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "锐如兽牙",
+          "description": "连续攻击时逐渐无视敌人的防御力，最高无视其防御力的50%（每次攻击提升10%的无视防御比例），8秒内未攻击则失去加成"
+        },
+        {
+          "name": "重如沼泥",
+          "description": "技能期间对每个敌人首次造成伤害时，攻击力提升至160%并使目标停顿3秒"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1702,
+        "atk": 1155,
+        "def": 113,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "锐如兽牙",
+          "description": "连续攻击时逐渐无视敌人的防御力，最高无视其防御力的50%（每次攻击提升10%的无视防御比例），8秒内未攻击则失去加成"
+        },
+        {
+          "name": "重如沼泥",
+          "description": "技能期间对每个敌人首次造成伤害时，攻击力提升至160%并使目标停顿3秒"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1702,
+        "atk": 1189.0,
+        "def": 113,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "锐如兽牙",
+          "description": "连续攻击时逐渐无视敌人的防御力，最高无视其防御力的50%（每次攻击提升10%的无视防御比例），8秒内未攻击则失去加成"
+        },
+        {
+          "name": "重如沼泥",
+          "description": "技能期间对每个敌人首次造成伤害时，攻击力提升至160%并使目标停顿3秒"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1702,
+        "atk": 1189.0,
+        "def": 113,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "锐如兽牙",
+          "description": "连续攻击时逐渐无视敌人的防御力，最高无视其防御力的50%（每次攻击提升10%的无视防御比例），8秒内未攻击则失去加成"
+        },
+        {
+          "name": "重如沼泥",
+          "description": "技能期间对每个敌人首次造成伤害时，攻击力提升至170%（+10%）并使目标停顿3秒"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1702,
+        "atk": 1189.0,
+        "def": 113,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "锐如兽牙",
+          "description": "连续攻击时逐渐无视敌人的防御力，最高无视其防御力的50%（每次攻击提升10%的无视防御比例），8秒内未攻击则失去加成"
+        },
+        {
+          "name": "重如沼泥",
+          "description": "技能期间对每个敌人首次造成伤害时，攻击力提升至170%（+10%）并使目标停顿3秒"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+34",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "冰原秩序",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+35%，每次攻击发射两支箭矢（优先攻击不同目标），并有40%概率晕眩目标1秒\n第二次及以后使用时持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 51,
+          "initial": 40,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+40%，每次攻击发射两支箭矢（优先攻击不同目标），并有40%概率晕眩目标1秒\n第二次及以后使用时持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 51,
+          "initial": 41,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+45%，每次攻击发射两支箭矢（优先攻击不同目标），并有40%概率晕眩目标1秒\n第二次及以后使用时持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 51,
+          "initial": 41,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+50%，每次攻击发射两支箭矢（优先攻击不同目标），并有40%概率晕眩目标1秒\n第二次及以后使用时持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 42,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "“永恒狩猎”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻标记攻击范围内的一名目标，攻击间隔大幅增大，攻击变为对标记目标发射一轮箭雨；箭雨会随机攻击标记目标周围的敌人，共造成4次相当于攻击力160%的物理伤害并使目标晕眩0.4秒\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻标记攻击范围内的一名目标，攻击间隔大幅增大，攻击变为对标记目标发射一轮箭雨；箭雨会随机攻击标记目标周围的敌人，共造成5次相当于攻击力165%的物理伤害并使目标晕眩0.4秒\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻标记攻击范围内的一名目标，攻击间隔大幅增大，攻击变为对标记目标发射一轮箭雨；箭雨会随机攻击标记目标周围的敌人，共造成5次相当于攻击力170%的物理伤害并使目标晕眩0.4秒\n攻击装有9发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻标记攻击范围内的一名目标，攻击间隔大幅增大，攻击变为对标记目标发射一轮箭雨；箭雨会随机攻击标记目标周围的敌人，共造成5次相当于攻击力175%的物理伤害并使目标晕眩0.4秒\n攻击装有10发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

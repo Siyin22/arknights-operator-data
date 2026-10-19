@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_shotst",
+  "name": "猎刀",
+  "type": "MAR-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至140%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至140%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至140%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至140%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至145%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至145%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至155%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "空射专精",
+            "description": "攻击空中目标时，攻击力提升至155%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_126_shotst",
+  "operator_name": "流星",
+  "profession": "狙击",
+  "branch": "速射手"
+}

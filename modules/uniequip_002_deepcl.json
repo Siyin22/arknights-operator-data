@@ -1,0 +1,301 @@
+{
+  "id": "uniequip_002_deepcl",
+  "name": "诡异的调色盘",
+  "type": "SUM-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "触手",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deploy_count",
+              "value": 3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "触手",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deploy_count",
+              "value": 3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 115.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "触手",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deploy_count",
+              "value": 3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "召唤触手",
+            "description": "可以使用四个触手召唤物来协助作战。触手生命上限+15%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_110_deepcl",
+  "operator_name": "深海色",
+  "profession": "辅助",
+  "branch": "召唤师"
+}

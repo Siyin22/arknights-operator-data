@@ -1,0 +1,238 @@
+{
+  "id": "char_4139_papyrs",
+  "name": "莎草",
+  "english": "Papyrus",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "链愈师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1865,
+        "atk": 500,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "博览古卷",
+          "description": "治疗会为目标干员附加相当于自身20%攻击力的屏障，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%"
+    },
+    {
+      "stats": {
+        "maxHp": 1865,
+        "atk": 500,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "博览古卷",
+          "description": "治疗会为目标干员附加相当于自身20%攻击力的屏障，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%"
+    },
+    {
+      "stats": {
+        "maxHp": 1865,
+        "atk": 500,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "博览古卷",
+          "description": "治疗会为目标干员附加相当于自身20%攻击力的屏障，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%"
+    },
+    {
+      "stats": {
+        "maxHp": 1865,
+        "atk": 500,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "博览古卷",
+          "description": "治疗会为目标干员附加相当于自身20%攻击力的屏障，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%"
+    },
+    {
+      "stats": {
+        "maxHp": 1865,
+        "atk": 500,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "博览古卷",
+          "description": "治疗会为目标干员附加相当于自身22%（+2%）攻击力的屏障，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%"
+    },
+    {
+      "stats": {
+        "maxHp": 1865,
+        "atk": 500,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "博览古卷",
+          "description": "治疗会为目标干员附加相当于自身22%（+2%）攻击力的屏障，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "巧思乍现",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗时的治疗量提升至攻击力的175%，天赋附加屏障效果提升至200%\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗时的治疗量提升至攻击力的180%，天赋附加屏障效果提升至200%\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗时的治疗量提升至攻击力的190%，天赋附加屏障效果提升至200%\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗时的治疗量提升至攻击力的200%，天赋附加屏障效果提升至200%\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "临考发挥",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔缩短，攻击力+35%，每次治疗跳跃次数+1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔缩短，攻击力+40%，每次治疗跳跃次数+1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔缩短，攻击力+45%，每次治疗跳跃次数+1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻锁定攻击范围内除自身外生命值上限最高的干员，技能期间莎草仅可以该干员作为治疗主目标，攻击间隔缩短，攻击力+50%，每次治疗跳跃次数+1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

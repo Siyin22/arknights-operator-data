@@ -1,0 +1,238 @@
+{
+  "id": "char_4083_chimes",
+  "name": "铎铃",
+  "english": "Wind Chimes",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "重剑手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 6019,
+        "atk": 1508,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "走山路",
+          "description": "生命上限+5%，生命值高于50%时获得+20%攻击力的精力充沛"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6019,
+        "atk": 1508,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "走山路",
+          "description": "生命上限+5%，生命值高于50%时获得+20%攻击力的精力充沛"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6019,
+        "atk": 1508,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "走山路",
+          "description": "生命上限+5%，生命值高于50%时获得+20%攻击力的精力充沛"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6019,
+        "atk": 1548.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "走山路",
+          "description": "生命上限+5%，生命值高于50%时获得+20%攻击力的精力充沛"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6019,
+        "atk": 1548.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "走山路",
+          "description": "生命上限+5%，生命值高于50%时获得+22%（+2%）攻击力的精力充沛"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6019,
+        "atk": 1548.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "走山路",
+          "description": "生命上限+5%，生命值高于50%时获得+22%（+2%）攻击力的精力充沛"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+40",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "乡心无改",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，获得30%的庇护，攻击力逐渐增至+50%。技能结束时对前方所有地面敌人造成此时攻击力200%的物理伤害并使其晕眩1秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，获得32%的庇护，攻击力逐渐增至+50%。技能结束时对前方所有地面敌人造成此时攻击力210%的物理伤害并使其晕眩1秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 6,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，获得35%的庇护，攻击力逐渐增至+50%。技能结束时对前方所有地面敌人造成此时攻击力220%的物理伤害并使其晕眩1秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 8,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，获得40%的庇护，攻击力逐渐增至+50%。技能结束时对前方所有地面敌人造成此时攻击力230%的物理伤害并使其晕眩1秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "5 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

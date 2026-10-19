@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_nights",
+  "name": "女巫的帽子",
+  "type": "CCR-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-24%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-24%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-24%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-24%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-27%（+3%），持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-27%（+3%），持续1秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-27%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-27%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-27%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-27%，持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-30%（+3%），持续1秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "黑色迷雾",
+            "description": "攻击使目标法术抗性-30%（+3%），持续1秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_141_nights",
+  "operator_name": "夜烟",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

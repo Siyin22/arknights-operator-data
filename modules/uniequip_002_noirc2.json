@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_noirc2",
+  "name": "黑角的随身笔记",
+  "type": "SBL-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+8%（最多3层）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 500.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 36.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "练气",
+            "description": "非技能期间，连续攻击5次后自身获得攻击力+9%（最多3层）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1030_noirc2",
+  "operator_name": "火龙S黑角",
+  "profession": "近卫",
+  "branch": "武者"
+}

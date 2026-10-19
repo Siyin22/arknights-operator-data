@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_kirara",
+  "name": "《闹闹生存挑战3 联机版》",
+  "type": "AMB-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复3.5%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复3.5%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复3.5%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复3.5%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4%（+0.5%）生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4%（+0.5%）生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 330.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4%生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4.5%（+0.5%）生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "离群独守",
+            "description": "每秒回复2.5%生命值，周围8格没有友方干员时，改为每秒回复4.5%（+0.5%）生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_478_kirara",
+  "operator_name": "绮良",
+  "profession": "特种",
+  "branch": "伏击客"
+}

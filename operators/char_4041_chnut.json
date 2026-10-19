@@ -1,0 +1,238 @@
+{
+  "id": "char_4041_chnut",
+  "name": "褐果",
+  "english": "Chestnut",
+  "rarity": 4,
+  "profession": "医疗",
+  "branch": "行医",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1237,
+        "atk": 424,
+        "def": 101,
+        "magicResistance": 10.0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "脚踏实地",
+          "description": "治疗地面单位，元素损伤回复量提高20%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1237,
+        "atk": 424,
+        "def": 101,
+        "magicResistance": 10.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "脚踏实地",
+          "description": "治疗地面单位，元素损伤回复量提高20%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1237,
+        "atk": 424,
+        "def": 101,
+        "magicResistance": 10.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "脚踏实地",
+          "description": "治疗地面单位，元素损伤回复量提高20%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1237,
+        "atk": 439.0,
+        "def": 101,
+        "magicResistance": 10.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "脚踏实地",
+          "description": "治疗地面单位，元素损伤回复量提高20%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1237,
+        "atk": 439.0,
+        "def": 101,
+        "magicResistance": 10.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "脚踏实地",
+          "description": "治疗地面单位，元素损伤回复量提高23%（+3%）"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1237,
+        "atk": 439.0,
+        "def": 101,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "脚踏实地",
+          "description": "治疗地面单位，元素损伤回复量提高23%（+3%）"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+15",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "积微成著",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即进行一次治疗，并且该次治疗元素损伤回复量提升至250%\n可以充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即进行一次治疗，并且该次治疗元素损伤回复量提升至270%\n可以充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即进行一次治疗，并且该次治疗元素损伤回复量提升至280%\n可以充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 6,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即进行一次治疗，并且该次治疗元素损伤回复量提升至300%\n可以充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 8,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "厚土迸发",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围缩小，攻击速度+100，连续治疗同一目标时，治疗量和元素损伤回复量提高至135%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 30,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围缩小，攻击速度+110，连续治疗同一目标时，治疗量和元素损伤回复量提高至140%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 72,
+          "initial": 34,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围缩小，攻击速度+110，连续治疗同一目标时，治疗量和元素损伤回复量提高至145%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 72,
+          "initial": 36,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围缩小，攻击速度+130，连续治疗同一目标时，治疗量和元素损伤回复量提高至150%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 40,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

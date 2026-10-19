@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_saga",
+  "name": "身向云泥",
+  "type": "SOL-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 75.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 105.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复5.5%的最大生命，持续17秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复5.5%的最大生命，持续17秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复5.5%的最大生命，持续17秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复5.5%的最大生命，持续17秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复6.5%（+1%）的最大生命，持续19（+2）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复6.5%（+1%）的最大生命，持续19（+2）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复6%的最大生命，持续18秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复6%的最大生命，持续18秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复6%的最大生命，持续18秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复6%的最大生命，持续18秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复7%（+1%）的最大生命，持续20（+2）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "清明",
+            "description": "生命值低于40%时，仅一次获得70%物理闪避和每秒回复7%（+1%）的最大生命，持续20（+2）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_362_saga",
+  "operator_name": "嵯峨",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

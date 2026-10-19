@@ -1,0 +1,309 @@
+{
+  "id": "char_293_thorns",
+  "name": "棘刺",
+  "english": "Thorns",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "领主",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2612,
+        "atk": 741,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 20,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神经腐蚀",
+          "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害（对会远程攻击的目标伤害加倍）"
+        },
+        {
+          "name": "故土潮声",
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命3.5%的生命"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2612,
+        "atk": 741,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神经腐蚀",
+          "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害（对会远程攻击的目标伤害加倍）"
+        },
+        {
+          "name": "故土潮声",
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命3.5%的生命"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2612,
+        "atk": 741,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神经腐蚀",
+          "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害（对会远程攻击的目标伤害加倍）"
+        },
+        {
+          "name": "故土潮声",
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命4%（+0.5%）的生命"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2612,
+        "atk": 767.0,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神经腐蚀",
+          "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害（对会远程攻击的目标伤害加倍）"
+        },
+        {
+          "name": "故土潮声",
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命4%（+0.5%）的生命"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2612,
+        "atk": 767.0,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神经腐蚀",
+          "description": "攻击使目标中毒，在3秒内每秒受到140（+15）点法术伤害（对会远程攻击的目标伤害加倍）"
+        },
+        {
+          "name": "故土潮声",
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命4%（+0.5%）的生命"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2612,
+        "atk": 767.0,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神经腐蚀",
+          "description": "攻击使目标中毒，在3秒内每秒受到140（+15）点法术伤害（对会远程攻击的目标伤害加倍）"
+        },
+        {
+          "name": "故土潮声",
+          "description": "如果2秒内没有主动攻击过，每秒恢复最大生命4%（+0.5%）的生命"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+26",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "护身尖刺",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，攻击力+40%，防御力+70%，受到敌人普通攻击时释放尖刺对前方最多4名敌人进行一次远程攻击（每0.8秒最多触发一次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 10,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，攻击力+45%，防御力+80%，受到敌人普通攻击时释放尖刺对前方最多4名敌人进行一次远程攻击（每0.7秒最多触发一次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 10,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，攻击力+50%，防御力+90%，受到敌人普通攻击时释放尖刺对前方最多4名敌人进行一次远程攻击（每0.6秒最多触发一次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 10,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，攻击力+60%，防御力+110%，受到敌人普通攻击时释放尖刺对前方最多4名敌人进行一次远程攻击（每0.6秒最多触发一次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "至高之术",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+40%，攻击速度+16，远程攻击不再降低攻击力\n第二次及以后使用时能力加成变为最初的两倍，且持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+45%，攻击速度+19，远程攻击不再降低攻击力\n第二次及以后使用时能力加成变为最初的两倍，且持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+50%，攻击速度+22，远程攻击不再降低攻击力\n第二次及以后使用时能力加成变为最初的两倍，且持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+60%，攻击速度+25，远程攻击不再降低攻击力\n第二次及以后使用时能力加成变为最初的两倍，且持续时间无限",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_vigna",
+  "name": "伟大的摇滚",
+  "type": "CHG-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 95.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，15%几率当次攻击的攻击力+100%。技能中这个几率提高到35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，15%几率当次攻击的攻击力+100%。技能中这个几率提高到35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，15%几率当次攻击的攻击力+100%。技能中这个几率提高到35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，15%几率当次攻击的攻击力+100%。技能中这个几率提高到35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，15%几率当次攻击的攻击力+110%（+10%）。技能中这个几率提高到35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，15%几率当次攻击的攻击力+110%（+10%）。技能中这个几率提高到35%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，20%几率当次攻击的攻击力+100%。技能中这个几率提高到40%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，20%几率当次攻击的攻击力+100%。技能中这个几率提高到40%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，20%几率当次攻击的攻击力+100%。技能中这个几率提高到40%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，20%几率当次攻击的攻击力+100%。技能中这个几率提高到40%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，20%几率当次攻击的攻击力+110%（+10%）。技能中这个几率提高到40%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "蛮力穿刺",
+            "description": "攻击时，20%几率当次攻击的攻击力+110%（+10%）。技能中这个几率提高到40%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_290_vigna",
+  "operator_name": "红豆",
+  "profession": "先锋",
+  "branch": "冲锋手"
+}

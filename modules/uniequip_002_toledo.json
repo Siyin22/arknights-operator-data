@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_toledo",
+  "name": "贵族义务",
+  "type": "UMD-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 13.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得18%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得18%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得18%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得18%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得20%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得20%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得19%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得19%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得19%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得19%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得21%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "“贵族血统”",
+            "description": "攻击范围内被阻挡的敌人获得21%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_393_toledo",
+  "operator_name": "德·托莱多",
+  "profession": "辅助",
+  "branch": "削弱者"
+}

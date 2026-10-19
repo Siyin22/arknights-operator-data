@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_platnm",
+  "name": "独自旅行套装",
+  "type": "MAR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力190%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力190%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力190%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力190%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力200%（+10%））",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力200%（+10%））",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力200%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力200%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力200%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力200%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力210%（+10%））",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "蓄力攻击",
+            "description": "距离上次攻击的间隔越长，下次攻击的攻击力就越高（最长2.5秒，攻击力210%（+10%））",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_204_platnm",
+  "operator_name": "白金",
+  "profession": "狙击",
+  "branch": "速射手"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_tiger",
+  "name": "“汉娜的脱臼复位套装”",
+  "type": "FGT-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有33%（+3%）的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有33%（+3%）的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+120%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+120%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+120%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有30%的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+120%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有33%（+3%）的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+120%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "虎拳迅击",
+            "description": "有33%（+3%）的概率闪避敌人的近战物理攻击，成功闪避后自身下一次攻击攻击力+120%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_155_tiger",
+  "operator_name": "因陀罗",
+  "profession": "近卫",
+  "branch": "斗士"
+}

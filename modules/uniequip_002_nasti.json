@@ -1,0 +1,406 @@
+{
+  "id": "uniequip_002_nasti",
+  "name": "工程师们",
+  "type": "CRA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 78.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 26.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“质检专员”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "“监工专员”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "“应急承重小组”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 102.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“质检专员”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "“监工专员”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "“应急承重小组”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 145.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“质检专员”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "“监工专员”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "“应急承重小组”",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少；装置可与攻击范围内其他装置共同提供效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少；装置可与攻击范围内其他装置共同提供效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少；装置可与攻击范围内其他装置共同提供效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少；装置可与攻击范围内其他装置共同提供效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少；装置可与攻击范围内其他装置共同提供效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "前方施工",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，首个装置部署费用减少；装置可与攻击范围内其他装置共同提供效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4212_nasti",
+  "operator_name": "娜斯提",
+  "profession": "辅助",
+  "branch": "工匠"
+}

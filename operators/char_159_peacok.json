@@ -1,0 +1,135 @@
+{
+  "id": "char_159_peacok",
+  "name": "断罪者",
+  "english": "Conviction",
+  "rarity": 4,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "生存",
+    "控场",
+    "爆发"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3705,
+        "atk": 951,
+        "def": 188,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "稳妥降落",
+          "description": "部署费用-4，再部署时间-15秒，但部署后晕眩10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [],
+  "skills": [
+    {
+      "name": "断罪",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提升至170%（有5%的概率变为680%）\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提升至180%（有5%的概率变为720%）\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提升至190%（有5%的概率变为760%）\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提升至200%（有5%的概率变为800%）\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "创世纪",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "使周围所有敌人立即受到攻击力260%的法术伤害并失去特殊能力3秒\n有50%的几率失败，失败时范围内的所有友方单位全部晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "使周围所有敌人立即受到攻击力290%的法术伤害并失去特殊能力3.5秒\n有50%的几率失败，失败时范围内的所有友方单位全部晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 3,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "使周围所有敌人立即受到攻击力320%的法术伤害并失去特殊能力4秒\n有50%的几率失败，失败时范围内的所有友方单位全部晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 4,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "使周围所有敌人立即受到攻击力350%的法术伤害并失去特殊能力5秒\n有50%的几率失败，失败时范围内的所有友方单位全部晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 5,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

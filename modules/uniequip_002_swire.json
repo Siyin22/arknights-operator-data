@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_swire",
+  "name": "防身口红",
+  "type": "INS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 145.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每4秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每4秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每4秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每4秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每4秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每4秒回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每3秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每3秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每3秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每3秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每3秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "不落人后",
+            "description": "周围8格内有近战友方单位时，自身每3秒回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_308_swire",
+  "operator_name": "诗怀雅",
+  "profession": "近卫",
+  "branch": "教官"
+}

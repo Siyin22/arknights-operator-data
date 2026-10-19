@@ -1,0 +1,145 @@
+{
+  "id": "char_503_rang",
+  "name": "巡林者",
+  "english": "Rangers",
+  "rarity": 2,
+  "profession": "狙击",
+  "branch": "速射手",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "新手"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 780,
+        "atk": 299,
+        "def": 66,
+        "magicResistance": 0,
+        "cost": 7,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射大师",
+          "description": "攻击飞行目标时，攻击力+50%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 780,
+        "atk": 299,
+        "def": 66,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射大师",
+          "description": "攻击飞行目标时，攻击力+50%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 780,
+        "atk": 299,
+        "def": 66,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 106.0
+      },
+      "talents": [
+        {
+          "name": "空射大师",
+          "description": "攻击飞行目标时，攻击力+50%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 780,
+        "atk": 299,
+        "def": 66,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 112.0
+      },
+      "talents": [
+        {
+          "name": "空射大师",
+          "description": "攻击飞行目标时，攻击力+50%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 780,
+        "atk": 299,
+        "def": 66,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 65.0,
+        "attackSpeed": 112.0
+      },
+      "talents": [
+        {
+          "name": "空射大师",
+          "description": "攻击飞行目标时，攻击力+50%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 780,
+        "atk": 299,
+        "def": 66,
+        "magicResistance": 0,
+        "cost": 5.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 65.0,
+        "attackSpeed": 112.0
+      },
+      "talents": [
+        {
+          "name": "空射大师",
+          "description": "攻击飞行目标时，攻击力+50%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "攻击速度+6",
+    "攻击速度+6",
+    "再部署时间-5秒",
+    "部署费用-1"
+  ],
+  "skills": [],
+  "tokens": []
+}

@@ -1,0 +1,238 @@
+{
+  "id": "char_4177_brigid",
+  "name": "水灯心",
+  "english": "Brigid",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "回环射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 715,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结绳老手",
+          "description": "造成20次伤害后，获得35%物理闪避"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 715,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结绳老手",
+          "description": "造成20次伤害后，获得35%物理闪避"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 715,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结绳老手",
+          "description": "造成20次伤害后，获得35%物理闪避"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 715,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结绳老手",
+          "description": "造成20次伤害后，获得35%物理闪避"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 715,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结绳老手",
+          "description": "造成20次伤害后，获得38%（+3%）物理闪避"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 715,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结绳老手",
+          "description": "造成20次伤害后，获得38%（+3%）物理闪避"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "所熟知的",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力115%的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力120%的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力125%的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力130%的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "可驯服的",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+35%，回旋投射物命中后会继续附着目标，造成1秒的停顿并额外斩击目标4次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 28,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+40%，回旋投射物命中后会继续附着目标，造成1秒的停顿并额外斩击目标4次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 27,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+45%，回旋投射物命中后会继续附着目标，造成1秒的停顿并额外斩击目标4次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 26,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+50%，回旋投射物命中后会继续附着目标，造成1秒的停顿并额外斩击目标4次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

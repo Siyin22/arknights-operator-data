@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_almond",
+  "name": "“毕业设计”",
+  "type": "HOK-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 17.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 220.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复10点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复10点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复10点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复10点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复12（+2）点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复12（+2）点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 280.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复12点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复12点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复12点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复12点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复14（+2）点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "工程背包",
+            "description": "每场战斗中首次释放技能结束后立即回复14（+2）点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4105_almond",
+  "operator_name": "杏仁",
+  "profession": "特种",
+  "branch": "钩索师"
+}

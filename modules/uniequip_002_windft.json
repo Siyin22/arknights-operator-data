@@ -1,0 +1,361 @@
+{
+  "id": "uniequip_002_windft",
+  "name": "“灵机一动”",
+  "type": "CRA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "可靠电池",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 220.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "可靠电池",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+18%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+18%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+18%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+18%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+18%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+18%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+18%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+18%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（+2%）（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+20%（+2%）（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（+2%）（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+20%（+2%）（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "可靠电池",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效的可靠电池，使装备者攻击力+20%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效的可靠电池，使装备者攻击力+20%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效的可靠电池，使装备者攻击力+20%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+20%（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效的可靠电池，使装备者攻击力+20%（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+22%（+2%）（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+22%（+2%）（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "携带3个仅对术师和辅助干员生效的可靠电池（最多部署2个），使装备者攻击力+22%（+2%）（持续30秒）",
+            "condition": ""
+          },
+          {
+            "name": "共进",
+            "description": "仅对术师和辅助干员生效，使装备者攻击力+22%（+2%）（持续30秒）",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_433_windft",
+  "operator_name": "掠风",
+  "profession": "辅助",
+  "branch": "工匠"
+}

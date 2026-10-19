@@ -1,0 +1,238 @@
+{
+  "id": "char_181_flower",
+  "name": "调香师",
+  "english": "Perfumer",
+  "rarity": 4,
+  "profession": "医疗",
+  "branch": "群愈师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1710,
+        "atk": 345,
+        "def": 145,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熏衣香",
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5%的生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1710,
+        "atk": 345,
+        "def": 145,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熏衣香",
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5%的生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1710,
+        "atk": 345,
+        "def": 145,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熏衣香",
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5%的生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1710,
+        "atk": 364.0,
+        "def": 145,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熏衣香",
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5%的生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1710,
+        "atk": 364.0,
+        "def": 145,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熏衣香",
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5.5%（+0.5%）的生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1710,
+        "atk": 364.0,
+        "def": 145,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熏衣香",
+          "description": "在战场时全体友方单位每秒恢复相当于调香师攻击力5.5%（+0.5%）的生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+19",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "治疗强化·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+55%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "精调",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度-50，攻击力+210%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度-50，攻击力+220%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度-50，攻击力+230%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度-50，攻击力+250%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

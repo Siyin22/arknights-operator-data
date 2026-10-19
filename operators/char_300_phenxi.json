@@ -1,0 +1,308 @@
+{
+  "id": "char_300_phenxi",
+  "name": "菲亚梅塔",
+  "english": "Fiammetta",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "炮手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1926,
+        "atk": 961,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 29,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "陈述苦难",
+          "description": "自身生命会不断流失（该效果不会使生命降至0）；生命值高于50%时获得+25%攻击力的精力充沛；高于80%效果翻倍"
+        },
+        {
+          "name": "宣告终局",
+          "description": "技能持续期间外，攻击速度+27"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1926,
+        "atk": 961,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "陈述苦难",
+          "description": "自身生命会不断流失（该效果不会使生命降至0）；生命值高于50%时获得+25%攻击力的精力充沛；高于80%效果翻倍"
+        },
+        {
+          "name": "宣告终局",
+          "description": "技能持续期间外，攻击速度+27"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1926,
+        "atk": 961,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "陈述苦难",
+          "description": "自身生命会不断流失（该效果不会使生命降至0）；生命值高于50%时获得+25%攻击力的精力充沛；高于80%效果翻倍"
+        },
+        {
+          "name": "宣告终局",
+          "description": "技能持续期间外，攻击速度+27"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1926,
+        "atk": 996.0,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "陈述苦难",
+          "description": "自身生命会不断流失（该效果不会使生命降至0）；生命值高于50%时获得+25%攻击力的精力充沛；高于80%效果翻倍"
+        },
+        {
+          "name": "宣告终局",
+          "description": "技能持续期间外，攻击速度+27"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1926,
+        "atk": 996.0,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "陈述苦难",
+          "description": "自身生命会不断流失（该效果不会使生命降至0）；生命值高于50%时获得+25%攻击力的精力充沛；高于80%效果翻倍"
+        },
+        {
+          "name": "宣告终局",
+          "description": "技能持续期间外，攻击速度+30（+3）"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1926,
+        "atk": 996.0,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "陈述苦难",
+          "description": "自身生命会不断流失（该效果不会使生命降至0）；生命值高于50%时获得+25%攻击力的精力充沛；高于80%效果翻倍"
+        },
+        {
+          "name": "宣告终局",
+          "description": "技能持续期间外，攻击速度+30（+3）"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "“你须直面”",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击距离+1，攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 14,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击距离+1，攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 13,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击距离+1，攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 12,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击距离+1，攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "“你须愧悔”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向前发射灼痕弹且每飞行一段距离在弹道上留下灼痕，到达攻击范围最远距离时爆炸造成320%的物理伤害；之后灼痕依次爆炸造成160%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "向前发射灼痕弹且每飞行一段距离在弹道上留下灼痕，到达攻击范围最远距离时爆炸造成340%的物理伤害；之后灼痕依次爆炸造成170%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "向前发射灼痕弹且每飞行一段距离在弹道上留下灼痕，到达攻击范围最远距离时爆炸造成360%的物理伤害；之后灼痕依次爆炸造成180%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "向前发射灼痕弹且每飞行一段距离在弹道上留下灼痕，到达攻击范围最远距离时爆炸造成400%的物理伤害；之后灼痕依次爆炸造成200%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "“你须偿还”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "持续固定攻击范围内正前方最远一格，爆炸范围扩大，攻击力提升至115%，对目标位置附近小范围内的敌人攻击力额外提升至185%\n持续时间无限，可主动关闭技能",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 19,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "持续固定攻击范围内正前方最远一格，爆炸范围扩大，攻击力提升至115%，对目标位置附近小范围内的敌人攻击力额外提升至190%\n持续时间无限，可主动关闭技能",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "持续固定攻击范围内正前方最远一格，爆炸范围扩大，攻击力提升至115%，对目标位置附近小范围内的敌人攻击力额外提升至200%\n持续时间无限，可主动关闭技能",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "持续固定攻击范围内正前方最远一格，爆炸范围扩大，攻击力提升至125%，对目标位置附近小范围内的敌人攻击力额外提升至220%\n持续时间无限，可主动关闭技能",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

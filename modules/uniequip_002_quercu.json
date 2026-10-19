@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_quercu",
+  "name": "锈枝",
+  "type": "BLS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 60.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 15.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 10.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于70%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于70%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于70%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于70%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于70%时，使其获得18%（+2%）的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于70%时，使其获得18%（+2%）的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于60%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于60%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于60%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于60%时，使其获得16%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于60%时，使其获得18%（+2%）的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "丛林的荫庇",
+            "description": "攻击范围内的友军生命大于60%时，使其获得18%（+2%）的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_492_quercu",
+  "operator_name": "夏栎",
+  "profession": "辅助",
+  "branch": "护佑者"
+}

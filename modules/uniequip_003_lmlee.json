@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_lmlee",
+  "name": "“但思善恶”",
+  "type": "MER-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 57.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 69.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-17，且自身攻击速度+17；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-17，且自身攻击速度+17；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-17，且自身攻击速度+17；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-17，且自身攻击速度+17；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-18（+1），且自身攻击速度+18（+1）；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-18（+1），且自身攻击速度+18（+1）；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 76.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-20，且自身攻击速度+20；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-20，且自身攻击速度+20；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-20，且自身攻击速度+20；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-20，且自身攻击速度+20；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-21（+1），且自身攻击速度+21（+1）；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "每次特性消耗费用时攻击力+4%，最多可以叠加5次",
+            "condition": ""
+          },
+          {
+            "name": "和气生财",
+            "description": "老鲤阻挡目标时，使其攻击速度-21（+1），且自身攻击速度+21（+1）；当周围八格内仅存在一个敌人时效果翻倍",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_322_lmlee",
+  "operator_name": "老鲤",
+  "profession": "特种",
+  "branch": "行商"
+}

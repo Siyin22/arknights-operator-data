@@ -1,0 +1,372 @@
+{
+  "id": "char_4117_ray",
+  "name": "莱伊",
+  "english": "Ray",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "猎手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1933,
+        "atk": 1192,
+        "def": 228,
+        "magicResistance": 0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巡哨伙伴",
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%"
+        },
+        {
+          "name": "入神",
+          "description": "攻击相同目标时每次攻击提高自身攻击力8%，最多3层"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1933,
+        "atk": 1192,
+        "def": 228,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巡哨伙伴",
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%"
+        },
+        {
+          "name": "入神",
+          "description": "攻击相同目标时每次攻击提高自身攻击力8%，最多3层"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1933,
+        "atk": 1192,
+        "def": 228,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巡哨伙伴",
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%"
+        },
+        {
+          "name": "入神",
+          "description": "攻击相同目标时每次攻击提高自身攻击力8%，最多3层"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1933,
+        "atk": 1229.0,
+        "def": 228,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巡哨伙伴",
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%"
+        },
+        {
+          "name": "入神",
+          "description": "攻击相同目标时每次攻击提高自身攻击力8%，最多3层"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1933,
+        "atk": 1229.0,
+        "def": 228,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巡哨伙伴",
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%"
+        },
+        {
+          "name": "入神",
+          "description": "攻击相同目标时每次攻击提高自身攻击力9%（+1%），最多3层"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1933,
+        "atk": 1229.0,
+        "def": 228,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巡哨伙伴",
+          "description": "可以在攻击范围内部署沙地兽于25秒内侦察一片区域延伸攻击范围，自身优先攻击该区域内的目标且对其造成的物理伤害提高15%"
+        },
+        {
+          "name": "入神",
+          "description": "攻击相同目标时每次攻击提高自身攻击力9%（+1%），最多3层"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+37",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "脱身矢",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力360%的物理伤害并将其中等力度地推开，若将其击倒则使下次装填额外加装1发子弹\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 10,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力390%的物理伤害并将其中等力度地推开，若将其击倒则使下次装填额外加装2发子弹\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 10,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力420%的物理伤害并将其中等力度地推开，若将其击倒则使下次装填额外加装2发子弹\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 10,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即用额外特殊子弹攻击目标，造成相当于攻击力450%的物理伤害并将其较大力地推开，若将其击倒则使下次装填额外加装2发子弹\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 10,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "广域警觉",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\n自动开启：攻击范围扩大，攻击力+90%，沙地兽的再部署时间-30%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\n自动开启：攻击范围扩大，攻击力+100%，沙地兽的再部署时间-30%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\n自动开启：攻击范围扩大，攻击力+110%，沙地兽的再部署时间-30%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：沙地兽撤退时回收命中该区域的子弹\n自动开启：攻击范围扩大，攻击力+120%，沙地兽的再部署时间-40%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "“得见光芒”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即停止攻击直至子弹装满，装填间隔大幅缩短，攻击范围扩大，攻击造成相当于攻击力270%的物理伤害并使目标束缚2秒\n技能期间若击倒敌人，技能结束时获得10点技力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 20,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即停止攻击直至子弹装满，装填间隔大幅缩短，攻击范围扩大，攻击造成相当于攻击力290%的物理伤害并使目标束缚2秒\n技能期间若击倒敌人，技能结束时获得10点技力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即停止攻击直至子弹装满，装填间隔大幅缩短，攻击范围扩大，攻击造成相当于攻击力310%的物理伤害并使目标束缚2秒\n技能期间若击倒敌人，技能结束时获得10点技力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 20,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即停止攻击直至子弹装满，装填间隔大幅缩短，攻击范围扩大，攻击造成相当于攻击力330%的物理伤害并使目标束缚2秒\n技能期间若击倒敌人，技能结束时获得10点技力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "16 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "沙地兽",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 30,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击，只能部署在召唤者攻击范围内",
+      "skills": [
+        {
+          "name": "广域警觉",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "撤退时，回收莱伊命中周围区域的子弹",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "撤退时，回收莱伊命中周围区域的子弹",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "撤退时，回收莱伊命中周围区域的子弹",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "撤退时，回收莱伊命中周围区域的子弹",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

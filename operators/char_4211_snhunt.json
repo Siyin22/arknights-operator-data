@@ -1,0 +1,239 @@
+{
+  "id": "char_4211_snhunt",
+  "name": "雪猎",
+  "english": "Snow Hunter",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "猎手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "爆发",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1910,
+        "atk": 1051,
+        "def": 222,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "裂云一击",
+          "description": "开启技能时，派出裂云兽进行攻击，造成相当于攻击力180%的物理伤害和3秒寒冷"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1910,
+        "atk": 1051,
+        "def": 222,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "裂云一击",
+          "description": "开启技能时，派出裂云兽进行攻击，造成相当于攻击力180%的物理伤害和3秒寒冷"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1910,
+        "atk": 1051,
+        "def": 222,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "裂云一击",
+          "description": "开启技能时，派出裂云兽进行攻击，造成相当于攻击力180%的物理伤害和3秒寒冷"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1910,
+        "atk": 1083.0,
+        "def": 222,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "裂云一击",
+          "description": "开启技能时，派出裂云兽进行攻击，造成相当于攻击力180%的物理伤害和3秒寒冷"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1910,
+        "atk": 1083.0,
+        "def": 222,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "裂云一击",
+          "description": "开启技能时，派出裂云兽进行攻击，造成相当于攻击力185%（+5%）的物理伤害和3秒寒冷"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    },
+    {
+      "stats": {
+        "maxHp": 1910,
+        "atk": 1083.0,
+        "def": 222,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "裂云一击",
+          "description": "开启技能时，派出裂云兽进行攻击，造成相当于攻击力185%（+5%）的物理伤害和3秒寒冷"
+        }
+      ],
+      "trait": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+32",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强力击·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至200%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至210%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至220%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至230%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "风雪连弩",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即使用特殊子弹发动相当于攻击力180%的两连击（对非移动敌人提升至210%）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即使用特殊子弹发动相当于攻击力190%的两连击（对非移动敌人提升至220%）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即使用特殊子弹发动相当于攻击力200%的两连击（对非移动敌人提升至240%）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即使用特殊子弹发动相当于攻击力220%的两连击（对非移动敌人提升至260%）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

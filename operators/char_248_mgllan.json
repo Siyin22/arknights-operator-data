@@ -1,0 +1,776 @@
+{
+  "id": "char_248_mgllan",
+  "name": "麦哲伦",
+  "english": "Magallan",
+  "rarity": 6,
+  "profession": "辅助",
+  "branch": "召唤师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "支援",
+    "减速",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1403,
+        "atk": 509,
+        "def": 140,
+        "magicResistance": 20.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "支援无人机·龙腾",
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "光学折射配件",
+          "description": "无人机在部署后的20秒内处于隐匿状态（不会成为敌方远程单位的攻击目标）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1403,
+        "atk": 509,
+        "def": 140,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "支援无人机·龙腾",
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "光学折射配件",
+          "description": "无人机在部署后的20秒内处于隐匿状态（不会成为敌方远程单位的攻击目标）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1403,
+        "atk": 509,
+        "def": 140,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "支援无人机·龙腾",
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "光学折射配件",
+          "description": "无人机在部署后的20秒内处于隐匿状态（不会成为敌方远程单位的攻击目标）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1403,
+        "atk": 532.0,
+        "def": 140,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "支援无人机·龙腾",
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "光学折射配件",
+          "description": "无人机在部署后的20秒内处于隐匿状态（不会成为敌方远程单位的攻击目标）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1403,
+        "atk": 532.0,
+        "def": 140,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "支援无人机·龙腾",
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "光学折射配件",
+          "description": "无人机在部署后的22（+2）秒内处于隐匿状态（不会成为敌方远程单位的攻击目标）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1403,
+        "atk": 532.0,
+        "def": 140,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "支援无人机·龙腾",
+          "description": "可以使用5个不阻挡敌人的无人机（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "光学折射配件",
+          "description": "无人机在部署后的22（+2）秒内处于隐匿状态（不会成为敌方远程单位的攻击目标）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "高效制冷模块",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：使自身和无人机攻击范围内的敌方单位每3秒停顿0.9秒\n主动开启：停顿变为束缚2.2秒，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 16,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：使自身和无人机攻击范围内的敌方单位每3秒停顿0.9秒\n主动开启：停顿变为束缚2.3秒，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 17,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：使自身和无人机攻击范围内的敌方单位每3秒停顿0.9秒\n主动开启：停顿变为束缚2.4秒，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 18,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：使自身和无人机攻击范围内的敌方单位每3秒停顿1秒\n主动开启：停顿变为束缚2.5秒，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    },
+    {
+      "name": "激光开采模块",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\n主动开启：麦哲伦和她的无人机攻击速度+100，无人机变为群体攻击，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\n主动开启：麦哲伦和她的无人机攻击速度+115，无人机变为群体攻击，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\n主动开启：麦哲伦和她的无人机攻击速度+130，无人机变为群体攻击，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：无人机可以部署在近战位，进行单体法术攻击\n主动开启：麦哲伦和她的无人机攻击速度+150，无人机变为群体攻击，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    },
+    {
+      "name": "武装打击模块",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\n主动开启：麦哲伦和她的无人机攻击力+100%，无人机攻击的爆炸范围扩大，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\n主动开启：麦哲伦和她的无人机攻击力+115%，无人机攻击的爆炸范围扩大，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\n主动开启：麦哲伦和她的无人机攻击力+130%，无人机攻击的爆炸范围扩大，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：无人机可以部署在远程位，进行群体物理攻击\n主动开启：麦哲伦和她的无人机攻击力+150%，无人机攻击的爆炸范围扩大，技能结束时回收所有无人机",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "龙腾.F",
+      "stats": {
+        "maxHp": 2000,
+        "atk": 0,
+        "def": 200,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "不阻挡敌人",
+      "skills": [
+        {
+          "name": "回收",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        },
+        {
+          "name": "回收",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        },
+        {
+          "name": "回收",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "龙腾.L",
+      "stats": {
+        "maxHp": 2000,
+        "atk": 509,
+        "def": 200,
+        "magicResistance": 0,
+        "cost": 7,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "不阻挡敌人，攻击造成法术伤害",
+      "skills": [
+        {
+          "name": "回收",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        },
+        {
+          "name": "回收",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        },
+        {
+          "name": "回收",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "龙腾.A",
+      "stats": {
+        "maxHp": 2000,
+        "atk": 753,
+        "def": 200,
+        "magicResistance": 0,
+        "cost": 8,
+        "blockCnt": 0,
+        "baseAttackTime": 2.3,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "攻击造成群体物理伤害",
+      "skills": [
+        {
+          "name": "回收",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        },
+        {
+          "name": "回收",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        },
+        {
+          "name": "回收",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "技能结束后回收自身",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

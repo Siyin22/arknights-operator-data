@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_lisa",
+  "name": "怀中御守",
+  "type": "DEC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+6%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·辅助",
+            "description": "在场时所有【辅助】干员的技力自然回复速度+0.4/秒（同类效果取最高），攻击力+9%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_358_lisa",
+  "operator_name": "铃兰",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

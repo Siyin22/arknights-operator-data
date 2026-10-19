@@ -1,0 +1,313 @@
+{
+  "id": "uniequip_002_otter",
+  "name": "咪波控制终端XP",
+  "type": "SUM-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-28",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-28",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-28",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-28",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-28",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-28",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-28",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-28",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-28",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-28",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-28",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-28",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-30",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-30",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-30",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-30",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-30",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-30",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-30",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-30",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-30",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-30",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首个召唤物部署时不消耗部署位（场上最后一个召唤物撤退或被击倒时不返还部署位）",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-30",
+            "condition": ""
+          },
+          {
+            "name": "机械水獭",
+            "description": "使阻挡的敌人攻击速度-30",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_242_otter",
+  "operator_name": "梅尔",
+  "profession": "辅助",
+  "branch": "召唤师"
+}

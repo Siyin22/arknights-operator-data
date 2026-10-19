@@ -1,0 +1,239 @@
+{
+  "id": "char_4155_talr",
+  "name": "裁度",
+  "english": "Figurino",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "行商",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "快速复活",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2593,
+        "atk": 766,
+        "def": 411,
+        "magicResistance": 0,
+        "cost": 8,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谨慎择客",
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+20%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2593,
+        "atk": 766,
+        "def": 411,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谨慎择客",
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+20%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2593,
+        "atk": 766,
+        "def": 411,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谨慎择客",
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+20%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2593,
+        "atk": 791.0,
+        "def": 411,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谨慎择客",
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+20%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2593,
+        "atk": 791.0,
+        "def": 411,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谨慎择客",
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+25%（+5%）"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2593,
+        "atk": 791.0,
+        "def": 411,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谨慎择客",
+          "description": "攻击未被自身阻挡的敌人时，自身造成的伤害+25%（+5%）"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-3秒",
+    "攻击力+25",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "量衣尺",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击距离+1，攻击力+40%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击距离+1，攻击力+50%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击距离+1，攻击力+55%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击距离+1，攻击力+60%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "缝线缠身",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，立即束缚周围最多4名敌人，并每秒对被束缚的敌人造成攻击力130%的物理伤害；技能开启期间逐渐消耗25点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 3,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，立即束缚周围最多4名敌人，并每秒对被束缚的敌人造成攻击力140%的物理伤害；技能开启期间逐渐消耗25点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 3,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，立即束缚周围最多4名敌人，并每秒对被束缚的敌人造成攻击力150%的物理伤害；技能开启期间逐渐消耗25点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 3,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，立即束缚周围最多4名敌人，并每秒对被束缚的敌人造成攻击力160%的物理伤害；技能开启期间逐渐消耗25点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 5,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

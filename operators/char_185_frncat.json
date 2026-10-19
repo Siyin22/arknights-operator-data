@@ -1,0 +1,238 @@
+{
+  "id": "char_185_frncat",
+  "name": "慕斯",
+  "english": "Mousse",
+  "rarity": 4,
+  "profession": "近卫",
+  "branch": "术战者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2345,
+        "atk": 679,
+        "def": 392,
+        "magicResistance": 15.0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "连击",
+          "description": "攻击时有20%的几率连续攻击两次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2345,
+        "atk": 679,
+        "def": 392,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "连击",
+          "description": "攻击时有20%的几率连续攻击两次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2345,
+        "atk": 679,
+        "def": 392,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "连击",
+          "description": "攻击时有20%的几率连续攻击两次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2345,
+        "atk": 705.0,
+        "def": 392,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "连击",
+          "description": "攻击时有20%的几率连续攻击两次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2345,
+        "atk": 705.0,
+        "def": 392,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "连击",
+          "description": "攻击时有23%（+3%）的几率连续攻击两次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2345,
+        "atk": 705.0,
+        "def": 392,
+        "magicResistance": 15.0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "连击",
+          "description": "攻击时有23%（+3%）的几率连续攻击两次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+26",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "挠伤",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击时攻击力+60%，5秒内使击中目标攻击力-25%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击时攻击力+65%，5秒内使击中目标攻击力-30%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击时攻击力+70%，5秒内使击中目标攻击力-35%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击时攻击力+75%，5秒内使击中目标攻击力-40%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "炸毛",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力和防御力各+45%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力和防御力各+55%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 35,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力和防御力各+65%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 40,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力和防御力各+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 45,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

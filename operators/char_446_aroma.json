@@ -1,0 +1,239 @@
+{
+  "id": "char_446_aroma",
+  "name": "阿罗玛",
+  "english": "Aroma",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "轰击术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1651,
+        "atk": 840,
+        "def": 115,
+        "magicResistance": 20.0,
+        "cost": 33,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "起泡性能测试",
+          "description": "对每个敌人首次进行攻击时攻击力提升至110%，并使目标浮空2.5秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1651,
+        "atk": 840,
+        "def": 115,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "起泡性能测试",
+          "description": "对每个敌人首次进行攻击时攻击力提升至110%，并使目标浮空2.5秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1651,
+        "atk": 840,
+        "def": 115,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "起泡性能测试",
+          "description": "对每个敌人首次进行攻击时攻击力提升至110%，并使目标浮空2.5秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1651,
+        "atk": 873.0,
+        "def": 115,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "起泡性能测试",
+          "description": "对每个敌人首次进行攻击时攻击力提升至110%，并使目标浮空2.5秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1651,
+        "atk": 873.0,
+        "def": 115,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "起泡性能测试",
+          "description": "对每个敌人首次进行攻击时攻击力提升至115%（+5%），并使目标浮空2.5秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1651,
+        "atk": 873.0,
+        "def": 115,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "起泡性能测试",
+          "description": "对每个敌人首次进行攻击时攻击力提升至115%（+5%），并使目标浮空2.5秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+33",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强效清洁",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力180%的法术伤害，对空中敌人额外造成相当于攻击力70%的法术伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力190%的法术伤害，对空中敌人额外造成相当于攻击力75%的法术伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力200%的法术伤害，对空中敌人额外造成相当于攻击力80%的法术伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力210%的法术伤害，对空中敌人额外造成相当于攻击力90%的法术伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "小心地滑",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+80%，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力80%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 48,
+          "initial": 21,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+90%，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力90%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 23,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+95%，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力100%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 25,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击范围内浮空状态的敌人结束浮空落地时，对其造成攻击力110%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 27,
+          "charges": 1,
+          "duration": "23 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

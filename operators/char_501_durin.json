@@ -1,0 +1,145 @@
+{
+  "id": "char_501_durin",
+  "name": "杜林",
+  "english": "Durin",
+  "rarity": 2,
+  "profession": "术师",
+  "branch": "中坚术师",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "新手"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 952,
+        "atk": 370,
+        "def": 62,
+        "magicResistance": 10.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子的幸运",
+          "description": "获得50%的法术闪避"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 952,
+        "atk": 370,
+        "def": 62,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子的幸运",
+          "description": "获得50%的法术闪避"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1002.0,
+        "atk": 370,
+        "def": 62,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子的幸运",
+          "description": "获得50%的法术闪避"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1002.0,
+        "atk": 370,
+        "def": 62,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子的幸运",
+          "description": "获得50%的法术闪避"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1052.0,
+        "atk": 370,
+        "def": 62,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子的幸运",
+          "description": "获得50%的法术闪避"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1052.0,
+        "atk": 370,
+        "def": 62,
+        "magicResistance": 10.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子的幸运",
+          "description": "获得50%的法术闪避"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "生命上限+50",
+    "再部署时间-5秒",
+    "生命上限+50",
+    "部署费用-1"
+  ],
+  "skills": [],
+  "tokens": []
+}

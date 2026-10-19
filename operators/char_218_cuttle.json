@@ -1,0 +1,239 @@
+{
+  "id": "char_218_cuttle",
+  "name": "安哲拉",
+  "english": "Andreana",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "神射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1798,
+        "atk": 1110,
+        "def": 128,
+        "magicResistance": 0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海直觉",
+          "description": "编入队伍时，所有【深海猎人】干员攻击速度+12"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1798,
+        "atk": 1110,
+        "def": 128,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海直觉",
+          "description": "编入队伍时，所有【深海猎人】干员攻击速度+12"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1798,
+        "atk": 1110,
+        "def": 128,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海直觉",
+          "description": "编入队伍时，所有【深海猎人】干员攻击速度+12"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1798,
+        "atk": 1145.0,
+        "def": 128,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海直觉",
+          "description": "编入队伍时，所有【深海猎人】干员攻击速度+12"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1798,
+        "atk": 1145.0,
+        "def": 128,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海直觉",
+          "description": "编入队伍时，所有【深海猎人】干员攻击速度+14（+2）"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1798,
+        "atk": 1145.0,
+        "def": 128,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海直觉",
+          "description": "编入队伍时，所有【深海猎人】干员攻击速度+14（+2）"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "阻滞射击战术",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+190%，但普通攻击不再以生命值低于50%的敌人为目标，被击中的目标在4秒内移动速度-30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 12,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+205%，但普通攻击不再以生命值低于50%的敌人为目标，被击中的目标在4秒内移动速度-35%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 13,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+220%，但普通攻击不再以生命值低于50%的敌人为目标，被击中的目标在5秒内移动速度-35%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 14,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+240%，但普通攻击不再以生命值低于50%的敌人为目标，被击中的目标在6秒内移动速度-40%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

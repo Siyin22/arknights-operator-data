@@ -1,0 +1,464 @@
+{
+  "id": "char_4055_bgsnow",
+  "name": "鸿雪",
+  "english": "Позёмка",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "重射手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1802,
+        "atk": 946,
+        "def": 223,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "自动打字机",
+          "description": "可使用一个持续25秒的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "弱点速记",
+          "description": "“打字机”的攻击会使命中目标的防御力下降18%，持续4秒；若“打字机”放在鸿雪周围四格则效果提升至23%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1802,
+        "atk": 946,
+        "def": 223,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "自动打字机",
+          "description": "可使用一个持续25秒的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "弱点速记",
+          "description": "“打字机”的攻击会使命中目标的防御力下降18%，持续4秒；若“打字机”放在鸿雪周围四格则效果提升至23%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1802,
+        "atk": 946,
+        "def": 223,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "自动打字机",
+          "description": "可使用一个持续25秒的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "弱点速记",
+          "description": "“打字机”的攻击会使命中目标的防御力下降18%，持续4秒；若“打字机”放在鸿雪周围四格则效果提升至23%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1802,
+        "atk": 976.0,
+        "def": 223,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "自动打字机",
+          "description": "可使用一个持续25秒的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "弱点速记",
+          "description": "“打字机”的攻击会使命中目标的防御力下降18%，持续4秒；若“打字机”放在鸿雪周围四格则效果提升至23%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1802,
+        "atk": 976.0,
+        "def": 223,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "自动打字机",
+          "description": "可使用一个持续25秒的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "弱点速记",
+          "description": "“打字机”的攻击会使命中目标的防御力下降20%（+2%），持续5（+1）秒；若“打字机”放在鸿雪周围四格则效果提升至25%（+2%）"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1802,
+        "atk": 976.0,
+        "def": 223,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "自动打字机",
+          "description": "可使用一个持续25秒的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "弱点速记",
+          "description": "“打字机”的攻击会使命中目标的防御力下降20%（+2%），持续5（+1）秒；若“打字机”放在鸿雪周围四格则效果提升至25%（+2%）"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "抑扬格",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，攻击时，30%几率当次攻击的攻击力提升至160%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+53%，攻击时，30%几率当次攻击的攻击力提升至185%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 23,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+56%，攻击时，40%几率当次攻击的攻击力提升至200%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+60%，攻击时，40%几率当次攻击的攻击力提升至225%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "点题",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：携带此技能时，“打字机”的再部署时间缩短至60%\n主动开启：立即对前方进行3次攻击，每次造成自身攻击力200%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 6,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：携带此技能时，“打字机”的再部署时间缩短至60%\n主动开启：立即对前方进行3次攻击，每次造成自身攻击力210%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 6,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：携带此技能时，“打字机”的再部署时间缩短至60%\n主动开启：立即对前方进行3次攻击，每次造成自身攻击力220%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 9,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：携带此技能时，“打字机”的再部署时间缩短至50%\n主动开启：立即对前方进行3次攻击，每次造成自身攻击力230%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 9,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "锐笔速写",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击间隔缩短，每次攻击的攻击力提升至170%（对正前方3格提升至215%）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 19,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击间隔缩短，每次攻击的攻击力提升至180%（对正前方3格提升至230%）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 20,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击间隔缩短，每次攻击的攻击力提升至190%（对正前方3格提升至240%）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 22,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击间隔缩短，每次攻击的攻击力提升至200%（对正前方3格提升至255%）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 23,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "“打字机”",
+      "stats": {
+        "maxHp": 500,
+        "atk": 866,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.6,
+        "respawnTime": 40,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "抑扬格",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "点题",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "锐笔速写",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "17 秒"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "18 秒"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "19 秒"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "手动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "20 秒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

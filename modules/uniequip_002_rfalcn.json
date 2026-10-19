@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_rfalcn",
+  "name": "威吓者",
+  "type": "SOL-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 14.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 12.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 24.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.2/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.2/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.2/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.2/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.2/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.2/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.3/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.3/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.3/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.3/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.3/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "习惯使然",
+            "description": "在【沙洲遗闻】中，自身技力自然回复速度+0.3/秒；技能开启时，将自身携带的资源送至背包",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4023_rfalcn",
+  "operator_name": "红隼",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

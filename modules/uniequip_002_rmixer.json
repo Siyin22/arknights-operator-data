@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_rmixer",
+  "name": "毛刷套装",
+  "type": "SPT-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 37.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+40，攻击速度+4，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+40，攻击速度+4，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+40，攻击速度+4，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+40，攻击速度+4，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+40，攻击速度+4，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+40，攻击速度+4，最多可叠加3层",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 280.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 54.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+50，攻击速度+5，最多可叠加3层；层数叠满时，使场上所有【拉特兰】干员的攻击速度不会低于战斗开始时的攻击速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+50，攻击速度+5，最多可叠加3层；层数叠满时，使场上所有【拉特兰】干员的攻击速度不会低于战斗开始时的攻击速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+50，攻击速度+5，最多可叠加3层；层数叠满时，使场上所有【拉特兰】干员的攻击速度不会低于战斗开始时的攻击速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+50，攻击速度+5，最多可叠加3层；层数叠满时，使场上所有【拉特兰】干员的攻击速度不会低于战斗开始时的攻击速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+50，攻击速度+5，最多可叠加3层；层数叠满时，使场上所有【拉特兰】干员的攻击速度不会低于战斗开始时的攻击速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "扫射迎宾仪礼",
+            "description": "每次造成伤害使自身10秒内防御力+50，攻击速度+5，最多可叠加3层；层数叠满时，使场上所有【拉特兰】干员的攻击速度不会低于战斗开始时的攻击速度",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4194_rmixer",
+  "operator_name": "信仰搅拌机",
+  "profession": "重装",
+  "branch": "哨戒铁卫"
+}

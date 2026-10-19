@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_tomimi",
+  "name": "损坏的尾尾佳",
+  "type": "CCR-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+105%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+105%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+105%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+105%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+125%（+20%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+125%（+20%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+130%（+20%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野法术",
+            "description": "技能开启时，攻击范围小幅缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+130%（+20%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_411_tomimi",
+  "operator_name": "特米米",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

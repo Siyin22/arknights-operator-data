@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_nearl2",
+  "name": "耀阳锋刃",
+  "type": "DRE-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 230.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 290.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 95.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人25%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人25%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人25%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人25%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人28%（+3%）的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人28%（+3%）的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 330.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 105.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人28%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人28%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人28%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人28%的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人31%（+3%）的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "破晓",
+            "description": "攻击无视敌人31%（+3%）的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1014_nearl2",
+  "operator_name": "耀骑士临光",
+  "profession": "近卫",
+  "branch": "无畏者"
+}

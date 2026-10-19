@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ash",
+  "name": "破墙榴弹战术收纳包",
+  "type": "MAR-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-4，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-4，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-4，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-4，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-4，部署后立即获得20（+3）技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-4，部署后立即获得20（+3）技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-5，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-5，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-5，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-5，部署后立即获得17技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-5，部署后立即获得20（+3）技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "突击手",
+            "description": "首次部署时部署费用-5，部署后立即获得20（+3）技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_456_ash",
+  "operator_name": "灰烬",
+  "profession": "狙击",
+  "branch": "速射手"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "char_278_orchid",
+  "name": "梓兰",
+  "english": "Orchid",
+  "rarity": 3,
+  "profession": "辅助",
+  "branch": "凝滞师",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 935,
+        "atk": 418,
+        "def": 83,
+        "magicResistance": 15.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "施法速度提升",
+          "description": "攻击速度+9"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 935,
+        "atk": 418,
+        "def": 83,
+        "magicResistance": 15.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "施法速度提升",
+          "description": "攻击速度+9"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 935,
+        "atk": 418,
+        "def": 83,
+        "magicResistance": 15.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "施法速度提升",
+          "description": "攻击速度+9"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 935,
+        "atk": 437.0,
+        "def": 83,
+        "magicResistance": 15.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "施法速度提升",
+          "description": "攻击速度+9"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 935,
+        "atk": 437.0,
+        "def": 83,
+        "magicResistance": 15.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "施法速度提升",
+          "description": "攻击速度+9"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 935,
+        "atk": 437.0,
+        "def": 83,
+        "magicResistance": 15.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "施法速度提升",
+          "description": "攻击速度+9"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+19",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+25%，攻击速度+25",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

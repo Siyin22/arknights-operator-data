@@ -1,0 +1,309 @@
+{
+  "id": "char_225_haak",
+  "name": "阿",
+  "english": "Aak",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "怪杰",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "支援",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2334,
+        "atk": 753,
+        "def": 152,
+        "magicResistance": 10.0,
+        "cost": 13,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "混合药物射击",
+          "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标停顿1.4秒；目标晕眩1秒"
+        },
+        {
+          "name": "药剂扩散",
+          "description": "自身受到的治疗量+20%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2334,
+        "atk": 753,
+        "def": 152,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "混合药物射击",
+          "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标停顿1.4秒；目标晕眩1秒"
+        },
+        {
+          "name": "药剂扩散",
+          "description": "自身受到的治疗量+20%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2334,
+        "atk": 753,
+        "def": 152,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "混合药物射击",
+          "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标停顿1.4秒；目标晕眩1秒"
+        },
+        {
+          "name": "药剂扩散",
+          "description": "自身受到的治疗量+20%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2484.0,
+        "atk": 753,
+        "def": 152,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "混合药物射击",
+          "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标停顿1.4秒；目标晕眩1秒"
+        },
+        {
+          "name": "药剂扩散",
+          "description": "自身受到的治疗量+20%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2484.0,
+        "atk": 753,
+        "def": 152,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "混合药物射击",
+          "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标停顿1.4秒；目标晕眩1秒"
+        },
+        {
+          "name": "药剂扩散",
+          "description": "自身受到的治疗量+25%（+5%）"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2484.0,
+        "atk": 753,
+        "def": 152,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "混合药物射击",
+          "description": "每次攻击时会随机触发下列效果之一：回复自身生命15%；当次攻击力提升至150%；目标停顿1.4秒；目标晕眩1秒"
+        },
+        {
+          "name": "药剂扩散",
+          "description": "自身受到的治疗量+25%（+5%）"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+150",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "快速射击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+70",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 17,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+80",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 18,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+90",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 19,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+100",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "爆发剂·γ型",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标防御力和生命上限+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 22,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标防御力和生命上限+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 23,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标防御力和生命上限+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 24,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标防御力和生命上限+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "爆发剂·榴莲味",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标攻击力+35%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 27,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标攻击力+40%，攻击速度+40",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 28,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 29,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对前方最近（优先选取正前方）的一名友方单位用500的攻击力攻击15次，之后持续时间内使自身和目标攻击力+50%，攻击速度+50",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 30,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,326 @@
+{
+  "id": "char_003_kalts",
+  "name": "凯尔希",
+  "english": "Kal'tsit",
+  "rarity": 6,
+  "profession": "医疗",
+  "branch": "医师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "召唤",
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2033,
+        "atk": 490,
+        "def": 255,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "Mon3tr",
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+        },
+        {
+          "name": "不毁重构",
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人晕眩3秒并对其造成1200点真实伤害"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 2033,
+        "atk": 490,
+        "def": 255,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "Mon3tr",
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+        },
+        {
+          "name": "不毁重构",
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人晕眩3秒并对其造成1200点真实伤害"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 2033,
+        "atk": 490,
+        "def": 255,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "Mon3tr",
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+        },
+        {
+          "name": "不毁重构",
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人晕眩3秒并对其造成1200点真实伤害"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 2033,
+        "atk": 515.0,
+        "def": 255,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "Mon3tr",
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+        },
+        {
+          "name": "不毁重构",
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人晕眩3秒并对其造成1200点真实伤害"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 2033,
+        "atk": 515.0,
+        "def": 255,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "Mon3tr",
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+        },
+        {
+          "name": "不毁重构",
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人晕眩3.5（+0.5）秒并对其造成1400（+200）点真实伤害"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 2033,
+        "atk": 515.0,
+        "def": 255,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "Mon3tr",
+          "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr不在凯尔希攻击范围内时防御力降至0"
+        },
+        {
+          "name": "不毁重构",
+          "description": "Mon3tr在被击倒后（不包括撤退）使周围8格内所有敌人晕眩3.5（+0.5）秒并对其造成1400（+200）点真实伤害"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "指令：结构加固",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "自身和Mon3tr的防御力+120%，且自身获得40%的物理格挡",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 6,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "自身和Mon3tr的防御力+130%，且自身获得40%的物理格挡",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 7,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "自身和Mon3tr的防御力+140%，且自身获得40%的物理格挡",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 8,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "自身和Mon3tr的防御力+150%，且自身获得50%的物理格挡",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "指令：战术协同",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "自身的攻击速度+60，Mon3tr的攻击力+50%，Mon3tr可以攻击阻挡的所有敌人\n该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 0,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "自身的攻击速度+70，Mon3tr的攻击力+60%，Mon3tr可以攻击阻挡的所有敌人\n该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 0,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "自身的攻击速度+80，Mon3tr的攻击力+75%，Mon3tr可以攻击阻挡的所有敌人\n该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "自身的攻击速度+100，Mon3tr的攻击力+90%，Mon3tr可以攻击阻挡的所有敌人\n该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "指令：熔毁",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "Mon3tr的防御力+140%，技能期间攻击力从+190%逐渐降低至+0%且伤害类型变为真实，此期间如果未击杀任何敌人则技能结束后流失最大生命的50%。该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 0,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "Mon3tr的防御力+160%，技能期间攻击力从+210%逐渐降低至+0%且伤害类型变为真实，此期间如果未击杀任何敌人则技能结束后流失最大生命的50%。该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "Mon3tr的防御力+180%，技能期间攻击力从+230%逐渐降低至+0%且伤害类型变为真实，此期间如果未击杀任何敌人则技能结束后流失最大生命的50%。该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "Mon3tr的防御力+200%，技能期间攻击力从+260%逐渐降低至+0%且伤害类型变为真实，此期间如果未击杀任何敌人则技能结束后流失最大生命的50%。该技能与Mon3tr绑定",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "Mon3tr",
+      "stats": {
+        "maxHp": 5433,
+        "atk": 1402,
+        "def": 405,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 3,
+        "baseAttackTime": 2.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡三个敌人",
+      "skills": []
+    }
+  ]
+}

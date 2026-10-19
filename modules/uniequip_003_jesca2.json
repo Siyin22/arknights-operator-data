@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_jesca2",
+  "name": "未曾风化",
+  "type": "SPT-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 69.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有55%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-11s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有55%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-11s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有55%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-11s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有55%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-11s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有60%（+5%）的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-11s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有60%（+5%）的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-11s）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 325.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 83.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有60%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-14s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有60%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-14s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有60%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-14s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有60%的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-14s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有65%（+5%）的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-14s）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "蓄能释放",
+            "description": "机动盾牌受到伤害时，有65%（+5%）的概率使涤火杰西卡获得1点技力并使机动盾牌自身再部署时间-1s（最多至-14s）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1034_jesca2",
+  "operator_name": "涤火杰西卡",
+  "profession": "重装",
+  "branch": "哨戒铁卫"
+}

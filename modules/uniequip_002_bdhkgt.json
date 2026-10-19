@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_bdhkgt",
+  "name": "小石头",
+  "type": "ART-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 37.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+16%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+16%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+16%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+16%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+18%（+2%），费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+18%（+2%），费用-3",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+18%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+18%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+18%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+18%，费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+20%（+2%），费用-3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人100点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "初出荒野",
+            "description": "首次部署时，攻击力+20%（+2%），费用-3",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4078_bdhkgt",
+  "operator_name": "截云",
+  "profession": "狙击",
+  "branch": "炮手"
+}

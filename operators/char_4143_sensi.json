@@ -1,0 +1,239 @@
+{
+  "id": "char_4143_sensi",
+  "name": "森西",
+  "english": "Senshi",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "守护者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "治疗"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 510,
+        "def": 620,
+        "magicResistance": 10.0,
+        "cost": 23,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "十年魔物餐经验",
+          "description": "防御力+10%，自身治疗量提升10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 510,
+        "def": 620,
+        "magicResistance": 10.0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "十年魔物餐经验",
+          "description": "防御力+10%，自身治疗量提升10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 510,
+        "def": 620,
+        "magicResistance": 10.0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "十年魔物餐经验",
+          "description": "防御力+10%，自身治疗量提升10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 510,
+        "def": 620,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "十年魔物餐经验",
+          "description": "防御力+10%，自身治疗量提升10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 510,
+        "def": 645.0,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "十年魔物餐经验",
+          "description": "防御力+10%，自身治疗量提升10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 510,
+        "def": 645.0,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "十年魔物餐经验",
+          "description": "防御力+10%，自身治疗量提升10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "防御力+25",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "单人份料理",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力250%的生命，且随机获得下列一项增益：攻击力+17%，攻击速度+17，生命上限+22%，持续8秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "3 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力260%的生命，且随机获得下列一项增益：攻击力+18%，攻击速度+18，生命上限+23%，持续8秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "3 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力270%的生命，且随机获得下列一项增益：攻击力+19%，攻击速度+19，生命上限+24%，持续8秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "3 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "开始烹饪，3秒内停止攻击，烹饪完成后治疗周围一名友方角色，使其恢复相当于攻击力280%的生命，且随机获得下列一项增益：攻击力+20%，攻击速度+20，生命上限+25%，持续8秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "3 秒"
+        }
+      ]
+    },
+    {
+      "name": "团体魔物大餐",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力38%的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力150%的治疗，并回复10点魔力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 8,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力40%的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力160%的治疗，并回复10点魔力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力42%的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力170%的治疗，并回复10点魔力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "开始烹饪，10秒内停止攻击，期间使周围的友方角色每秒恢复相当于森西攻击力45%的生命，之后对附近一定范围内所有友方角色进行一次相当于攻击力180%的治疗，并回复10点魔力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_texas",
+  "name": "外勤私人补给包",
+  "type": "SOL-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 39.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 19.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高10％",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "战术快递",
+            "description": "编入队伍后，额外获得2点初始部署费用。技能造成的伤害提高15％",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_102_texas",
+  "operator_name": "德克萨斯",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

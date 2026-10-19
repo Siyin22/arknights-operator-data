@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_glady",
+  "name": "执政官手镜",
+  "type": "HOK-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 59.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3%最大生命值且受到敌人的物理与法术伤害降低28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3%最大生命值且受到敌人的物理与法术伤害降低28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3%最大生命值且受到敌人的物理与法术伤害降低28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3%最大生命值且受到敌人的物理与法术伤害降低28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3%最大生命值且受到敌人的物理与法术伤害降低28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3%最大生命值且受到敌人的物理与法术伤害降低28%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3.5%最大生命值且受到敌人的物理与法术伤害降低30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3.5%最大生命值且受到敌人的物理与法术伤害降低30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3.5%最大生命值且受到敌人的物理与法术伤害降低30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3.5%最大生命值且受到敌人的物理与法术伤害降低30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3.5%最大生命值且受到敌人的物理与法术伤害降低30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "阿戈尔的波涛",
+            "description": "在场时，所有【深海猎人】干员每秒回复3.5%最大生命值且受到敌人的物理与法术伤害降低30%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_474_glady",
+  "operator_name": "歌蕾蒂娅",
+  "profession": "特种",
+  "branch": "钩索师"
+}

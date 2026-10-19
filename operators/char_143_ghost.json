@@ -1,0 +1,239 @@
+{
+  "id": "char_143_ghost",
+  "name": "幽灵鲨",
+  "english": "Specter",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "强攻手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2630,
+        "atk": 805,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 23,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海再生力",
+          "description": "生命上限+10%，每秒回复最大生命2%的生命"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630,
+        "atk": 805,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海再生力",
+          "description": "生命上限+10%，每秒回复最大生命2%的生命"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630,
+        "atk": 805,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海再生力",
+          "description": "生命上限+10%，每秒回复最大生命2%的生命"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630,
+        "atk": 832.0,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海再生力",
+          "description": "生命上限+10%，每秒回复最大生命2%的生命"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630,
+        "atk": 832.0,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海再生力",
+          "description": "生命上限+12%（+2%），每秒回复最大生命2.5%（+0.5%）的生命"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630,
+        "atk": 832.0,
+        "def": 355,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海再生力",
+          "description": "生命上限+12%（+2%），每秒回复最大生命2.5%（+0.5%）的生命"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "肉斩骨断",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能持续期间内干员的生命值始终不会低于1，攻击力+100%\n技能结束后干员晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 30,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能持续期间内干员的生命值始终不会低于1，攻击力+120%\n技能结束后干员晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 30,
+          "charges": 1,
+          "duration": "13 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能持续期间内干员的生命值始终不会低于1，攻击力+140%\n技能结束后干员晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 30,
+          "charges": 1,
+          "duration": "14 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能持续期间内干员的生命值始终不会低于1，攻击力+160%\n技能结束后干员晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 35,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

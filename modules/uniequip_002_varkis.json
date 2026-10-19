@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_varkis",
+  "name": "回家的路",
+  "type": "CEN-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 58.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至113%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至113%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至113%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至113%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至115%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至115%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 66.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至116%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至116%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至116%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至116%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至118%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "永志不忘",
+            "description": "在场时，所有【米诺斯】干员攻击生命比例不高于自身的敌人时攻击力提升至118%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4166_varkis",
+  "operator_name": "摆渡人",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

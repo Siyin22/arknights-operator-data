@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_lin",
+  "name": "“七窍玲珑”",
+  "type": "PLX-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 62.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有50%几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有50%几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有55%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有55%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有55%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有55%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 77.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有75%几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有75%几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有80%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有80%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有80%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "通常时不攻击且防御力和法术抗性更大幅度提升，技能开启时保留部分效果且攻击造成群体法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "韬光",
+            "description": "受到攻击时，有80%（+5%）几率回复2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4080_lin",
+  "operator_name": "林",
+  "profession": "术师",
+  "branch": "阵法术师"
+}

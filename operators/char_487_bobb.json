@@ -1,0 +1,238 @@
+{
+  "id": "char_487_bobb",
+  "name": "波卜",
+  "english": "Bobbing",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "巫役",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "元素"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1305,
+        "atk": 486,
+        "def": 108,
+        "magicResistance": 15.0,
+        "cost": 15,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "焦点诱导",
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力16%的灼燃损伤"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1305,
+        "atk": 486,
+        "def": 108,
+        "magicResistance": 15.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "焦点诱导",
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力16%的灼燃损伤"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1305,
+        "atk": 486,
+        "def": 108,
+        "magicResistance": 15.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "焦点诱导",
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力16%的灼燃损伤"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1305,
+        "atk": 507.0,
+        "def": 108,
+        "magicResistance": 15.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "焦点诱导",
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力16%的灼燃损伤"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1305,
+        "atk": 507.0,
+        "def": 108,
+        "magicResistance": 15.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "焦点诱导",
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%（+2%）的灼燃损伤"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1305,
+        "atk": 507.0,
+        "def": 108,
+        "magicResistance": 15.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "焦点诱导",
+          "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%（+2%）的灼燃损伤"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+21",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "非和平劝说",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击造成相当于攻击力160%的法术伤害并附带100%攻击力的灼燃损伤，优先攻击未处于损伤爆发期间的敌人",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击造成相当于攻击力170%的法术伤害并附带110%攻击力的灼燃损伤，优先攻击未处于损伤爆发期间的敌人",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击造成相当于攻击力180%的法术伤害并附带115%攻击力的灼燃损伤，优先攻击未处于损伤爆发期间的敌人",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击造成相当于攻击力200%的法术伤害并附带120%攻击力的灼燃损伤，优先攻击未处于损伤爆发期间的敌人",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "“此路不通”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力100%的法术伤害和攻击力17%的灼燃损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 10,
+          "charges": 1,
+          "duration": "11 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力110%的法术伤害和攻击力18%的灼燃损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 10,
+          "charges": 1,
+          "duration": "11 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力120%的法术伤害和攻击力19%的灼燃损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "11 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，对一个敌人所在位置释放灼烧地段，处于其中的地面敌人每秒受到攻击力140%的法术伤害和攻击力20%的灼燃损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 10,
+          "charges": 1,
+          "duration": "11 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

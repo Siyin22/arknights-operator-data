@@ -1,0 +1,239 @@
+{
+  "id": "char_475_akafyu",
+  "name": "赤冬",
+  "english": "Akafuyu",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "武者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "生存",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3635,
+        "atk": 758,
+        "def": 383,
+        "magicResistance": 0,
+        "cost": 25,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信影流·羽飞",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3635,
+        "atk": 758,
+        "def": 383,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信影流·羽飞",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3635,
+        "atk": 758,
+        "def": 383,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信影流·羽飞",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3635,
+        "atk": 758,
+        "def": 406.0,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信影流·羽飞",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3635,
+        "atk": 758,
+        "def": 406.0,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信影流·羽飞",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3635,
+        "atk": 758,
+        "def": 406.0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信影流·羽飞",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+23",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "信影流·雷刀之势",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "阻挡数变为0，攻击力+50%，攻击变为二连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "阻挡数变为0，攻击力+60%，攻击变为二连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "阻挡数变为0，攻击力+70%，攻击变为二连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "阻挡数变为0，攻击力+80%，攻击变为二连击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    },
+    {
+      "name": "信影流·十文字胜",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即流失50%当前生命，获得一层护盾（技能结束后消失），攻击力+70%，防御力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即流失50%当前生命，获得一层护盾（技能结束后消失），攻击力+80%，防御力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即流失50%当前生命，获得一层护盾（技能结束后消失），攻击力+90%，防御力+110%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即流失50%当前生命，获得一层护盾（技能结束后消失），攻击力+100%，防御力+120%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

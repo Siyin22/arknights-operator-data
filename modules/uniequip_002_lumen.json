@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_lumen",
+  "name": "纯铜单筒望远镜",
+  "type": "WAH-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为7秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为7秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为7秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为7秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为7秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为7秒抵抗",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为8秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为8秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为8秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为8秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为8秒抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "凡人之愿",
+            "description": "治疗的目标获得5秒抵抗，若目标生命值高于75%则改为8秒抵抗",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4042_lumen",
+  "operator_name": "流明",
+  "profession": "医疗",
+  "branch": "疗养师"
+}

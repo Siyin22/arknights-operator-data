@@ -1,0 +1,263 @@
+{
+  "id": "char_4023_rfalcn",
+  "name": "红隼",
+  "english": "Kestrel",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1960,
+        "atk": 564,
+        "def": 362,
+        "magicResistance": 0,
+        "cost": 13,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力重击",
+          "description": "攻击时有20%的概率使攻击力提升至140%"
+        },
+        {
+          "name": "习惯使然",
+          "description": "在【沙洲遗闻】中，技能开启时，将自身携带的资源送至背包"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1960,
+        "atk": 564,
+        "def": 362,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力重击",
+          "description": "攻击时有20%的概率使攻击力提升至140%"
+        },
+        {
+          "name": "习惯使然",
+          "description": "在【沙洲遗闻】中，技能开启时，将自身携带的资源送至背包"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1960,
+        "atk": 564,
+        "def": 362,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力重击",
+          "description": "攻击时有20%的概率使攻击力提升至140%"
+        },
+        {
+          "name": "习惯使然",
+          "description": "在【沙洲遗闻】中，技能开启时，将自身携带的资源送至背包"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1960,
+        "atk": 588.0,
+        "def": 362,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力重击",
+          "description": "攻击时有20%的概率使攻击力提升至140%"
+        },
+        {
+          "name": "习惯使然",
+          "description": "在【沙洲遗闻】中，技能开启时，将自身携带的资源送至背包"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1960,
+        "atk": 588.0,
+        "def": 362,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力重击",
+          "description": "攻击时有22%（+2%）的概率使攻击力提升至140%"
+        },
+        {
+          "name": "习惯使然",
+          "description": "在【沙洲遗闻】中，技能开启时，将自身携带的资源送至背包"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1960,
+        "atk": 588.0,
+        "def": 362,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力重击",
+          "description": "攻击时有22%（+2%）的概率使攻击力提升至140%"
+        },
+        {
+          "name": "习惯使然",
+          "description": "在【沙洲遗闻】中，技能开启时，将自身携带的资源送至背包"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "冲锋号令·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 14,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 16,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 18,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "醉刃乱舞",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能持续时间内逐渐获得11点部署费用，攻击力+28%，攻击速度+30，第一天赋的触发几率提升至1.9倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 12,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能持续时间内逐渐获得11点部署费用，攻击力+32%，攻击速度+30，第一天赋的触发几率提升至2.1倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 13,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能持续时间内逐渐获得11点部署费用，攻击力+36%，攻击速度+30，第一天赋的触发几率提升至2.3倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 14,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能持续时间内逐渐获得12点部署费用，攻击力+40%，攻击速度+40，第一天赋的触发几率提升至2.5倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

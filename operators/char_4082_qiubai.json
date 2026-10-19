@@ -1,0 +1,309 @@
+{
+  "id": "char_4082_qiubai",
+  "name": "仇白",
+  "english": "Qiubai",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "领主",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2480,
+        "atk": 768,
+        "def": 452,
+        "magicResistance": 10.0,
+        "cost": 20,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "入隙",
+          "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力40%的法术伤害"
+        },
+        {
+          "name": "落英",
+          "description": "攻击时有20%的几率使目标束缚1.5秒"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2480,
+        "atk": 768,
+        "def": 452,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "入隙",
+          "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力40%的法术伤害"
+        },
+        {
+          "name": "落英",
+          "description": "攻击时有20%的几率使目标束缚1.5秒"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2480,
+        "atk": 768,
+        "def": 452,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "入隙",
+          "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力40%的法术伤害"
+        },
+        {
+          "name": "落英",
+          "description": "攻击时有23%（+3%）的几率使目标束缚1.5秒"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2480,
+        "atk": 794.0,
+        "def": 452,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "入隙",
+          "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力40%的法术伤害"
+        },
+        {
+          "name": "落英",
+          "description": "攻击时有23%（+3%）的几率使目标束缚1.5秒"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2480,
+        "atk": 794.0,
+        "def": 452,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "入隙",
+          "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力43%（+3%）的法术伤害"
+        },
+        {
+          "name": "落英",
+          "description": "攻击时有23%（+3%）的几率使目标束缚1.5秒"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2480,
+        "atk": 794.0,
+        "def": 452,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "入隙",
+          "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力43%（+3%）的法术伤害"
+        },
+        {
+          "name": "落英",
+          "description": "攻击时有23%（+3%）的几率使目标束缚1.5秒"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+26",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "留羽",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击使目标束缚-1秒，该次束缚结束时对目标和附近的所有敌人造成相当于攻击力240%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击使目标束缚-1秒，该次束缚结束时对目标和附近的所有敌人造成相当于攻击力260%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击使目标束缚-1秒，该次束缚结束时对目标和附近的所有敌人造成相当于攻击力280%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击使目标束缚-1秒，该次束缚结束时对目标和附近的所有敌人造成相当于攻击力300%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "承影",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对前方范围内的地面敌人造成攻击力240%的法术伤害；攻击范围改变，攻击力+90%，攻击范围内的地面敌人停顿；技能结束时对范围内的地面敌人造成攻击力240%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 12,
+          "initial": 4,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "对前方范围内的地面敌人造成攻击力260%的法术伤害；攻击范围改变，攻击力+100%，攻击范围内的地面敌人停顿；技能结束时对范围内的地面敌人造成攻击力260%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 11,
+          "initial": 4,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "对前方范围内的地面敌人造成攻击力280%的法术伤害；攻击范围改变，攻击力+120%，攻击范围内的地面敌人停顿；技能结束时对范围内的地面敌人造成攻击力280%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 11,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "对前方范围内的地面敌人造成攻击力300%的法术伤害；攻击范围改变，攻击力+140%，攻击范围内的地面敌人停顿；技能结束时对范围内的地面敌人造成攻击力300%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        }
+      ]
+    },
+    {
+      "name": "问雪",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+40%，伤害类型变为法术，额外攻击2个目标，远程攻击不再降低伤害，每次攻击使自身攻击速度+13（最多叠加6次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 58,
+          "initial": 38,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+45%，伤害类型变为法术，额外攻击2个目标，第一天赋的伤害提升至1.5倍，远程攻击不再降低伤害，每次攻击使自身攻击速度+13（最多叠加6次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 57,
+          "initial": 40,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+50%，伤害类型变为法术，额外攻击2个目标，第一天赋的伤害提升至1.75倍，远程攻击不再降低伤害，每次攻击使自身攻击速度+13（最多叠加7次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 56,
+          "initial": 43,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+55%，伤害类型变为法术，额外攻击2个目标，第一天赋的伤害提升至2倍，远程攻击不再降低伤害，每次攻击使自身攻击速度+13（最多叠加8次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 45,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

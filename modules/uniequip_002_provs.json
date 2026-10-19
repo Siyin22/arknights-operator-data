@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_provs",
+  "name": "黛丝特的毕业礼",
+  "type": "DEC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+12（+2），攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+12（+2），攻击力+5%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+10，攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+12（+2），攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "卡西米尔法律专精",
+            "description": "攻击速度+12（+2），攻击力+8%，置入战场后这个效果会同样赋予给一名随机【卡西米尔】干员",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4032_provs",
+  "operator_name": "但书",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_amiya2",
+  "name": "待调弦的怒火",
+  "type": "AFT-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 26.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+8%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+8%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+8%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+8%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+8%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+8%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+9%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+9%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+9%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+9%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+9%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "青色怒火",
+            "description": "在场时所有友方单位的攻击力和防御力+9%，技能开启期间效果加倍",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1001_amiya2",
+  "operator_name": "阿米娅",
+  "profession": "近卫",
+  "branch": "术战者"
+}

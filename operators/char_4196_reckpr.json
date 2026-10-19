@@ -1,0 +1,238 @@
+{
+  "id": "char_4196_reckpr",
+  "name": "录武官",
+  "english": "Record Keeper",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "医师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1580,
+        "atk": 577,
+        "def": 124,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "学成于聚",
+          "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+16，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1580,
+        "atk": 577,
+        "def": 124,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "学成于聚",
+          "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+16，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1580,
+        "atk": 577,
+        "def": 124,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "学成于聚",
+          "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+16，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1580,
+        "atk": 604.0,
+        "def": 124,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "学成于聚",
+          "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+16，持续8秒"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1580,
+        "atk": 604.0,
+        "def": 124,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "学成于聚",
+          "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+16，持续10（+2）秒"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1580,
+        "atk": 604.0,
+        "def": 124,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "学成于聚",
+          "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+16，持续10（+2）秒"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "触类旁通",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗可以恢复相当于攻击力130%的生命，并额外治疗一个目标\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗可以恢复相当于攻击力135%的生命，并额外治疗一个目标\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗可以恢复相当于攻击力145%的生命，并额外治疗一个目标\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗可以恢复相当于攻击力155%的生命，并额外治疗一个目标\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "一点关窍",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，治疗干员后为其施加一个增益，使其在10秒内每次受到伤害时恢复120点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+70%，治疗干员后为其施加一个增益，使其在10秒内每次受到伤害时恢复130点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+75%，治疗干员后为其施加一个增益，使其在10秒内每次受到伤害时恢复140点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，治疗干员后为其施加一个增益，使其在10秒内每次受到伤害时恢复150点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

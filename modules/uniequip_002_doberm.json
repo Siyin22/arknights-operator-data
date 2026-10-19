@@ -1,0 +1,263 @@
+{
+  "id": "uniequip_002_doberm",
+  "name": "军用望远镜",
+  "type": "INS-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 50.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+10",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 53.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "实训义务",
+            "description": "场上有三星干员时，自身攻击速度+15",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_130_doberm",
+  "operator_name": "杜宾",
+  "profession": "近卫",
+  "branch": "教官"
+}

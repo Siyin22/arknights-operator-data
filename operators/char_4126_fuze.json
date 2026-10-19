@@ -1,0 +1,239 @@
+{
+  "id": "char_4126_fuze",
+  "name": "导火索",
+  "english": "Fuze",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "强攻手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2660,
+        "atk": 835,
+        "def": 330,
+        "magicResistance": 0,
+        "cost": 25,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "防弹护盾",
+          "description": "获得27%的远程物理抵挡"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2660,
+        "atk": 835,
+        "def": 330,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "防弹护盾",
+          "description": "获得27%的远程物理抵挡"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2660,
+        "atk": 835,
+        "def": 330,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "防弹护盾",
+          "description": "获得27%的远程物理抵挡"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2660,
+        "atk": 835,
+        "def": 330,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "防弹护盾",
+          "description": "获得27%的远程物理抵挡"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2660,
+        "atk": 835,
+        "def": 330,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "防弹护盾",
+          "description": "获得30%（+3%）的远程物理抵挡"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2660,
+        "atk": 835,
+        "def": 330,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "防弹护盾",
+          "description": "获得30%（+3%）的远程物理抵挡"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "火力侦察",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击距离+1，攻击力+17%，攻击速度+75\n攻击装有100发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 21,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击距离+1，攻击力+22%，攻击速度+80\n攻击装有100发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 48,
+          "initial": 22,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击距离+1，攻击力+25%，攻击速度+85\n攻击装有100发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 23,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击距离+1，攻击力+30%，攻击速度+90\n攻击装有100发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "霰射炸药",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力440%的物理伤害。此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 16,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力450%的物理伤害。此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 17,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力460%的物理伤害。此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 18,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "开启技能时，朝身前高地放置霰射炸药，炸药射出后在高地后附近的可通行地面上爆炸5次，每次对周围的目标造成攻击力480%的物理伤害。此技能只有在面朝高地且高地后有可通行地面时才能使用，每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_glider",
+  "name": "落地之后",
+  "type": "WDM-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 145.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+15%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+15%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+17%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "集体意识",
+            "description": "攻击范围内的远程干员最大生命值+17%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_449_glider",
+  "operator_name": "蜜莓",
+  "profession": "医疗",
+  "branch": "行医"
+}

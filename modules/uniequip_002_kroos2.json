@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_kroos2",
+  "name": "真心的话和想冒的险",
+  "type": "MAR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%（+10%），并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%（+10%），并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 31.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至175%（+10%），并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "中的",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至175%（+10%），并使敌人晕眩0.2秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1021_kroos2",
+  "operator_name": "寒芒克洛丝",
+  "profession": "狙击",
+  "branch": "速射手"
+}

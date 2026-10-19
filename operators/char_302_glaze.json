@@ -1,0 +1,239 @@
+{
+  "id": "char_302_glaze",
+  "name": "安比尔",
+  "english": "Ambriel",
+  "rarity": 4,
+  "profession": "狙击",
+  "branch": "神射手",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 1052,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精确打击",
+          "description": "攻击原本攻击范围以外的目标时，有25%的几率使其晕眩2秒"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 1052,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精确打击",
+          "description": "攻击原本攻击范围以外的目标时，有25%的几率使其晕眩2秒"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 1052,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "精确打击",
+          "description": "攻击原本攻击范围以外的目标时，有25%的几率使其晕眩2秒"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 1052,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 106.0
+      },
+      "talents": [
+        {
+          "name": "精确打击",
+          "description": "攻击原本攻击范围以外的目标时，有25%的几率使其晕眩2秒"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 1052,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 106.0
+      },
+      "talents": [
+        {
+          "name": "精确打击",
+          "description": "攻击原本攻击范围以外的目标时，有28%（+3%）的几率使其晕眩2秒"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 1052,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 106.0
+      },
+      "talents": [
+        {
+          "name": "精确打击",
+          "description": "攻击原本攻击范围以外的目标时，有28%（+3%）的几率使其晕眩2秒"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+6",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "阻挡弹",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围+1格，且攻击会使目标停顿0.8秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围+1格，且攻击会使目标停顿0.8秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 10,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围+1格，且攻击会使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 10,
+          "charges": 1,
+          "duration": "34 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围+1格，且攻击会使目标停顿1.2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "36 秒"
+        }
+      ]
+    },
+    {
+      "name": "雷达定位",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，攻击范围扩大至整个战场，但攻击间隔略微增大，且在攻击超出原本攻击范围的敌方单位时攻击前摇增大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "34 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+70%，攻击范围扩大至整个战场，但攻击间隔略微增大，且在攻击超出原本攻击范围的敌方单位时攻击前摇增大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%，攻击范围扩大至整个战场，但攻击间隔略微增大，且在攻击超出原本攻击范围的敌方单位时攻击前摇增大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击范围扩大至整个战场，但攻击间隔略微增大，且在攻击超出原本攻击范围的敌方单位时攻击前摇增大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

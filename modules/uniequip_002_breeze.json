@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_breeze",
+  "name": "外科医疗套组",
+  "type": "RIN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 60.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+10%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+10%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+10%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+10%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+10%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+10%并获得抵抗",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+15%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+15%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+15%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+15%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+15%并获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "医疗班保护",
+            "description": "技能开启时，所有【医疗】和【辅助】干员生命上限+15%并获得抵抗",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_275_breeze",
+  "operator_name": "微风",
+  "profession": "医疗",
+  "branch": "群愈师"
+}

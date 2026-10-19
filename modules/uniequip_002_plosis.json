@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_plosis",
+  "name": "医疗环境分析装置",
+  "type": "RIN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 60.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.33/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.33/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.33/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.33/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.33/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.33/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.35/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.35/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.35/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.35/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.35/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环",
+            "description": "在场时所有友方单位的技力自然回复速度+0.3/秒，攻击范围内的友方单位改为+0.35/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_128_plosis",
+  "operator_name": "白面鸮",
+  "profession": "医疗",
+  "branch": "群愈师"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_4237_jcinta",
+  "name": "嘉辛塔",
+  "english": "Jacinta",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "执旗手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1648,
+        "atk": 502,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "淑女风范",
+          "description": "部署后，嘉辛塔自身与周围八格的友方单位获得13%的对空庇护"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1648,
+        "atk": 502,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "淑女风范",
+          "description": "部署后，嘉辛塔自身与周围八格的友方单位获得13%的对空庇护"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1648,
+        "atk": 502,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "淑女风范",
+          "description": "部署后，嘉辛塔自身与周围八格的友方单位获得13%的对空庇护"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1648,
+        "atk": 502,
+        "def": 455.0,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "淑女风范",
+          "description": "部署后，嘉辛塔自身与周围八格的友方单位获得13%的对空庇护"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1648,
+        "atk": 502,
+        "def": 455.0,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "淑女风范",
+          "description": "部署后，嘉辛塔自身与周围八格的友方单位获得15%（+2%）的对空庇护"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1648,
+        "atk": 502,
+        "def": 455.0,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "淑女风范",
+          "description": "部署后，嘉辛塔自身与周围八格的友方单位获得15%（+2%）的对空庇护"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "支援号令·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 12,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 13,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 14,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 15,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    },
+    {
+      "name": "伞下乘荫",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，逐渐回复总共27点部署费用，技能持续期间使天赋效果的范围扩大且效果提升至1.7倍，并每秒治疗天赋范围内的1名友方干员相当于嘉辛塔22%攻击力的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 9,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，逐渐回复总共27点部署费用，技能持续期间使天赋效果的范围扩大且效果提升至1.9倍，并每秒治疗天赋范围内的1名友方干员相当于嘉辛塔22%攻击力的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 11,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，逐渐回复总共27点部署费用，技能持续期间使天赋效果的范围扩大且效果提升至1.9倍，并每秒治疗天赋范围内的1名友方干员相当于嘉辛塔24%攻击力的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 13,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，逐渐回复总共27点部署费用，技能持续期间使天赋效果的范围扩大且效果提升至2倍，并每秒治疗天赋范围内的1名友方干员相当于嘉辛塔25%攻击力的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

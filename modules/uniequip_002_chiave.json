@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_chiave",
+  "name": "自制千斤顶",
+  "type": "SOL-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 37.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-78%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+17%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "技工专长",
+            "description": "在场时，所有【支援机械】干员的再部署时间-80%；场上每有一名【支援机械】干员，自身的攻击力和防御力+17%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_349_chiave",
+  "operator_name": "贾维",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

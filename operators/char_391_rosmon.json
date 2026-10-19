@@ -1,0 +1,372 @@
+{
+  "id": "char_391_rosmon",
+  "name": "迷迭香",
+  "english": "Rosmontis",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "投掷手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1944,
+        "atk": 748,
+        "def": 275,
+        "magicResistance": 15.0,
+        "cost": 25,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "歼灭战装备",
+          "description": "攻击无视目标160防御力"
+        },
+        {
+          "name": "感知稳定",
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）"
+    },
+    {
+      "stats": {
+        "maxHp": 1944,
+        "atk": 748,
+        "def": 275,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "歼灭战装备",
+          "description": "攻击无视目标160防御力"
+        },
+        {
+          "name": "感知稳定",
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）"
+    },
+    {
+      "stats": {
+        "maxHp": 1944,
+        "atk": 748,
+        "def": 275,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "歼灭战装备",
+          "description": "攻击无视目标160防御力"
+        },
+        {
+          "name": "感知稳定",
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）"
+    },
+    {
+      "stats": {
+        "maxHp": 1944,
+        "atk": 780.0,
+        "def": 275,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "歼灭战装备",
+          "description": "攻击无视目标160防御力"
+        },
+        {
+          "name": "感知稳定",
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）"
+    },
+    {
+      "stats": {
+        "maxHp": 1944,
+        "atk": 780.0,
+        "def": 275,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "歼灭战装备",
+          "description": "攻击无视目标175（+15）防御力"
+        },
+        {
+          "name": "感知稳定",
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）"
+    },
+    {
+      "stats": {
+        "maxHp": 1944,
+        "atk": 780.0,
+        "def": 275,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "歼灭战装备",
+          "description": "攻击无视目标175（+15）防御力"
+        },
+        {
+          "name": "感知稳定",
+          "description": "部署后随机选择一名在场的【术师】干员，自身和其的攻击力+8%"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+32",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "思维膨大",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击额外造成一次相当于攻击力120%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击额外造成一次相当于攻击力140%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击额外造成一次相当于攻击力160%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击额外造成一次相当于攻击力180%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "末梢阻断",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+30%，溅射范围扩大，每次攻击额外造成2次余震；受到攻击和余震的目标有20%的几率晕眩1.1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 20,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+37%，溅射范围扩大，每次攻击额外造成2次余震；受到攻击和余震的目标有20%的几率晕眩1.2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 20,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+45%，溅射范围扩大，每次攻击额外造成2次余震；受到攻击和余震的目标有20%的几率晕眩1.3秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+55%，溅射范围扩大，每次攻击额外造成2次余震；受到攻击和余震的目标有20%的几率晕眩1.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "“如你所愿”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔缩短，攻击力+40%，同时攻击2个敌人但仅选择被阻挡的敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后晕眩周围敌人2.5秒，阻挡的敌人防御力-160）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 35,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔缩短，攻击力+50%，同时攻击2个敌人但仅选择被阻挡的敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后晕眩周围敌人2.5秒，阻挡的敌人防御力-160）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 35,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔缩短，攻击力+60%，同时攻击2个敌人但仅选择被阻挡的敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后晕眩周围敌人2.5秒，阻挡的敌人防御力-160）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 66,
+          "initial": 35,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔缩短，攻击力+75%，同时攻击2个敌人但仅选择被阻挡的敌人作为目标；立即在攻击范围内的近战位部署两个战术装备（部署后晕眩周围敌人3秒，阻挡的敌人防御力-160）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 35,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "迷迭香的战术装备",
+      "stats": {
+        "maxHp": 5000,
+        "atk": 100,
+        "def": 520,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.0,
+        "respawnTime": 0,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡两个敌人，降低被阻挡单位的防御力",
+      "skills": [
+        {
+          "name": "战术装备召唤",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "出现时晕眩周围敌人2.5秒",
+              "trigger": "自动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "出现时晕眩周围敌人2.5秒",
+              "trigger": "自动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "出现时晕眩周围敌人2.5秒",
+              "trigger": "自动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "出现时晕眩周围敌人3秒",
+              "trigger": "自动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

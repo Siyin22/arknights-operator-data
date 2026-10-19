@@ -1,0 +1,239 @@
+{
+  "id": "char_4014_lunacu",
+  "name": "子月",
+  "english": "Lunacub",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "神射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1836,
+        "atk": 1074,
+        "def": 155,
+        "magicResistance": 0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野本能",
+          "description": "未开启技能时，获得迷彩，开启技能后攻击间隔略微缩短"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1836,
+        "atk": 1074,
+        "def": 155,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野本能",
+          "description": "未开启技能时，获得迷彩，开启技能后攻击间隔略微缩短"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1836,
+        "atk": 1074,
+        "def": 155,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野本能",
+          "description": "未开启技能时，获得迷彩，开启技能后攻击间隔略微缩短"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1836,
+        "atk": 1109.0,
+        "def": 155,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野本能",
+          "description": "未开启技能时，获得迷彩，开启技能后攻击间隔略微缩短"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1836,
+        "atk": 1109.0,
+        "def": 155,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野本能",
+          "description": "未开启技能时，获得迷彩，开启技能后攻击间隔略微缩短"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1836,
+        "atk": 1109.0,
+        "def": 155,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野本能",
+          "description": "未开启技能时，获得迷彩，开启技能后攻击间隔略微缩短"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "狩猎时刻",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 8,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 8,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 9,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "18 秒"
+        }
+      ]
+    },
+    {
+      "name": "伏击之影",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+110；获得5秒迷彩，技能期间击倒敌人后获得7秒迷彩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+120；获得6秒迷彩，技能期间击倒敌人后获得7秒迷彩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 27,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+130；获得7秒迷彩，技能期间击倒敌人后获得7秒迷彩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 29,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+140；获得8秒迷彩，技能期间击倒敌人后获得8秒迷彩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

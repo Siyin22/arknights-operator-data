@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_sesa",
+  "name": "“灵魂共鸣”",
+  "type": "ART-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高20%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高20%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高24%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "弱点拆解",
+            "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高24%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_379_sesa",
+  "operator_name": "慑砂",
+  "profession": "狙击",
+  "branch": "炮手"
+}

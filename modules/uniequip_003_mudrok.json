@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_mudrok",
+  "name": "沃土的愿景",
+  "type": "UNY-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低33%，对非【萨卡兹】敌人造成的伤害提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低33%，对非【萨卡兹】敌人造成的伤害提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低33%，对非【萨卡兹】敌人造成的伤害提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低33%，对非【萨卡兹】敌人造成的伤害提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低33%，对非【萨卡兹】敌人造成的伤害提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低33%，对非【萨卡兹】敌人造成的伤害提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低35%，对非【萨卡兹】敌人造成的伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低35%，对非【萨卡兹】敌人造成的伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低35%，对非【萨卡兹】敌人造成的伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低35%，对非【萨卡兹】敌人造成的伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低35%，对非【萨卡兹】敌人造成的伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "手足相惜",
+            "description": "受到来自【萨卡兹】敌人的伤害降低35%，对非【萨卡兹】敌人造成的伤害提升20%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_311_mudrok",
+  "operator_name": "泥岩",
+  "profession": "重装",
+  "branch": "不屈者"
+}

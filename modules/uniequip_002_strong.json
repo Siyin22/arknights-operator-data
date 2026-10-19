@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_strong",
+  "name": "精钢刀具套组",
+  "type": "MER-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 43.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至150%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至155%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至155%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至160%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗2点部署费用（不足时自动撤退）",
+            "condition": ""
+          },
+          {
+            "name": "解剖高手",
+            "description": "攻击【感染生物】时，攻击力提升至160%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_272_strong",
+  "operator_name": "孑",
+  "profession": "特种",
+  "branch": "行商"
+}

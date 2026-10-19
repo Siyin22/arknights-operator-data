@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_bpipe",
+  "name": "破城矛弹夹",
+  "type": "CHG-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 64.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+8（+2），自身部署时额外获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+8（+2），自身部署时额外获得2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 73.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+6，自身部署时额外获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+8（+2），自身部署时额外获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "军事传统",
+            "description": "编入队伍时所有【先锋】干员的初始技力+8（+2），自身部署时额外获得4点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_222_bpipe",
+  "operator_name": "风笛",
+  "profession": "先锋",
+  "branch": "冲锋手"
+}

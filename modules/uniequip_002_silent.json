@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_silent",
+  "name": "紧急防卫程序",
+  "type": "PHY-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+17（+2）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+17（+2）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+17",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+17",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+17",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+17",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+19（+2）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "强化注射",
+            "description": "在场时，所有友方【医疗】职业干员攻速+19（+2）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_108_silent",
+  "operator_name": "赫默",
+  "profession": "医疗",
+  "branch": "医师"
+}

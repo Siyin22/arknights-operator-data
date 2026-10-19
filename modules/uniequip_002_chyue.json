@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_chyue",
+  "name": "“自晦及明”",
+  "type": "FGT-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 240.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力，未击倒敌人时变为回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力，未击倒敌人时变为回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力，未击倒敌人时变为回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力，未击倒敌人时变为回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力，未击倒敌人时变为回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，拥有15%的物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "万象为宾",
+            "description": "若重岳释放一次技能击倒不少于一个敌人，则回复4点技力，未击倒敌人时变为回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2024_chyue",
+  "operator_name": "重岳",
+  "profession": "近卫",
+  "branch": "斗士"
+}

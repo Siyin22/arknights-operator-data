@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_bpipe",
+  "name": "“棍棒与口袋”",
+  "type": "CHG-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 13.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 17.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有30%的概率攻击力提升至135%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有30%的概率攻击力提升至135%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有33%（+3%）的概率攻击力提升至135%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有33%（+3%）的概率攻击力提升至135%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有33%（+3%）的概率攻击力提升至135%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有33%（+3%）的概率攻击力提升至135%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有33%的概率攻击力提升至140%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有33%的概率攻击力提升至140%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有36%（+3%）的概率攻击力提升至140%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有36%（+3%）的概率攻击力提升至140%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有36%（+3%）的概率攻击力提升至140%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "精密填弹",
+            "description": "每次攻击有36%（+3%）的概率攻击力提升至140%，且额外攻击一个目标",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_222_bpipe",
+  "operator_name": "风笛",
+  "profession": "先锋",
+  "branch": "冲锋手"
+}

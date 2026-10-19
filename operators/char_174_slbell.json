@@ -1,0 +1,262 @@
+{
+  "id": "char_174_slbell",
+  "name": "初雪",
+  "english": "Pramanix",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "削弱者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 495,
+        "def": 102,
+        "magicResistance": 25.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "虚弱化",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        },
+        {
+          "name": "双响",
+          "description": "攻击时同时攻击两个目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 495,
+        "def": 102,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "虚弱化",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        },
+        {
+          "name": "双响",
+          "description": "攻击时同时攻击两个目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 495,
+        "def": 102,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "虚弱化",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        },
+        {
+          "name": "双响",
+          "description": "攻击时同时攻击两个目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 495,
+        "def": 102,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "虚弱化",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        },
+        {
+          "name": "双响",
+          "description": "攻击时同时攻击两个目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 495,
+        "def": 102,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "虚弱化",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得33%（+3%）的脆弱效果"
+        },
+        {
+          "name": "双响",
+          "description": "攻击时同时攻击两个目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 495,
+        "def": 102,
+        "magicResistance": 33.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "虚弱化",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得33%（+3%）的脆弱效果"
+        },
+        {
+          "name": "双响",
+          "description": "攻击时同时攻击两个目标"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+8",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "传音回响",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "同时攻击2个目标，攻击范围内所有敌人攻击速度-50",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "同时攻击2个目标，攻击范围内所有敌人攻击速度-53",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "同时攻击2个目标，攻击范围内所有敌人攻击速度-56",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "同时攻击2个目标，攻击范围内所有敌人攻击速度-60",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "自然震慑",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内所有敌人防御力-45%，法术抗性-26%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 16,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内所有敌人防御力-50%，法术抗性-26%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 17,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内所有敌人防御力-55%，法术抗性-26%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 18,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内所有敌人防御力-60%，法术抗性-30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

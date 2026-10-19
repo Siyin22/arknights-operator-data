@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_bluep",
+  "name": "标准比色卡",
+  "type": "MAR-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 2.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 26.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到85点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到85点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到85点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到85点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到95（+10）点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到95（+10）点法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到95点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到95点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到95点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到95点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到105（+10）点法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "神经毒素",
+            "description": "攻击使目标中毒，在3秒内每秒受到105（+10）点法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_129_bluep",
+  "operator_name": "蓝毒",
+  "profession": "狙击",
+  "branch": "速射手"
+}

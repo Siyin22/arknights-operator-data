@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_tuye",
+  "name": "集水装置",
+  "type": "PHY-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 40.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 65.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的170%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的170%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的170%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的170%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的175%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的175%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的180%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的180%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的180%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的180%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的185%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "蓄水",
+            "description": "4秒内未进行治疗后，下次治疗时的治疗量提升至攻击力的185%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_402_tuye",
+  "operator_name": "图耶",
+  "profession": "医疗",
+  "branch": "医师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_siege2",
+  "name": "城主的冒险",
+  "type": "AFT-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 360.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少24%，且此范围内每个友方单位使维娜攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少24%，且此范围内每个友方单位使维娜攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少24%，且此范围内每个友方单位使维娜攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少24%，且此范围内每个友方单位使维娜攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少26%（+2%），且此范围内每个友方单位使维娜攻击力+7%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少26%（+2%），且此范围内每个友方单位使维娜攻击力+7%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 440.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 56.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少26%，且此范围内每个友方单位使维娜攻击力+7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少26%，且此范围内每个友方单位使维娜攻击力+7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少26%，且此范围内每个友方单位使维娜攻击力+7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少26%，且此范围内每个友方单位使维娜攻击力+7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少28%（+2%），且此范围内每个友方单位使维娜攻击力+8%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "诸王的叹息",
+            "description": "自身与周围8格友方单位受到的物理伤害减少28%（+2%），且此范围内每个友方单位使维娜攻击力+8%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1019_siege2",
+  "operator_name": "维娜·维多利亚",
+  "profession": "近卫",
+  "branch": "术战者"
+}

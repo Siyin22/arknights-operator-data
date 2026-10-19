@@ -1,0 +1,361 @@
+{
+  "id": "uniequip_002_alanna",
+  "name": "“随身保险杠”",
+  "type": "CRA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "小螺帽",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "小螺帽",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其90点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其100（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其100（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其100（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其100（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "小螺帽",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其100点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其110（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其110（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其110（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": ""
+          },
+          {
+            "name": "临时改装",
+            "description": "使攻击范围内一名干员攻击敌人时无视其110（+10）点防御力（持续30秒），装置效果不叠加",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4178_alanna",
+  "operator_name": "阿兰娜",
+  "profession": "辅助",
+  "branch": "工匠"
+}

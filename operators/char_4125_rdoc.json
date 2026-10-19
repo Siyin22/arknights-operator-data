@@ -1,0 +1,263 @@
+{
+  "id": "char_4125_rdoc",
+  "name": "医生",
+  "english": "Doc",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "教官",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2367,
+        "atk": 657,
+        "def": 400,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军医",
+          "description": "自身生命上限+12%，攻击无视目标120的防御力"
+        },
+        {
+          "name": "交感神经激活",
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的屏障"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 2367,
+        "atk": 657,
+        "def": 400,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军医",
+          "description": "自身生命上限+12%，攻击无视目标120的防御力"
+        },
+        {
+          "name": "交感神经激活",
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的屏障"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 2367,
+        "atk": 657,
+        "def": 400,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军医",
+          "description": "自身生命上限+12%，攻击无视目标120的防御力"
+        },
+        {
+          "name": "交感神经激活",
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的屏障"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 2567.0,
+        "atk": 657,
+        "def": 400,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军医",
+          "description": "自身生命上限+12%，攻击无视目标120的防御力"
+        },
+        {
+          "name": "交感神经激活",
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的屏障"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 2567.0,
+        "atk": 657,
+        "def": 400,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军医",
+          "description": "自身生命上限+12%，攻击无视目标140（+20）的防御力"
+        },
+        {
+          "name": "交感神经激活",
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的屏障"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 2567.0,
+        "atk": 657,
+        "def": 400,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军医",
+          "description": "自身生命上限+12%，攻击无视目标140（+20）的防御力"
+        },
+        {
+          "name": "交感神经激活",
+          "description": "治疗友方单位生命时，超过目标生命上限的治疗量可转化为不断衰减的屏障"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+200",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "以暴制暴",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对自身进行一次相当于攻击力300%的治疗，之后攻击间隔大幅度缩短\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 11,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对自身进行一次相当于攻击力350%的治疗，之后攻击间隔大幅度缩短\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 11,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对自身进行一次相当于攻击力380%的治疗，之后攻击间隔大幅度缩短\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 13,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对自身进行一次相当于攻击力400%的治疗，之后攻击间隔大幅度缩短\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）；每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "激素手枪",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力600%的治疗\n每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 9,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力650%的治疗\n每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 11,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力700%的治疗\n每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 13,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即朝正前方发射一枚激素子弹，若击中的首个目标为友方干员，对其进行一次相当于攻击力750%的治疗\n每次部署只能释放3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

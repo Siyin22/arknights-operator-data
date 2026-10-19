@@ -1,0 +1,302 @@
+{
+  "id": "char_393_toledo",
+  "name": "德·托莱多",
+  "english": "de Toledo",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "削弱者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 470,
+        "def": 110,
+        "magicResistance": 25.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“贵族血统”",
+          "description": "攻击范围内被阻挡的敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 470,
+        "def": 110,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“贵族血统”",
+          "description": "攻击范围内被阻挡的敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 470,
+        "def": 110,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“贵族血统”",
+          "description": "攻击范围内被阻挡的敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 470,
+        "def": 110,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“贵族血统”",
+          "description": "攻击范围内被阻挡的敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 470,
+        "def": 110,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“贵族血统”",
+          "description": "攻击范围内被阻挡的敌人获得18%（+2%）的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 470,
+        "def": 110,
+        "magicResistance": 33.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“贵族血统”",
+          "description": "攻击范围内被阻挡的敌人获得18%（+2%）的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+8",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "以假乱真",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+75%，攻击范围内被阻挡的敌人获得19%虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 26,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+80%，攻击范围内被阻挡的敌人获得21%虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 29,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%，攻击范围内被阻挡的敌人获得23%虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 32,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击范围内被阻挡的敌人获得25%虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 35,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "危言耸听",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "天赋效果提升至1.7倍，在攻击范围内的近战部署位召唤一个可以阻挡敌人的征服者传说，征服者传说在出现时会使附近的敌人战栗4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 12,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "天赋效果提升至1.8倍，在攻击范围内的近战部署位召唤一个可以阻挡敌人的征服者传说，征服者传说在出现时会使附近的敌人战栗5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 13,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "天赋效果提升至1.9倍，在攻击范围内的近战部署位召唤一个可以阻挡敌人的征服者传说，征服者传说在出现时会使附近的敌人战栗6秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 14,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "天赋效果提升至2.0倍，在攻击范围内的近战部署位召唤一个可以阻挡敌人的征服者传说，征服者传说在出现时会使附近的敌人战栗7秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "征服者传说",
+      "stats": {
+        "maxHp": 6000,
+        "atk": 100,
+        "def": 500,
+        "magicResistance": 20.0,
+        "cost": 0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.0,
+        "respawnTime": 0,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡三个敌人",
+      "skills": [
+        {
+          "name": "征服者传说",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "出现时会使附近的敌人战栗4秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "出现时会使附近的敌人战栗5秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "出现时会使附近的敌人战栗6秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "出现时会使附近的敌人战栗7秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_cerber",
+  "name": "“我打的刀”",
+  "type": "CCR-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 17.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 105.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 49.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 21.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+12%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+12%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+12%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+12%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+12%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+12%，攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 56.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+15%，攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+15%，攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+15%，攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+15%，攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+15%，攻击速度+15",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "独行长路",
+            "description": "部署时若周围四格内没有其他友方单位，攻击力+15%，攻击速度+15",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2013_cerber",
+  "operator_name": "刻俄柏",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

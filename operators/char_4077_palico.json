@@ -1,0 +1,145 @@
+{
+  "id": "char_4077_palico",
+  "name": "泰拉大陆调查团",
+  "english": "Terra Research Commission",
+  "rarity": 1,
+  "profession": "狙击",
+  "branch": "投掷手",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 618,
+        "atk": 306,
+        "def": 51,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式抽签爆弹·I",
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成200%的物理伤害；目标沉睡1秒；目标晕眩0.1秒；什么都没有发生！触发3次伤害效果后天赋失效"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 618,
+        "atk": 306,
+        "def": 51,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式抽签爆弹·II",
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成250%的物理伤害；目标沉睡1秒；目标晕眩0.1秒；什么都没有发生！触发3次伤害效果后天赋失效"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 618,
+        "atk": 306,
+        "def": 51,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式抽签爆弹·III",
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成300%的物理伤害；目标沉睡1秒；目标晕眩0.1秒；什么都没有发生！触发3次伤害效果后天赋失效"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 618,
+        "atk": 306,
+        "def": 51,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式抽签爆弹·IV",
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成350%的物理伤害；目标沉睡1秒；目标晕眩0.2秒；什么都没有发生！触发3次伤害效果后天赋失效"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 618,
+        "atk": 306,
+        "def": 51,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式抽签爆弹·V",
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成400%的物理伤害；目标沉睡1秒；目标晕眩0.2秒；什么都没有发生！触发3次伤害效果后天赋失效"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 618,
+        "atk": 306,
+        "def": 51,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式抽签爆弹·VI",
+          "description": "攻击后会延时引爆，随机触发下列效果之一： 造成450%的物理伤害；目标沉睡1秒；目标晕眩0.2秒；什么都没有发生！触发3次伤害效果后天赋失效"
+        }
+      ],
+      "trait": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长"
+    }
+  ],
+  "potential": [
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强"
+  ],
+  "skills": [],
+  "tokens": []
+}

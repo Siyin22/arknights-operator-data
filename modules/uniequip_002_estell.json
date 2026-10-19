@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_estell",
+  "name": "荒野地的饯别礼",
+  "type": "CEN-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值14%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值14%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值14%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值14%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值16%（+2%）的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值16%（+2%）的生命",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值16%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值16%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值16%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值16%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值18%（+2%）的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "自愈能力",
+            "description": "周围8格内有敌人倒下时，恢复自身最大生命值18%（+2%）的生命",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_127_estell",
+  "operator_name": "艾丝黛尔",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

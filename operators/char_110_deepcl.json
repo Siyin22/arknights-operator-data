@@ -1,0 +1,255 @@
+{
+  "id": "char_110_deepcl",
+  "name": "深海色",
+  "english": "Deepcolor",
+  "rarity": 4,
+  "profession": "辅助",
+  "branch": "召唤师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "召唤"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1350,
+        "atk": 403,
+        "def": 125,
+        "magicResistance": 15.0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "召唤触手",
+          "description": "可以使用四个触手召唤物来协助作战"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1350,
+        "atk": 403,
+        "def": 125,
+        "magicResistance": 15.0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "召唤触手",
+          "description": "可以使用四个触手召唤物来协助作战"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1350,
+        "atk": 403,
+        "def": 125,
+        "magicResistance": 15.0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "召唤触手",
+          "description": "可以使用四个触手召唤物来协助作战"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1350,
+        "atk": 403,
+        "def": 125,
+        "magicResistance": 15.0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "召唤触手",
+          "description": "可以使用四个触手召唤物来协助作战"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1350,
+        "atk": 403,
+        "def": 125,
+        "magicResistance": 15.0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "召唤触手",
+          "description": "可以使用四个触手召唤物来协助作战"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1350,
+        "atk": 403,
+        "def": 125,
+        "magicResistance": 15.0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "召唤触手",
+          "description": "可以使用四个触手召唤物来协助作战"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+8",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "光影之触",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "所有触手攻击力和防御力+45%，每秒恢复50点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "所有触手攻击力和防御力+50%，每秒恢复55点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "所有触手攻击力和防御力+55%，每秒恢复60点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "所有触手攻击力和防御力+60%，每秒恢复70点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "视觉陷阱",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击范围内的友方单位获得35%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 52,
+          "charges": 1,
+          "duration": "43 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击范围内的友方单位获得40%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 54,
+          "charges": 1,
+          "duration": "47 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击范围内的友方单位获得45%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 56,
+          "charges": 1,
+          "duration": "51 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击范围内的友方单位获得50%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 60,
+          "charges": 1,
+          "duration": "55 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "触手",
+      "stats": {
+        "maxHp": 2016,
+        "atk": 462,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人",
+      "skills": []
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_379_sesa",
+  "name": "慑砂",
+  "english": "Sesa",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "炮手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 918,
+        "def": 123,
+        "magicResistance": 0,
+        "cost": 28,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "弱点拆解",
+          "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高14%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 918,
+        "def": 123,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "弱点拆解",
+          "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高14%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 918,
+        "def": 123,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "弱点拆解",
+          "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高14%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 951.0,
+        "def": 123,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "弱点拆解",
+          "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高14%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 951.0,
+        "def": 123,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "弱点拆解",
+          "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高16%（+2%）"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 951.0,
+        "def": 123,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "弱点拆解",
+          "description": "在场时所有被阻挡的敌方单位受到的物理伤害提高16%（+2%）"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+33",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "延时震荡零件",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击变为发射一个延迟引爆的榴弹，爆炸后造成相当于攻击力210%的物理伤害，并在3秒内使目标攻击速度-10",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 14,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击变为发射一个延迟引爆的榴弹，爆炸后造成相当于攻击力220%的物理伤害，并在3秒内使目标攻击速度-13",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 16,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击变为发射一个延迟引爆的榴弹，爆炸后造成相当于攻击力230%的物理伤害，并在3秒内使目标攻击速度-16",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 18,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击变为发射一个延迟引爆的榴弹，爆炸后造成相当于攻击力240%的物理伤害，并在3秒内使目标攻击速度-20",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

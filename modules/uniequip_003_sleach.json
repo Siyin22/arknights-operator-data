@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_sleach",
+  "name": "“友谊万岁”",
+  "type": "BEA-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得1点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得1点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得1点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得1点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得1点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得1点部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得2点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得2点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得2点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得2点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得2点部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但获得迷彩",
+            "condition": ""
+          },
+          {
+            "name": "精神感召",
+            "description": "部署后，下一名部署的干员费用-2, 若该干员为地面干员，则部署后获得2点部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_479_sleach",
+  "operator_name": "琴柳",
+  "profession": "先锋",
+  "branch": "执旗手"
+}

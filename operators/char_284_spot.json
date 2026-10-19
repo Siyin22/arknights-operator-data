@@ -1,0 +1,163 @@
+{
+  "id": "char_284_spot",
+  "name": "斑点",
+  "english": "Spot",
+  "rarity": 3,
+  "profession": "重装",
+  "branch": "守护者",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "防护",
+    "治疗"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 350,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 17,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "烟雾加装",
+          "description": "治疗友方单位后为其提供持续3秒的20%物理闪避"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 350,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 16.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "烟雾加装",
+          "description": "治疗友方单位后为其提供持续3秒的20%物理闪避"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 350,
+        "def": 472,
+        "magicResistance": 10.0,
+        "cost": 16.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "烟雾加装",
+          "description": "治疗友方单位后为其提供持续3秒的20%物理闪避"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 350,
+        "def": 496.0,
+        "magicResistance": 10.0,
+        "cost": 16.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "烟雾加装",
+          "description": "治疗友方单位后为其提供持续3秒的20%物理闪避"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 350,
+        "def": 496.0,
+        "magicResistance": 10.0,
+        "cost": 16.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "烟雾加装",
+          "description": "治疗友方单位后为其提供持续3秒的25%（+5%）物理闪避"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 350,
+        "def": 496.0,
+        "magicResistance": 10.0,
+        "cost": 15.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "烟雾加装",
+          "description": "治疗友方单位后为其提供持续3秒的25%（+5%）物理闪避"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+24",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "次级治疗模式",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+45%，停止攻击并专心对周围的友方角色进行治疗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

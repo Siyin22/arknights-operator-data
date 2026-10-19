@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_haini",
+  "name": "多功能测绘仪-改良版",
+  "type": "UMD-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 13.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 13.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 23.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得20%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得20%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得20%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得20%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得22%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得22%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得23%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得23%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得23%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得23%的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得25%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "测绘器材的奇用",
+            "description": "攻击范围内的非精英和领袖敌人获得25%（+2%）的脆弱效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4079_haini",
+  "operator_name": "海霓",
+  "profession": "辅助",
+  "branch": "削弱者"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_crosly",
+  "name": "弑君刃",
+  "type": "EXE-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 34.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 112.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-23%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "吞咽苦厄",
+            "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-25%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1502_crosly",
+  "operator_name": "弑君者",
+  "profession": "特种",
+  "branch": "处决者"
+}

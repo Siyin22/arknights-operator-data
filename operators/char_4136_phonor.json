@@ -1,0 +1,146 @@
+{
+  "id": "char_4136_phonor",
+  "name": "PhonoR-0",
+  "english": "PhonoR-0",
+  "rarity": 1,
+  "profession": "辅助",
+  "branch": "巫役",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "支援机械",
+    "元素"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 520,
+        "atk": 235,
+        "def": 30,
+        "magicResistance": 5.0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "悠远河谷的齐唱·I",
+          "description": "部署后40秒内攻击附带45点凋亡损伤，并使攻击范围内的所有敌人受到3%的【法术脆弱】和【元素脆弱】"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 520,
+        "atk": 235,
+        "def": 30,
+        "magicResistance": 5.0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "悠远河谷的齐唱·II",
+          "description": "部署后40秒内攻击附带45点凋亡损伤，并使攻击范围内的所有敌人受到5%的【法术脆弱】和【元素脆弱】"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 520,
+        "atk": 235,
+        "def": 30,
+        "magicResistance": 5.0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "悠远河谷的齐唱·III",
+          "description": "部署后40秒内攻击附带50点凋亡损伤，并使攻击范围内的所有敌人受到5%的【法术脆弱】和【元素脆弱】"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 520,
+        "atk": 235,
+        "def": 30,
+        "magicResistance": 5.0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "悠远河谷的齐唱·IV",
+          "description": "部署后40秒内攻击附带55点凋亡损伤，并使攻击范围内的所有敌人受到8%的【法术脆弱】和【元素脆弱】"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 520,
+        "atk": 235,
+        "def": 30,
+        "magicResistance": 5.0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "悠远河谷的齐唱·V",
+          "description": "部署后40秒内攻击附带60点凋亡损伤，并使攻击范围内的所有敌人受到8%的【法术脆弱】和【元素脆弱】"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 520,
+        "atk": 235,
+        "def": 30,
+        "magicResistance": 5.0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "悠远河谷的齐唱·VI",
+          "description": "部署后40秒内攻击附带60点凋亡损伤，并使攻击范围内的所有敌人受到10%的【法术脆弱】和【元素脆弱】"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长"
+    }
+  ],
+  "potential": [
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强"
+  ],
+  "skills": [],
+  "tokens": []
+}

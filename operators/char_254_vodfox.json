@@ -1,0 +1,302 @@
+{
+  "id": "char_254_vodfox",
+  "name": "巫恋",
+  "english": "Shamare",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "削弱者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1728,
+        "atk": 473,
+        "def": 105,
+        "magicResistance": 25.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "溃败暗示 ",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1728,
+        "atk": 473,
+        "def": 105,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "溃败暗示 ",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1728,
+        "atk": 473,
+        "def": 105,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "溃败暗示 ",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1728,
+        "atk": 473,
+        "def": 105,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "溃败暗示 ",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得30%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1728,
+        "atk": 473,
+        "def": 105,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "溃败暗示 ",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得33%（+3%）的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1728,
+        "atk": 473,
+        "def": 105,
+        "magicResistance": 33.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "溃败暗示 ",
+          "description": "攻击范围内的敌人生命少于40%时，令其获得33%（+3%）的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+8",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "病入膏肓",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，天赋的伤害加成提升至1.5倍\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+45%，天赋的伤害加成提升至1.6倍\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 76,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+50%，天赋的伤害加成提升至1.7倍\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+60%，天赋的伤害加成提升至1.8倍\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "诅咒娃娃",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "获得一个诅咒娃娃（最多可库存1个）\n诅咒娃娃周围敌人的攻击力和防御力-30%，15秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "获得一个诅咒娃娃（最多可库存1个）\n诅咒娃娃周围敌人的攻击力和防御力-40%，15秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 10,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "获得一个诅咒娃娃（最多可库存1个）\n诅咒娃娃周围敌人的攻击力和防御力-45%，15秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "获得一个诅咒娃娃（最多可库存1个）\n诅咒娃娃周围敌人的攻击力和防御力-50%，15秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "诅咒娃娃",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "诅咒娃娃",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "范围内的敌人攻击力和防御力-30%",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "15 秒"
+            },
+            {
+              "label": "专精一",
+              "description": "范围内的敌人攻击力和防御力-40%",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "15 秒"
+            },
+            {
+              "label": "专精二",
+              "description": "范围内的敌人攻击力和防御力-45%",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "15 秒"
+            },
+            {
+              "label": "专精三",
+              "description": "范围内的敌人攻击力和防御力-50%",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "15 秒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

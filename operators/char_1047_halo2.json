@@ -1,0 +1,310 @@
+{
+  "id": "char_1047_halo2",
+  "name": "溯光星源",
+  "english": "Astgenne the Lightchaser",
+  "rarity": 6,
+  "profession": "辅助",
+  "branch": "凝滞师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "减速",
+    "支援",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 608,
+        "def": 125,
+        "magicResistance": 25.0,
+        "cost": 18,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "数据建模",
+          "description": "对敌人造成停顿效果时，自身的攻击速度+1，最多叠加18次"
+        },
+        {
+          "name": "能源解析",
+          "description": "攻击范围内的敌人受到10%的脆弱效果，敌人在溯光星源的攻击范围内停留超过7秒后，脆弱效果提升至14%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 608,
+        "def": 125,
+        "magicResistance": 25.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "数据建模",
+          "description": "对敌人造成停顿效果时，自身的攻击速度+1，最多叠加18次"
+        },
+        {
+          "name": "能源解析",
+          "description": "攻击范围内的敌人受到10%的脆弱效果，敌人在溯光星源的攻击范围内停留超过7秒后，脆弱效果提升至14%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 608,
+        "def": 125,
+        "magicResistance": 25.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "数据建模",
+          "description": "对敌人造成停顿效果时，自身的攻击速度+1，最多叠加18次"
+        },
+        {
+          "name": "能源解析",
+          "description": "攻击范围内的敌人受到10%的脆弱效果，敌人在溯光星源的攻击范围内停留超过7秒后，脆弱效果提升至14%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 608,
+        "def": 125,
+        "magicResistance": 25.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "数据建模",
+          "description": "对敌人造成停顿效果时，自身的攻击速度+1，最多叠加18次"
+        },
+        {
+          "name": "能源解析",
+          "description": "攻击范围内的敌人受到10%的脆弱效果，敌人在溯光星源的攻击范围内停留超过7秒后，脆弱效果提升至14%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 608,
+        "def": 125,
+        "magicResistance": 25.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "数据建模",
+          "description": "对敌人造成停顿效果时，自身的攻击速度+1，最多叠加18次"
+        },
+        {
+          "name": "能源解析",
+          "description": "攻击范围内的敌人受到12%（+2%）的脆弱效果，敌人在溯光星源的攻击范围内停留超过7秒后，脆弱效果提升至16%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 608,
+        "def": 125,
+        "magicResistance": 25.0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "数据建模",
+          "description": "对敌人造成停顿效果时，自身的攻击速度+1，最多叠加18次"
+        },
+        {
+          "name": "能源解析",
+          "description": "攻击范围内的敌人受到12%（+2%）的脆弱效果，敌人在溯光星源的攻击范围内停留超过7秒后，脆弱效果提升至16%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "星图闪烁",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，攻击可在敌人间重复跳跃，最多跳跃3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 15,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+70%，攻击可在敌人间重复跳跃，最多跳跃3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 15,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%，攻击可在敌人间重复跳跃，最多跳跃3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击可在敌人间重复跳跃，最多跳跃3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "星束引力",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击选择攻击范围内距离目标点最远的1个敌人为目标，造成相当于攻击力130%的法术伤害，攻击造成的停顿时间延长至3秒，并分别链接目标附近的最多2个敌人中等力度地拉向目标所在位置同时造成相同的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击选择攻击范围内距离目标点最远的2个敌人为目标，造成相当于攻击力135%的法术伤害，攻击造成的停顿时间延长至3秒，并分别链接目标附近的最多2个敌人中等力度地拉向目标所在位置同时造成相同的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击选择攻击范围内距离目标点最远的2个敌人为目标，造成相当于攻击力140%的法术伤害，攻击造成的停顿时间延长至3秒，并分别链接目标附近的最多2个敌人中等力度地拉向目标所在位置同时造成相同的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击选择攻击范围内距离目标点最远的2个敌人为目标，造成相当于攻击力145%的法术伤害，攻击造成的停顿时间延长至3秒，并分别链接目标附近的最多3个敌人中等力度地拉向目标所在位置同时造成相同的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "并流连锁",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+50%，攻击间隔缩短，持续锁定2个敌人进行攻击，被锁定的敌人会互相链接；每个被链接的敌人会把即将受到法术伤害的20%额外传导给其他链接目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 21,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+55%，攻击间隔缩短，持续锁定2个敌人进行攻击，被锁定的敌人会互相链接；每个被链接的敌人会把即将受到法术伤害的20%额外传导给其他链接目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 22,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+60%，攻击间隔缩短，持续锁定2个敌人进行攻击，被锁定的敌人会互相链接；每个被链接的敌人会把即将受到法术伤害的20%额外传导给其他链接目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 23,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+70%，攻击间隔缩短，持续锁定2个敌人进行攻击，被锁定的敌人会互相链接；每个被链接的敌人会把即将受到法术伤害的25%额外传导给其他链接目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

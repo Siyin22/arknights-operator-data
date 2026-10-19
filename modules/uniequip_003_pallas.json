@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_pallas",
+  "name": "“赫里亚之辉”",
+  "type": "INS-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复50点生命值并使所有【米诺斯】干员额外恢复25点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复50点生命值并使所有【米诺斯】干员额外恢复25点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复50点生命值并使所有【米诺斯】干员额外恢复25点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复50点生命值并使所有【米诺斯】干员额外恢复25点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复55（+5）点生命值并使所有【米诺斯】干员额外恢复25点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复55（+5）点生命值并使所有【米诺斯】干员额外恢复25点生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复60点生命值并使所有【米诺斯】干员额外恢复40点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复60点生命值并使所有【米诺斯】干员额外恢复40点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复60点生命值并使所有【米诺斯】干员额外恢复40点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复60点生命值并使所有【米诺斯】干员额外恢复40点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复65（+5）点生命值并使所有【米诺斯】干员额外恢复40点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以额外部署在远程位",
+            "condition": ""
+          },
+          {
+            "name": "女神的振奋",
+            "description": "每攻击一名敌人时为自身与身前一格的我方干员恢复65（+5）点生命值并使所有【米诺斯】干员额外恢复40点生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_485_pallas",
+  "operator_name": "帕拉斯",
+  "profession": "近卫",
+  "branch": "教官"
+}

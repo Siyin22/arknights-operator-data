@@ -1,0 +1,239 @@
+{
+  "id": "char_102_texas",
+  "name": "德克萨斯",
+  "english": "Texas",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1950,
+        "atk": 570,
+        "def": 343,
+        "magicResistance": 0,
+        "cost": 13,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术快递",
+          "description": "编入队伍后，额外获得2点初始部署费用"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1950,
+        "atk": 570,
+        "def": 343,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术快递",
+          "description": "编入队伍后，额外获得2点初始部署费用"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1950,
+        "atk": 570,
+        "def": 343,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术快递",
+          "description": "编入队伍后，额外获得2点初始部署费用"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1950,
+        "atk": 594.0,
+        "def": 343,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术快递",
+          "description": "编入队伍后，额外获得2点初始部署费用"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1950,
+        "atk": 594.0,
+        "def": 343,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术快递",
+          "description": "编入队伍后，额外获得2点初始部署费用"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1950,
+        "atk": 594.0,
+        "def": 343,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术快递",
+          "description": "编入队伍后，额外获得2点初始部署费用"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "冲锋号令·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 14,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 16,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 18,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "剑雨",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得11点费用；对周围所有敌人造成两次相当于攻击力135%的法术伤害，并令击中目标晕眩2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 26,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得11点费用；对周围所有敌人造成两次相当于攻击力140%的法术伤害，并令击中目标晕眩3秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 27,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得11点费用；对周围所有敌人造成两次相当于攻击力155%的法术伤害，并令击中目标晕眩3秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 28,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得12点费用；对周围所有敌人造成两次相当于攻击力170%的法术伤害，并令击中目标晕眩3秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

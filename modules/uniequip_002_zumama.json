@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_zumama",
+  "name": "祖玛玛的工具箱",
+  "type": "HES-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 95.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.4/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.4/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.4/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.4/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.4/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.4/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 105.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 85.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "愈战愈勇",
+            "description": "阻挡敌人时技力回复速度+0.55/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_416_zumama",
+  "operator_name": "森蚺",
+  "profession": "重装",
+  "branch": "决战者"
+}

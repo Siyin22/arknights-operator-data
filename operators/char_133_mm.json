@@ -1,0 +1,239 @@
+{
+  "id": "char_133_mm",
+  "name": "梅",
+  "english": "May",
+  "rarity": 4,
+  "profession": "狙击",
+  "branch": "速射手",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 543,
+        "def": 105,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "维多利亚探员",
+          "description": "攻击力+7%，攻击速度+7"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 543,
+        "def": 105,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "维多利亚探员",
+          "description": "攻击力+7%，攻击速度+7"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 543,
+        "def": 105,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "维多利亚探员",
+          "description": "攻击力+7%，攻击速度+7"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 566.0,
+        "def": 105,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "维多利亚探员",
+          "description": "攻击力+7%，攻击速度+7"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 566.0,
+        "def": 105,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "维多利亚探员",
+          "description": "攻击力+8%（+1%），攻击速度+8（+1）"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 566.0,
+        "def": 105,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "维多利亚探员",
+          "description": "攻击力+8%（+1%），攻击速度+8（+1）"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "麻痹弹",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至170%，并使目标停顿2.0秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至180%，并使目标停顿2.5秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至190%，并使目标停顿2.5秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至200%，并使目标停顿2.5秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "束缚电击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔略微增大，攻击力+90%，击中目标时使其停顿0.9秒，另外还有30%的几率使其晕眩1.0秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 0,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔略微增大，攻击力+100%，击中目标时使其停顿0.9秒，另外还有30%的几率使其晕眩1.1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 0,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔略微增大，攻击力+110%，击中目标时使其停顿0.9秒，另外还有30%的几率使其晕眩1.1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔略微增大，攻击力+120%，击中目标时使其停顿1.0秒，另外还有30%的几率使其晕眩1.2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

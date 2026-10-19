@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_firwhl",
+  "name": "“成长的足迹”",
+  "type": "FOR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+16%，阻挡敌人时防御力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+16%，阻挡敌人时防御力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+16%，阻挡敌人时防御力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+16%，阻挡敌人时防御力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+18%（+2%），阻挡敌人时防御力+18%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+18%（+2%），阻挡敌人时防御力+18%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 58.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 58.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+18%，阻挡敌人时防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+18%，阻挡敌人时防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+18%，阻挡敌人时防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+18%，阻挡敌人时防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+20%（+2%），阻挡敌人时防御力+20%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "进退自如",
+            "description": "未阻挡敌人时攻击力+20%（+2%），阻挡敌人时防御力+20%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_493_firwhl",
+  "operator_name": "火哨",
+  "profession": "重装",
+  "branch": "要塞"
+}

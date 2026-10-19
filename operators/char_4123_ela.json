@@ -1,0 +1,466 @@
+{
+  "id": "char_4123_ela",
+  "name": "艾拉",
+  "english": "Ela",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "陷阱师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "召唤",
+    "控场",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1468,
+        "atk": 668,
+        "def": 173,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雷鸣地雷",
+          "description": "可以使用3个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果"
+        },
+        {
+          "name": "“正中靶心”",
+          "description": "攻击有30%几率造成相当于攻击力150%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1468,
+        "atk": 668,
+        "def": 173,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雷鸣地雷",
+          "description": "可以使用3个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果"
+        },
+        {
+          "name": "“正中靶心”",
+          "description": "攻击有30%几率造成相当于攻击力150%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1468,
+        "atk": 668,
+        "def": 173,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雷鸣地雷",
+          "description": "可以使用4（+1）个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果"
+        },
+        {
+          "name": "“正中靶心”",
+          "description": "攻击有30%几率造成相当于攻击力150%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1468,
+        "atk": 695.0,
+        "def": 173,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雷鸣地雷",
+          "description": "可以使用4（+1）个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果"
+        },
+        {
+          "name": "“正中靶心”",
+          "description": "攻击有30%几率造成相当于攻击力150%的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1468,
+        "atk": 695.0,
+        "def": 173,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雷鸣地雷",
+          "description": "可以使用4（+1）个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果"
+        },
+        {
+          "name": "“正中靶心”",
+          "description": "攻击有30%几率造成相当于攻击力160%（+10%）的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1468,
+        "atk": 695.0,
+        "def": 173,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雷鸣地雷",
+          "description": "可以使用4（+1）个雷鸣地雷（最多拥有4个），经过周围的第一个敌人会触发其效果，撤退时以自身为中心触发一次雷鸣地雷效果"
+        },
+        {
+          "name": "“正中靶心”",
+          "description": "攻击有30%几率造成相当于攻击力160%（+10%）的物理伤害，对受到雷鸣地雷效果影响的目标必定触发"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+27",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "眩目阻滞",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿且物理与法术命中率-30%，持续9秒\n主动效果：立即获得一个陷阱",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿且物理与法术命中率-35%，持续9秒\n主动效果：立即获得一个陷阱",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿且物理与法术命中率-40%，持续9秒\n主动效果：立即获得一个陷阱",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿且物理与法术命中率-40%，持续10秒\n主动效果：立即获得一个陷阱",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "震荡坚守",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：陷阱触发时使周围所有目标晕眩，持续4秒\n主动效果：架设机动护盾使自身防御力+250%，攻击范围缩小，攻击对目标周围造成溅射物理伤害且无视其500的防御力\n技能结束时获得一个陷阱",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 19,
+          "initial": 8,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：陷阱触发时使周围所有目标晕眩，持续5秒\n主动效果：架设机动护盾使自身防御力+250%，攻击范围缩小，攻击对目标周围造成溅射物理伤害且无视其600的防御力\n技能结束时获得一个陷阱",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 18,
+          "initial": 8,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：陷阱触发时使周围所有目标晕眩，持续5秒\n主动效果：架设机动护盾使自身防御力+250%，攻击范围缩小，攻击对目标周围造成溅射物理伤害且无视其700的防御力\n技能结束时获得一个陷阱",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 17,
+          "initial": 8,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：陷阱触发时使周围所有目标晕眩，持续5秒\n主动效果：架设机动护盾使自身防御力+300%，攻击范围缩小，攻击对目标周围造成溅射物理伤害且无视其800的防御力\n技能结束时获得一个陷阱",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 12,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "“博萨克风暴”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿并获得25%的脆弱效果，持续6秒\n主动效果：攻击间隔缩短，攻击力+60%，优先攻击受到雷鸣地雷效果影响的敌人\n攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 16,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿并获得30%的脆弱效果，持续7秒\n主动效果：攻击间隔缩短，攻击力+70%，优先攻击受到雷鸣地雷效果影响的敌人\n攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 16,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿并获得30%的脆弱效果，持续7秒\n主动效果：攻击间隔缩短，攻击力+80%，优先攻击受到雷鸣地雷效果影响的敌人\n攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 16,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：陷阱触发时使周围所有目标停顿并获得35%的脆弱效果，持续7秒\n主动效果：攻击间隔缩短，攻击力+90%，优先攻击受到雷鸣地雷效果影响的敌人\n攻击装有40发子弹，打完后技能结束（期间可随时停止技能），技能结束时获得两个陷阱",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 16,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "雷鸣地雷",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击，无法放置于敌人已在的格子中",
+      "skills": [
+        {
+          "name": "眩目阻滞",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "触发时使周围所有目标停顿且物理与法术命中率-30%，持续9秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "触发时使周围所有目标停顿且物理与法术命中率-35%，持续9秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "触发时使周围所有目标停顿且物理与法术命中率-40%，持续9秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "触发时使周围所有目标停顿且物理与法术命中率-40%，持续10秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "震荡坚守",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "触发时使周围所有目标晕眩，持续4秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "触发时使周围所有目标晕眩，持续5秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "触发时使周围所有目标晕眩，持续5秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "触发时使周围所有目标晕眩，持续5秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "“博萨克风暴”",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "触发时使周围所有目标停顿并获得25%的脆弱效果，持续6秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "触发时使周围所有目标停顿并获得30%的脆弱效果，持续7秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "触发时使周围所有目标停顿并获得30%的脆弱效果，持续7秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "触发时使周围所有目标停顿并获得35%的脆弱效果，持续7秒",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

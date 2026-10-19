@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_svrash",
+  "name": "雪境羽兽护理套组",
+  "type": "LOR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+20%且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+20%且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+20%且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+20%且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+22%（+2%）且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-12%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+22%（+2%）且攻击精英与领袖敌人时攻击力提升至110%，编入队伍时所有我方单位的再部署时间-12%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 330.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+25%且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-10%，银灰及周围8格的其他友军再部署时间额外-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+25%且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-10%，银灰及周围8格的其他友军再部署时间额外-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+25%且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-10%，银灰及周围8格的其他友军再部署时间额外-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+25%且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-10%，银灰及周围8格的其他友军再部署时间额外-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+27%（+2%）且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-12%（+2%），银灰及周围8格的其他友军再部署时间额外-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "领袖",
+            "description": "攻击力+27%（+2%）且攻击精英与领袖敌人时攻击力提升至115%，编入队伍时所有我方单位的再部署时间-12%（+2%），银灰及周围8格的其他友军再部署时间额外-10%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_172_svrash",
+  "operator_name": "银灰",
+  "profession": "近卫",
+  "branch": "领主"
+}

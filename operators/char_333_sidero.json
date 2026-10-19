@@ -1,0 +1,239 @@
+{
+  "id": "char_333_sidero",
+  "name": "铸铁",
+  "english": "Sideroca",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "术战者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "生存",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3345,
+        "atk": 620,
+        "def": 369,
+        "magicResistance": 15.0,
+        "cost": 23,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "佣兵之韧",
+          "description": "击杀7个敌人后获得攻击速度+15和抵抗"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345,
+        "atk": 620,
+        "def": 369,
+        "magicResistance": 15.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "佣兵之韧",
+          "description": "击杀7个敌人后获得攻击速度+15和抵抗"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345,
+        "atk": 620,
+        "def": 369,
+        "magicResistance": 15.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "佣兵之韧",
+          "description": "击杀7个敌人后获得攻击速度+15和抵抗"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345,
+        "atk": 620,
+        "def": 369,
+        "magicResistance": 15.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "佣兵之韧",
+          "description": "击杀7个敌人后获得攻击速度+15和抵抗"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345,
+        "atk": 620,
+        "def": 369,
+        "magicResistance": 15.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "佣兵之韧",
+          "description": "击杀5（-2）个敌人后获得攻击速度+15和抵抗"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345,
+        "atk": 620,
+        "def": 369,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "佣兵之韧",
+          "description": "击杀5（-2）个敌人后获得攻击速度+15和抵抗"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "生命回复·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即恢复最大生命的50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 9,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即恢复最大生命的55%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即恢复最大生命的60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 11,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即恢复最大生命的70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 12,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "破浪回神",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击距离缩短，攻击力+80%，每秒恢复最大生命的7%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击距离缩短，攻击力+90%，每秒恢复最大生命的7%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击距离缩短，攻击力+100%，每秒恢复最大生命的7%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击距离缩短，攻击力+110%，每秒恢复最大生命的8%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

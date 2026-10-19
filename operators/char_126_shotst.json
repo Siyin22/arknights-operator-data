@@ -1,0 +1,239 @@
+{
+  "id": "char_126_shotst",
+  "name": "流星",
+  "english": "Meteor",
+  "rarity": 4,
+  "profession": "狙击",
+  "branch": "速射手",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 530,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射专精",
+          "description": "攻击空中目标时，攻击力提升至135%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 530,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射专精",
+          "description": "攻击空中目标时，攻击力提升至135%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 530,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射专精",
+          "description": "攻击空中目标时，攻击力提升至135%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 553.0,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射专精",
+          "description": "攻击空中目标时，攻击力提升至135%"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 553.0,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射专精",
+          "description": "攻击空中目标时，攻击力提升至140%（+5%）"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 553.0,
+        "def": 165,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "空射专精",
+          "description": "攻击空中目标时，攻击力提升至140%（+5%）"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "碎甲击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击造成相当于攻击力150%的物理伤害，-1秒内使命中目标的防御力-30%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击造成相当于攻击力160%的物理伤害，-1秒内使命中目标的防御力-31%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击造成相当于攻击力170%的物理伤害，-1秒内使命中目标的防御力-32%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击造成相当于攻击力180%的物理伤害，-1秒内使命中目标的防御力-35%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "碎甲击·扩散",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对攻击范围内至多5个敌人造成相当于攻击力170%的物理伤害，-1秒内使命中目标的防御力-35%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对攻击范围内至多5个敌人造成相当于攻击力180%的物理伤害，-1秒内使命中目标的防御力-35%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对攻击范围内至多5个敌人造成相当于攻击力190%的物理伤害，-1秒内使命中目标的防御力-35%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对攻击范围内至多5个敌人造成相当于攻击力200%的物理伤害，-1秒内使命中目标的防御力-40%",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_wintim",
+  "name": "缺角的权限",
+  "type": "AGE-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+13，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+13，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+13，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+13，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+15（+2），自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+15（+2），自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+15，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+15，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+15，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+15，自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+17（+2），自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "疾笔撰录",
+            "description": "攻击速度+17（+2），自身受到伤害后失去该效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4208_wintim",
+  "operator_name": "冬时",
+  "profession": "先锋",
+  "branch": "情报官"
+}

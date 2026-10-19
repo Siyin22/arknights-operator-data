@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_rosesa",
+  "name": "多彩盐漠生活",
+  "type": "RIN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 88.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升20%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升20%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升22%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "最好的草药医生",
+            "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升22%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4163_rosesa",
+  "operator_name": "瑰盐",
+  "profession": "医疗",
+  "branch": "群愈师"
+}

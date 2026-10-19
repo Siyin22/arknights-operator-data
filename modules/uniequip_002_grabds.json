@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_grabds",
+  "name": "在田野上",
+  "type": "DEC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+12，若目标为【野生动物】则特性的停顿进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+12，若目标为【野生动物】则特性的停顿进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+12，若目标为【野生动物】则特性的停顿进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+12，若目标为【野生动物】则特性的停顿进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+14（+2），若目标为【野生动物】则特性的停顿进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+14（+2），若目标为【野生动物】则特性的停顿进一步延长",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 41.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+14，若目标为【野生动物】则特性的停顿更进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+14，若目标为【野生动物】则特性的停顿更进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+14，若目标为【野生动物】则特性的停顿更进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+14，若目标为【野生动物】则特性的停顿更进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+16（+2），若目标为【野生动物】则特性的停顿更进一步延长",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "好好听话",
+            "description": "攻击速度+16（+2），若目标为【野生动物】则特性的停顿更进一步延长",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4122_grabds",
+  "operator_name": "小满",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_marcil",
+  "name": "才女的藏书",
+  "type": "SPC-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 51.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+35，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+35，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+35，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+35，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+35，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+35，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 82.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+40，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+40，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+40，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+40，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+40，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "可靠的同伴",
+            "description": "初始魔力+40，编队中有4名【莱欧斯小队】干员时，所有【莱欧斯小队】干员攻击速度+25，防御力+35%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4141_marcil",
+  "operator_name": "玛露西尔",
+  "profession": "术师",
+  "branch": "扩散术师"
+}

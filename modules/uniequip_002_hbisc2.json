@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_hbisc2",
+  "name": "结晶胸花",
+  "type": "INC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加17%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加17%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加17%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加17%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加19%（+2%）的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加19%（+2%）的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加20%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加20%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加20%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加20%的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加22%（+2%）的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于60%伤害的生命值",
+            "condition": ""
+          },
+          {
+            "name": "朝开夕落",
+            "description": "攻击敌人时对目标施加22%（+2%）的【法术脆弱】，持续5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1024_hbisc2",
+  "operator_name": "濯尘芙蓉",
+  "profession": "医疗",
+  "branch": "咒愈师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_nightm",
+  "name": "“两生花”",
+  "type": "CCR-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得45%的物理和法术闪避，装备技能2时获得+18%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得45%的物理和法术闪避，装备技能2时获得+18%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得45%的物理和法术闪避，装备技能2时获得+18%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得45%的物理和法术闪避，装备技能2时获得+18%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得50%（+5%）的物理和法术闪避，装备技能2时获得+21%（+3%）攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得50%（+5%）的物理和法术闪避，装备技能2时获得+21%（+3%）攻击力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得50%的物理和法术闪避，装备技能2时获得+20%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得50%的物理和法术闪避，装备技能2时获得+20%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得50%的物理和法术闪避，装备技能2时获得+20%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得50%的物理和法术闪避，装备技能2时获得+20%攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得55%（+5%）的物理和法术闪避，装备技能2时获得+23%（+3%）攻击力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "表里人格",
+            "description": "装备技能1时获得55%（+5%）的物理和法术闪避，装备技能2时获得+23%（+3%）攻击力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_164_nightm",
+  "operator_name": "夜魔",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_qiubai",
+  "name": "雪浸过的斗笠",
+  "type": "LOR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.1倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.1倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.1倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.1倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力48%（+3%）的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.1倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力48%（+3%）的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.1倍",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.2倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.2倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.2倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力45%的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.2倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力48%（+3%）的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.2倍",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "入隙",
+            "description": "攻击处于停顿、束缚的敌人时，额外造成相当于攻击力48%（+3%）的法术伤害，目标同时处于停顿和束缚时该伤害提升至原本的1.2倍",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4082_qiubai",
+  "operator_name": "仇白",
+  "profession": "近卫",
+  "branch": "领主"
+}

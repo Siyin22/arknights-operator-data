@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_inside",
+  "name": "“最初的惊喜”",
+  "type": "MAR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+4，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "火力支援",
+            "description": "在场停留20秒后，自身弹药类技能弹药上限+5，其他随机一名【拉特兰】干员的弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_498_inside",
+  "operator_name": "隐现",
+  "profession": "狙击",
+  "branch": "速射手"
+}

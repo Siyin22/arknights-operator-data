@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_elysm",
+  "name": "应急通讯指南",
+  "type": "BEA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+26（+3）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+26（+3）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+25",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+25",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+25",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+25",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+28（+3）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "狙击支援",
+            "description": "在场时，所有【狙击】干员的部署费用-2，且技能开启时所有【狙击】干员的攻击速度+28（+3）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_401_elysm",
+  "operator_name": "极境",
+  "profession": "先锋",
+  "branch": "执旗手"
+}

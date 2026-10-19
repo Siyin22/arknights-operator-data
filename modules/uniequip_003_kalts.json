@@ -1,0 +1,313 @@
+{
+  "id": "uniequip_003_kalts",
+  "name": "医者",
+  "type": "PHY-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 115.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高12，防御力提高15％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高12且防御力提高15％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 195.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以使用并治疗Mon3tr，拥有25秒再部署时间，优先治疗自身和Mon3tr；Mon3tr在凯尔希攻击范围内时攻击速度提高20，防御力提高20％；Mon3tr不在凯尔希攻击范围内时防御力降至0",
+            "condition": ""
+          },
+          {
+            "name": "Mon3tr",
+            "description": "可以被凯尔希治疗，在凯尔希攻击范围内时攻击速度提高20且防御力提高20％，不在凯尔希攻击范围内时防御力降至0",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_003_kalts",
+  "operator_name": "凯尔希",
+  "profession": "医疗",
+  "branch": "医师"
+}

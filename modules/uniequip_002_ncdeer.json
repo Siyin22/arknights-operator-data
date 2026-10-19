@@ -1,0 +1,98 @@
+{
+  "id": "uniequip_002_ncdeer",
+  "name": "“仙药”",
+  "type": "BLS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "飘渺彩云",
+            "description": "攻击范围内的友军生命少于50%时，使其获得23%的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "飘渺彩云",
+            "description": "攻击范围内的友军生命少于60%时，使其获得26%的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4019_ncdeer",
+  "operator_name": "九色鹿",
+  "profession": "辅助",
+  "branch": "护佑者"
+}

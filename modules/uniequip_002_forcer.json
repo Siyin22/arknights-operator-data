@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_forcer",
+  "name": "可执行的幻想",
+  "type": "PUS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 215.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 54.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标250的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标250的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标250的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标250的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标270（+20）的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标270（+20）的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 240.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标280的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标280的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标280的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标280的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标300（+20）的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人\n可以放置于远程位，并返还该次部署费用的一半",
+            "condition": ""
+          },
+          {
+            "name": "技巧射击",
+            "description": "攻击重量大于等于3的敌人时无视目标300（+20）的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4036_forcer",
+  "operator_name": "见行者",
+  "profession": "特种",
+  "branch": "推击手"
+}

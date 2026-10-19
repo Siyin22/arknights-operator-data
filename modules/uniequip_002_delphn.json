@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_delphn",
+  "name": "正义黯淡",
+  "type": "MSC-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 95.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高23%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高23%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 92.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高23%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高25%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有已储存的攻击能量时，攻击速度+30",
+            "condition": ""
+          },
+          {
+            "name": "濯洗剑锋",
+            "description": "攻击生命值高于80%的敌人时造成的伤害提高25%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4110_delphn",
+  "operator_name": "戴菲恩",
+  "profession": "术师",
+  "branch": "秘术师"
+}

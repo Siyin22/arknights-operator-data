@@ -1,0 +1,310 @@
+{
+  "id": "char_1026_gvial2",
+  "name": "百炼嘉维尔",
+  "english": "Gavial the Invincible",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "强攻手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "爆发",
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2906,
+        "atk": 816,
+        "def": 451,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战地巨斧",
+          "description": "攻击力和防御力提升10%，每再阻挡一个敌人提升4%"
+        },
+        {
+          "name": "医学背景",
+          "description": "受到的治疗效果提升20%，生命值低于一半时提升至40%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2906,
+        "atk": 816,
+        "def": 451,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战地巨斧",
+          "description": "攻击力和防御力提升10%，每再阻挡一个敌人提升4%"
+        },
+        {
+          "name": "医学背景",
+          "description": "受到的治疗效果提升20%，生命值低于一半时提升至40%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2906,
+        "atk": 816,
+        "def": 451,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战地巨斧",
+          "description": "攻击力和防御力提升12%（+2%），每再阻挡一个敌人提升5%（+1%）"
+        },
+        {
+          "name": "医学背景",
+          "description": "受到的治疗效果提升20%，生命值低于一半时提升至40%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2906,
+        "atk": 844.0,
+        "def": 451,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战地巨斧",
+          "description": "攻击力和防御力提升12%（+2%），每再阻挡一个敌人提升5%（+1%）"
+        },
+        {
+          "name": "医学背景",
+          "description": "受到的治疗效果提升20%，生命值低于一半时提升至40%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2906,
+        "atk": 844.0,
+        "def": 451,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战地巨斧",
+          "description": "攻击力和防御力提升12%（+2%），每再阻挡一个敌人提升5%（+1%）"
+        },
+        {
+          "name": "医学背景",
+          "description": "受到的治疗效果提升25%（+5%），生命值低于一半时提升至45%（+5%）"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2906,
+        "atk": 844.0,
+        "def": 451,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战地巨斧",
+          "description": "攻击力和防御力提升12%（+2%），每再阻挡一个敌人提升5%（+1%）"
+        },
+        {
+          "name": "医学背景",
+          "description": "受到的治疗效果提升25%（+5%），生命值低于一半时提升至45%（+5%）"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+28",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "精准痛击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，每次攻击治疗自身相当于造成伤害35%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+65%，每次攻击治疗自身相当于造成伤害35%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，每次攻击治疗自身相当于造成伤害35%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，每次攻击治疗自身相当于造成伤害40%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "链锯强袭",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+140%，防御力+40%；攻击到未被阻挡的敌人时，将其中等力度地拖拽至面前",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 25,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+150%，防御力+40%；攻击到未被阻挡的敌人时，将其中等力度地拖拽至面前",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 25,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+165%，防御力+40%；攻击到未被阻挡的敌人时，将其中等力度地拖拽至面前",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 25,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+180%，防御力+50%；攻击到未被阻挡的敌人时，将其中等力度地拖拽至面前",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "丛林之魂",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+100%，攻击速度+80，阻挡数+2，技能期间暂时只受到50%的伤害，其余伤害延后至技能结束，变为持续20秒等量的生命流失效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 21,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+110%，攻击速度+80，阻挡数+2，技能期间暂时只受到50%的伤害，其余伤害延后至技能结束，变为持续20秒等量的生命流失效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 22,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+120%，攻击速度+80，阻挡数+2，技能期间暂时只受到50%的伤害，其余伤害延后至技能结束，变为持续20秒等量的生命流失效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 23,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+140%，攻击速度+100，阻挡数+2，技能期间暂时只受到50%的伤害，其余伤害延后至技能结束，变为持续20秒等量的生命流失效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

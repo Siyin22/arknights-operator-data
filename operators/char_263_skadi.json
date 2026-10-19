@@ -1,0 +1,309 @@
+{
+  "id": "char_263_skadi",
+  "name": "斯卡蒂",
+  "english": "Skadi",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3866,
+        "atk": 1095,
+        "def": 303,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海掠食者",
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+14%"
+        },
+        {
+          "name": "迅捷出击",
+          "description": "自身再部署时间-10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3866,
+        "atk": 1095,
+        "def": 303,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海掠食者",
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+14%"
+        },
+        {
+          "name": "迅捷出击",
+          "description": "自身再部署时间-10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3866,
+        "atk": 1095,
+        "def": 303,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海掠食者",
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+14%"
+        },
+        {
+          "name": "迅捷出击",
+          "description": "自身再部署时间-10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3866,
+        "atk": 1128.0,
+        "def": 303,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海掠食者",
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+14%"
+        },
+        {
+          "name": "迅捷出击",
+          "description": "自身再部署时间-10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3866,
+        "atk": 1128.0,
+        "def": 303,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海掠食者",
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+16%（+2%）"
+        },
+        {
+          "name": "迅捷出击",
+          "description": "自身再部署时间-10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3866,
+        "atk": 1128.0,
+        "def": 303,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深海掠食者",
+          "description": "编入队伍时，所有【深海猎人】干员的攻击力+16%（+2%）"
+        },
+        {
+          "name": "迅捷出击",
+          "description": "自身再部署时间-10秒"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+33",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "跃浪击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后-1秒内攻击力+120%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后-1秒内攻击力+135%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后-1秒内攻击力+150%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后-1秒内攻击力+170%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "涌潮悲歌",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力、防御力和生命上限各+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 60,
+          "charges": 1,
+          "duration": "41 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力、防御力和生命上限各+110%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 63,
+          "charges": 1,
+          "duration": "44 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力、防御力和生命上限各+120%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 66,
+          "charges": 1,
+          "duration": "47 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力、防御力和生命上限各+130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 70,
+          "charges": 1,
+          "duration": "50 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

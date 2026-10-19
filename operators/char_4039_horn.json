@@ -1,0 +1,309 @@
+{
+  "id": "char_4039_horn",
+  "name": "号角",
+  "english": "Horn",
+  "rarity": 6,
+  "profession": "重装",
+  "branch": "要塞",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3367,
+        "atk": 1006,
+        "def": 620,
+        "magicResistance": 0,
+        "cost": 28,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军事要塞",
+          "description": "在场时所有重装干员的攻击力+20%"
+        },
+        {
+          "name": "血战",
+          "description": "被击倒时不撤退，恢复所有生命且生命上限-50%，攻击速度+18、防御力+18%（单次部署只触发一次）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3367,
+        "atk": 1006,
+        "def": 620,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军事要塞",
+          "description": "在场时所有重装干员的攻击力+20%"
+        },
+        {
+          "name": "血战",
+          "description": "被击倒时不撤退，恢复所有生命且生命上限-50%，攻击速度+18、防御力+18%（单次部署只触发一次）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3367,
+        "atk": 1006,
+        "def": 620,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军事要塞",
+          "description": "在场时所有重装干员的攻击力+23%（+3%）"
+        },
+        {
+          "name": "血战",
+          "description": "被击倒时不撤退，恢复所有生命且生命上限-50%，攻击速度+18、防御力+18%（单次部署只触发一次）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3367,
+        "atk": 1036.0,
+        "def": 620,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军事要塞",
+          "description": "在场时所有重装干员的攻击力+23%（+3%）"
+        },
+        {
+          "name": "血战",
+          "description": "被击倒时不撤退，恢复所有生命且生命上限-50%，攻击速度+18、防御力+18%（单次部署只触发一次）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3367,
+        "atk": 1036.0,
+        "def": 620,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军事要塞",
+          "description": "在场时所有重装干员的攻击力+23%（+3%）"
+        },
+        {
+          "name": "血战",
+          "description": "被击倒时不撤退，恢复所有生命且生命上限-50%，攻击速度+21（+3）、防御力+21%（+3%）（单次部署只触发一次）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3367,
+        "atk": 1036.0,
+        "def": 620,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "军事要塞",
+          "description": "在场时所有重装干员的攻击力+23%（+3%）"
+        },
+        {
+          "name": "血战",
+          "description": "被击倒时不撤退，恢复所有生命且生命上限-50%，攻击速度+21（+3）、防御力+21%（+3%）（单次部署只触发一次）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+30",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "照明榴弹",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击时造成220%攻击力的物理伤害，若为远程攻击则溅射范围扩大且在周围产生一个持续7秒的照明区域使敌人隐匿失效\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击时造成240%攻击力的物理伤害，若为远程攻击则溅射范围扩大且在周围产生一个持续7秒的照明区域使敌人隐匿失效\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击时造成260%攻击力的物理伤害，若为远程攻击则溅射范围扩大且在周围产生一个持续7秒的照明区域使敌人隐匿失效\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击时造成280%攻击力的物理伤害，若为远程攻击则溅射范围扩大且在周围产生一个持续8秒的照明区域使敌人隐匿失效\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "暴风号令",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击造成190%攻击力的物理溅射伤害\n过载：每次攻击额外造成40%攻击力的法术溅射伤害，主动关闭时发射剩余全部弹药并流失60%生命值\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 15,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击造成200%攻击力的物理溅射伤害\n过载：每次攻击额外造成50%攻击力的法术溅射伤害，主动关闭时发射剩余全部弹药并流失60%生命值\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 18,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击造成220%攻击力的物理溅射伤害\n过载：每次攻击额外造成50%攻击力的法术溅射伤害，主动关闭时发射剩余全部弹药并流失60%生命值\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 18,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击造成240%攻击力的物理溅射伤害\n过载：每次攻击额外造成60%攻击力的法术溅射伤害，主动关闭时发射剩余全部弹药并流失60%生命值\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 18,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "终极防线",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，攻击间隔大幅缩短\n过载：攻击力改为+80%，逐渐流失生命（12秒后到达最大生命12%/秒）该技能可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+50%，攻击间隔大幅缩短\n过载：攻击力改为+100%，逐渐流失生命（12秒后到达最大生命12%/秒）该技能可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 25,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+60%，攻击间隔大幅缩短\n过载：攻击力改为+120%，逐渐流失生命（12秒后到达最大生命12%/秒）该技能可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 25,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+70%，攻击间隔大幅缩短\n过载：攻击力改为+140%，逐渐流失生命（12秒后到达最大生命12%/秒）该技能可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "24 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

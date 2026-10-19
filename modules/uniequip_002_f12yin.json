@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_f12yin",
+  "name": "“自由的代价”",
+  "type": "FGT-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有23%的几率攻击力提升至165%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有23%的几率攻击力提升至165%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有23%的几率攻击力提升至165%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有23%的几率攻击力提升至165%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有23%的几率攻击力提升至170%（+5%），并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有23%的几率攻击力提升至170%（+5%），并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有25%的几率攻击力提升至170%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有25%的几率攻击力提升至170%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有25%的几率攻击力提升至170%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有25%的几率攻击力提升至170%，并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有25%的几率攻击力提升至175%（+5%），并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "巨力重拳",
+            "description": "攻击时有25%的几率攻击力提升至175%（+5%），并在3秒内使目标攻击力降低15%（不可叠加）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_264_f12yin",
+  "operator_name": "山",
+  "profession": "近卫",
+  "branch": "斗士"
+}

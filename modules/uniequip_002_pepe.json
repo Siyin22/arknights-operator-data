@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_pepe",
+  "name": "晴雨",
+  "type": "HAM-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 87.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 102.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复14点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复14点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复14点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复14点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复17（+3）点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复17（+3）点",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 113.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复17点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复17点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复17点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复17点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复20（+3）点",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "溅射范围内有大于或等于3个敌人时，使当次攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "往昔传承",
+            "description": "技能期间每击倒1名敌人，技能结束时获得2点技力，至多回复20（+3）点",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4058_pepe",
+  "operator_name": "佩佩",
+  "profession": "近卫",
+  "branch": "撼地者"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_threye",
+  "name": "启行未来的灯",
+  "type": "RIT-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 95.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 29.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+9%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+9%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+9%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+9%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+10%（+1%），攻击速度+7（+1），攻击凋亡损伤爆发期间的目标时使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+10%（+1%），攻击速度+7（+1），攻击凋亡损伤爆发期间的目标时使其停顿0.8秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 145.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+11%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿1.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+11%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿1.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+11%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿1.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+11%，攻击速度+6，攻击凋亡损伤爆发期间的目标时使其停顿1.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+12%（+1%），攻击速度+7（+1），攻击凋亡损伤爆发期间的目标时使其停顿1.2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "隐居者",
+            "description": "攻击力+12%（+1%），攻击速度+7（+1），攻击凋亡损伤爆发期间的目标时使其停顿1.2秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4102_threye",
+  "operator_name": "凛视",
+  "profession": "辅助",
+  "branch": "巫役"
+}

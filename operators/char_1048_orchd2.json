@@ -1,0 +1,309 @@
+{
+  "id": "char_1048_orchd2",
+  "name": "焰狐龙梓兰",
+  "english": "Violet Mizutsune Orchid",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "重射手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "快速复活"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1788,
+        "atk": 942,
+        "def": 231,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强击瓶专家",
+          "description": "部署后首次开启技能时，接下来50次攻击的攻击力提升至115%"
+        },
+        {
+          "name": "翔虫机动",
+          "description": "再部署时间-15秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+15%并且可以部署在近战位"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1788,
+        "atk": 942,
+        "def": 231,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强击瓶专家",
+          "description": "部署后首次开启技能时，接下来50次攻击的攻击力提升至115%"
+        },
+        {
+          "name": "翔虫机动",
+          "description": "再部署时间-15秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+15%并且可以部署在近战位"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1788,
+        "atk": 942,
+        "def": 231,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强击瓶专家",
+          "description": "部署后首次开启技能时，接下来50次攻击的攻击力提升至115%"
+        },
+        {
+          "name": "翔虫机动",
+          "description": "再部署时间-15秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+15%并且可以部署在近战位"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1788,
+        "atk": 972.0,
+        "def": 231,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强击瓶专家",
+          "description": "部署后首次开启技能时，接下来50次攻击的攻击力提升至115%"
+        },
+        {
+          "name": "翔虫机动",
+          "description": "再部署时间-15秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+15%并且可以部署在近战位"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1788,
+        "atk": 972.0,
+        "def": 231,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强击瓶专家",
+          "description": "部署后首次开启技能时，接下来50次攻击的攻击力提升至120%（+5%）"
+        },
+        {
+          "name": "翔虫机动",
+          "description": "再部署时间-15秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+15%并且可以部署在近战位"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1788,
+        "atk": 972.0,
+        "def": 231,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强击瓶专家",
+          "description": "部署后首次开启技能时，接下来50次攻击的攻击力提升至120%（+5%）"
+        },
+        {
+          "name": "翔虫机动",
+          "description": "再部署时间-15秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+15%并且可以部署在近战位"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "刚射",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "发射4支攻击力120%的箭矢，若还有充能则额外消耗1层施展刚连射：发射5支攻击力160%的箭矢，每支箭矢有20%概率使目标晕眩2秒\n可充能3次，充能至最大层数时自动释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 10,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "发射4支攻击力130%的箭矢，若还有充能则额外消耗1层施展刚连射：发射5支攻击力180%的箭矢，每支箭矢有20%概率使目标晕眩2秒\n可充能3次，充能至最大层数时自动释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 11,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "发射4支攻击力145%的箭矢，若还有充能则额外消耗1层施展刚连射：发射5支攻击力180%的箭矢，每支箭矢有20%概率使目标晕眩2秒\n可充能4次，充能至最大层数时自动释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 12,
+          "charges": 4,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "发射4支攻击力160%的箭矢，若还有充能则额外消耗1层施展刚连射：发射5支攻击力200%的箭矢，每支箭矢有20%概率使目标晕眩2秒\n可充能4次，充能至最大层数时自动释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 14,
+          "charges": 4,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "飞翔瞪射",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻起飞并对前方范围的所有目标射击3次，分别射出3、4、5支攻击力提升至150%的箭矢；之后降落并对前方小范围内的所有敌人造成攻击力270%的物理伤害\n可充能3次，部署后立即释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 14,
+          "charges": 3,
+          "duration": "4.2 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻起飞并对前方范围的所有目标射击3次，分别射出3、4、5支攻击力提升至160%的箭矢；之后降落并对前方小范围内的所有敌人造成攻击力280%的物理伤害\n可充能3次，部署后立即释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 3,
+          "duration": "4.2 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻起飞并对前方范围的所有目标射击3次，分别射出3、4、5支攻击力提升至170%的箭矢；之后降落并对前方小范围内的所有敌人造成攻击力290%的物理伤害\n可充能3次，部署后立即释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 16,
+          "charges": 3,
+          "duration": "4.2 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻起飞并对前方范围的所有目标射击3次，分别射出3、4、5支攻击力提升至180%的箭矢；之后降落并对前方小范围内的所有敌人造成攻击力300%的物理伤害\n可充能3次，部署后立即释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 17,
+          "charges": 3,
+          "duration": "4.2 秒"
+        }
+      ]
+    },
+    {
+      "name": "龙之箭",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "蓄力3秒后射出直线飞行的贯穿箭矢，箭矢以中等力度推动每个经过的敌人，每飞行一段距离都会对周围所有敌人造成攻击力300%的物理伤害和攻击力40%的法术伤害，箭矢射程无限\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 20,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "蓄力3秒后射出直线飞行的贯穿箭矢，箭矢以中等力度推动每个经过的敌人，每飞行一段距离都会对周围所有敌人造成攻击力320%的物理伤害和攻击力45%的法术伤害，箭矢射程无限\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 25,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "蓄力3秒后射出直线飞行的贯穿箭矢，箭矢以中等力度推动每个经过的敌人，每飞行一段距离都会对周围所有敌人造成攻击力340%的物理伤害和攻击力50%的法术伤害，箭矢射程无限\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 28,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "蓄力3秒后射出直线飞行的贯穿箭矢，箭矢以较大力度推动每个经过的敌人，每飞行一段距离都会对周围所有敌人造成攻击力360%的物理伤害和攻击力60%的法术伤害，箭矢射程无限\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 30,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

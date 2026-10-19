@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_udflow",
+  "name": "基于咖啡的神经活性剂",
+  "type": "SPT-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到90点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到90点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到90点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到90点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到100（+10）点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到100（+10）点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到100点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到100点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到100点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到100点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到110（+10）点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "细胞活性抑制剂",
+            "description": "攻击使目标在3秒内每秒受到110（+10）点法术伤害（对【海怪】敌人伤害加倍）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4137_udflow",
+  "operator_name": "深巡",
+  "profession": "重装",
+  "branch": "哨戒铁卫"
+}

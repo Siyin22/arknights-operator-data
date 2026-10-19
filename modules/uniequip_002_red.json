@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_red",
+  "name": "神秘的道具包",
+  "type": "EXE-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成37%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成37%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成37%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成37%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成40%（+3%）攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成40%（+3%）攻击力的伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 74.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成40%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成40%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成40%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成40%攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成43%（+3%）攻击力的伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "刺骨",
+            "description": "每次攻击至少造成43%（+3%）攻击力的伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_144_red",
+  "operator_name": "红",
+  "profession": "特种",
+  "branch": "处决者"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_hodrer",
+  "name": "笔迹",
+  "type": "CRU-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 110.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 140.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至120%，若目标处于晕眩、束缚则改为提升至150%，且对阻挡的敌人首次造成伤害时对其造成1.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至120%，若目标处于晕眩、束缚则改为提升至150%，且对阻挡的敌人首次造成伤害时对其造成1.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至120%，若目标处于晕眩、束缚则改为提升至150%，且对阻挡的敌人首次造成伤害时对其造成1.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至120%，若目标处于晕眩、束缚则改为提升至150%，且对阻挡的敌人首次造成伤害时对其造成1.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至120%，若目标处于晕眩、束缚则改为提升至150%，且对阻挡的敌人首次造成伤害时对其造成1.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至120%，若目标处于晕眩、束缚则改为提升至150%，且对阻挡的敌人首次造成伤害时对其造成1.5秒晕眩效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 400.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 160.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至130%，若目标处于晕眩、束缚则改为提升至160%，且对阻挡的敌人首次造成伤害时对其造成2.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至130%，若目标处于晕眩、束缚则改为提升至160%，且对阻挡的敌人首次造成伤害时对其造成2.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至130%，若目标处于晕眩、束缚则改为提升至160%，且对阻挡的敌人首次造成伤害时对其造成2.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至130%，若目标处于晕眩、束缚则改为提升至160%，且对阻挡的敌人首次造成伤害时对其造成2.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至130%，若目标处于晕眩、束缚则改为提升至160%，且对阻挡的敌人首次造成伤害时对其造成2.5秒晕眩效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对被阻挡的敌人伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "及锋而试",
+            "description": "攻击敌人时攻击力提升至130%，若目标处于晕眩、束缚则改为提升至160%，且对阻挡的敌人首次造成伤害时对其造成2.5秒晕眩效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4088_hodrer",
+  "operator_name": "赫德雷",
+  "profession": "近卫",
+  "branch": "重剑手"
+}

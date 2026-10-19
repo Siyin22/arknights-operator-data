@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_folnic",
+  "name": "母亲的领巾",
+  "type": "PHY-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-50%（+10%），攻击范围内的其他友方角色受到来自自然环境的伤害-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-50%（+10%），攻击范围内的其他友方角色受到来自自然环境的伤害-15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-40%，攻击范围内的其他友方角色受到来自自然环境的伤害-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-50%（+10%），攻击范围内的其他友方角色受到来自自然环境的伤害-25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "药物阻断技巧",
+            "description": "拥有抵抗且受到来自自然环境的伤害-50%（+10%），攻击范围内的其他友方角色受到来自自然环境的伤害-25%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_345_folnic",
+  "operator_name": "亚叶",
+  "profession": "医疗",
+  "branch": "医师"
+}

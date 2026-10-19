@@ -1,0 +1,309 @@
+{
+  "id": "char_4080_lin",
+  "name": "林",
+  "english": "Lin",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "阵法术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "群攻",
+    "防护"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2048,
+        "atk": 919,
+        "def": 282,
+        "magicResistance": 15.0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "计出万全",
+          "description": "拥有可以抵挡所有伤害的琉璃璧；琉璃璧在受到单次超过200点伤害时破碎，对周围所有敌人造成相当于林攻击力100%的法术伤害、使其晕眩1秒，并在8秒后再次生成"
+        },
+        {
+          "name": "韬光",
+          "description": "受到攻击时，有50%几率回复1点技力"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2048,
+        "atk": 919,
+        "def": 282,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "计出万全",
+          "description": "拥有可以抵挡所有伤害的琉璃璧；琉璃璧在受到单次超过200点伤害时破碎，对周围所有敌人造成相当于林攻击力100%的法术伤害、使其晕眩1秒，并在8秒后再次生成"
+        },
+        {
+          "name": "韬光",
+          "description": "受到攻击时，有50%几率回复1点技力"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2048,
+        "atk": 919,
+        "def": 282,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "计出万全",
+          "description": "拥有可以抵挡所有伤害的琉璃璧；琉璃璧在受到单次超过200点伤害时破碎，对周围所有敌人造成相当于林攻击力100%的法术伤害、使其晕眩1秒，并在8秒后再次生成"
+        },
+        {
+          "name": "韬光",
+          "description": "受到攻击时，有55%（+5%）几率回复1点技力"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2048,
+        "atk": 953.0,
+        "def": 282,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "计出万全",
+          "description": "拥有可以抵挡所有伤害的琉璃璧；琉璃璧在受到单次超过200点伤害时破碎，对周围所有敌人造成相当于林攻击力100%的法术伤害、使其晕眩1秒，并在8秒后再次生成"
+        },
+        {
+          "name": "韬光",
+          "description": "受到攻击时，有55%（+5%）几率回复1点技力"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2048,
+        "atk": 953.0,
+        "def": 282,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "计出万全",
+          "description": "拥有可以抵挡所有伤害的琉璃璧；琉璃璧在受到单次超过200点伤害时破碎，对周围所有敌人造成相当于林攻击力110%（+10%）的法术伤害、使其晕眩1秒，并在8秒后再次生成"
+        },
+        {
+          "name": "韬光",
+          "description": "受到攻击时，有55%（+5%）几率回复1点技力"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2048,
+        "atk": 953.0,
+        "def": 282,
+        "magicResistance": 15.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "计出万全",
+          "description": "拥有可以抵挡所有伤害的琉璃璧；琉璃璧在受到单次超过200点伤害时破碎，对周围所有敌人造成相当于林攻击力110%（+10%）的法术伤害、使其晕眩1秒，并在8秒后再次生成"
+        },
+        {
+          "name": "韬光",
+          "description": "受到攻击时，有55%（+5%）几率回复1点技力"
+        }
+      ],
+      "trait": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+34",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "玲珑",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "可以在下列状态和初始状态间切换：\n攻击间隔略微增大，攻击力+40%，攻击使目标停顿0.9秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "可以在下列状态和初始状态间切换：\n攻击间隔略微增大，攻击力+45%，攻击使目标停顿0.9秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "可以在下列状态和初始状态间切换：\n攻击间隔略微增大，攻击力+50%，攻击使目标停顿1.0秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "可以在下列状态和初始状态间切换：\n攻击间隔略微增大，攻击力+60%，攻击使目标停顿1.0秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "荫庇",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+90，自身不容易受到敌人攻击，技能期间使攻击范围内所有友方单位享受第一天赋效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+100，自身不容易受到敌人攻击，技能期间使攻击范围内所有友方单位享受第一天赋效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+110，自身不容易受到敌人攻击，技能期间使攻击范围内所有友方单位享受第一天赋效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+130，自身不容易受到敌人攻击，技能期间使攻击范围内所有友方单位享受第一天赋效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "流光乍裂",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+160%，攻击范围与琉璃璧的破碎伤害范围扩大，琉璃璧破碎的伤害阈值提升至2.5倍，每次攻击若击倒敌人则使身上的琉璃璧破碎并立刻生成\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 22,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+175%，攻击范围与琉璃璧的破碎伤害范围扩大，琉璃璧破碎的伤害阈值提升至2.5倍，每次攻击若击倒敌人则使身上的琉璃璧破碎并立刻生成\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 24,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+185%，攻击范围与琉璃璧的破碎伤害范围扩大，琉璃璧破碎的伤害阈值提升至2.5倍，每次攻击若击倒敌人则使身上的琉璃璧破碎并立刻生成\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 28,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+200%，攻击范围与琉璃璧的破碎伤害范围扩大，琉璃璧破碎的伤害阈值提升至3倍，每次攻击若击倒敌人则使身上的琉璃璧破碎并立刻生成\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

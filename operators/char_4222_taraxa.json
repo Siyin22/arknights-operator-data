@@ -1,0 +1,238 @@
+{
+  "id": "char_4222_taraxa",
+  "name": "风絮",
+  "english": "Taraxacum",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "守望者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1810,
+        "atk": 505,
+        "def": 205,
+        "magicResistance": 0,
+        "cost": 18,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定风絮",
+          "description": "攻击范围内飞行的友方单位获得10%的庇护，阻挡数+1"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 1810,
+        "atk": 505,
+        "def": 205,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定风絮",
+          "description": "攻击范围内飞行的友方单位获得10%的庇护，阻挡数+1"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 1810,
+        "atk": 505,
+        "def": 205,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定风絮",
+          "description": "攻击范围内飞行的友方单位获得10%的庇护，阻挡数+1"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 1810,
+        "atk": 505,
+        "def": 225.0,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定风絮",
+          "description": "攻击范围内飞行的友方单位获得10%的庇护，阻挡数+1"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 1810,
+        "atk": 505,
+        "def": 225.0,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定风絮",
+          "description": "攻击范围内飞行的友方单位获得12%（+2%）的庇护，阻挡数+1"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 1810,
+        "atk": 505,
+        "def": 225.0,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定风絮",
+          "description": "攻击范围内飞行的友方单位获得12%（+2%）的庇护，阻挡数+1"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+20",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "何处着",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻起飞，攻击间隔大幅度缩短，每次随机回复攻击范围内已受伤的一名单位相当于攻击力50%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 30,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻起飞，攻击间隔大幅度缩短，每次随机回复攻击范围内已受伤的一名单位相当于攻击力53%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 58,
+          "initial": 30,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻起飞，攻击间隔大幅度缩短，每次随机回复攻击范围内已受伤的一名单位相当于攻击力56%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 56,
+          "initial": 30,
+          "charges": 1,
+          "duration": "45 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻起飞，攻击间隔大幅度缩短，每次随机回复攻击范围内已受伤的一名单位相当于攻击力60%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 30,
+          "charges": 1,
+          "duration": "45 秒"
+        }
+      ]
+    },
+    {
+      "name": "扶风起",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻起飞，攻击力+105%，可以额外治疗一名起飞的干员，治疗目标时对目标周围的至多2名单位造成攻击力50%的治疗效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻起飞，攻击力+111%，可以额外治疗一名起飞的干员，治疗目标时对目标周围的至多2名单位造成攻击力50%的治疗效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻起飞，攻击力+116%，可以额外治疗一名起飞的干员，治疗目标时对目标周围的至多2名单位造成攻击力50%的治疗效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻起飞，攻击力+120%，可以额外治疗一名起飞的干员，治疗目标时对目标周围的至多2名单位造成攻击力50%的治疗效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,308 @@
+{
+  "id": "char_4011_lessng",
+  "name": "止颂",
+  "english": "Lessing",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3882,
+        "atk": 1129,
+        "def": 277,
+        "magicResistance": 0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "苦痛专注",
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%"
+        },
+        {
+          "name": "痛楚砺刃",
+          "description": "受到伤害后，攻击力+12%，持续15秒（不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3882,
+        "atk": 1129,
+        "def": 277,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "苦痛专注",
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%"
+        },
+        {
+          "name": "痛楚砺刃",
+          "description": "受到伤害后，攻击力+12%，持续15秒（不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3882,
+        "atk": 1129,
+        "def": 277,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "苦痛专注",
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%"
+        },
+        {
+          "name": "痛楚砺刃",
+          "description": "受到伤害后，攻击力+12%，持续15秒（不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3882,
+        "atk": 1129,
+        "def": 277,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "苦痛专注",
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%"
+        },
+        {
+          "name": "痛楚砺刃",
+          "description": "受到伤害后，攻击力+12%，持续15秒（不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3882,
+        "atk": 1129,
+        "def": 277,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "苦痛专注",
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%"
+        },
+        {
+          "name": "痛楚砺刃",
+          "description": "受到伤害后，攻击力+16%（+4%），持续15秒（不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3882,
+        "atk": 1129,
+        "def": 277,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "苦痛专注",
+          "description": "阻挡时，受到来自非自身阻挡敌人的物理和法术伤害降低35%"
+        },
+        {
+          "name": "痛楚砺刃",
+          "description": "受到伤害后，攻击力+16%（+4%），持续15秒（不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强力击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至225%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至245%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至265%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至290%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "虔修对决",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后，第一天赋效果提升至2倍，攻击力+35%，攻击变为2连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "21 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后，第一天赋效果提升至2倍，攻击力+40%，攻击变为2连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后，第一天赋效果提升至2倍，攻击力+50%，攻击变为2连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后，第一天赋效果提升至2.2倍，攻击力+60%，攻击变为2连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "24 秒"
+        }
+      ]
+    },
+    {
+      "name": "苦修破誓",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "自身免疫异常状态，生命值+80%，攻击被阻挡目标时，造成相当于攻击力180%的物理伤害\n干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "自身免疫异常状态，生命值+90%，攻击被阻挡目标时，造成相当于攻击力190%的物理伤害\n干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 26,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "自身免疫异常状态，生命值+100%，攻击被阻挡目标时，造成相当于攻击力200%的物理伤害\n干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 28,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "自身免疫异常状态，生命值+110%，攻击被阻挡目标时，造成相当于攻击力220%的物理伤害\n干员处于异常状态时可以释放技能并清除异常状态，但会对自身造成600点法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

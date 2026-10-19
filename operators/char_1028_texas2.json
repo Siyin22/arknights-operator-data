@@ -1,0 +1,309 @@
+{
+  "id": "char_1028_texas2",
+  "name": "缄默德克萨斯",
+  "english": "Texas the Omertosa",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "处决者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "快速复活",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 659,
+        "def": 320,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "德克萨斯传统",
+          "description": "被动技能持续时间内攻击力+20%；首次击倒敌人时回复所有生命并重新释放被动技能"
+        },
+        {
+          "name": "德克萨斯剑术",
+          "description": "每次部署后击倒一名敌人之前，攻击速度+8，受到的所有伤害降低25%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 659,
+        "def": 320,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "德克萨斯传统",
+          "description": "被动技能持续时间内攻击力+20%；首次击倒敌人时回复所有生命并重新释放被动技能"
+        },
+        {
+          "name": "德克萨斯剑术",
+          "description": "每次部署后击倒一名敌人之前，攻击速度+8，受到的所有伤害降低25%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 681.0,
+        "def": 320,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "德克萨斯传统",
+          "description": "被动技能持续时间内攻击力+20%；首次击倒敌人时回复所有生命并重新释放被动技能"
+        },
+        {
+          "name": "德克萨斯剑术",
+          "description": "每次部署后击倒一名敌人之前，攻击速度+8，受到的所有伤害降低25%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 681.0,
+        "def": 320,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "德克萨斯传统",
+          "description": "被动技能持续时间内攻击力+20%；首次击倒敌人时回复所有生命并重新释放被动技能"
+        },
+        {
+          "name": "德克萨斯剑术",
+          "description": "每次部署后击倒一名敌人之前，攻击速度+8，受到的所有伤害降低25%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 681.0,
+        "def": 320,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "德克萨斯传统",
+          "description": "被动技能持续时间内攻击力+20%；首次击倒敌人时回复所有生命并重新释放被动技能"
+        },
+        {
+          "name": "德克萨斯剑术",
+          "description": "每次部署后击倒一名敌人之前，攻击速度+10（+2），受到的所有伤害降低30%（+5%）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 681.0,
+        "def": 320,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "德克萨斯传统",
+          "description": "被动技能持续时间内攻击力+20%；首次击倒敌人时回复所有生命并重新释放被动技能"
+        },
+        {
+          "name": "德克萨斯剑术",
+          "description": "每次部署后击倒一名敌人之前，攻击速度+10（+2），受到的所有伤害降低30%（+5%）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "攻击力+22",
+    "再部署时间-2秒",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "细雨无声",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击力+55%，攻击使命中目标失去特殊能力8秒，期间目标每秒受到320点法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击力+60%，攻击使命中目标失去特殊能力8秒，期间目标每秒受到350点法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击力+65%，攻击使命中目标失去特殊能力8秒，期间目标每秒受到380点法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击力+70%，攻击使命中目标失去特殊能力10秒，期间目标每秒受到400点法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    },
+    {
+      "name": "阵雨连绵",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力180%的法术伤害，并使命中目标在10秒内法术抗性-20%；攻击力+40%，攻击变为二连击并造成法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力200%的法术伤害，并使命中目标在10秒内法术抗性-25%；攻击力+45%，攻击变为二连击并造成法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力220%的法术伤害，并使命中目标在10秒内法术抗性-30%；攻击力+50%，攻击变为二连击并造成法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力240%的法术伤害，并使命中目标在10秒内法术抗性-30%；攻击力+55%，攻击变为二连击并造成法术伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    },
+    {
+      "name": "剑雨滂沱",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即对周围所有敌人造成两次相当于攻击力130%的法术伤害并使目标晕眩1.5秒，之后每秒释放剑雨攻击范围内最多3个不同的目标，造成攻击力100%的法术伤害和0.2秒晕眩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即对周围所有敌人造成两次相当于攻击力135%的法术伤害并使目标晕眩2秒，之后每秒释放剑雨攻击范围内最多3个不同的目标，造成攻击力110%的法术伤害和0.2秒晕眩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即对周围所有敌人造成两次相当于攻击力150%的法术伤害并使目标晕眩2秒，之后每秒释放剑雨攻击范围内最多3个不同的目标，造成攻击力120%的法术伤害和0.2秒晕眩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即对周围所有敌人造成两次相当于攻击力165%的法术伤害并使目标晕眩2秒，之后每秒释放剑雨攻击范围内最多4个不同的目标，造成攻击力130%的法术伤害和0.2秒晕眩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

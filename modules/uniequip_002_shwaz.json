@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_shwaz",
+  "name": "定制弩配件套装",
+  "type": "ARC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+13%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "交叉火力",
+            "description": "携带黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+15%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_340_shwaz",
+  "operator_name": "黑",
+  "profession": "狙击",
+  "branch": "重射手"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_thorn2",
+  "name": "三面的金币",
+  "type": "ALC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+10%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+10%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+10%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+10%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+14%（+4%），攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长5（+1）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+14%（+4%），攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长5（+1）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+15%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+15%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+15%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+15%，攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+19%（+4%），攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长5（+1）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "场上存在炼金单元时，技力自然恢复速度+0.1/秒",
+            "condition": ""
+          },
+          {
+            "name": "心相",
+            "description": "攻击力+19%（+4%），攻击范围内存在其他干员时，自身投掷的炼金单元持续时间延长5（+1）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1039_thorn2",
+  "operator_name": "引星棘刺",
+  "profession": "特种",
+  "branch": "炼金师"
+}

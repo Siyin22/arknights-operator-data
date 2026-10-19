@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_surtr",
+  "name": "萨米的不灭心脏碎片",
+  "type": "AFT-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标24法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标24法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标24法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标24法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标26（+2）法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标26（+2）法术抗性",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标26法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标26法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标26法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标26法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标28（+2）法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熔火",
+            "description": "无视攻击目标28（+2）法术抗性",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_350_surtr",
+  "operator_name": "史尔特尔",
+  "profession": "近卫",
+  "branch": "术战者"
+}

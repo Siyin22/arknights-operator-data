@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_shining",
+  "name": "“使徒”",
+  "type": "PHY-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 13.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 17.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+15，装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+15，装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+15%攻击力，装备技能3时技力自然回复速度+0.45/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 63.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+15，装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+15，装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "法典",
+            "description": "攻击速度+18（+3），装备技能2时获得+25%攻击力，装备技能3时技力自然回复速度+0.6/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_147_shining",
+  "operator_name": "闪灵",
+  "profession": "医疗",
+  "branch": "医师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_hpsts",
+  "name": "锻椎者",
+  "type": "UNY-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值5%（+1%）的生命，同时获得30%（+5%）的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复30％最大生命值。之后技能持续期间每秒恢复最大生命值5%（+1%）的生命，同时获得30%（+5%）的近战物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 385.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值4%的生命，同时获得25%的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值5%（+1%）的生命，同时获得30%（+5%）的近战物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "自我防护",
+            "description": "技能开启时，立即恢复60％最大生命值。之后技能持续期间每秒恢复最大生命值5%（+1%）的生命，同时获得30%（+5%）的近战物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_163_hpsts",
+  "operator_name": "火神",
+  "profession": "重装",
+  "branch": "不屈者"
+}

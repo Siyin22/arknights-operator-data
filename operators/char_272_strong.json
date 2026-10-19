@@ -1,0 +1,239 @@
+{
+  "id": "char_272_strong",
+  "name": "孑",
+  "english": "Jaye",
+  "rarity": 4,
+  "profession": "特种",
+  "branch": "行商",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "快速复活",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 714,
+        "def": 378,
+        "magicResistance": 0,
+        "cost": 7,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "解剖高手",
+          "description": "攻击【感染生物】时，攻击力提升至145%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 714,
+        "def": 378,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "解剖高手",
+          "description": "攻击【感染生物】时，攻击力提升至145%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 714,
+        "def": 378,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "解剖高手",
+          "description": "攻击【感染生物】时，攻击力提升至145%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 737.0,
+        "def": 378,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "解剖高手",
+          "description": "攻击【感染生物】时，攻击力提升至145%"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 737.0,
+        "def": 378,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "解剖高手",
+          "description": "攻击【感染生物】时，攻击力提升至150%（+5%）"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2484,
+        "atk": 737.0,
+        "def": 378,
+        "magicResistance": 0,
+        "cost": 5.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "解剖高手",
+          "description": "攻击【感染生物】时，攻击力提升至150%（+5%）"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-3秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "断螯",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+45%，攻击目标失去特殊能力1秒\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+50%，攻击目标失去特殊能力2秒\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+60%，攻击目标失去特殊能力2秒\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+70%，攻击目标失去特殊能力2秒\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "刺身拼盘",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，每次攻击治疗周围一名友方单位相当于造成伤害40%的生命值\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+50%，每次攻击治疗周围一名友方单位相当于造成伤害40%的生命值\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+55%，每次攻击治疗周围一名友方单位相当于造成伤害45%的生命值\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+60%，每次攻击治疗周围一名友方单位相当于造成伤害50%的生命值\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

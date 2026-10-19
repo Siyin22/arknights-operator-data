@@ -1,0 +1,239 @@
+{
+  "id": "char_252_bibeak",
+  "name": "柏喙",
+  "english": "Bibeak",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "剑豪",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "爆发",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2550,
+        "atk": 682,
+        "def": 332,
+        "magicResistance": 0,
+        "cost": 22,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "摄魂",
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加5次）"
+        }
+      ],
+      "trait": "普通攻击连续造成两次伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2550,
+        "atk": 682,
+        "def": 332,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "摄魂",
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加5次）"
+        }
+      ],
+      "trait": "普通攻击连续造成两次伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2550,
+        "atk": 682,
+        "def": 332,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "摄魂",
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加5次）"
+        }
+      ],
+      "trait": "普通攻击连续造成两次伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2550,
+        "atk": 704.0,
+        "def": 332,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "摄魂",
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加5次）"
+        }
+      ],
+      "trait": "普通攻击连续造成两次伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2550,
+        "atk": 704.0,
+        "def": 332,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "摄魂",
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加6次（+1））"
+        }
+      ],
+      "trait": "普通攻击连续造成两次伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2550,
+        "atk": 704.0,
+        "def": 332,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "摄魂",
+          "description": "每击杀一名敌人后获得+6攻击速度（最多叠加6次（+1））"
+        }
+      ],
+      "trait": "普通攻击连续造成两次伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+22",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "飞针剑羽",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至150%，且额外对前方另一名敌人造成攻击力150%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至160%，且额外对前方另一名敌人造成攻击力160%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至170%，且额外对前方另一名敌人造成攻击力170%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至180%，且额外对前方另一名敌人造成攻击力180%的法术伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "异刃斩",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对前方范围内最多6名敌人造成相当于攻击力170%的法术伤害，并令其晕眩1.2秒\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 2,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "对前方范围内最多6名敌人造成相当于攻击力180%的法术伤害，并令其晕眩1.4秒\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 9,
+          "initial": 3,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "对前方范围内最多6名敌人造成相当于攻击力190%的法术伤害，并令其晕眩1.6秒\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 8,
+          "initial": 4,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "对前方范围内最多6名敌人造成相当于攻击力200%的法术伤害，并令其晕眩1.8秒\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 5,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

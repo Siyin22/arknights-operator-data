@@ -1,0 +1,239 @@
+{
+  "id": "char_355_ethan",
+  "name": "伊桑",
+  "english": "Ethan",
+  "rarity": 4,
+  "profession": "特种",
+  "branch": "伏击客",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 742,
+        "def": 337,
+        "magicResistance": 30.0,
+        "cost": 19,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "缠绕",
+          "description": "攻击时有25%的几率使目标束缚3秒"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 742,
+        "def": 337,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "缠绕",
+          "description": "攻击时有25%的几率使目标束缚3秒"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 742,
+        "def": 337,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "缠绕",
+          "description": "攻击时有25%的几率使目标束缚3秒"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 2130.0,
+        "atk": 742,
+        "def": 337,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "缠绕",
+          "description": "攻击时有25%的几率使目标束缚3秒"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 2130.0,
+        "atk": 742,
+        "def": 337,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "缠绕",
+          "description": "攻击时有25%的几率使目标束缚3秒"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 2130.0,
+        "atk": 742,
+        "def": 337,
+        "magicResistance": 30.0,
+        "cost": 17.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "缠绕",
+          "description": "攻击时有25%的几率使目标束缚3秒"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+150",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "花式回旋",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "普通攻击时对击中目标额外造成每秒70的法术伤害，持续4秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "普通攻击时对击中目标额外造成每秒80的法术伤害，持续4秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "普通攻击时对击中目标额外造成每秒90的法术伤害，持续4秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "普通攻击时对击中目标额外造成每秒100的法术伤害，持续4秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "十字悬挂",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，天赋的触发几率提升至2.5倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+55%，天赋的触发几率提升至2.5倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+60%，天赋的触发几率提升至2.5倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+70%，天赋的触发几率提升至3.0倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

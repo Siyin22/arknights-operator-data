@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_orchd2",
+  "name": "梓兰特制箭靶",
+  "type": "ARC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 10.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 13.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-17秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-17秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-17秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-17秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-17秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-17秒且不提高部署费用；部署至上次部署位置周围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 120.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 16.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-18秒且不提高部署费用；部署至上次部署位置周围更大范围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-18秒且不提高部署费用；部署至上次部署位置周围更大范围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-18秒且不提高部署费用；部署至上次部署位置周围更大范围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-18秒且不提高部署费用；部署至上次部署位置周围更大范围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-18秒且不提高部署费用；部署至上次部署位置周围更大范围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "翔虫机动",
+            "description": "再部署时间-18秒且不提高部署费用；部署至上次部署位置周围更大范围时，30秒内攻击力+20%并且可以部署在近战位",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1048_orchd2",
+  "operator_name": "焰狐龙梓兰",
+  "profession": "狙击",
+  "branch": "重射手"
+}

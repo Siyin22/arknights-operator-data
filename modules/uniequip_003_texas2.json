@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_texas2",
+  "name": "“新车和新生活”",
+  "type": "EXE-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 46.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 62.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+12，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+12，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+12，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+12，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+14（+2），受到的所有伤害降低35%（+5%），击倒一名敌人之后使当次再部署时间-10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+14（+2），受到的所有伤害降低35%（+5%），击倒一名敌人之后使当次再部署时间-10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 69.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+15，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+15，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+15，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+15，受到的所有伤害降低30%，击倒一名敌人之后使当次再部署时间-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+17（+2），受到的所有伤害降低35%（+5%），击倒一名敌人之后使当次再部署时间-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯剑术",
+            "description": "每次部署后击倒一名敌人之前，攻击速度+17（+2），受到的所有伤害降低35%（+5%），击倒一名敌人之后使当次再部署时间-20%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1028_texas2",
+  "operator_name": "缄默德克萨斯",
+  "profession": "特种",
+  "branch": "处决者"
+}

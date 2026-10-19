@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_cello",
+  "name": "音乐家的旅程",
+  "type": "RIT-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到100点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到100点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到100点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到100点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高22%（+2%），凋亡损伤爆发期间每秒受到100点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高22%（+2%），凋亡损伤爆发期间每秒受到100点元素伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 240.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到150点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到150点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到150点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高20%，凋亡损伤爆发期间每秒受到150点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高22%（+2%），凋亡损伤爆发期间每秒受到150点元素伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人受到10%的元素脆弱",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "在场时，全场敌人受到的凋亡损伤提高22%（+2%），凋亡损伤爆发期间每秒受到150点元素伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_245_cello",
+  "operator_name": "塑心",
+  "profession": "辅助",
+  "branch": "巫役"
+}

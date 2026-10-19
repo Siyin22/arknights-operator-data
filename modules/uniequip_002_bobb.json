@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_bobb",
+  "name": "社工课程二手教材",
+  "type": "RIT-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力17%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力17%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力17%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力17%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力19%（+2%）的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力19%（+2%）的灼燃损伤",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力18%的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力20%（+2%）的灼燃损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "焦点诱导",
+            "description": "对每个敌人首次攻击时，使其在接下来的5秒内每秒受到相当于攻击力20%（+2%）的灼燃损伤",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_487_bobb",
+  "operator_name": "波卜",
+  "profession": "辅助",
+  "branch": "巫役"
+}

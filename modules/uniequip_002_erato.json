@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_erato",
+  "name": "改弦更张",
+  "type": "SIE-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 115.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的55%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "琴音入梦",
+            "description": "自身可以攻击沉睡的敌人，并且攻击沉睡敌人时无视其防御力的60%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4043_erato",
+  "operator_name": "埃拉托",
+  "profession": "狙击",
+  "branch": "攻城手"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "char_416_zumama",
+  "name": "森蚺",
+  "english": "Eunectes",
+  "rarity": 6,
+  "profession": "重装",
+  "branch": "决战者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4468,
+        "atk": 1077,
+        "def": 685,
+        "magicResistance": 0,
+        "cost": 33,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "勇冠三军",
+          "description": "生命值高于一半时，攻击造成115%伤害；生命值不高于一半时，获得20%的庇护"
+        },
+        {
+          "name": "愈战愈勇",
+          "description": "阻挡敌人时技力回复速度+0.2/秒"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4468,
+        "atk": 1077,
+        "def": 685,
+        "magicResistance": 0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "勇冠三军",
+          "description": "生命值高于一半时，攻击造成115%伤害；生命值不高于一半时，获得20%的庇护"
+        },
+        {
+          "name": "愈战愈勇",
+          "description": "阻挡敌人时技力回复速度+0.2/秒"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4468,
+        "atk": 1077,
+        "def": 685,
+        "magicResistance": 0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "勇冠三军",
+          "description": "生命值高于一半时，攻击造成115%伤害；生命值不高于一半时，获得20%的庇护"
+        },
+        {
+          "name": "愈战愈勇",
+          "description": "阻挡敌人时技力回复速度+0.2/秒"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4468,
+        "atk": 1077,
+        "def": 712.0,
+        "magicResistance": 0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "勇冠三军",
+          "description": "生命值高于一半时，攻击造成115%伤害；生命值不高于一半时，获得20%的庇护"
+        },
+        {
+          "name": "愈战愈勇",
+          "description": "阻挡敌人时技力回复速度+0.2/秒"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4468,
+        "atk": 1077,
+        "def": 712.0,
+        "magicResistance": 0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "勇冠三军",
+          "description": "生命值高于一半时，攻击造成117%（+2%）伤害；生命值不高于一半时，获得22%（+2%）的庇护"
+        },
+        {
+          "name": "愈战愈勇",
+          "description": "阻挡敌人时技力回复速度+0.2/秒"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4468,
+        "atk": 1077,
+        "def": 712.0,
+        "magicResistance": 0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "勇冠三军",
+          "description": "生命值高于一半时，攻击造成117%（+2%）伤害；生命值不高于一半时，获得22%（+2%）的庇护"
+        },
+        {
+          "name": "愈战愈勇",
+          "description": "阻挡敌人时技力回复速度+0.2/秒"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+27",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "轻型挂斧",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+18%，防御力+18%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+20%，防御力+20%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+22%，防御力+22%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+25%，防御力+25%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "震慑劈砍",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔略微增大，攻击力+130%，技能期间持续使阻挡的敌人全部晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 12,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔略微增大，攻击力+145%，技能期间持续使阻挡的敌人全部晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 13,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔略微增大，攻击力+160%，技能期间持续使阻挡的敌人全部晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 14,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔略微增大，攻击力+180%，技能期间持续使阻挡的敌人全部晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 15,
+          "charges": 1,
+          "duration": "18 秒"
+        }
+      ]
+    },
+    {
+      "name": "钢铁意志",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+170%，防御力+120%，阻挡数+2，每秒恢复3%生命\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 22,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+190%，防御力+130%，阻挡数+2，每秒恢复4%生命\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 48,
+          "initial": 23,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+210%，防御力+140%，阻挡数+2，每秒恢复5%生命\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 24,
+          "charges": 1,
+          "duration": "34 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+230%，防御力+160%，阻挡数+2，每秒恢复6%生命\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 25,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_rosmon",
+  "name": "“记事”",
+  "type": "BOM-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标190防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标190防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标190防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标190防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标205（+15）防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标205（+15）防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 275.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标220防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标220防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标220防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标220防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标235（+15）防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击对小范围的地面敌人造成三次物理伤害（后两次为余震，伤害降低至攻击力的50％）",
+            "condition": ""
+          },
+          {
+            "name": "歼灭战装备",
+            "description": "攻击无视目标235（+15）防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_391_rosmon",
+  "operator_name": "迷迭香",
+  "profession": "狙击",
+  "branch": "投掷手"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_497_ctable",
+  "name": "晓歌",
+  "english": "Cantabile",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "情报官",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1917,
+        "atk": 590,
+        "def": 297,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "万全",
+          "description": "未阻挡敌人时攻击速度+12，阻挡敌人时攻击力+12%"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1917,
+        "atk": 590,
+        "def": 297,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "万全",
+          "description": "未阻挡敌人时攻击速度+12，阻挡敌人时攻击力+12%"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1917,
+        "atk": 590,
+        "def": 297,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "万全",
+          "description": "未阻挡敌人时攻击速度+12，阻挡敌人时攻击力+12%"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1917,
+        "atk": 590,
+        "def": 297,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "万全",
+          "description": "未阻挡敌人时攻击速度+12，阻挡敌人时攻击力+12%"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1917,
+        "atk": 590,
+        "def": 297,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "万全",
+          "description": "未阻挡敌人时攻击速度+14（+2），阻挡敌人时攻击力+14%（+2%）"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1917,
+        "atk": 590,
+        "def": 297,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "万全",
+          "description": "未阻挡敌人时攻击速度+14（+2），阻挡敌人时攻击力+14%（+2%）"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+5",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "观火",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击力+70%，每次攻击时获得1点部署费用",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击力+80%，每次攻击时获得1点部署费用",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击力+90%，每次攻击时获得1点部署费用",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击力+100%，每次攻击时获得1点部署费用",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "浮光",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+28%，攻击速度+34，自身获得迷彩，每次攻击时获得1点部署费用。\n攻击装有15发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 20,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+32%，攻击速度+38，自身获得迷彩，每次攻击时获得1点部署费用。\n攻击装有16发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 20,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+36%，攻击速度+44，自身获得迷彩，每次攻击时获得1点部署费用。\n攻击装有17发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 20,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+40%，攻击速度+50，自身获得迷彩，每次攻击时获得1点部署费用。\n攻击装有18发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 20,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

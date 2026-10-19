@@ -1,0 +1,326 @@
+{
+  "id": "char_4229_aphris",
+  "name": "谬因",
+  "english": "Aphrissa",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "轰击术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "群攻",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1660,
+        "atk": 986,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 34,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "链路协议",
+          "description": "可以使用一个持续时间25秒的“中继器”，能改变自身的攻击方向，且使该次攻击距离+2；“中继器”在场时，自身攻击力+25%"
+        },
+        {
+          "name": "取样优化",
+          "description": "攻击范围内的友方干员攻击时无视敌方10点法术抗性"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1660,
+        "atk": 986,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "链路协议",
+          "description": "可以使用一个持续时间25秒的“中继器”，能改变自身的攻击方向，且使该次攻击距离+2；“中继器”在场时，自身攻击力+25%"
+        },
+        {
+          "name": "取样优化",
+          "description": "攻击范围内的友方干员攻击时无视敌方10点法术抗性"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1660,
+        "atk": 986,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "链路协议",
+          "description": "可以使用一个持续时间25秒的“中继器”，能改变自身的攻击方向，且使该次攻击距离+2；“中继器”在场时，自身攻击力+25%"
+        },
+        {
+          "name": "取样优化",
+          "description": "攻击范围内的友方干员攻击时无视敌方10点法术抗性"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1660,
+        "atk": 1021.0,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "链路协议",
+          "description": "可以使用一个持续时间25秒的“中继器”，能改变自身的攻击方向，且使该次攻击距离+2；“中继器”在场时，自身攻击力+25%"
+        },
+        {
+          "name": "取样优化",
+          "description": "攻击范围内的友方干员攻击时无视敌方10点法术抗性"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1660,
+        "atk": 1021.0,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "链路协议",
+          "description": "可以使用一个持续时间25秒的“中继器”，能改变自身的攻击方向，且使该次攻击距离+2；“中继器”在场时，自身攻击力+25%"
+        },
+        {
+          "name": "取样优化",
+          "description": "攻击范围内的友方干员攻击时无视敌方10点法术抗性"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1660,
+        "atk": 1021.0,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "链路协议",
+          "description": "可以使用一个持续时间25秒的“中继器”，能改变自身的攻击方向，且使该次攻击距离+2；“中继器”在场时，自身攻击力+25%"
+        },
+        {
+          "name": "取样优化",
+          "description": "攻击范围内的友方干员攻击时无视敌方13（+3）点法术抗性"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "部署费用-1",
+    "第二天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "连续映射",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+120%，“中继器”持续时间变为无限\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+135%，“中继器”持续时间变为无限\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+150%，“中继器”持续时间变为无限\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+165%，“中继器”持续时间变为无限\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "临界瞬爆",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向前发射一道无限长直线的光束，每0.5秒造成攻击力120%的法术伤害，光束可被我方干员改变方向",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "向前发射一道无限长直线的光束，每0.5秒造成攻击力130%的法术伤害，光束可被我方干员改变方向",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 15,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "向前发射一道无限长直线的光束，每0.5秒造成攻击力140%的法术伤害，光束可被我方干员改变方向",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 16,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "向前发射一道无限长直线的光束，每0.5秒造成攻击力150%的法术伤害，光束可被我方干员改变方向",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 16,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    },
+    {
+      "name": "混沌的本质",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启后停止攻击3秒，撤回已部署的“中继器”并重置再部署；攻击间隔较大幅度缩短，攻击力+115%，攻击造成155%的法术伤害，并使目标停顿0.4秒；攻击经过“中继器”后，额外造成一次攻击力30%的法术伤害，且停顿时间延长0.4秒\n技能期间可额外部署2个“中继器”，“中继器”不会撤退，技能结束时自动撤退\n攻击装有20发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 30,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启后停止攻击3秒，撤回已部署的“中继器”并重置再部署；攻击间隔较大幅度缩短，攻击力+125%，攻击造成170%的法术伤害，并使目标停顿0.4秒；攻击经过“中继器”后，额外造成一次攻击力30%的法术伤害，且停顿时间延长0.4秒\n技能期间可额外部署2个“中继器”，“中继器”不会撤退，技能结束时自动撤退\n攻击装有20发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 31,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启后停止攻击3秒，撤回已部署的“中继器”并重置再部署；攻击间隔较大幅度缩短，攻击力+135%，攻击造成185%的法术伤害，并使目标停顿0.4秒；攻击经过“中继器”后，额外造成一次攻击力30%的法术伤害，且停顿时间延长0.4秒\n技能期间可额外部署2个“中继器”，“中继器”不会撤退，技能结束时自动撤退\n攻击装有20发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 32,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启后停止攻击3秒，撤回已部署的“中继器”并重置再部署；攻击间隔较大幅度缩短，攻击力+145%，攻击造成200%的法术伤害，并使目标停顿0.4秒；攻击经过“中继器”后，额外造成一次攻击力30%的法术伤害，且停顿时间延长0.4秒\n技能期间可额外部署2个“中继器”，“中继器”不会撤退，技能结束时自动撤退\n攻击装有20发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 33,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "中继器",
+      "stats": {
+        "maxHp": 500,
+        "atk": 0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 30,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击，可部署在地面或高台位",
+      "skills": []
+    }
+  ]
+}

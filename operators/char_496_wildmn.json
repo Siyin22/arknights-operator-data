@@ -1,0 +1,239 @@
+{
+  "id": "char_496_wildmn",
+  "name": "野鬃",
+  "english": "Wild Mane",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "冲锋手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2225,
+        "atk": 628,
+        "def": 372,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "一致向前",
+          "description": "部署后，所有未部署的【近卫】干员的部署费用-1（每个干员每次被部署前，最多可被减少5费）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2225,
+        "atk": 628,
+        "def": 372,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "一致向前",
+          "description": "部署后，所有未部署的【近卫】干员的部署费用-1（每个干员每次被部署前，最多可被减少5费）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2225,
+        "atk": 628,
+        "def": 372,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "一致向前",
+          "description": "部署后，所有未部署的【近卫】干员的部署费用-1（每个干员每次被部署前，最多可被减少5费）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2225,
+        "atk": 628,
+        "def": 372,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "一致向前",
+          "description": "部署后，所有未部署的【近卫】干员的部署费用-1（每个干员每次被部署前，最多可被减少5费）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2225,
+        "atk": 628,
+        "def": 372,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "一致向前",
+          "description": "部署后，所有未部署的【近卫】干员的部署费用-1（每个干员每次被部署前，最多可被减少5费）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2225,
+        "atk": 628,
+        "def": 372,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "一致向前",
+          "description": "部署后，所有未部署的【近卫】干员的部署费用-1（每个干员每次被部署前，最多可被减少5费）"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "骑枪刺击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击速度+100",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击速度+110",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击速度+120",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击速度+135",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "夹枪冲锋",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+60%，攻击会把目标往攻击方向中等力度地推开",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+65%，攻击会把目标往攻击方向中等力度地推开",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 27,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+70%，攻击会把目标往攻击方向中等力度地推开",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 28,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+80%，攻击会把目标往攻击方向中等力度地推开",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

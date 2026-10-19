@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_helage",
+  "name": "藏锋",
+  "type": "SBL-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 230.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+120攻击速度的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+120攻击速度的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+120攻击速度的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+120攻击速度的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+120攻击速度的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+120攻击速度的坚忍（损失60%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 90.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+130攻击速度的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+130攻击速度的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+130攻击速度的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+130攻击速度的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+130攻击速度的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "月盈星亏",
+            "description": "在场时，自身获得最高+130攻击速度的坚忍（损失50%生命值时达到最大加成）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_188_helage",
+  "operator_name": "赫拉格",
+  "profession": "近卫",
+  "branch": "武者"
+}

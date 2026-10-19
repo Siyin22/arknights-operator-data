@@ -1,0 +1,239 @@
+{
+  "id": "char_4015_spuria",
+  "name": "空构",
+  "english": "Spuria",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "怪杰",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2093,
+        "atk": 707,
+        "def": 138,
+        "magicResistance": 10.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "装弹对比实验",
+          "description": "每次攻击时有70%概率触发下列效果之一：攻击变为二连击；目标晕眩1秒；攻击无视目标防御力的80%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2093,
+        "atk": 707,
+        "def": 138,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "装弹对比实验",
+          "description": "每次攻击时有70%概率触发下列效果之一：攻击变为二连击；目标晕眩1秒；攻击无视目标防御力的80%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2093,
+        "atk": 707,
+        "def": 138,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "装弹对比实验",
+          "description": "每次攻击时有70%概率触发下列效果之一：攻击变为二连击；目标晕眩1秒；攻击无视目标防御力的80%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2093,
+        "atk": 731.0,
+        "def": 138,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "装弹对比实验",
+          "description": "每次攻击时有70%概率触发下列效果之一：攻击变为二连击；目标晕眩1秒；攻击无视目标防御力的80%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2093,
+        "atk": 731.0,
+        "def": 138,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "装弹对比实验",
+          "description": "每次攻击时有70%概率触发下列效果之一：攻击变为二连击；目标晕眩1秒；攻击无视目标防御力的80%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2093,
+        "atk": 731.0,
+        "def": 138,
+        "magicResistance": 10.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "装弹对比实验",
+          "description": "每次攻击时有70%概率触发下列效果之一：攻击变为二连击；目标晕眩1秒；攻击无视目标防御力的80%"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "见机行事",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击速度+70",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击速度+80",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击速度+90",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击速度+100",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "24 秒"
+        }
+      ]
+    },
+    {
+      "name": "临场铳械改装",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "使自身和前方最近（优先选取正前方）的一名狙击干员的攻击力+20%，攻击速度+30，自身和该狙击干员攻击时有25%的概率陷入2.0秒晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 46,
+          "initial": 27,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "使自身和前方最近（优先选取正前方）的一名狙击干员的攻击力+20%，攻击速度+35，自身和该狙击干员攻击时有25%的概率陷入2.0秒晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 28,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "使自身和前方最近（优先选取正前方）的一名狙击干员的攻击力+25%，攻击速度+35，自身和该狙击干员攻击时有25%的概率陷入1.8秒晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 29,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "使自身和前方最近（优先选取正前方）的一名狙击干员的攻击力+30%，攻击速度+40，自身和该狙击干员攻击时有20%的概率陷入1.8秒晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

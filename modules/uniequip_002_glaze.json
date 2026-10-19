@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_glaze",
+  "name": "便携雷达的辅助器材",
+  "type": "DEA-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 65.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有36%（+3%）的几率使其晕眩2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有36%（+3%）的几率使其晕眩2.5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 95.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 81.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有33%的几率使其晕眩3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有36%（+3%）的几率使其晕眩3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "精确打击",
+            "description": "攻击原本攻击范围以外的目标时，有36%（+3%）的几率使其晕眩3秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_302_glaze",
+  "operator_name": "安比尔",
+  "profession": "狙击",
+  "branch": "神射手"
+}

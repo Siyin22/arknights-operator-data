@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_tachak",
+  "name": "轻机枪枪架",
+  "type": "SWO-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 49.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 49.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+20%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+20%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+20%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+20%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+25%（+5%），再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+25%（+5%），再部署时间+20秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+23%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+23%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+23%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+23%，再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+28%（+5%），再部署时间+20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "重火力",
+            "description": "攻击距离+2，防御力+28%（+5%），再部署时间+20秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_459_tachak",
+  "operator_name": "战车",
+  "profession": "近卫",
+  "branch": "剑豪"
+}

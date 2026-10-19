@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_totter",
+  "name": "雪花球",
+  "type": "SIE-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在隐匿敌人时，攻击力+25%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在隐匿敌人时，攻击力+25%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在拥有隐匿敌人时，攻击力+27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在隐匿敌人时，攻击力+30%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "目光如炬",
+            "description": "可以攻击隐匿敌人，并且攻击范围内存在隐匿敌人时，攻击力+30%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4062_totter",
+  "operator_name": "铅踝",
+  "profession": "狙击",
+  "branch": "攻城手"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_171_bldsk",
+  "name": "华法琳",
+  "english": "Warfarin",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "医师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1520,
+        "atk": 580,
+        "def": 125,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "血液样本回收",
+          "description": "攻击范围内有敌人倒下时，为自身和范围内随机一名友方单位回复2点技力"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1520,
+        "atk": 580,
+        "def": 125,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "血液样本回收",
+          "description": "攻击范围内有敌人倒下时，为自身和范围内随机一名友方单位回复2点技力"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1520,
+        "atk": 580,
+        "def": 125,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "血液样本回收",
+          "description": "攻击范围内有敌人倒下时，为自身和范围内随机一名友方单位回复2点技力"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1520,
+        "atk": 607.0,
+        "def": 125,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "血液样本回收",
+          "description": "攻击范围内有敌人倒下时，为自身和范围内随机一名友方单位回复2点技力"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1520,
+        "atk": 607.0,
+        "def": 125,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "血液样本回收",
+          "description": "攻击范围内有敌人倒下时，为自身和范围内随机一名友方单位回复2点技力"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1520,
+        "atk": 607.0,
+        "def": 125,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "血液样本回收",
+          "description": "攻击范围内有敌人倒下时，为自身和范围内随机一名友方单位回复2点技力"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "紧急包扎",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗额外回复目标最大生命值的19%\n只当目标生命值不满一半时才会触发，可充能3次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗额外回复目标最大生命值的21%\n只当目标生命值不满一半时才会触发，可充能3次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗额外回复目标最大生命值的23%\n只当目标生命值不满一半时才会触发，可充能3次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗额外回复目标最大生命值的25%\n只当目标生命值不满一半时才会触发，可充能4次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 4,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "不稳定血浆",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "自身和攻击范围内随机一名我方单位获得以下状态：\n攻击力+60%，每秒流失3%最大生命值，持续-1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 45,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "自身和攻击范围内随机一名我方单位获得以下状态：\n攻击力+70%，每秒流失3%最大生命值，持续-1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 45,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "自身和攻击范围内随机一名我方单位获得以下状态：\n攻击力+80%，每秒流失3%最大生命值，持续-1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 45,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "自身和攻击范围内随机一名我方单位获得以下状态：\n攻击力+90%，每秒流失3%最大生命值，持续-1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 50,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

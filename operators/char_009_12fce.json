@@ -1,0 +1,145 @@
+{
+  "id": "char_009_12fce",
+  "name": "12F",
+  "english": "12F",
+  "rarity": 2,
+  "profession": "术师",
+  "branch": "扩散术师",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "新手"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1461,
+        "atk": 482,
+        "def": 50,
+        "magicResistance": 10.0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "闪避率提升",
+          "description": "获得50%的物理闪避"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1461,
+        "atk": 482,
+        "def": 50,
+        "magicResistance": 10.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "闪避率提升",
+          "description": "获得50%的物理闪避"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1461,
+        "atk": 494.0,
+        "def": 50,
+        "magicResistance": 10.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "闪避率提升",
+          "description": "获得50%的物理闪避"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1461,
+        "atk": 494.0,
+        "def": 50,
+        "magicResistance": 10.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "闪避率提升",
+          "description": "获得50%的物理闪避"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1461,
+        "atk": 506.0,
+        "def": 50,
+        "magicResistance": 10.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "闪避率提升",
+          "description": "获得50%的物理闪避"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1461,
+        "atk": 506.0,
+        "def": 50,
+        "magicResistance": 10.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "闪避率提升",
+          "description": "获得50%的物理闪避"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "攻击力+12",
+    "再部署时间-5秒",
+    "攻击力+12",
+    "部署费用-1"
+  ],
+  "skills": [],
+  "tokens": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_broca",
+  "name": "“兄弟”",
+  "type": "CEN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+17%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+17%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+17%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+17%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+17%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+17%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+19%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "钻头强化",
+            "description": "阻挡两个以上敌人时，攻击力和防御力+19%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_356_broca",
+  "operator_name": "布洛卡",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

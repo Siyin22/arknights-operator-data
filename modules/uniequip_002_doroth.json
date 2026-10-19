@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_doroth",
+  "name": "童话书",
+  "type": "TRP-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得3%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得3%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得3%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得3%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得3%的攻击力，最多叠加12（+2）层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得3%的攻击力，最多叠加12（+2）层",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 57.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得4%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得4%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得4%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得4%的攻击力，最多叠加10层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得4%的攻击力，最多叠加12（+2）层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "梦想家",
+            "description": "陷阱触发后，多萝西获得4%的攻击力，最多叠加12（+2）层",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4048_doroth",
+  "operator_name": "多萝西",
+  "profession": "特种",
+  "branch": "陷阱师"
+}

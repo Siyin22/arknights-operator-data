@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_spikes",
+  "name": "芳汀之书",
+  "type": "LOR-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 39.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+53%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+53%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 185.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+58%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "结构分解",
+            "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力+58%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_271_spikes",
+  "operator_name": "芳汀",
+  "profession": "近卫",
+  "branch": "领主"
+}

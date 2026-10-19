@@ -1,0 +1,146 @@
+{
+  "id": "char_4093_frston",
+  "name": "Friston-3",
+  "english": "Friston-3",
+  "rarity": 1,
+  "profession": "重装",
+  "branch": "铁卫",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "支援机械",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1252,
+        "atk": 198,
+        "def": 305,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "存续·I",
+          "description": "部署后10秒内周围八格的所有友方单位获得50点伤害减免"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1252,
+        "atk": 198,
+        "def": 305,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "存续·II",
+          "description": "部署后10秒内周围八格的所有友方单位获得55点伤害减免"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1252,
+        "atk": 198,
+        "def": 305,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "存续·III",
+          "description": "部署后10秒内周围八格的所有友方单位获得60点伤害减免"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1252,
+        "atk": 198,
+        "def": 305,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "存续·IV",
+          "description": "部署后10秒内周围八格的所有友方单位获得65点伤害减免"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1252,
+        "atk": 198,
+        "def": 305,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "存续·V",
+          "description": "部署后10秒内周围八格的所有友方单位获得70点伤害减免"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1252,
+        "atk": 198,
+        "def": 305,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "存续·VI",
+          "description": "部署后10秒内周围八格的所有友方单位获得75点伤害减免"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长"
+    }
+  ],
+  "potential": [
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强"
+  ],
+  "skills": [],
+  "tokens": []
+}

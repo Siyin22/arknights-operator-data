@@ -1,0 +1,238 @@
+{
+  "id": "char_473_mberry",
+  "name": "桑葚",
+  "english": "Mulberry",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "行医",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1517,
+        "atk": 423,
+        "def": 99,
+        "magicResistance": 10.0,
+        "cost": 15,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "助手",
+          "description": "场上存在桑葚和另外至少一名【医疗】干员时，所有【医疗】干员的攻击力+10%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1517,
+        "atk": 423,
+        "def": 99,
+        "magicResistance": 10.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "助手",
+          "description": "场上存在桑葚和另外至少一名【医疗】干员时，所有【医疗】干员的攻击力+10%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1517,
+        "atk": 423,
+        "def": 99,
+        "magicResistance": 10.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "助手",
+          "description": "场上存在桑葚和另外至少一名【医疗】干员时，所有【医疗】干员的攻击力+10%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1517,
+        "atk": 442.0,
+        "def": 99,
+        "magicResistance": 10.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "助手",
+          "description": "场上存在桑葚和另外至少一名【医疗】干员时，所有【医疗】干员的攻击力+10%"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1517,
+        "atk": 442.0,
+        "def": 99,
+        "magicResistance": 10.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "助手",
+          "description": "场上存在桑葚和另外至少一名【医疗】干员时，所有【医疗】干员的攻击力+11%（+1%）"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    },
+    {
+      "stats": {
+        "maxHp": 1517,
+        "atk": 442.0,
+        "def": 99,
+        "magicResistance": 10.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "助手",
+          "description": "场上存在桑葚和另外至少一名【医疗】干员时，所有【医疗】干员的攻击力+11%（+1%）"
+        }
+      ],
+      "trait": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤（可以回复未受伤友方单位的元素损伤）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+19",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "治愈云雾",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗的治疗量和元素损伤回复量提升至150%，优先治疗元素损伤最严重的目标\n可以充能1次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗的治疗量和元素损伤回复量提升至160%，优先治疗元素损伤最严重的目标\n可以充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗的治疗量和元素损伤回复量提升至170%，优先治疗元素损伤最严重的目标\n可以充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗的治疗量和元素损伤回复量提升至180%，优先治疗元素损伤最严重的目标\n可以充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "安全区域",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔较大幅度缩短并优先治疗元素损伤最严重的目标，攻击范围内所有友方单位受到的元素损伤降低28%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 72,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔较大幅度缩短并优先治疗元素损伤最严重的目标，攻击范围内所有友方单位受到的元素损伤降低30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔大幅度缩短并优先治疗元素损伤最严重的目标，攻击范围内所有友方单位受到的元素损伤降低32%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 68,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔大幅度缩短并优先治疗元素损伤最严重的目标，攻击范围内所有友方单位受到的元素损伤降低35%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 66,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

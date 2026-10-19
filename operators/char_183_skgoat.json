@@ -1,0 +1,238 @@
+{
+  "id": "char_183_skgoat",
+  "name": "地灵",
+  "english": "Earthspirit",
+  "rarity": 4,
+  "profession": "辅助",
+  "branch": "凝滞师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1205,
+        "atk": 530,
+        "def": 101,
+        "magicResistance": 20.0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "地质勘探",
+          "description": "略微延长特性停顿的持续时间"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1205,
+        "atk": 530,
+        "def": 101,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "地质勘探",
+          "description": "略微延长特性停顿的持续时间"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1205,
+        "atk": 530,
+        "def": 101,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "地质勘探",
+          "description": "略微延长特性停顿的持续时间"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1205,
+        "atk": 551.0,
+        "def": 101,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "地质勘探",
+          "description": "略微延长特性停顿的持续时间"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1205,
+        "atk": 551.0,
+        "def": 101,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "地质勘探",
+          "description": "稍微延长特性停顿的持续时间"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1205,
+        "atk": 551.0,
+        "def": 101,
+        "magicResistance": 20.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "地质勘探",
+          "description": "稍微延长特性停顿的持续时间"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+21",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "流沙化",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击；攻击范围内的敌方单位每1.6秒受到一次停顿效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 48,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击；攻击范围内的敌方单位每1.5秒受到一次停顿效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 46,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击；攻击范围内的敌方单位每1.5秒受到一次停顿效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击；攻击范围内的敌方单位每1.4秒受到一次停顿效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_prove",
+  "name": "尾巴养护套装",
+  "type": "ARC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至185%。当敌人在正前方两格时，该几率提升到55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至185%。当敌人在正前方两格时，该几率提升到55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至185%。当敌人在正前方两格时，该几率提升到55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至185%。当敌人在正前方两格时，该几率提升到55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至195%（+10%）。当敌人在正前方两格时，该几率提升到55%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至195%（+10%）。当敌人在正前方两格时，该几率提升到55%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至190%。当敌人在正前方两格时，该几率提升到60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至190%。当敌人在正前方两格时，该几率提升到60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至190%。当敌人在正前方两格时，该几率提升到60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至190%。当敌人在正前方两格时，该几率提升到60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至200%（+10%）。当敌人在正前方两格时，该几率提升到60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "狩猎箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至200%（+10%）。当敌人在正前方两格时，该几率提升到60%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_145_prove",
+  "operator_name": "普罗旺斯",
+  "profession": "狙击",
+  "branch": "重射手"
+}

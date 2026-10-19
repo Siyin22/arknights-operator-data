@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_branch",
+  "name": "“时间的痕迹”",
+  "type": "UNY-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+15%；技能结束时恢复自身60%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+15%；技能结束时恢复自身60%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+15%；技能结束时恢复自身60%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+15%；技能结束时恢复自身60%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+15%；技能结束时恢复自身70%（+10%）最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+15%；技能结束时恢复自身70%（+10%）最大生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 385.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+18%；技能结束时恢复自身70%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+18%；技能结束时恢复自身70%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+18%；技能结束时恢复自身70%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+18%；技能结束时恢复自身70%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+18%；技能结束时恢复自身80%（+10%）最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "简易包扎",
+            "description": "技能期间防御力+18%；技能结束时恢复自身80%（+10%）最大生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4207_branch",
+  "operator_name": "折桠",
+  "profession": "重装",
+  "branch": "不屈者"
+}

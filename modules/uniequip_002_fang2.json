@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_fang2",
+  "name": "一往无前",
+  "type": "CHG-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "轻装上阵",
+            "description": "自身初次部署费用-4；撤退后使下一名干员部署费用-2",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1036_fang2",
+  "operator_name": "历阵锐枪芬",
+  "profession": "先锋",
+  "branch": "冲锋手"
+}

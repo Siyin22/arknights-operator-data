@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_quartz",
+  "name": "钟表修理套组",
+  "type": "CRU-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+12%，攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+12%，攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+12%，攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+12%，攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+13%（+1%），攻击力+13%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+13%（+1%），攻击力+13%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 90.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+14%，攻击力+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+14%，攻击力+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+14%，攻击力+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+14%，攻击力+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+15%（+1%），攻击力+15%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "行于荒野",
+            "description": "生命值+15%（+1%），攻击力+15%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4063_quartz",
+  "operator_name": "石英",
+  "profession": "近卫",
+  "branch": "重剑手"
+}

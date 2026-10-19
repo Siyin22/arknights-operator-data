@@ -1,0 +1,145 @@
+{
+  "id": "char_502_nblade",
+  "name": "夜刀",
+  "english": "Yato",
+  "rarity": 2,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "新手"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1030,
+        "atk": 262,
+        "def": 192,
+        "magicResistance": 0,
+        "cost": 7,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快速重新部署",
+          "description": "再部署时间-30秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1030,
+        "atk": 262,
+        "def": 192,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快速重新部署",
+          "description": "再部署时间-30秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1030,
+        "atk": 262,
+        "def": 192,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快速重新部署",
+          "description": "再部署时间-30秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1030,
+        "atk": 271.0,
+        "def": 192,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快速重新部署",
+          "description": "再部署时间-30秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1030,
+        "atk": 280.0,
+        "def": 192,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快速重新部署",
+          "description": "再部署时间-30秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1030,
+        "atk": 280.0,
+        "def": 192,
+        "magicResistance": 0,
+        "cost": 5.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 65.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快速重新部署",
+          "description": "再部署时间-30秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-5秒",
+    "攻击力+9",
+    "攻击力+9",
+    "部署费用-1"
+  ],
+  "skills": [],
+  "tokens": []
+}

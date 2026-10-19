@@ -1,0 +1,113 @@
+{
+  "id": "uniequip_002_lolxh",
+  "name": "毛线球",
+  "type": "LOR-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 65.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 83.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "见习执行者",
+            "description": "对生命值低于一半的单位造成的伤害提升8%；造成致命伤害时使敌人保留1点生命并使其重伤（击杀者技力+2）；罗小黑不攻击重伤单位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "见习执行者",
+            "description": "对生命值低于一半的单位造成的伤害提升12%；造成致命伤害时使敌人保留1点生命并使其重伤（击杀者技力+2）；罗小黑不攻击重伤单位",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4067_lolxh",
+  "operator_name": "罗小黑",
+  "profession": "近卫",
+  "branch": "领主"
+}

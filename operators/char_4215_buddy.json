@@ -1,0 +1,163 @@
+{
+  "id": "char_4215_buddy",
+  "name": "罗德岛隐秘队",
+  "english": "Rhodes Island Recon",
+  "rarity": 1,
+  "profession": "先锋",
+  "branch": "战术家",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "费用回复",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 690,
+        "atk": 122,
+        "def": 45,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式起爆龙弹·I",
+          "description": "对前三个敌人首次进行攻击时改为使用“猫式起爆龙弹”。来自我方其他单位的伤害会将其引爆，造成罗德岛隐秘队150%攻击力的伤害和2秒晕眩，并回复1点部署费用。“猫式起爆龙弹”在被引爆后或30秒后消失"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%；不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 690,
+        "atk": 122,
+        "def": 45,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式起爆龙弹·II",
+          "description": "对前三个敌人首次进行攻击时改为使用“猫式起爆龙弹”。来自我方其他单位的伤害会将其引爆，造成罗德岛隐秘队230%攻击力的伤害和2.2秒晕眩，并回复1点部署费用。“猫式起爆龙弹”在被引爆后或30秒后消失"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%；不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 690,
+        "atk": 122,
+        "def": 45,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式起爆龙弹·III",
+          "description": "对前三个敌人首次进行攻击时改为使用“猫式起爆龙弹”。来自我方其他单位的伤害会将其引爆，造成罗德岛隐秘队280%攻击力的伤害和2.4秒晕眩，并回复1点部署费用。“猫式起爆龙弹”在被引爆后或30秒后消失"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%；不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 690,
+        "atk": 122,
+        "def": 45,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式起爆龙弹·IV",
+          "description": "对前三个敌人首次进行攻击时改为使用“猫式起爆龙弹”。来自我方其他单位的伤害会将其引爆，造成罗德岛隐秘队350%攻击力的伤害和2.6秒晕眩，并回复1点部署费用。“猫式起爆龙弹”在被引爆后或30秒后消失"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%；不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 690,
+        "atk": 122,
+        "def": 45,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式起爆龙弹·V",
+          "description": "对前三个敌人首次进行攻击时改为使用“猫式起爆龙弹”。来自我方其他单位的伤害会将其引爆，造成罗德岛隐秘队420%攻击力的伤害和2.8秒晕眩，并回复1点部署费用。“猫式起爆龙弹”在被引爆后或30秒后消失"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%；不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 690,
+        "atk": 122,
+        "def": 45,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "猫式起爆龙弹·VI",
+          "description": "对前三个敌人首次进行攻击时改为使用“猫式起爆龙弹”。来自我方其他单位的伤害会将其引爆，造成罗德岛隐秘队500%攻击力的伤害和3秒晕眩，并回复1点部署费用。“猫式起爆龙弹”在被引爆后或30秒后消失"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%；不受部署数量限制，但再部署时间极长"
+    }
+  ],
+  "potential": [
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强"
+  ],
+  "skills": [],
+  "tokens": [
+    {
+      "name": "牙猎犬",
+      "stats": {
+        "maxHp": 1095,
+        "atk": 175,
+        "def": 180,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.25,
+        "respawnTime": 60,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人，只能部署在艾露猫的攻击范围内",
+      "skills": []
+    }
+  ]
+}

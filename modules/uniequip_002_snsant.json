@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_snsant",
+  "name": "雪雉的宝贝存钱罐",
+  "type": "HOK-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力10（+4）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力10（+4）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 31.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力12（+4）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "捕虫专家",
+            "description": "在拖拽【感染生物】时，力度提升一个等级并额外使其失去特殊能力12（+4）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_383_snsant",
+  "operator_name": "雪雉",
+  "profession": "特种",
+  "branch": "钩索师"
+}

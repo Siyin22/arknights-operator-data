@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_hmau",
+  "name": "八点档情景剧录像带",
+  "type": "GUA-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+10%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+10%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+10%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+10%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+12%（+2%），自身身后一格内如果是高台单位，自己对其的治疗效果提高85%（+10%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+12%（+2%），自身身后一格内如果是高台单位，自己对其的治疗效果提高85%（+10%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 330.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+13%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+13%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+13%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+13%，自身身后一格内如果是高台单位，自己对其的治疗效果提高75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+15%（+2%），自身身后一格内如果是高台单位，自己对其的治疗效果提高85%（+10%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "门神",
+            "description": "防御力+15%（+2%），自身身后一格内如果是高台单位，自己对其的治疗效果提高85%（+10%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_226_hmau",
+  "operator_name": "吽",
+  "profession": "重装",
+  "branch": "守护者"
+}

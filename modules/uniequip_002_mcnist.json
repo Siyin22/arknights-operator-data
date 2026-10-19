@@ -1,0 +1,313 @@
+{
+  "id": "uniequip_002_mcnist",
+  "name": "机械师特勤证章",
+  "type": "SO-A",
+  "unlock": "精英2 · 60级",
+  "special": "适配限定模式",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限，5秒内未受到伤害后每秒获得4%最大生命的屏障（上限为最大生命的20%）",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限，5秒内未受到伤害后每秒获得4%最大生命的屏障（上限为最大生命的20%）",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限，5秒内未受到伤害后每秒获得4%最大生命的屏障（上限为最大生命的20%）",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限，5秒内未受到伤害后每秒获得4%最大生命的屏障（上限为最大生命的20%）",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限，5秒内未受到伤害后每秒获得4%最大生命的屏障（上限为最大生命的20%）",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "在【沉沦者的黑流树海】中，攻击被自身或召唤物阻挡的敌人时攻击力提升至150%",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间；在【沉沦者的黑流树海】中，结构性原理的持续时间无限，5秒内未受到伤害后每秒获得4%最大生命的屏障（上限为最大生命的20%）",
+            "condition": "rogue_6"
+          },
+          {
+            "name": "结构性原理",
+            "description": "持续时间无限",
+            "condition": "rogue_6 · 作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4230_mcnist",
+  "operator_name": "机械师",
+  "profession": "重装",
+  "branch": "哨戒铁卫"
+}

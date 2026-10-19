@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_reckpr",
+  "name": "未完成的录武簿",
+  "type": "PHY-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+20，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+20，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+20，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+20，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+20，持续10（+2）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+20，持续10（+2）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+23，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+23，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+23，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+23，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+23，持续10（+2）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "学成于聚",
+            "description": "攻击范围内的干员开启技能时自身回复1点技力，且攻击速度+23，持续10（+2）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4196_reckpr",
+  "operator_name": "录武官",
+  "profession": "医疗",
+  "branch": "医师"
+}

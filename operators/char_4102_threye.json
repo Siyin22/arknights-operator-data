@@ -1,0 +1,262 @@
+{
+  "id": "char_4102_threye",
+  "name": "凛视",
+  "english": "Valarqvin",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "巫役",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "元素"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1347,
+        "atk": 477,
+        "def": 101,
+        "magicResistance": 15.0,
+        "cost": 15,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "揭示者",
+          "description": "在【探索者的银凇止境】中，攻击附带相当于30%攻击力的凋亡损伤"
+        },
+        {
+          "name": "隐居者",
+          "description": "攻击力+6%，攻击速度+6"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1347,
+        "atk": 477,
+        "def": 101,
+        "magicResistance": 15.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "揭示者",
+          "description": "在【探索者的银凇止境】中，攻击附带相当于30%攻击力的凋亡损伤"
+        },
+        {
+          "name": "隐居者",
+          "description": "攻击力+6%，攻击速度+6"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1347,
+        "atk": 477,
+        "def": 101,
+        "magicResistance": 15.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "揭示者",
+          "description": "在【探索者的银凇止境】中，攻击附带相当于30%攻击力的凋亡损伤"
+        },
+        {
+          "name": "隐居者",
+          "description": "攻击力+6%，攻击速度+6"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1347,
+        "atk": 477,
+        "def": 101,
+        "magicResistance": 15.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "揭示者",
+          "description": "在【探索者的银凇止境】中，攻击附带相当于30%攻击力的凋亡损伤"
+        },
+        {
+          "name": "隐居者",
+          "description": "攻击力+6%，攻击速度+6"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1347,
+        "atk": 477,
+        "def": 101,
+        "magicResistance": 15.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "揭示者",
+          "description": "在【探索者的银凇止境】中，攻击附带相当于30%攻击力的凋亡损伤"
+        },
+        {
+          "name": "隐居者",
+          "description": "攻击力+7%（+1%），攻击速度+7（+1）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 1347,
+        "atk": 477,
+        "def": 101,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "揭示者",
+          "description": "在【探索者的银凇止境】中，攻击附带相当于30%攻击力的凋亡损伤"
+        },
+        {
+          "name": "隐居者",
+          "description": "攻击力+7%（+1%），攻击速度+7（+1）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素损伤"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "我见崩毁之前",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击造成相当于攻击力100%的法术伤害并附带50%攻击力的凋亡损伤\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击造成相当于攻击力110%的法术伤害并附带60%攻击力的凋亡损伤\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击造成相当于攻击力120%的法术伤害并附带70%攻击力的凋亡损伤\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击造成相当于攻击力130%的法术伤害并附带80%攻击力的凋亡损伤\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "我见枯朽之后",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+35，额外攻击一名目标，每次攻击附带25%攻击力的凋亡损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+40，额外攻击一名目标，每次攻击附带30%攻击力的凋亡损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+45，额外攻击一名目标，每次攻击附带30%攻击力的凋亡损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+50，额外攻击一名目标，每次攻击附带35%攻击力的凋亡损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

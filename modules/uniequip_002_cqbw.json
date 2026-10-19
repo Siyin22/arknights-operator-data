@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_cqbw",
+  "name": "佣兵的行囊",
+  "type": "ART-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 54.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+21%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+21%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+21%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+21%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+24%（+3%），击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+24%（+3%），击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 78.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+24%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+24%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+24%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+24%，击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+27%（+3%），击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "落井下石",
+            "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+27%（+3%），击倒敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_113_cqbw",
+  "operator_name": "W",
+  "profession": "狙击",
+  "branch": "炮手"
+}

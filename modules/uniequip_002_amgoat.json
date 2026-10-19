@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_amgoat",
+  "name": "“错过的声音”",
+  "type": "CCR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+20%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "炎息",
+            "description": "携带时，所有友方【术师】职业干员的攻击力+24%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_180_amgoat",
+  "operator_name": "艾雅法拉",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

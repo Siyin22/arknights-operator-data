@@ -1,0 +1,239 @@
+{
+  "id": "char_289_gyuki",
+  "name": "缠丸",
+  "english": "Matoimaru",
+  "rarity": 4,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "生存",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4090,
+        "atk": 916,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "恶鬼体质",
+          "description": "防御力-20%，但最大生命值+20%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 4090,
+        "atk": 916,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "恶鬼体质",
+          "description": "防御力-20%，但最大生命值+20%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 4090,
+        "atk": 916,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "恶鬼体质",
+          "description": "防御力-20%，但最大生命值+20%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 4270.0,
+        "atk": 916,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "恶鬼体质",
+          "description": "防御力-20%，但最大生命值+20%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 4270.0,
+        "atk": 916,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "恶鬼体质",
+          "description": "防御力-20%，但最大生命值+23%（+3%）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 4270.0,
+        "atk": 916,
+        "def": 156,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "恶鬼体质",
+          "description": "防御力-20%，但最大生命值+23%（+3%）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+180",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "生命回复·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即恢复最大生命的40%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 7,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即恢复最大生命的43%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 8,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即恢复最大生命的46%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 9,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即恢复最大生命的50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "恶鬼之力",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力降至0，攻击力+105%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 5,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力降至0，攻击力+120%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 6,
+          "charges": 1,
+          "duration": "13 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力降至0，攻击力+135%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 7,
+          "charges": 1,
+          "duration": "14 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力降至0，攻击力+150%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

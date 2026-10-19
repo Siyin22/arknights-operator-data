@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_logos",
+  "name": "《语义范式百科》",
+  "type": "CCR-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力63%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力63%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力63%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力63%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力68%（+5%）的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力68%（+5%）的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力65%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力65%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力65%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力65%的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力70%（+5%）的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "语汇演化",
+            "description": "对一个目标发起攻击时，有40%几率额外对攻击范围内两个随机目标造成相当于攻击力70%（+5%）的法术伤害并使其停顿0.8秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4133_logos",
+  "operator_name": "逻各斯",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

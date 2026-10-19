@@ -1,0 +1,775 @@
+{
+  "id": "char_1045_svash2",
+  "name": "凛御银灰",
+  "english": "SilverAsh the Reignfrost",
+  "rarity": 6,
+  "profession": "先锋",
+  "branch": "策士",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "费用回复",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2318,
+        "atk": 653,
+        "def": 437,
+        "magicResistance": 15.0,
+        "cost": 13,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开放性开局",
+          "description": "在场时向待部署区中加入“风雪之眼”，且会使待部署区按照部署费用排列。位于“风雪之眼”左侧的干员与自身初始技力+4，下次再部署时间-20%"
+        },
+        {
+          "name": "雪境先驱",
+          "description": "在场时，【谢拉格】干员免疫冻结，防御力+60且每秒回复1.5%最大生命值；在场15秒后防御力和生命回复效果翻倍"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2318,
+        "atk": 653,
+        "def": 437,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开放性开局",
+          "description": "在场时向待部署区中加入“风雪之眼”，且会使待部署区按照部署费用排列。位于“风雪之眼”左侧的干员与自身初始技力+4，下次再部署时间-20%"
+        },
+        {
+          "name": "雪境先驱",
+          "description": "在场时，【谢拉格】干员免疫冻结，防御力+60且每秒回复1.5%最大生命值；在场15秒后防御力和生命回复效果翻倍"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2318,
+        "atk": 653,
+        "def": 462.0,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开放性开局",
+          "description": "在场时向待部署区中加入“风雪之眼”，且会使待部署区按照部署费用排列。位于“风雪之眼”左侧的干员与自身初始技力+4，下次再部署时间-20%"
+        },
+        {
+          "name": "雪境先驱",
+          "description": "在场时，【谢拉格】干员免疫冻结，防御力+60且每秒回复1.5%最大生命值；在场15秒后防御力和生命回复效果翻倍"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2498.0,
+        "atk": 653,
+        "def": 462.0,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开放性开局",
+          "description": "在场时向待部署区中加入“风雪之眼”，且会使待部署区按照部署费用排列。位于“风雪之眼”左侧的干员与自身初始技力+4，下次再部署时间-20%"
+        },
+        {
+          "name": "雪境先驱",
+          "description": "在场时，【谢拉格】干员免疫冻结，防御力+60且每秒回复1.5%最大生命值；在场15秒后防御力和生命回复效果翻倍"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2498.0,
+        "atk": 653,
+        "def": 462.0,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开放性开局",
+          "description": "在场时向待部署区中加入“风雪之眼”，且会使待部署区按照部署费用排列。位于“风雪之眼”左侧的干员与自身初始技力+4，下次再部署时间-20%"
+        },
+        {
+          "name": "雪境先驱",
+          "description": "在场时，【谢拉格】干员免疫冻结，防御力+80（+20）且每秒回复2%（+0.5%）最大生命值；凛御银灰在场15秒后，防御力和生命回复效果翻倍"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2498.0,
+        "atk": 653,
+        "def": 462.0,
+        "magicResistance": 15.0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开放性开局",
+          "description": "在场时向待部署区中加入“风雪之眼”，且会使待部署区按照部署费用排列。位于“风雪之眼”左侧的干员与自身初始技力+4，下次再部署时间-20%"
+        },
+        {
+          "name": "雪境先驱",
+          "description": "在场时，【谢拉格】干员免疫冻结，防御力+80（+20）且每秒回复2%（+0.5%）最大生命值；凛御银灰在场15秒后，防御力和生命回复效果翻倍"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "防御力+25",
+    "最大生命值+180",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "周旋的谋略",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻获得10点部署费用。待部署区中距离“风雪之眼”最近的1名干员费用-5（优先选择右侧近卫/术师/狙击干员），且部署后获得相当于凛御银灰最大生命值50%的屏障",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻获得10点部署费用。待部署区中距离“风雪之眼”最近的1名干员费用-5（优先选择右侧近卫/术师/狙击干员），且部署后获得相当于凛御银灰最大生命值50%的屏障",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 16,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻获得10点部署费用。待部署区中距离“风雪之眼”最近的1名干员费用-5（优先选择右侧近卫/术师/狙击干员），且部署后获得相当于凛御银灰最大生命值50%的屏障",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 17,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻获得10点部署费用。待部署区中距离“风雪之眼”最近的1名干员费用-5（优先选择右侧近卫/术师/狙击干员），且部署后获得相当于凛御银灰最大生命值50%的屏障",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 19,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "御敌的锋锐",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对前方6名敌人造成攻击力320%的物理伤害，使其5秒内寒冷且隐匿失效；待部署区中距离“风雪之眼”最近的1名干员费用-11（优先选择右侧近卫/术师/狙击干员）；使“风雪之眼”左侧所有干员部署时以自身攻击力施放一次本技能的范围效果（最多叠加2次）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 8,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "对前方6名敌人造成攻击力340%的物理伤害，使其5秒内寒冷且隐匿失效；待部署区中距离“风雪之眼”最近的1名干员费用-11（优先选择右侧近卫/术师/狙击干员）；使“风雪之眼”左侧所有干员部署时以自身攻击力施放一次本技能的范围效果（最多叠加2次）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 8,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "对前方6名敌人造成攻击力360%的物理伤害，使其5秒内寒冷且隐匿失效；待部署区中距离“风雪之眼”最近的1名干员费用-11（优先选择右侧近卫/术师/狙击干员）；使“风雪之眼”左侧所有干员部署时以自身攻击力施放一次本技能的范围效果（最多叠加2次）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 8,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "对前方6名敌人造成攻击力380%的物理伤害，使其6秒内寒冷且隐匿失效；待部署区中距离“风雪之眼”最近的1名干员费用-11（优先选择右侧近卫/术师/狙击干员）；使“风雪之眼”左侧所有干员部署时以自身攻击力施放一次本技能的范围效果（最多叠加2次）\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 9,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "变革已至",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大并使敌人隐匿失效，攻击对直线范围造成攻击力170%的物理伤害和25%的脆弱；立即获得6点后持续获得24点部署费用\n首次开启时交换待部署区中费用最高（优先选择近卫/术师/狙击干员）与最低干员的基础部署费用\n技能期间“风雪之眼”变为可部署",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 42,
+          "charges": 1,
+          "duration": "48 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大并使敌人隐匿失效，攻击对直线范围造成攻击力180%的物理伤害和25%的脆弱；立即获得7点后持续获得24点部署费用\n首次开启时交换待部署区中费用最高（优先选择近卫/术师/狙击干员）与最低干员的基础部署费用\n技能期间“风雪之眼”变为可部署",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 43,
+          "charges": 1,
+          "duration": "48 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大并使敌人隐匿失效，攻击对直线范围造成攻击力190%的物理伤害和25%的脆弱；立即获得8点后持续获得24点部署费用\n首次开启时交换待部署区中费用最高（优先选择近卫/术师/狙击干员）与最低干员的基础部署费用\n技能期间“风雪之眼”变为可部署",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 44,
+          "charges": 1,
+          "duration": "48 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大并使敌人隐匿失效，攻击对直线范围造成攻击力200%的物理伤害和30%的脆弱；立即获得9点后持续获得24点部署费用\n首次开启时交换待部署区中费用最高（优先选择近卫/术师/狙击干员）与最低干员的基础部署费用\n技能期间“风雪之眼”变为可部署",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 46,
+          "charges": 1,
+          "duration": "48 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "风雪之眼",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 15,
+        "attackSpeed": 100.0
+      },
+      "trait": "凛御银灰在场时添加至待部署区。部署费用随凛御银灰的技能而变化",
+      "skills": [
+        {
+          "name": "开放性开局",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "开放性开局",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "变革已至",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "风雪之眼",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 15,
+        "attackSpeed": 100.0
+      },
+      "trait": "凛御银灰在场时添加至待部署区。部署费用随凛御银灰的技能而变化",
+      "skills": [
+        {
+          "name": "开放性开局",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "开放性开局",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "变革已至",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "风雪之眼",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 15,
+        "attackSpeed": 100.0
+      },
+      "trait": "凛御银灰在场时添加至待部署区。部署费用随凛御银灰的技能而变化",
+      "skills": [
+        {
+          "name": "开放性开局",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "开放性开局",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "变革已至",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "“变革已至”技能期间首个干员部署时，“风雪之眼”会部署至该干员所在位置，并与凛御银灰同时进行范围直线攻击。技能期间可以再次部署“风雪之眼”改变位置，且返还部署费用",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

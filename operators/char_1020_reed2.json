@@ -1,0 +1,310 @@
+{
+  "id": "char_1020_reed2",
+  "name": "焰影苇草",
+  "english": "Reed The Flame Shadow",
+  "rarity": 6,
+  "profession": "医疗",
+  "branch": "咒愈师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "治疗",
+    "输出",
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1583,
+        "atk": 600,
+        "def": 114,
+        "magicResistance": 20.0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "灼痕",
+          "description": "造成伤害时有30%概率对敌人施加灼痕效果：攻击力-20%、30%的【法术脆弱】，不可叠加持续6秒"
+        },
+        {
+          "name": "映耀",
+          "description": "治疗其他友方单位时，焰影苇草同时享受50%的治疗量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值"
+    },
+    {
+      "stats": {
+        "maxHp": 1583,
+        "atk": 600,
+        "def": 114,
+        "magicResistance": 20.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "灼痕",
+          "description": "造成伤害时有30%概率对敌人施加灼痕效果：攻击力-20%、30%的【法术脆弱】，不可叠加持续6秒"
+        },
+        {
+          "name": "映耀",
+          "description": "治疗其他友方单位时，焰影苇草同时享受50%的治疗量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值"
+    },
+    {
+      "stats": {
+        "maxHp": 1583,
+        "atk": 600,
+        "def": 114,
+        "magicResistance": 20.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "灼痕",
+          "description": "造成伤害时有30%概率对敌人施加灼痕效果：攻击力-22%（+2%）、32%（+2%）的【法术脆弱】，不可叠加持续6秒"
+        },
+        {
+          "name": "映耀",
+          "description": "治疗其他友方单位时，焰影苇草同时享受50%的治疗量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值"
+    },
+    {
+      "stats": {
+        "maxHp": 1583,
+        "atk": 626.0,
+        "def": 114,
+        "magicResistance": 20.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "灼痕",
+          "description": "造成伤害时有30%概率对敌人施加灼痕效果：攻击力-22%（+2%）、32%（+2%）的【法术脆弱】，不可叠加持续6秒"
+        },
+        {
+          "name": "映耀",
+          "description": "治疗其他友方单位时，焰影苇草同时享受50%的治疗量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值"
+    },
+    {
+      "stats": {
+        "maxHp": 1583,
+        "atk": 626.0,
+        "def": 114,
+        "magicResistance": 20.0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "灼痕",
+          "description": "造成伤害时有30%概率对敌人施加灼痕效果：攻击力-22%（+2%）、32%（+2%）的【法术脆弱】，不可叠加持续6秒"
+        },
+        {
+          "name": "映耀",
+          "description": "治疗其他友方单位时，焰影苇草同时享受50%的治疗量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值"
+    },
+    {
+      "stats": {
+        "maxHp": 1583,
+        "atk": 626.0,
+        "def": 114,
+        "magicResistance": 20.0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "灼痕",
+          "description": "造成伤害时有30%概率对敌人施加灼痕效果：攻击力-22%（+2%）、32%（+2%）的【法术脆弱】，不可叠加持续6秒"
+        },
+        {
+          "name": "映耀",
+          "description": "治疗其他友方单位时，焰影苇草同时享受55%（+5%）的治疗量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+26",
+    "部署费用-1",
+    "第二天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "枯荣共息",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "优先使两名部署在地面的干员获得三颗火球，效果如下：每1.5秒对一名敌人造成相当于焰影苇草190%攻击力的法术伤害并仅对该干员触发焰影苇草特性",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "优先使两名部署在地面的干员获得三颗火球，效果如下：每1.5秒对一名敌人造成相当于焰影苇草200%攻击力的法术伤害并仅对该干员触发焰影苇草特性",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 16,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "优先使两名部署在地面的干员获得三颗火球，效果如下：每1.5秒对一名敌人造成相当于焰影苇草220%攻击力的法术伤害并仅对该干员触发焰影苇草特性",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 17,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "优先使两名部署在地面的干员获得三颗火球，效果如下：每1.5秒对一名敌人造成相当于焰影苇草240%攻击力的法术伤害并仅对该干员触发焰影苇草特性",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "生命火种",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "同时攻击两名敌人，攻击力+40%，第一天赋触发几率提升至100%，技能期间附带灼痕效果的敌人每秒受到30%焰影苇草攻击力的法术伤害、被击倒时对周围敌人造成110%焰影苇草攻击力的法术伤害并施加灼痕效果\n灼痕效果持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "同时攻击两名敌人，攻击力+45%，第一天赋触发几率提升至100%，技能期间附带灼痕效果的敌人每秒受到40%焰影苇草攻击力的法术伤害、被击倒时对周围敌人造成120%焰影苇草攻击力的法术伤害并施加灼痕效果\n灼痕效果持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "同时攻击两名敌人，攻击力+50%，第一天赋触发几率提升至100%，技能期间附带灼痕效果的敌人每秒受到50%焰影苇草攻击力的法术伤害、被击倒时对周围敌人造成130%焰影苇草攻击力的法术伤害并施加灼痕效果\n灼痕效果持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "同时攻击两名敌人，攻击力+60%，第一天赋触发几率提升至100%，技能期间附带灼痕效果的敌人每秒受到60%焰影苇草攻击力的法术伤害、被击倒时对周围敌人造成140%焰影苇草攻击力的法术伤害并施加灼痕效果\n灼痕效果持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,313 @@
+{
+  "id": "uniequip_002_wulfen",
+  "name": "矿石展览柜",
+  "type": "TRP-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升8%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": "作用于召唤物"
+          },
+          {
+            "name": "探险家的从容",
+            "description": "每个矿石“杀手”引爆时范围内的敌人数量大于等于2个时，伤害提升12%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4171_wulfen",
+  "operator_name": "钼铅",
+  "profession": "特种",
+  "branch": "陷阱师"
+}

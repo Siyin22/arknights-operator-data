@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_liskam",
+  "name": "震撼存储",
+  "type": "SPT-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有30%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 43.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内敌人的隐匿效果失效",
+            "condition": ""
+          },
+          {
+            "name": "战术防御",
+            "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力，且有60%概率自身额外回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_107_liskam",
+  "operator_name": "雷蛇",
+  "profession": "重装",
+  "branch": "哨戒铁卫"
+}

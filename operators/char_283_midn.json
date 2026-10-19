@@ -1,0 +1,162 @@
+{
+  "id": "char_283_midn",
+  "name": "月见夜",
+  "english": "Midnight",
+  "rarity": 3,
+  "profession": "近卫",
+  "branch": "领主",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1653,
+        "atk": 547,
+        "def": 282,
+        "magicResistance": 10.0,
+        "cost": 16,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "要害瞄准·初级",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至150%"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1653,
+        "atk": 547,
+        "def": 282,
+        "magicResistance": 10.0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "要害瞄准·初级",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至150%"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1653,
+        "atk": 547,
+        "def": 282,
+        "magicResistance": 10.0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "要害瞄准·初级",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至150%"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1653,
+        "atk": 569.0,
+        "def": 282,
+        "magicResistance": 10.0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "要害瞄准·初级",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至150%"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1653,
+        "atk": 569.0,
+        "def": 282,
+        "magicResistance": 10.0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "要害瞄准·初级",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%（+10%）"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1653,
+        "atk": 569.0,
+        "def": 282,
+        "magicResistance": 10.0,
+        "cost": 14.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "要害瞄准·初级",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%（+10%）"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+22",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "武器附魔·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+35%，普通攻击的伤害类型变为法术",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

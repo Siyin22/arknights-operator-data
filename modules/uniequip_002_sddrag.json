@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_sddrag",
+  "name": "枪刃清洁套装",
+  "type": "CHG-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+15（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+15（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+15（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+15（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+15（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+15（不叠加）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+25（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+25（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+25（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+25（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+25（不叠加）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击生命值低于40%的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "枯法之血",
+            "description": "法术抗性+20，受到法术伤害后3秒内攻击速度+25（不叠加）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_261_sddrag",
+  "operator_name": "苇草",
+  "profession": "先锋",
+  "branch": "冲锋手"
+}

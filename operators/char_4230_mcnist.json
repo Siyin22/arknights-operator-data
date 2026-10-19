@@ -1,0 +1,406 @@
+{
+  "id": "char_4230_mcnist",
+  "name": "机械师",
+  "english": "Mechanist",
+  "rarity": 6,
+  "profession": "重装",
+  "branch": "哨戒铁卫",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "生存",
+    "召唤",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3631,
+        "atk": 573,
+        "def": 765,
+        "magicResistance": 0,
+        "cost": 23,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结构性原理",
+          "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间"
+        },
+        {
+          "name": "生命方程",
+          "description": "自身和结构性原理部署时获得最大生命30%的屏障；来自自身的屏障可以抵挡超额的伤害"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3631,
+        "atk": 573,
+        "def": 765,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结构性原理",
+          "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间"
+        },
+        {
+          "name": "生命方程",
+          "description": "自身和结构性原理部署时获得最大生命30%的屏障；来自自身的屏障可以抵挡超额的伤害"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3631,
+        "atk": 573,
+        "def": 765,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结构性原理",
+          "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间"
+        },
+        {
+          "name": "生命方程",
+          "description": "自身和结构性原理部署时获得最大生命30%的屏障；来自自身的屏障可以抵挡超额的伤害"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3631,
+        "atk": 573,
+        "def": 793.0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结构性原理",
+          "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间"
+        },
+        {
+          "name": "生命方程",
+          "description": "自身和结构性原理部署时获得最大生命30%的屏障；来自自身的屏障可以抵挡超额的伤害"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3631,
+        "atk": 573,
+        "def": 793.0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结构性原理",
+          "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间"
+        },
+        {
+          "name": "生命方程",
+          "description": "自身和结构性原理部署时获得最大生命40%（+10%）的屏障；来自自身的屏障可以抵挡超额的伤害"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3631,
+        "atk": 573,
+        "def": 793.0,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "结构性原理",
+          "description": "可以使用一个持续30秒的结构性原理，拥有独立的再部署时间"
+        },
+        {
+          "name": "生命方程",
+          "description": "自身和结构性原理部署时获得最大生命40%（+10%）的屏障；来自自身的屏障可以抵挡超额的伤害"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+28",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "聚类分析",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击变为五连击的群体攻击，每次造成攻击力110%的范围物理伤害\n攻击装有3发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击变为五连击的群体攻击，每次造成攻击力125%的范围物理伤害\n攻击装有3发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击变为五连击的群体攻击，每次造成攻击力140%的范围物理伤害\n攻击装有3发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击变为五连击的群体攻击，每次造成攻击力155%的范围物理伤害\n攻击装有3发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "协防术式",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+120%，自身和结构性原理立刻获得最大生命10%的屏障，屏障被摧毁时对周围敌人造成攻击力200%的法术伤害和2秒的战栗，并消耗1发弹药再次获得屏障\n攻击装有7发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 33,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+130%，自身和结构性原理立刻获得最大生命10%的屏障，屏障被摧毁时对周围敌人造成攻击力200%的法术伤害和2.5秒的战栗，并消耗1发弹药再次获得屏障\n攻击装有7发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 34,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+140%，自身和结构性原理立刻获得最大生命10%的屏障，屏障被摧毁时对周围敌人造成攻击力200%的法术伤害和3秒的战栗，并消耗1发弹药再次获得屏障\n攻击装有7发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 34,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+150%，自身和结构性原理立刻获得最大生命10%的屏障，屏障被摧毁时对周围敌人造成攻击力200%的法术伤害和3秒的战栗，并消耗1发弹药再次获得屏障\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 35,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "工程学十字星",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+220%，攻击间隔大幅增大，攻击变为对十字范围内所有敌人造成攻击力240%的法术伤害，可攻击结构性原理阻挡的目标\n结构性原理向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 22,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+240%，攻击间隔大幅增大，攻击变为对十字范围内所有敌人造成攻击力240%的法术伤害，可攻击结构性原理阻挡的目标\n结构性原理向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 23,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+260%，攻击间隔大幅增大，攻击变为对十字范围内所有敌人造成攻击力240%的法术伤害，可攻击结构性原理阻挡的目标\n结构性原理向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 24,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+280%，攻击间隔大幅增大，攻击变为对十字范围内所有敌人造成攻击力260%的法术伤害，可攻击结构性原理阻挡的目标\n结构性原理向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "结构性原理",
+      "stats": {
+        "maxHp": 3500,
+        "atk": 600,
+        "def": 550,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 3,
+        "baseAttackTime": 1.5,
+        "respawnTime": 40,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡三个敌人",
+      "skills": [
+        {
+          "name": "结构性原理",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "结构性原理",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "工程学十字星",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "向前方冲锋，碰到敌人或高台时对范围内所有敌人造成机械师攻击力300%的物理伤害并停下，周围的敌人获得逐渐衰减的50%的虚弱效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

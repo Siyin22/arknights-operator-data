@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_lunacu",
+  "name": "“移动的窝”",
+  "type": "DEA-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 145.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 63.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔小幅度缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔小幅度缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔小幅度缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔小幅度缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔小幅度缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔小幅度缩短",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔缩短",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "荒野本能",
+            "description": "未开启技能时，获得迷彩，开启技能后攻击间隔缩短",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4014_lunacu",
+  "operator_name": "子月",
+  "profession": "狙击",
+  "branch": "神射手"
+}

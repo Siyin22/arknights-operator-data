@@ -1,0 +1,310 @@
+{
+  "id": "char_213_mostma",
+  "name": "莫斯提马",
+  "english": "Mostima",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "扩散术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "群攻",
+    "支援",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1831,
+        "atk": 939,
+        "def": 132,
+        "magicResistance": 20.0,
+        "cost": 34,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环·术师",
+          "description": "在场时所有【术师】干员的技力自然回复速度+0.4/秒（同类效果取最高）"
+        },
+        {
+          "name": "主观缓时",
+          "description": "攻击范围内的敌人移动速度-15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1831,
+        "atk": 939,
+        "def": 132,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环·术师",
+          "description": "在场时所有【术师】干员的技力自然回复速度+0.4/秒（同类效果取最高）"
+        },
+        {
+          "name": "主观缓时",
+          "description": "攻击范围内的敌人移动速度-15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1831,
+        "atk": 939,
+        "def": 132,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环·术师",
+          "description": "在场时所有【术师】干员的技力自然回复速度+0.4/秒（同类效果取最高）"
+        },
+        {
+          "name": "主观缓时",
+          "description": "攻击范围内的敌人移动速度-15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1831,
+        "atk": 973.0,
+        "def": 132,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环·术师",
+          "description": "在场时所有【术师】干员的技力自然回复速度+0.4/秒（同类效果取最高）"
+        },
+        {
+          "name": "主观缓时",
+          "description": "攻击范围内的敌人移动速度-15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1831,
+        "atk": 973.0,
+        "def": 132,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环·术师",
+          "description": "在场时所有【术师】干员的技力自然回复速度+0.4/秒（同类效果取最高）"
+        },
+        {
+          "name": "主观缓时",
+          "description": "攻击范围内的敌人移动速度-18%（+3%）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1831,
+        "atk": 973.0,
+        "def": 132,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环·术师",
+          "description": "在场时所有【术师】干员的技力自然回复速度+0.4/秒（同类效果取最高）"
+        },
+        {
+          "name": "主观缓时",
+          "description": "攻击范围内的敌人移动速度-18%（+3%）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+34",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "荒时之锁",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内的敌人全部晕眩，且每秒受到攻击力120%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 56,
+          "initial": 17,
+          "charges": 1,
+          "duration": "6 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内的敌人全部晕眩，且每秒受到攻击力130%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 20,
+          "charges": 1,
+          "duration": "6 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内的敌人全部晕眩，且每秒受到攻击力130%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 23,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内的敌人全部晕眩，且每秒受到攻击力140%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "7 秒"
+        }
+      ]
+    },
+    {
+      "name": "序时之匙",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击变为向外扩散的波纹，攻击力+120%，第二天赋的效果提升至3倍，小力度地击退攻击目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 110,
+          "initial": 62,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击变为向外扩散的波纹，攻击力+135%，第二天赋的效果提升至3倍，小力度地击退攻击目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 110,
+          "initial": 68,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击变为向外扩散的波纹，攻击力+150%，第二天赋的效果提升至3倍，小力度地击退攻击目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 110,
+          "initial": 74,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击变为向外扩散的波纹，攻击力+170%，第二天赋的效果提升至3倍，小力度地击退攻击目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 110,
+          "initial": 80,
+          "charges": 1,
+          "duration": "27 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

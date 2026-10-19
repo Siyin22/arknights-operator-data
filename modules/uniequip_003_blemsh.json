@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_blemsh",
+  "name": "“长骑”",
+  "type": "GUA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 230.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至150%；部署后，使自身这格内的所有地面敌人陷入5秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至150%；部署后，使自身这格内的所有地面敌人陷入5秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至150%；部署后，使自身这格内的所有地面敌人陷入5秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至150%；部署后，使自身这格内的所有地面敌人陷入5秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至154%（+4%）；部署后，使自身这格内的所有地面敌人陷入5秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至154%（+4%）；部署后，使自身这格内的所有地面敌人陷入5秒沉睡",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 460.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 69.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至160%；部署后，使自身这格内的所有地面敌人陷入8秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至160%；部署后，使自身这格内的所有地面敌人陷入8秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至160%；部署后，使自身这格内的所有地面敌人陷入8秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至160%；部署后，使自身这格内的所有地面敌人陷入8秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至164%（+4%）；部署后，使自身这格内的所有地面敌人陷入8秒沉睡",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗生命值低于50%的友方单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "仁慈",
+            "description": "自身可以攻击并优先攻击沉睡的目标且攻击力提升至164%（+4%）；部署后，使自身这格内的所有地面敌人陷入8秒沉睡",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_423_blemsh",
+  "operator_name": "瑕光",
+  "profession": "重装",
+  "branch": "守护者"
+}

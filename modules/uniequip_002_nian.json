@@ -1,0 +1,263 @@
+{
+  "id": "uniequip_002_nian",
+  "name": "混沌阵列",
+  "type": "PRO-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 280.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+5%，防御力+5%且获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+5%，防御力+5%且获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+5%，防御力+5%且获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+5%，防御力+5%且获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+5%，防御力+5%且获得2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+5%，防御力+5%且获得2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 375.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+7%，防御力+7%且获得3点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+7%，防御力+7%且获得3点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+7%，防御力+7%且获得3点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+7%，防御力+7%且获得3点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+7%，防御力+7%且获得3点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "干明可鉴",
+            "description": "部署后立即获得3层护盾，每层护盾破裂时，攻击力+7%，防御力+7%且获得3点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2014_nian",
+  "operator_name": "年",
+  "profession": "重装",
+  "branch": "铁卫"
+}

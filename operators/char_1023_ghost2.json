@@ -1,0 +1,309 @@
+{
+  "id": "char_1023_ghost2",
+  "name": "归溟幽灵鲨",
+  "english": "Specter the Unchained",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "傀儡师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2803,
+        "atk": 817,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "拥抱自我",
+          "description": "使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害"
+        },
+        {
+          "name": "阿戈尔的深邃",
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+20%"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2803,
+        "atk": 817,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "拥抱自我",
+          "description": "使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害"
+        },
+        {
+          "name": "阿戈尔的深邃",
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+20%"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2803,
+        "atk": 817,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "拥抱自我",
+          "description": "使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害"
+        },
+        {
+          "name": "阿戈尔的深邃",
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+20%"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2803,
+        "atk": 850.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "拥抱自我",
+          "description": "使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害"
+        },
+        {
+          "name": "阿戈尔的深邃",
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+20%"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2803,
+        "atk": 850.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "拥抱自我",
+          "description": "使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害"
+        },
+        {
+          "name": "阿戈尔的深邃",
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+23%（+3%）"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    },
+    {
+      "stats": {
+        "maxHp": 2803,
+        "atk": 850.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "拥抱自我",
+          "description": "使周围敌人移动速度-40%且每秒造成相当于40%攻击力的法术伤害"
+        },
+        {
+          "name": "阿戈尔的深邃",
+          "description": "编入队伍时，所有【深海猎人】干员的生命值+23%（+3%）"
+        }
+      ],
+      "trait": "受到致命伤时不撤退，切换成作战（替身阻挡数为0），持续20秒后自身再次替换"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+33",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "生存的技巧",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力+120%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力+130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力+140%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "开启时立即与范围内生命上限比例最低的其他我方干员交换生命上限比例，自身攻击力+150%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "生存的渴望",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+100%，攻击速度+34，技能持续期间内干员的生命值不会低于1\n技能结束后视为被击倒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+110%，攻击速度+38，技能持续期间内干员的生命值不会低于1\n技能结束后视为被击倒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+120%，攻击速度+44，技能持续期间内干员的生命值不会低于1\n技能结束后视为被击倒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+130%，攻击速度+50，技能持续期间内干员的生命值不会低于1\n技能结束后视为被击倒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "生存的重压",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔延长，攻击所有阻挡的敌人，攻击力+200%，生命上限+160%，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力60%的物理伤害，否则自身流失3%生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔延长，攻击所有阻挡的敌人，攻击力+220%，生命上限+170%，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力70%的物理伤害，否则自身流失3%生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔延长，攻击所有阻挡的敌人，攻击力+240%，生命上限+185%，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力70%的物理伤害，否则自身流失3%生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔延长，攻击所有阻挡的敌人，攻击力+260%，生命上限+200%，攻击生命比例高于或等于自身的敌人时额外造成一次攻击力70%的物理伤害，否则自身流失3%生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

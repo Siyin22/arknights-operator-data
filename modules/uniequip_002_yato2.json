@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_yato2",
+  "name": "训练用木桩",
+  "type": "EXE-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 96.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 36.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 112.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 43.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+14%，技能期间攻击力额外+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+14%，技能期间攻击力额外+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+14%，技能期间攻击力额外+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+14%，技能期间攻击力额外+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+17%（+3%），技能期间攻击力额外+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+17%（+3%），技能期间攻击力额外+3%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 123.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+15%，技能期间攻击力额外+5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+15%，技能期间攻击力额外+5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+15%，技能期间攻击力额外+5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+15%，技能期间攻击力额外+5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+18%（+3%），技能期间攻击力额外+5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "鬼人强化状态",
+            "description": "技能期间及技能结束后的10秒内攻击力+18%（+3%），技能期间攻击力额外+5%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1029_yato2",
+  "operator_name": "麒麟R夜刀",
+  "profession": "特种",
+  "branch": "处决者"
+}

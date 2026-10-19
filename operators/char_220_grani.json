@@ -1,0 +1,239 @@
+{
+  "id": "char_220_grani",
+  "name": "格拉尼",
+  "english": "Grani",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "冲锋手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2235,
+        "atk": 552,
+        "def": 437,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "骑警",
+          "description": "在场时，所有【先锋】职业干员获得20%的物理闪避"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2235,
+        "atk": 552,
+        "def": 437,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "骑警",
+          "description": "在场时，所有【先锋】职业干员获得20%的物理闪避"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2235,
+        "atk": 552,
+        "def": 437,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "骑警",
+          "description": "在场时，所有【先锋】职业干员获得20%的物理闪避"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2235,
+        "atk": 552,
+        "def": 437,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "骑警",
+          "description": "在场时，所有【先锋】职业干员获得20%的物理闪避"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2235,
+        "atk": 552,
+        "def": 437,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "骑警",
+          "description": "在场时，所有【先锋】职业干员获得25%（+5%）的物理闪避"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2235,
+        "atk": 552,
+        "def": 437,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "骑警",
+          "description": "在场时，所有【先锋】职业干员获得25%（+5%）的物理闪避"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "防御力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "永不后退！",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击距离缩短，攻击力和防御力+60%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击距离缩短，攻击力和防御力+66%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 73,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击距离缩短，攻击力和防御力+72%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 72,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击距离缩短，攻击力和防御力+80%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

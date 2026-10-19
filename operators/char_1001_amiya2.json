@@ -1,0 +1,239 @@
+{
+  "id": "char_1001_amiya2",
+  "name": "阿米娅",
+  "english": "Amiya",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "术战者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2629,
+        "atk": 702,
+        "def": 421,
+        "magicResistance": 20.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "青色怒火",
+          "description": "在场时所有友方单位的攻击力和防御力+7%，技能开启期间效果加倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2829.0,
+        "atk": 702,
+        "def": 421,
+        "magicResistance": 20.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "青色怒火",
+          "description": "在场时所有友方单位的攻击力和防御力+7%，技能开启期间效果加倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2829.0,
+        "atk": 702,
+        "def": 421,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "青色怒火",
+          "description": "在场时所有友方单位的攻击力和防御力+7%，技能开启期间效果加倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2829.0,
+        "atk": 730.0,
+        "def": 421,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "青色怒火",
+          "description": "在场时所有友方单位的攻击力和防御力+7%，技能开启期间效果加倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2829.0,
+        "atk": 730.0,
+        "def": 421,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "青色怒火",
+          "description": "在场时所有友方单位的攻击力和防御力+7%，技能开启期间效果加倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2829.0,
+        "atk": 730.0,
+        "def": 443.0,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "青色怒火",
+          "description": "在场时所有友方单位的攻击力和防御力+7%，技能开启期间效果加倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "生命上限+200",
+    "部署费用-1",
+    "攻击力+28",
+    "部署费用-1",
+    "防御力+22"
+  ],
+  "skills": [
+    {
+      "name": "影霄·奔夜",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，攻击变为二连击，获得60%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%，攻击变为二连击，获得60%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，攻击变为二连击，获得60%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，攻击变为二连击，获得60%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "影霄·绝影",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即寻找前方生命值最低的目标，进行10次攻击力为160%的法术斩击（最后一击系数加倍且为真实伤害）；斩击期间每击败一个敌人获得攻击力+25%和法术抗性+20（最多叠加3次），并且接下来的伤害类型变为真实；整场战斗中该技能只能释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即寻找前方生命值最低的目标，进行10次攻击力为180%的法术斩击（最后一击系数加倍且为真实伤害）；斩击期间每击败一个敌人获得攻击力+30%和法术抗性+20（最多叠加3次），并且接下来的伤害类型变为真实；整场战斗中该技能只能释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即寻找前方生命值最低的目标，进行10次攻击力为200%的法术斩击（最后一击系数加倍且为真实伤害）；斩击期间每击败一个敌人获得攻击力+35%和法术抗性+20（最多叠加3次），并且接下来的伤害类型变为真实；整场战斗中该技能只能释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即寻找前方生命值最低的目标，进行10次攻击力为220%的法术斩击（最后一击系数加倍且为真实伤害）；斩击期间每击败一个敌人获得攻击力+40%和法术抗性+20（最多叠加3次），并且接下来的伤害类型变为真实；整场战斗中该技能只能释放一次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

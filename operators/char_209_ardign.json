@@ -1,0 +1,162 @@
+{
+  "id": "char_209_ardign",
+  "name": "卡缇",
+  "english": "Cardigan",
+  "rarity": 3,
+  "profession": "重装",
+  "branch": "铁卫",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2430,
+        "atk": 305,
+        "def": 475,
+        "magicResistance": 0,
+        "cost": 18,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命上限提升",
+          "description": "生命上限+12%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2430,
+        "atk": 305,
+        "def": 475,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命上限提升",
+          "description": "生命上限+12%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2430,
+        "atk": 305,
+        "def": 475,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命上限提升",
+          "description": "生命上限+12%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630.0,
+        "atk": 305,
+        "def": 475,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命上限提升",
+          "description": "生命上限+12%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630.0,
+        "atk": 305,
+        "def": 475,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命上限提升",
+          "description": "生命上限+12%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2630.0,
+        "atk": 305,
+        "def": 475,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命上限提升",
+          "description": "生命上限+12%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+200",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "生命回复·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即恢复最大生命的40%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

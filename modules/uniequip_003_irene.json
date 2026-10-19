@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_irene",
+  "name": "审判官口粮",
+  "type": "SWO-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其50%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得4点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "审判之火",
+            "description": "对敌人造成物理伤害时有50%概率无视其55%防御力，对空中单位概率提升至100%，技能期间若击倒空中单位，技能结束时获得6点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4009_irene",
+  "operator_name": "艾丽妮",
+  "profession": "近卫",
+  "branch": "剑豪"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_horn",
+  "name": "“典范之人”",
+  "type": "FOR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 62.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+28%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+28%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+28%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+28%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+28%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+31%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+31%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+31%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "军事要塞",
+            "description": "在场时所有重装干员的攻击力+31%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4039_horn",
+  "operator_name": "号角",
+  "profession": "重装",
+  "branch": "要塞"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_4199_makiri",
+  "name": "松桐",
+  "english": "Matsukiri",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "策士",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2002,
+        "atk": 650,
+        "def": 420,
+        "magicResistance": 15.0,
+        "cost": 14,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "慢手有筹",
+          "description": "在战场停留30秒后，仅一次使场上与待部署区的所有重装和辅助干员攻击力+10%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2002,
+        "atk": 650,
+        "def": 420,
+        "magicResistance": 15.0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "慢手有筹",
+          "description": "在战场停留30秒后，仅一次使场上与待部署区的所有重装和辅助干员攻击力+10%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2002,
+        "atk": 650,
+        "def": 420,
+        "magicResistance": 15.0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "慢手有筹",
+          "description": "在战场停留30秒后，仅一次使场上与待部署区的所有重装和辅助干员攻击力+10%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2002,
+        "atk": 650,
+        "def": 420,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "慢手有筹",
+          "description": "在战场停留30秒后，仅一次使场上与待部署区的所有重装和辅助干员攻击力+10%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2002,
+        "atk": 650,
+        "def": 420,
+        "magicResistance": 15.0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "慢手有筹",
+          "description": "在战场停留30秒后，仅一次使场上与待部署区的所有重装和辅助干员攻击力+12%（+2%）"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2002,
+        "atk": 650,
+        "def": 420,
+        "magicResistance": 15.0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "慢手有筹",
+          "description": "在战场停留30秒后，仅一次使场上与待部署区的所有重装和辅助干员攻击力+12%（+2%）"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以支援待部署区的我方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "入场安排",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得10点部署费用，并使当前待部署区最右边的1名干员部署费用-4",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 14,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得10点部署费用，并使当前待部署区最右边的1名干员部署费用-4",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 16,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得10点部署费用，并使当前待部署区最右边的1名干员部署费用-4",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 18,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得10点部署费用，并使当前待部署区最右边的1名干员部署费用-4",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "万手成局",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "逐渐回复总共15点部署费用，攻击力+55%，每秒恢复8%的最大生命值；技能开启时立即使待部署区所有重装与辅助干员费用-1，并且最大生命值+12%（生命加成最多叠加2次，持续至下次撤退）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 12,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "逐渐回复总共15点部署费用，攻击力+60%，每秒恢复8%的最大生命值；技能开启时立即使待部署区所有重装与辅助干员费用-1，并且最大生命值+13%（生命加成最多叠加2次，持续至下次撤退）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 13,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "逐渐回复总共15点部署费用，攻击力+65%，每秒恢复8%的最大生命值；技能开启时立即使待部署区所有重装与辅助干员费用-1，并且最大生命值+14%（生命加成最多叠加2次，持续至下次撤退）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 14,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "逐渐回复总共15点部署费用，攻击力+70%，每秒恢复10%的最大生命值；技能开启时立即使待部署区所有重装与辅助干员费用-1，并且最大生命值+15%（生命加成最多叠加2次，持续至下次撤退）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

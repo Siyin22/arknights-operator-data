@@ -1,0 +1,239 @@
+{
+  "id": "char_431_ashlok",
+  "name": "灰毫",
+  "english": "Ashlock",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "要塞",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3207,
+        "atk": 915,
+        "def": 591,
+        "magicResistance": 0,
+        "cost": 27,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "炮术研习",
+          "description": "攻击力+8%，周身四格为地面时改为攻击力+16%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3207,
+        "atk": 915,
+        "def": 591,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "炮术研习",
+          "description": "攻击力+8%，周身四格为地面时改为攻击力+16%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3207,
+        "atk": 915,
+        "def": 591,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "炮术研习",
+          "description": "攻击力+8%，周身四格为地面时改为攻击力+16%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3207,
+        "atk": 947.0,
+        "def": 591,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "炮术研习",
+          "description": "攻击力+8%，周身四格为地面时改为攻击力+16%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3207,
+        "atk": 947.0,
+        "def": 591,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "炮术研习",
+          "description": "攻击力+10%（+2%），周身四格为地面时改为攻击力+18%（+2%）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3207,
+        "atk": 947.0,
+        "def": 591,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "炮术研习",
+          "description": "攻击力+10%（+2%），周身四格为地面时改为攻击力+18%（+2%）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+32",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "专注轰击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "阻挡数变为0，只进行远程攻击，攻击间隔缩短，攻击力+40%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "阻挡数变为0，只进行远程攻击，攻击间隔缩短，攻击力+45%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "阻挡数变为0，只进行远程攻击，攻击间隔缩短，攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "阻挡数变为0，只进行远程攻击，攻击间隔大幅缩短，攻击力+55%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

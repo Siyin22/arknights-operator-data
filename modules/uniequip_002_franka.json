@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_franka",
+  "name": "尖端铝热单元",
+  "type": "DRE-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有25%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有25%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有25%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有25%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有25%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有25%的几率无视目标的防御",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 220.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 95.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有28%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有28%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有28%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有28%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有28%的几率无视目标的防御",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "铝热剑",
+            "description": "攻击时有28%的几率无视目标的防御",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_106_franka",
+  "operator_name": "芙兰卡",
+  "profession": "近卫",
+  "branch": "无畏者"
+}

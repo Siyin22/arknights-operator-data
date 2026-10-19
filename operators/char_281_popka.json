@@ -1,0 +1,163 @@
+{
+  "id": "char_281_popka",
+  "name": "泡普卡",
+  "english": "Popukar",
+  "rarity": 3,
+  "profession": "近卫",
+  "branch": "强攻手",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "群攻",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1858,
+        "atk": 545,
+        "def": 245,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命攻击提升",
+          "description": "生命上限+6%，攻击力+6%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1858,
+        "atk": 545,
+        "def": 245,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命攻击提升",
+          "description": "生命上限+6%，攻击力+6%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1858,
+        "atk": 545,
+        "def": 245,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命攻击提升",
+          "description": "生命上限+6%，攻击力+6%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1858,
+        "atk": 568.0,
+        "def": 245,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命攻击提升",
+          "description": "生命上限+6%，攻击力+6%"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1858,
+        "atk": 568.0,
+        "def": 245,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命攻击提升",
+          "description": "生命上限+8%（+2%），攻击力+8%（+2%）"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1858,
+        "atk": 568.0,
+        "def": 245,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命攻击提升",
+          "description": "生命上限+8%（+2%），攻击力+8%（+2%）"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

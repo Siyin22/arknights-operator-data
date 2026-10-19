@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_puzzle",
+  "name": "首要任务",
+  "type": "AGE-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至128%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至128%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至128%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至128%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至133%（+5%）且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至133%（+5%）且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 220.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至130%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至130%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至130%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至130%且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至135%（+5%）且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "序列",
+            "description": "攻击命中生命值为满的敌人时攻击力提升至135%（+5%）且使其移动速度下降50%，持续3.5秒，并额外回复2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4017_puzzle",
+  "operator_name": "谜图",
+  "profession": "先锋",
+  "branch": "情报官"
+}

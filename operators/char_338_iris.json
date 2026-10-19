@@ -1,0 +1,238 @@
+{
+  "id": "char_338_iris",
+  "name": "爱丽丝",
+  "english": "Iris",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "秘术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1535,
+        "atk": 1389,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "封印的宝盒",
+          "description": "储存的攻击能量造成的伤害提升至130%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1535,
+        "atk": 1389,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "封印的宝盒",
+          "description": "储存的攻击能量造成的伤害提升至130%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1535,
+        "atk": 1389,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "封印的宝盒",
+          "description": "储存的攻击能量造成的伤害提升至130%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1535,
+        "atk": 1434.0,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "封印的宝盒",
+          "description": "储存的攻击能量造成的伤害提升至130%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1535,
+        "atk": 1434.0,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "封印的宝盒",
+          "description": "储存的攻击能量造成的伤害提升至134%（+4%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1535,
+        "atk": 1434.0,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "封印的宝盒",
+          "description": "储存的攻击能量造成的伤害提升至134%（+4%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+45",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "童话守卫者",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力40%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力43%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力46%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        }
+      ]
+    },
+    {
+      "name": "梦乡摇篮",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即使攻击范围内的至多2个敌人陷入沉睡7秒，在其醒来时会对周围小范围内所有敌人造成相当于攻击力230%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即使攻击范围内的至多2个敌人陷入沉睡7秒，在其醒来时会对周围小范围内所有敌人造成相当于攻击力250%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即使攻击范围内的至多2个敌人陷入沉睡7秒，在其醒来时会对周围小范围内所有敌人造成相当于攻击力270%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即使攻击范围内的至多2个敌人陷入沉睡7秒，在其醒来时会对周围小范围内所有敌人造成相当于攻击力300%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

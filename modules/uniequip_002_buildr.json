@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_buildr",
+  "name": "寻乡人的启明星",
+  "type": "SOL-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 225.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+21%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+21%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 37.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+23%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "拆迁队守则",
+            "description": "在战场停留30秒后，生命上限+23%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_488_buildr",
+  "operator_name": "青枳",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

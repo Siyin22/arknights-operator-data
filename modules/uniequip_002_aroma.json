@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_aroma",
+  "name": "柠檬味的童年",
+  "type": "BLA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 49.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至115%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至115%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至115%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至115%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至120%（+5%），并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至120%（+5%），并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至120%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至120%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至120%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至120%，并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至125%（+5%），并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "起泡性能测试",
+            "description": "对每个敌人首次进行攻击时攻击力提升至125%（+5%），并使目标浮空2.5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_446_aroma",
+  "operator_name": "阿罗玛",
+  "profession": "术师",
+  "branch": "轰击术师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_pinecn",
+  "name": "移动电箱",
+  "type": "RPR-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 36.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后70秒内技力自然回复速度+0.5/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后70秒内技力自然回复速度+0.5/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后70秒内技力自然回复速度+0.5/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后70秒内技力自然回复速度+0.5/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后70秒内技力自然回复速度+0.55（+0.05）/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后70秒内技力自然回复速度+0.55（+0.05）/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后75秒内技力自然回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后75秒内技力自然回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后75秒内技力自然回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后75秒内技力自然回复速度+0.55/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后75秒内技力自然回复速度+0.6（+0.05）/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "便携电源",
+            "description": "部署后75秒内技力自然回复速度+0.6（+0.05）/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_440_pinecn",
+  "operator_name": "松果",
+  "profession": "狙击",
+  "branch": "散射手"
+}

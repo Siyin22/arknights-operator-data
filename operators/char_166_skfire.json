@@ -1,0 +1,239 @@
+{
+  "id": "char_166_skfire",
+  "name": "天火",
+  "english": "Skyfire",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "扩散术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1620,
+        "atk": 874,
+        "def": 122,
+        "magicResistance": 20.0,
+        "cost": 33,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "法术狙击",
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1620,
+        "atk": 874,
+        "def": 122,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "法术狙击",
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1620,
+        "atk": 874,
+        "def": 122,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "法术狙击",
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1620,
+        "atk": 907.0,
+        "def": 122,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "法术狙击",
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升15%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1620,
+        "atk": 907.0,
+        "def": 122,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "法术狙击",
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升18%（+3%）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1620,
+        "atk": 907.0,
+        "def": 122,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "法术狙击",
+          "description": "在场时，所有被阻挡的敌人受到法术伤害时伤害提升18%（+3%）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+33",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "天坠之火",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力210%的法术伤害，并使所有命中目标晕眩0.2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 0,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力220%的法术伤害，并使所有命中目标晕眩0.4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 0,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力230%的法术伤害，并使所有命中目标晕眩0.6秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 0,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击变为从天空召唤陨石；陨石需要时间降落，落地后对大范围敌人造成相当于攻击力240%的法术伤害，并使所有命中目标晕眩1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

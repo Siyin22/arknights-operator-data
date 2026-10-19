@@ -1,0 +1,349 @@
+{
+  "id": "char_242_otter",
+  "name": "梅尔",
+  "english": "Mayer",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "召唤师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "召唤",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1268,
+        "atk": 478,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机械水獭",
+          "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-25"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1268,
+        "atk": 478,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机械水獭",
+          "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-25"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1268,
+        "atk": 478,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机械水獭",
+          "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-25"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1268,
+        "atk": 478,
+        "def": 130,
+        "magicResistance": 28.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机械水獭",
+          "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-25"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1268,
+        "atk": 478,
+        "def": 130,
+        "magicResistance": 28.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机械水獭",
+          "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-25"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1268,
+        "atk": 478,
+        "def": 130,
+        "magicResistance": 28.0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机械水獭",
+          "description": "可以使用5个机械水獭召唤物。被机械水獭阻挡的敌人攻击速度-25"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+8",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迷惑装置",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "所有机械水獭获得25%的物理和法术闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "所有机械水獭获得25%的物理和法术闪避\n机械水獭周围四格的友军也获得同样的效果",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "所有机械水獭获得30%的物理和法术闪避\n机械水獭周围四格的友军也获得同样的效果",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "所有机械水獭获得35%的物理和法术闪避\n机械水獭周围四格的友军也获得同样的效果",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "爆破回收",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即引爆所有配置的机械水獭，爆炸时对周围敌人造成相当于梅尔攻击力450%的法术伤害，并使所有命中目标晕眩1秒\n被引爆的机械水獭会被回收",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即引爆所有配置的机械水獭，爆炸时对周围敌人造成相当于梅尔攻击力500%的法术伤害，并使所有命中目标晕眩1.5秒\n被引爆的机械水獭会被回收",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即引爆所有配置的机械水獭，爆炸时对周围敌人造成相当于梅尔攻击力550%的法术伤害，并使所有命中目标晕眩1.5秒\n被引爆的机械水獭会被回收",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即引爆所有配置的机械水獭，爆炸时对周围敌人造成相当于梅尔攻击力600%的法术伤害，并使所有命中目标晕眩2秒\n被引爆的机械水獭会被回收",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "机械水獭",
+      "stats": {
+        "maxHp": 1950,
+        "atk": 444,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人",
+      "skills": [
+        {
+          "name": "迷惑装置",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "所有机械水獭获得25%的物理和法术闪避",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "所有机械水獭获得25%的物理和法术闪避\n机械水獭周围四格的友军也获得同样的效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "所有机械水獭获得30%的物理和法术闪避\n机械水獭周围四格的友军也获得同样的效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "所有机械水獭获得35%的物理和法术闪避\n机械水獭周围四格的友军也获得同样的效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "爆破回收",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "引爆所有配置的机械水獭，爆炸时对周围敌人造成角色攻击力450%的法术伤害并晕眩1秒\n被引爆的机械水獭会被回收",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "引爆所有配置的机械水獭，爆炸时对周围敌人造成角色攻击力500%的法术伤害并晕眩1.5秒\n被引爆的机械水獭会被回收",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "引爆所有配置的机械水獭，爆炸时对周围敌人造成角色攻击力550%的法术伤害并晕眩1.5秒\n被引爆的机械水獭会被回收",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "引爆所有配置的机械水獭，爆炸时对周围敌人造成角色攻击力600%的法术伤害并晕眩2秒\n被引爆的机械水獭会被回收",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

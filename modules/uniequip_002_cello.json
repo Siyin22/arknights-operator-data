@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_cello",
+  "name": "强弱法",
+  "type": "RIT-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高28%，凋亡损伤爆发期间受到3%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高28%，凋亡损伤爆发期间受到3%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高28%，凋亡损伤爆发期间受到3%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高28%，凋亡损伤爆发期间受到3%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高30%（+2%），凋亡损伤爆发期间受到3%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高30%（+2%），凋亡损伤爆发期间受到3%的元素脆弱",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高33%，凋亡损伤爆发期间受到5%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高33%，凋亡损伤爆发期间受到5%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高33%，凋亡损伤爆发期间受到5%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高33%，凋亡损伤爆发期间受到5%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高35%（+2%），凋亡损伤爆发期间受到5%的元素脆弱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "精神逆构",
+            "description": "使攻击范围内敌人受到的凋亡损伤提高35%（+2%），凋亡损伤爆发期间受到5%的元素脆弱",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_245_cello",
+  "operator_name": "塑心",
+  "profession": "辅助",
+  "branch": "巫役"
+}

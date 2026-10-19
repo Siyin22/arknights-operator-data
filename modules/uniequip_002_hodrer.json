@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_hodrer",
+  "name": "新的生活",
+  "type": "CRU-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 290.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 92.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 380.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 112.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得24%的庇护，且造成的物理伤害提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得24%的庇护，且造成的物理伤害提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得24%的庇护，且造成的物理伤害提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得24%的庇护，且造成的物理伤害提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得27%（+3%）的庇护，且造成的物理伤害提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得27%（+3%）的庇护，且造成的物理伤害提升6%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 450.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 130.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得28%的庇护，且造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得28%的庇护，且造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得28%的庇护，且造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得28%的庇护，且造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得31%（+3%）的庇护，且造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "余火之氅",
+            "description": "使自身与身后一格的友军获得31%（+3%）的庇护，且造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4088_hodrer",
+  "operator_name": "赫德雷",
+  "profession": "近卫",
+  "branch": "重剑手"
+}

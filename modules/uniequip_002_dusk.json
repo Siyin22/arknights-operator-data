@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_dusk",
+  "name": "无题长卷",
+  "type": "SPC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加20层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加20层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加20层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加20层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加23（+3）层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加23（+3）层",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加21层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加21层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加21层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加21层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加24（+3）层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "化境",
+            "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加24（+3）层",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2015_dusk",
+  "operator_name": "夕",
+  "profession": "术师",
+  "branch": "扩散术师"
+}

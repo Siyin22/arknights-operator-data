@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_qanik",
+  "name": "自制登山杖",
+  "type": "CCR-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得25%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得25%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得25%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得25%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得27%（+2%）的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得27%（+2%）的【法术脆弱】效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得28%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得28%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得28%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得28%的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得30%（+2%）的【法术脆弱】效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "普通攻击命中精英或领袖敌人时获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "冰原生存",
+            "description": "攻击范围内的所有空中单位获得30%（+2%）的【法术脆弱】效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_466_qanik",
+  "operator_name": "雪绒",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

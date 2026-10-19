@@ -1,0 +1,288 @@
+{
+  "id": "char_108_silent",
+  "name": "赫默",
+  "english": "Silence",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "医师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 557,
+        "def": 142,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强化注射",
+          "description": "在场时，所有友方【医疗】职业干员攻速+12"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 557,
+        "def": 142,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强化注射",
+          "description": "在场时，所有友方【医疗】职业干员攻速+12"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 557,
+        "def": 142,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强化注射",
+          "description": "在场时，所有友方【医疗】职业干员攻速+12"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 581.0,
+        "def": 142,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强化注射",
+          "description": "在场时，所有友方【医疗】职业干员攻速+12"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 581.0,
+        "def": 142,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强化注射",
+          "description": "在场时，所有友方【医疗】职业干员攻速+14（+2）"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1595,
+        "atk": 581.0,
+        "def": 142,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强化注射",
+          "description": "在场时，所有友方【医疗】职业干员攻速+14（+2）"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "治疗强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "医疗无人机",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "获得一个医疗无人机\n最多可库存1个无人机；无人机投入战场后治疗周围友军，10秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "获得一个医疗无人机\n最多可库存1个无人机；无人机投入战场后治疗周围友军，10秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "获得一个医疗无人机\n最多可库存1个无人机；无人机投入战场后治疗周围友军，10秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "获得一个医疗无人机\n最多可库存1个无人机；无人机投入战场后治疗周围友军，10秒后自动销毁",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "医疗探机",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 125,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 0.5,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击，恢复周围友方单位的生命",
+      "skills": [
+        {
+          "name": "自我销毁",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "10秒后自动销毁",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "10 秒"
+            }
+          ]
+        },
+        {
+          "name": "自我销毁",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "10秒后自动销毁",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "10 秒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

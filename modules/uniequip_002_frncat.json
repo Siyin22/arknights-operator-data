@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_frncat",
+  "name": "美爪套装二象性",
+  "type": "AFT-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有23%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有23%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有23%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有23%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有26%（+3%）的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有26%（+3%）的几率连续攻击两次",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 220.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有25%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有25%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有25%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有25%的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有28%（+3%）的几率连续攻击两次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "未阻挡敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "连击",
+            "description": "攻击时有28%（+3%）的几率连续攻击两次",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_185_frncat",
+  "operator_name": "慕斯",
+  "profession": "近卫",
+  "branch": "术战者"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_halo2",
+  "name": "探索者的收藏",
+  "type": "DEC-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 85.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 105.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加23次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加23次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加23次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加23次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加23次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加23次",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 115.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加25次；叠满后使自身攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加25次；叠满后使自身攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加25次；叠满后使自身攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加25次；叠满后使自身攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加25次；叠满后使自身攻击力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "数据建模",
+            "description": "对敌人造成停顿效果时，使自身的攻击速度+1，最多叠加25次；叠满后使自身攻击力+12%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1047_halo2",
+  "operator_name": "溯光星源",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_crosly",
+  "name": "木炭画",
+  "type": "EXE-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 84.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 63.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 109.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 74.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升28%且造成的晕眩效果影响时间+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升28%且造成的晕眩效果影响时间+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升28%且造成的晕眩效果影响时间+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升28%且造成的晕眩效果影响时间+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升30%（+2%）且造成的晕眩效果影响时间+25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升30%（+2%）且造成的晕眩效果影响时间+25%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 88.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升35%且造成的晕眩效果影响时间+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升35%且造成的晕眩效果影响时间+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升35%且造成的晕眩效果影响时间+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升35%且造成的晕眩效果影响时间+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升37%（+2%）且造成的晕眩效果影响时间+50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "弑君者威名",
+            "description": "对未伤害过自身的地面敌人造成的物理伤害提升37%（+2%）且造成的晕眩效果影响时间+50%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1502_crosly",
+  "operator_name": "弑君者",
+  "profession": "特种",
+  "branch": "处决者"
+}

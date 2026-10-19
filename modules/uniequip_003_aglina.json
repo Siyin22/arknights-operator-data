@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_aglina",
+  "name": "实验用反重力模块",
+  "type": "DEC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 60.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 10.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 15.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+3",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+8（+1），自身攻击范围内的友方单位攻速额外+3",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+7，自身攻击范围内的友方单位攻速额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在敌人时技力自然恢复速度+0.2/秒",
+            "condition": ""
+          },
+          {
+            "name": "加速力场",
+            "description": "全场友方单位攻速+8（+1），自身攻击范围内的友方单位攻速额外+5",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_291_aglina",
+  "operator_name": "安洁莉娜",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_vulpis",
+  "name": "剑舞",
+  "type": "SOL-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 10.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 105.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+13%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+13%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+13%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+13%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+13%，若4秒内自身未受到伤害，则每秒恢复5%（+1%）的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+13%，若4秒内自身未受到伤害，则每秒恢复5%（+1%）的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+15%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+15%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+15%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+15%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+15%，若4秒内自身未受到伤害，则每秒恢复5%（+1%）的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "首次部署时部署费用-4",
+            "condition": ""
+          },
+          {
+            "name": "蓄势",
+            "description": "在场时，部署费用的自然回复速度+15%，若4秒内自身未受到伤害，则每秒恢复5%（+1%）的最大生命值，首次部署后获得迷彩直至开启技能",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4026_vulpis",
+  "operator_name": "忍冬",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

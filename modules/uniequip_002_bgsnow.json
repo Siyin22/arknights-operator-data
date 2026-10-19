@@ -1,0 +1,275 @@
+{
+  "id": "uniequip_002_bgsnow",
+  "name": "打字机色带",
+  "type": "ARC-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“打字机”",
+          "bonuses": [
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 50.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性较强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性较强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性较强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性较强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性较强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性较强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“打字机”",
+          "bonuses": [
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 70.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性更强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性更强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性更强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性更强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性更强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "自动打字机",
+            "description": "可使用一个持续25秒属性更强的“打字机”，“打字机”拥有和自己一样的技能，拥有独立的再部署时间",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4055_bgsnow",
+  "operator_name": "鸿雪",
+  "profession": "狙击",
+  "branch": "重射手"
+}

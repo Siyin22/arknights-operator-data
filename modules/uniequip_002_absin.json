@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_absin",
+  "name": "“监护者”单兵通讯单元",
+  "type": "CCR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高29%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高29%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高29%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高29%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高35%（+6%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高35%（+6%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高32%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高32%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高32%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高32%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高38%（+6%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "无视目标10点法术抗性",
+            "condition": ""
+          },
+          {
+            "name": "执法者",
+            "description": "攻击生命值低于50%的敌人伤害提高38%（+6%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_405_absin",
+  "operator_name": "苦艾",
+  "profession": "术师",
+  "branch": "中坚术师"
+}

@@ -1,0 +1,309 @@
+{
+  "id": "char_1050_chen3",
+  "name": "赤刃明霄陈",
+  "english": "Ch'en the Dawnstreak",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "术战者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "爆发",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2910,
+        "atk": 770,
+        "def": 425,
+        "magicResistance": 15.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "形意洞照",
+          "description": "攻击力+13%，攻击速度+13，攻击变为弱点伤害"
+        },
+        {
+          "name": "寒暑觉知",
+          "description": "未受到伤害时，每7秒随机治疗自身一定（攻击力的30%~160%）生命值，并闪避下次物理与法术攻击"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2910,
+        "atk": 770,
+        "def": 425,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "形意洞照",
+          "description": "攻击力+13%，攻击速度+13，攻击变为弱点伤害"
+        },
+        {
+          "name": "寒暑觉知",
+          "description": "未受到伤害时，每7秒随机治疗自身一定（攻击力的30%~160%）生命值，并闪避下次物理与法术攻击"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2910,
+        "atk": 770,
+        "def": 425,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "形意洞照",
+          "description": "攻击力+13%，攻击速度+13，攻击变为弱点伤害"
+        },
+        {
+          "name": "寒暑觉知",
+          "description": "未受到伤害时，每7秒随机治疗自身一定（攻击力的35%（+5%）~165%（+5%））生命值，并闪避下次物理与法术攻击"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2910,
+        "atk": 798.0,
+        "def": 425,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "形意洞照",
+          "description": "攻击力+13%，攻击速度+13，攻击变为弱点伤害"
+        },
+        {
+          "name": "寒暑觉知",
+          "description": "未受到伤害时，每7秒随机治疗自身一定（攻击力的35%（+5%）~165%（+5%））生命值，并闪避下次物理与法术攻击"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2910,
+        "atk": 798.0,
+        "def": 425,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "形意洞照",
+          "description": "攻击力+16%（+3%），攻击速度+16（+3），攻击变为弱点伤害"
+        },
+        {
+          "name": "寒暑觉知",
+          "description": "未受到伤害时，每7秒随机治疗自身一定（攻击力的35%（+5%）~165%（+5%））生命值，并闪避下次物理与法术攻击"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2910,
+        "atk": 798.0,
+        "def": 425,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "形意洞照",
+          "description": "攻击力+16%（+3%），攻击速度+16（+3），攻击变为弱点伤害"
+        },
+        {
+          "name": "寒暑觉知",
+          "description": "未受到伤害时，每7秒随机治疗自身一定（攻击力的35%（+5%）~165%（+5%））生命值，并闪避下次物理与法术攻击"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+28",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "赤霄·奔夜",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+80%，攻击变为二连击，攻击使目标敌人特殊能力失效持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 7,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+90%，攻击变为二连击，攻击使目标敌人特殊能力失效持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 8,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+100%，攻击变为二连击，攻击使目标敌人特殊能力失效持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 9,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+120%，攻击变为二连击，攻击使目标敌人特殊能力失效持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "18 秒"
+        }
+      ]
+    },
+    {
+      "name": "赤霄·绝影-驰",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对周围最近的1名敌人发动10次斩击，每次造成攻击力430%的法术伤害，敌人被击倒时转移至目标周围最近的其他敌人并使剩余攻击次数+1；斩击结束时，若目标未被击倒且其位置可部署则移动至该位置，否则返回原位置。接下来攻击力+260%，获得50%物理和法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 12,
+          "charges": 1,
+          "duration": "6 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "对周围最近的1名敌人发动10次斩击，每次造成攻击力450%的法术伤害，敌人被击倒时转移至目标周围最近的其他敌人并使剩余攻击次数+1；斩击结束时，若目标未被击倒且其位置可部署则移动至该位置，否则返回原位置。接下来攻击力+270%，获得50%物理和法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 13,
+          "charges": 1,
+          "duration": "6 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "对周围最近的1名敌人发动10次斩击，每次造成攻击力460%的法术伤害，敌人被击倒时转移至目标周围最近的其他敌人并使剩余攻击次数+1；斩击结束时，若目标未被击倒且其位置可部署则移动至该位置，否则返回原位置。接下来攻击力+280%，获得50%物理和法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 14,
+          "charges": 1,
+          "duration": "6 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "对周围最近的1名敌人发动10次斩击，每次造成攻击力480%的法术伤害，敌人被击倒时转移至目标周围最近的其他敌人并使剩余攻击次数+1；斩击结束时，若目标未被击倒且其位置可部署则移动至该位置，否则返回原位置。接下来攻击力+300%，获得60%物理和法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 1,
+          "duration": "6 秒"
+        }
+      ]
+    },
+    {
+      "name": "赤霄·天喟",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启时向前释放一道可转向的剑气，对穿过的敌人造成相当于其当前生命值6%的法术伤害（至少造成自身攻击力550%的法术伤害）；攻击范围扩大，每次攻击对最多3名地面敌人造成3次攻击力180%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启时向前释放一道可转向的剑气，对穿过的敌人造成相当于其当前生命值6%的法术伤害（至少造成自身攻击力560%的法术伤害）；攻击范围扩大，每次攻击对最多4名地面敌人造成3次攻击力190%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 16,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启时向前释放一道可转向的剑气，对穿过的敌人造成相当于其当前生命值6%的法术伤害（至少造成自身攻击力570%的法术伤害）；攻击范围扩大，每次攻击对最多4名地面敌人造成3次攻击力200%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 17,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启时向前释放一道可转向的剑气，对穿过的敌人造成相当于其当前生命值6%的法术伤害（至少造成自身攻击力580%的法术伤害）；攻击范围扩大，每次攻击对最多4名地面敌人造成3次攻击力210%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

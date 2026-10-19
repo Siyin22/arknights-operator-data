@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_whitew",
+  "name": "“幼狼的牙齿”",
+  "type": "LOR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得4%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得4%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得4%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得4%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得4%的脆弱，持续7（+1）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得4%的脆弱，持续7（+1）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得8%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得8%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得8%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得8%的脆弱，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得8%的脆弱，持续7（+1）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "精神摧毁",
+            "description": "攻击使目标的特殊能力失效并获得8%的脆弱，持续7（+1）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_140_whitew",
+  "operator_name": "拉普兰德",
+  "profession": "近卫",
+  "branch": "领主"
+}

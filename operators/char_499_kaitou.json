@@ -1,0 +1,239 @@
+{
+  "id": "char_499_kaitou",
+  "name": "折光",
+  "english": "Diamante",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "本源术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "元素",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1309,
+        "atk": 643,
+        "def": 111,
+        "magicResistance": 15.0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "预先告知",
+          "description": "攻击范围内存在处于凋亡损伤爆发期间的敌方单位时，攻击力+18%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1309,
+        "atk": 643,
+        "def": 111,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "预先告知",
+          "description": "攻击范围内存在处于凋亡损伤爆发期间的敌方单位时，攻击力+18%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1309,
+        "atk": 643,
+        "def": 111,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "预先告知",
+          "description": "攻击范围内存在处于凋亡损伤爆发期间的敌方单位时，攻击力+18%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1309,
+        "atk": 668.0,
+        "def": 111,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "预先告知",
+          "description": "攻击范围内存在处于凋亡损伤爆发期间的敌方单位时，攻击力+18%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1309,
+        "atk": 668.0,
+        "def": 111,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "预先告知",
+          "description": "攻击范围内存在处于凋亡损伤爆发期间的敌方单位时，攻击力+21%（+3%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1309,
+        "atk": 668.0,
+        "def": 111,
+        "magicResistance": 15.0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "预先告知",
+          "description": "攻击范围内存在处于凋亡损伤爆发期间的敌方单位时，攻击力+21%（+3%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以造成元素伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "镭射穿凿",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+80%，攻击附带造成法术伤害10%的凋亡损伤，若目标处于凋亡损伤爆发期间则对其额外造成相当于攻击力40%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+90%，攻击附带造成法术伤害15%的凋亡损伤，若目标处于凋亡损伤爆发期间则对其额外造成相当于攻击力40%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+100%，攻击附带造成法术伤害15%的凋亡损伤，若目标处于凋亡损伤爆发期间则对其额外造成相当于攻击力40%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+110%，攻击附带造成法术伤害15%的凋亡损伤，若目标处于凋亡损伤爆发期间则对其额外造成相当于攻击力50%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "热处理变色",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+75，额外攻击1个目标，攻击对处于凋亡损伤爆发期间的目标额外造成相当于攻击力60%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+80，额外攻击1个目标，攻击对处于凋亡损伤爆发期间的目标额外造成相当于攻击力65%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+85，额外攻击1个目标，攻击对处于凋亡损伤爆发期间的目标额外造成相当于攻击力70%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+90，额外攻击1个目标，攻击对处于凋亡损伤爆发期间的目标额外造成相当于攻击力75%的元素伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

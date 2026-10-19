@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_panda",
+  "name": "尚蜀风味自制辣酱",
+  "type": "PUS-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得47%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得47%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得47%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得47%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得50%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得50%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得52%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得52%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得52%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得52%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得55%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "功夫",
+            "description": "获得55%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_241_panda",
+  "operator_name": "食铁兽",
+  "profession": "特种",
+  "branch": "推击手"
+}

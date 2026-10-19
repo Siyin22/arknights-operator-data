@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_fuze",
+  "name": "副语言符号展示系统",
+  "type": "CEN-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得30%的远程物理抵挡，防御力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得30%的远程物理抵挡，防御力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得30%的远程物理抵挡，防御力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得30%的远程物理抵挡，防御力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得33%（+3%）的远程物理抵挡，防御力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得33%（+3%）的远程物理抵挡，防御力+3%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得32%的远程物理抵挡，防御力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得32%的远程物理抵挡，防御力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得32%的远程物理抵挡，防御力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得32%的远程物理抵挡，防御力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得35%（+3%）的远程物理抵挡，防御力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "防弹护盾",
+            "description": "获得35%（+3%）的远程物理抵挡，防御力+6%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4126_fuze",
+  "operator_name": "导火索",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "char_109_fmout",
+  "name": "远山",
+  "english": "Gitano",
+  "rarity": 4,
+  "profession": "术师",
+  "branch": "扩散术师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "群攻"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 785,
+        "def": 118,
+        "magicResistance": 20.0,
+        "cost": 32,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "占卜",
+          "description": "部署后随机永久获得下列一项增益：攻击力+13%；攻击速度+13；生命上限提升20%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 785,
+        "def": 118,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "占卜",
+          "description": "部署后随机永久获得下列一项增益：攻击力+13%；攻击速度+13；生命上限提升20%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 785,
+        "def": 118,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "占卜",
+          "description": "部署后随机永久获得下列一项增益：攻击力+13%；攻击速度+13；生命上限提升20%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 812.0,
+        "def": 118,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "占卜",
+          "description": "部署后随机永久获得下列一项增益：攻击力+13%；攻击速度+13；生命上限提升20%"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 812.0,
+        "def": 118,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "占卜",
+          "description": "部署后随机永久获得下列一项增益：攻击力+15%（+2%）；攻击速度+15（+2）；生命上限+22%（+2%）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1598,
+        "atk": 812.0,
+        "def": 118,
+        "magicResistance": 20.0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "占卜",
+          "description": "部署后随机永久获得下列一项增益：攻击力+15%（+2%）；攻击速度+15（+2）；生命上限+22%（+2%）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "战术咏唱·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+55",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+65",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+75",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "命运",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%，攻击范围扩大，同时攻击攻击范围内所有敌人\n技能时间结束后远山停止攻击13秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+80%，攻击范围扩大，同时攻击攻击范围内所有敌人\n技能时间结束后远山停止攻击12秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%，攻击范围扩大，同时攻击攻击范围内所有敌人\n技能时间结束后远山停止攻击11秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 90,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击范围扩大，同时攻击攻击范围内所有敌人\n技能时间结束后远山停止攻击10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 85,
+          "initial": 50,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

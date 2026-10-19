@@ -1,0 +1,263 @@
+{
+  "id": "char_107_liskam",
+  "name": "雷蛇",
+  "english": "Liskarm",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "哨戒铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3240,
+        "atk": 470,
+        "def": 755,
+        "magicResistance": 0,
+        "cost": 22,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术防御",
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力"
+        },
+        {
+          "name": "雷抗",
+          "description": "法术抗性+10"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3240,
+        "atk": 470,
+        "def": 755,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术防御",
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力"
+        },
+        {
+          "name": "雷抗",
+          "description": "法术抗性+10"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3240,
+        "atk": 470,
+        "def": 755,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术防御",
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力"
+        },
+        {
+          "name": "雷抗",
+          "description": "法术抗性+10"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3240,
+        "atk": 470,
+        "def": 782.0,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术防御",
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力"
+        },
+        {
+          "name": "雷抗",
+          "description": "法术抗性+10"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3240,
+        "atk": 470,
+        "def": 782.0,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术防御",
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力"
+        },
+        {
+          "name": "雷抗",
+          "description": "法术抗性+13（+3）"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 3240,
+        "atk": 470,
+        "def": 782.0,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术防御",
+          "description": "受到攻击时，回复自己和周围一格内随机一名友方角色1点技力"
+        },
+        {
+          "name": "雷抗",
+          "description": "法术抗性+13（+3）"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以进行远程攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+27",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "充能防御",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "抵挡下一次伤害，在-1秒内防御力+80%\n技能自动开启",
+          "trigger": "自动触发",
+          "recovery": "受击回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "抵挡下一次伤害，在-1秒内防御力+85%\n技能自动开启",
+          "trigger": "自动触发",
+          "recovery": "受击回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "抵挡下一次伤害，在-1秒内防御力+90%\n技能自动开启",
+          "trigger": "自动触发",
+          "recovery": "受击回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "抵挡下一次伤害，在-1秒内防御力+100%\n技能自动开启",
+          "trigger": "自动触发",
+          "recovery": "受击回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "反击电弧",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+125%，每次攻击对最多3个敌人造成法术伤害，并有20%概率使命中目标晕眩1秒\n持续时间结束后雷蛇晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 38,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+150%，每次攻击对最多3个敌人造成法术伤害，并有20%概率使命中目标晕眩1秒\n持续时间结束后雷蛇晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 37,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+175%，每次攻击对最多3个敌人造成法术伤害，并有20%概率使命中目标晕眩1秒\n持续时间结束后雷蛇晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 36,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+200%，每次攻击对最多4个敌人造成法术伤害，并有25%概率使命中目标晕眩1秒\n持续时间结束后雷蛇晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 34,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

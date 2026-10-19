@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_chilc",
+  "name": "原版开锁工具",
+  "type": "AGE-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续53秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续53秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续53秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续53秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续58（+5）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续58（+5）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续60秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续60秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续60秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续60秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续65（+5）秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "不容易受到敌方攻击",
+            "condition": ""
+          },
+          {
+            "name": "敏锐的五感",
+            "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续65（+5）秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4144_chilc",
+  "operator_name": "齐尔查克",
+  "profession": "先锋",
+  "branch": "情报官"
+}

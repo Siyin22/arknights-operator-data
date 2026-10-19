@@ -1,0 +1,421 @@
+{
+  "id": "uniequip_003_mgllan",
+  "name": "教学用龙腾无人机",
+  "type": "SUM-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "龙腾.F",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "name": "龙腾.L",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "name": "龙腾.A",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 34.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 34.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "龙腾.F",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "name": "龙腾.L",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "name": "龙腾.A",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "龙腾.F",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": "maxHp",
+              "label": "生命上限",
+              "value": 100.0
+            },
+            {
+              "key": "def",
+              "label": "防御",
+              "value": 50.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "name": "龙腾.L",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 40.0
+            },
+            {
+              "key": "attackSpeed",
+              "label": "攻击速度",
+              "value": 3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "name": "龙腾.A",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -3.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 50.0
+            },
+            {
+              "key": "attackSpeed",
+              "label": "攻击速度",
+              "value": 3.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "召唤物持有上限+3，召唤物部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "支援无人机·龙腾",
+            "description": "可以使用5个属性更强的不阻挡敌人的无人机（最多同时部署4个），功能随技能选择而改变",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_248_mgllan",
+  "operator_name": "麦哲伦",
+  "profession": "辅助",
+  "branch": "召唤师"
+}

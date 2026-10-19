@@ -1,0 +1,349 @@
+{
+  "id": "char_4140_lasher",
+  "name": "衡沙",
+  "english": "Sand Reckoner",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "召唤师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "召唤",
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1231,
+        "atk": 485,
+        "def": 160,
+        "magicResistance": 20.0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工匠遗训",
+          "description": "可以使用5个发条羽兽召唤物。发条羽兽和衡沙对机械敌人伤害提升20%"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1231,
+        "atk": 485,
+        "def": 160,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工匠遗训",
+          "description": "可以使用5个发条羽兽召唤物。发条羽兽和衡沙对机械敌人伤害提升20%"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1231,
+        "atk": 485,
+        "def": 160,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工匠遗训",
+          "description": "可以使用5个发条羽兽召唤物。发条羽兽和衡沙对机械敌人伤害提升20%"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1231,
+        "atk": 485,
+        "def": 160,
+        "magicResistance": 28.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工匠遗训",
+          "description": "可以使用5个发条羽兽召唤物。发条羽兽和衡沙对机械敌人伤害提升20%"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1231,
+        "atk": 485,
+        "def": 160,
+        "magicResistance": 28.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工匠遗训",
+          "description": "可以使用5个发条羽兽召唤物。发条羽兽和衡沙对机械敌人伤害提升20%"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1231,
+        "atk": 485,
+        "def": 160,
+        "magicResistance": 28.0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工匠遗训",
+          "description": "可以使用5个发条羽兽召唤物。发条羽兽和衡沙对机械敌人伤害提升20%"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+8",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "上紧发条",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "衡沙和所有发条羽兽攻击速度+45",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 15,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "衡沙和所有发条羽兽攻击速度+50",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 15,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "衡沙和所有发条羽兽攻击速度+55",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "衡沙和所有发条羽兽攻击速度+60",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    },
+    {
+      "name": "权知轻重",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得一个发条羽兽。发条羽兽攻击力+34%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 20,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得一个发条羽兽。发条羽兽攻击力+36%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 20,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得一个发条羽兽。发条羽兽攻击力+38%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 20,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得一个发条羽兽。发条羽兽攻击力+40%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "发条羽兽",
+      "stats": {
+        "maxHp": 974,
+        "atk": 340,
+        "def": 100,
+        "magicResistance": 0,
+        "cost": 8,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "攻击造成法术伤害",
+      "skills": [
+        {
+          "name": "上紧发条",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "发条羽兽攻击速度+45",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "10 秒"
+            },
+            {
+              "label": "专精一",
+              "description": "发条羽兽攻击速度+50",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "10 秒"
+            },
+            {
+              "label": "专精二",
+              "description": "发条羽兽攻击速度+55",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "10 秒"
+            },
+            {
+              "label": "专精三",
+              "description": "发条羽兽攻击速度+60",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "10 秒"
+            }
+          ]
+        },
+        {
+          "name": "权知轻重",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "发条羽兽攻击力+34%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "17 秒"
+            },
+            {
+              "label": "专精一",
+              "description": "发条羽兽攻击力+36%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "18 秒"
+            },
+            {
+              "label": "专精二",
+              "description": "发条羽兽攻击力+38%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "19 秒"
+            },
+            {
+              "label": "专精三",
+              "description": "发条羽兽攻击力+40%，优先攻击重量最重的敌人，发条羽兽的攻击使目标停顿1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "20 秒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_tanya",
+  "name": "“漂洗”",
+  "type": "PRP-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-15%（+2%），受到的侵蚀损伤额外-17%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-15%（+2%），受到的侵蚀损伤额外-17%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-13%，受到的侵蚀损伤额外-18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-15%（+2%），受到的侵蚀损伤额外-20%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "劣质溶剂耐受",
+            "description": "自身受到的元素损伤-15%（+2%），受到的侵蚀损伤额外-20%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4225_tanya",
+  "operator_name": "裂响",
+  "profession": "重装",
+  "branch": "本源铁卫"
+}

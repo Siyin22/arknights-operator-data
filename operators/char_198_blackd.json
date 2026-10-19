@@ -1,0 +1,239 @@
+{
+  "id": "char_198_blackd",
+  "name": "讯使",
+  "english": "Courier",
+  "rarity": 4,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "费用回复",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1985,
+        "atk": 435,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪境巡逻员",
+          "description": "当阻挡住两个及以上的敌人时，防御力+16%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1985,
+        "atk": 435,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪境巡逻员",
+          "description": "当阻挡住两个及以上的敌人时，防御力+16%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1985,
+        "atk": 435,
+        "def": 382,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪境巡逻员",
+          "description": "当阻挡住两个及以上的敌人时，防御力+16%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1985,
+        "atk": 435,
+        "def": 405.0,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪境巡逻员",
+          "description": "当阻挡住两个及以上的敌人时，防御力+16%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1985,
+        "atk": 435,
+        "def": 405.0,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪境巡逻员",
+          "description": "阻挡两个及以上的敌人时，防御力+19%（+3%）"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1985,
+        "atk": 435,
+        "def": 405.0,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪境巡逻员",
+          "description": "阻挡两个及以上的敌人时，防御力+19%（+3%）"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "冲锋号令·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得9点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得9点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 11,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得9点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 12,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得9点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 13,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "冲锋号令·防御",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得3点部署费用\n技能持续期间内逐渐获得8点部署费用，防御力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 14,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得3点部署费用\n技能持续期间内逐渐获得8点部署费用，防御力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得3点部署费用\n技能持续期间内逐渐获得8点部署费用，防御力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 16,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得3点部署费用\n技能持续期间内逐渐获得8点部署费用，防御力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 17,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

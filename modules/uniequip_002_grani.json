@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_grani",
+  "name": "骑警套装",
+  "type": "CHG-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得30%（+5%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得30%（+5%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 67.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得30%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得30%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得30%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得30%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得35%（+5%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "击杀敌人后获得2点部署费用，撤退时返还该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "骑警",
+            "description": "在场时，所有【先锋】职业干员获得35%（+5%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_220_grani",
+  "operator_name": "格拉尼",
+  "profession": "先锋",
+  "branch": "冲锋手"
+}

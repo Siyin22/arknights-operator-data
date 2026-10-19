@@ -1,0 +1,239 @@
+{
+  "id": "char_4207_branch",
+  "name": "折桠",
+  "english": "Веточки",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "不屈者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4148,
+        "atk": 865,
+        "def": 590,
+        "magicResistance": 10.0,
+        "cost": 35,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "简易包扎",
+          "description": "技能结束时恢复自身50%最大生命值"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4148,
+        "atk": 865,
+        "def": 590,
+        "magicResistance": 10.0,
+        "cost": 34.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "简易包扎",
+          "description": "技能结束时恢复自身50%最大生命值"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4148,
+        "atk": 865,
+        "def": 590,
+        "magicResistance": 10.0,
+        "cost": 34.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "简易包扎",
+          "description": "技能结束时恢复自身50%最大生命值"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4398.0,
+        "atk": 865,
+        "def": 590,
+        "magicResistance": 10.0,
+        "cost": 34.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "简易包扎",
+          "description": "技能结束时恢复自身50%最大生命值"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4398.0,
+        "atk": 865,
+        "def": 590,
+        "magicResistance": 10.0,
+        "cost": 34.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "简易包扎",
+          "description": "技能结束时恢复自身60%（+10%）最大生命值"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4398.0,
+        "atk": 865,
+        "def": 590,
+        "magicResistance": 10.0,
+        "cost": 33.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "简易包扎",
+          "description": "技能结束时恢复自身60%（+10%）最大生命值"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+250",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "绝境抵抗",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力+90%，获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 20,
+          "initial": 6,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力+100%，获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 18,
+          "initial": 8,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力+110%，获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 18,
+          "initial": 8,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力+120%，获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 15,
+          "initial": 10,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    },
+    {
+      "name": "生存决心",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启时使自身周围的地面敌人战栗5秒；攻击力+120%，防御力+40%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 3,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启时使自身周围的地面敌人战栗5秒；攻击力+130%，防御力+50%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 5,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启时使自身周围的地面敌人战栗5秒；攻击力+140%，防御力+50%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 5,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启时使自身周围的地面敌人战栗5秒；攻击力+150%，防御力+50%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

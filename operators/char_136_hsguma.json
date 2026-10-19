@@ -1,0 +1,309 @@
+{
+  "id": "char_136_hsguma",
+  "name": "星熊",
+  "english": "Hoshiguma",
+  "rarity": 6,
+  "profession": "重装",
+  "branch": "铁卫",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "防护",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3850,
+        "atk": 490,
+        "def": 783,
+        "magicResistance": 0,
+        "cost": 23,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术装甲",
+          "description": "获得25%的伤害抵挡"
+        },
+        {
+          "name": "特种作战策略",
+          "description": "在场时所有友方【重装】职业干员的防御力提升6%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3850,
+        "atk": 490,
+        "def": 783,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术装甲",
+          "description": "获得25%的伤害抵挡"
+        },
+        {
+          "name": "特种作战策略",
+          "description": "在场时所有友方【重装】职业干员的防御力提升6%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3850,
+        "atk": 490,
+        "def": 783,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术装甲",
+          "description": "获得28%（+3%）的伤害抵挡"
+        },
+        {
+          "name": "特种作战策略",
+          "description": "在场时所有友方【重装】职业干员的防御力提升6%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3850,
+        "atk": 490,
+        "def": 813.0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术装甲",
+          "description": "获得28%（+3%）的伤害抵挡"
+        },
+        {
+          "name": "特种作战策略",
+          "description": "在场时所有友方【重装】职业干员的防御力提升6%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3850,
+        "atk": 490,
+        "def": 813.0,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术装甲",
+          "description": "获得28%（+3%）的伤害抵挡"
+        },
+        {
+          "name": "特种作战策略",
+          "description": "在场时所有友方【重装】职业干员的防御力提升6%"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3850,
+        "atk": 490,
+        "def": 813.0,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术装甲",
+          "description": "获得28%（+3%）的伤害抵挡"
+        },
+        {
+          "name": "特种作战策略",
+          "description": "在场时所有友方【重装】职业干员的防御力提升8%（+2%）"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "防御力+30",
+    "部署费用-1",
+    "第二天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "战意",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力+65%，攻击力+30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 20,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力+70%，攻击力+30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 20,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力+75%，攻击力+30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 20,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力+80%，攻击力+40%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "荆棘",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "防御力+21%\n每次受到攻击时对目标造成相当于星熊攻击力80%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "防御力+24%\n每次受到攻击时对目标造成相当于星熊攻击力85%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "防御力+27%\n每次受到攻击时对目标造成相当于星熊攻击力90%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "防御力+30%\n每次受到攻击时对目标造成相当于星熊攻击力100%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "力之锯",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+95%，防御力+60%，对前方一格的所有敌人使用盾牌进行切割",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 26,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+110%，防御力+70%，对前方一格的所有敌人使用盾牌进行切割",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 27,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+125%，防御力+80%，对前方一格的所有敌人使用盾牌进行切割",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 28,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+140%，防御力+90%，对前方一格的所有敌人使用盾牌进行切割",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

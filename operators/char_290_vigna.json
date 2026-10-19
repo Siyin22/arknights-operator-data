@@ -1,0 +1,239 @@
+{
+  "id": "char_290_vigna",
+  "name": "红豆",
+  "english": "Vigna",
+  "rarity": 4,
+  "profession": "先锋",
+  "branch": "冲锋手",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "费用回复"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1845,
+        "atk": 618,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力穿刺",
+          "description": "攻击时，10%几率当次攻击的攻击力+100%。技能中这个几率提高到30%"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 1845,
+        "atk": 618,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力穿刺",
+          "description": "攻击时，10%几率当次攻击的攻击力+100%。技能中这个几率提高到30%"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 1845,
+        "atk": 618,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力穿刺",
+          "description": "攻击时，10%几率当次攻击的攻击力+100%。技能中这个几率提高到30%"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 1845,
+        "atk": 642.0,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力穿刺",
+          "description": "攻击时，10%几率当次攻击的攻击力+100%。技能中这个几率提高到30%"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 1845,
+        "atk": 642.0,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力穿刺",
+          "description": "攻击时，10%几率当次攻击的攻击力+110%（+10%）。技能中这个几率提高到30%"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 1845,
+        "atk": 642.0,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "蛮力穿刺",
+          "description": "攻击时，10%几率当次攻击的攻击力+110%（+10%）。技能中这个几率提高到30%"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "槌音",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔略微增大，攻击力+150%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔略微增大，攻击力+165%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 5,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔略微增大，攻击力+180%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 5,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔略微增大，攻击力+200%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

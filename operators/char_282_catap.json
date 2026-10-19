@@ -1,0 +1,162 @@
+{
+  "id": "char_282_catap",
+  "name": "空爆",
+  "english": "Catapult",
+  "rarity": 3,
+  "profession": "狙击",
+  "branch": "炮手",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "群攻"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1150,
+        "atk": 672,
+        "def": 85,
+        "magicResistance": 0,
+        "cost": 23,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1150,
+        "atk": 672,
+        "def": 85,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1150,
+        "atk": 672,
+        "def": 85,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1150,
+        "atk": 699.0,
+        "def": 85,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1150,
+        "atk": 699.0,
+        "def": 85,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1150,
+        "atk": 699.0,
+        "def": 85,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "爆破范围提升·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "普通攻击的爆炸范围提升至200%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

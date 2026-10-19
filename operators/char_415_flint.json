@@ -1,0 +1,238 @@
+{
+  "id": "char_415_flint",
+  "name": "燧石",
+  "english": "Flint",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "斗士",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2495,
+        "atk": 620,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "身轻无痕",
+          "description": "对未被自身阻挡的敌人造成的伤害提升40%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2495,
+        "atk": 620,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "身轻无痕",
+          "description": "对未被自身阻挡的敌人造成的伤害提升40%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2495,
+        "atk": 620,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "身轻无痕",
+          "description": "对未被自身阻挡的敌人造成的伤害提升40%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2495,
+        "atk": 644.0,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "身轻无痕",
+          "description": "对未被自身阻挡的敌人造成的伤害提升40%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2495,
+        "atk": 644.0,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "身轻无痕",
+          "description": "对未被自身阻挡的敌人造成的伤害提升45%（+5%）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2495,
+        "atk": 644.0,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "身轻无痕",
+          "description": "对未被自身阻挡的敌人造成的伤害提升45%（+5%）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "不息",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至190%，将目标朝攻击方向以小力度推开并造成1秒停顿",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至200%，将目标朝攻击方向以小力度推开并造成1秒停顿",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至210%，将目标朝攻击方向以小力度推开并造成1秒停顿",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至230%，将目标朝攻击方向以小力度推开并造成1秒停顿",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "锋芒毕露",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "阻挡数变为0，攻击力+40%，攻击速度+40，每次攻击对目标造成0.3秒停顿",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 21,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "阻挡数变为0，攻击力+45%，攻击速度+45，每次攻击对目标造成0.3秒停顿",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 22,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "阻挡数变为0，攻击力+50%，攻击速度+50，每次攻击对目标造成0.3秒停顿",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 23,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "阻挡数变为0，攻击力+55%，攻击速度+55，每次攻击对目标造成0.3秒停顿",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

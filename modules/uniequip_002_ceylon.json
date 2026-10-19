@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ceylon",
+  "name": "野外考察套装",
+  "type": "WAH-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+8%，当场地中存在水地形时改为攻击力+30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+8%，当场地中存在水地形时改为攻击力+30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+8%，当场地中存在水地形时改为攻击力+30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+8%，当场地中存在水地形时改为攻击力+30%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+9%（+1%），当场地中存在水地形时改为攻击力+36%（+6%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+9%（+1%），当场地中存在水地形时改为攻击力+36%（+6%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+11%，当场地中存在水地形时改为攻击力+42%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+11%，当场地中存在水地形时改为攻击力+42%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+11%，当场地中存在水地形时改为攻击力+42%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+11%，当场地中存在水地形时改为攻击力+42%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+12%（+1%），当场地中存在水地形时改为攻击力+48%（+6%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "湖畔漫步者",
+            "description": "攻击力+12%（+1%），当场地中存在水地形时改为攻击力+48%（+6%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_348_ceylon",
+  "operator_name": "锡兰",
+  "profession": "医疗",
+  "branch": "疗养师"
+}

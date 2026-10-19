@@ -1,0 +1,309 @@
+{
+  "id": "char_017_huang",
+  "name": "煌",
+  "english": "Blaze",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "强攻手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2821,
+        "atk": 825,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "紧急除颤",
+          "description": "在生命值低于25%时，仅一次回复50%的生命值并在6秒内使生命值不低于50%"
+        },
+        {
+          "name": "严酷训练",
+          "description": "在战场停留15秒后获得抵抗"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2821,
+        "atk": 825,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "紧急除颤",
+          "description": "在生命值低于25%时，仅一次回复50%的生命值并在6秒内使生命值不低于50%"
+        },
+        {
+          "name": "严酷训练",
+          "description": "在战场停留15秒后获得抵抗"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2821,
+        "atk": 825,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "紧急除颤",
+          "description": "在生命值低于25%时，仅一次回复50%的生命值并在7（+1）秒内使生命值不低于50%"
+        },
+        {
+          "name": "严酷训练",
+          "description": "在战场停留15秒后获得抵抗"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2821,
+        "atk": 853.0,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "紧急除颤",
+          "description": "在生命值低于25%时，仅一次回复50%的生命值并在7（+1）秒内使生命值不低于50%"
+        },
+        {
+          "name": "严酷训练",
+          "description": "在战场停留15秒后获得抵抗"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2821,
+        "atk": 853.0,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "紧急除颤",
+          "description": "在生命值低于25%时，仅一次回复50%的生命值并在7（+1）秒内使生命值不低于50%"
+        },
+        {
+          "name": "严酷训练",
+          "description": "在战场停留12（-3）秒后获得抵抗"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2821,
+        "atk": 853.0,
+        "def": 415,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "紧急除颤",
+          "description": "在生命值低于25%时，仅一次回复50%的生命值并在7（+1）秒内使生命值不低于50%"
+        },
+        {
+          "name": "严酷训练",
+          "description": "在战场停留12（-3）秒后获得抵抗"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+28",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强力击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至225%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至245%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至265%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至290%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "链锯延伸模块",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%，防御力+20%，攻击距离加长\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+80%，防御力+25%，攻击距离加长\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 77,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%，防御力+30%，攻击距离加长\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，防御力+35%，攻击距离加长\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "沸腾爆裂",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启后，攻击力和防御力逐渐增至+60%并对前方一格内的敌方单位进行切割。技能结束时对附近所有敌人造成此时攻击力340%的物理伤害，自己流失25%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 19,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启后，攻击力和防御力逐渐增至+65%并对前方一格内的敌方单位进行切割。技能结束时对附近所有敌人造成此时攻击力360%的物理伤害，自己流失25%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 21,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启后，攻击力和防御力逐渐增至+70%并对前方一格内的敌方单位进行切割。技能结束时对附近所有敌人造成此时攻击力380%的物理伤害，自己流失25%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 23,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启后，攻击力和防御力逐渐增至+80%并对前方一格内的敌方单位进行切割。技能结束时对附近所有敌人造成此时攻击力400%的物理伤害，自己流失25%的生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_haak",
+  "name": "毒医残章",
+  "type": "GEE-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 43.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+20%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的100％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+20%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的100％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+20%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的100％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+20%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的100％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+25%（+5%），且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的100％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+25%（+5%），且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的100％",
+            "condition": "形态条件：[0]"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+25%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的150％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+25%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的150％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+25%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的150％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+25%，且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的150％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+30%（+5%），且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的150％",
+            "condition": "形态条件：[0]"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "药剂扩散",
+            "description": "自身受到的治疗量+30%（+5%），且部署后立即恢复攻击范围内一名友方干员（优先选取正前方）的生命值，恢复量为阿攻击力的150％",
+            "condition": "形态条件：[0]"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_225_haak",
+  "operator_name": "阿",
+  "profession": "特种",
+  "branch": "怪杰"
+}

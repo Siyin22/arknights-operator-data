@@ -1,0 +1,239 @@
+{
+  "id": "char_4144_chilc",
+  "name": "齐尔查克",
+  "english": "Chilchuck",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "情报官",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 560,
+        "def": 317,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "敏锐的五感",
+          "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续45秒"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 560,
+        "def": 317,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "敏锐的五感",
+          "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续45秒"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 560,
+        "def": 317,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "敏锐的五感",
+          "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续45秒"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 560,
+        "def": 317,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "敏锐的五感",
+          "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续45秒"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 560,
+        "def": 317,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "敏锐的五感",
+          "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续50（+5）秒"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1980,
+        "atk": 560,
+        "def": 317,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "敏锐的五感",
+          "description": "部署后，使自身及攻击范围内的友方单位不会受到来自自然环境的伤害和元素损伤，持续50（+5）秒"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+5",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "开锁工具",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，技能结束后随机获得3-9点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 12,
+          "initial": 9,
+          "charges": 1,
+          "duration": "3 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，技能结束后随机获得4-10点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 12,
+          "initial": 10,
+          "charges": 1,
+          "duration": "3 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，技能结束后随机获得4-10点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 11,
+          "initial": 10,
+          "charges": 1,
+          "duration": "3 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，技能结束后随机获得4-10点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 10,
+          "charges": 1,
+          "duration": "3 秒"
+        }
+      ]
+    },
+    {
+      "name": "随机应变",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "获得38%的物理闪避，攻击速度+50，每次攻击时获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 14,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "获得40%的物理闪避，攻击速度+54，每次攻击时获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 15,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "获得42%的物理闪避，攻击速度+57，每次攻击时获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 16,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "获得45%的物理闪避，攻击速度+60，每次攻击时获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 17,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

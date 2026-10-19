@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_blackd",
+  "name": "耐低温通讯设备",
+  "type": "SOL-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+21%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "阻挡两个及以上的敌人时，防御力+24%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "阻挡两个及以上的敌人时，防御力+24%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 195.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+24%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+24%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+24%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "当阻挡住两个及以上的敌人时，防御力+24%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "阻挡两个及以上的敌人时，防御力+27%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "雪境巡逻员",
+            "description": "阻挡两个及以上的敌人时，防御力+27%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_198_blackd",
+  "operator_name": "讯使",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

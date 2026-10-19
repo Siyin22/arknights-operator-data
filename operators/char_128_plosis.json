@@ -1,0 +1,239 @@
+{
+  "id": "char_128_plosis",
+  "name": "白面鸮",
+  "english": "Ptilopsis",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "群愈师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1610,
+        "atk": 390,
+        "def": 150,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环",
+          "description": "在场时所有友方单位的技力自然回复速度+0.3/秒（同类效果取最高）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1610,
+        "atk": 390,
+        "def": 150,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环",
+          "description": "在场时所有友方单位的技力自然回复速度+0.3/秒（同类效果取最高）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1610,
+        "atk": 390,
+        "def": 150,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环",
+          "description": "在场时所有友方单位的技力自然回复速度+0.3/秒（同类效果取最高）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1610,
+        "atk": 411.0,
+        "def": 150,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环",
+          "description": "在场时所有友方单位的技力自然回复速度+0.3/秒（同类效果取最高）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1610,
+        "atk": 411.0,
+        "def": 150,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环",
+          "description": "在场时所有友方单位的技力自然回复速度+0.3/秒（同类效果取最高）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1610,
+        "atk": 411.0,
+        "def": 150,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技力光环",
+          "description": "在场时所有友方单位的技力自然回复速度+0.3/秒（同类效果取最高）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+21",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "治疗强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "脑啡肽",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击间隔大幅度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 100,
+          "initial": 75,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击间隔大幅度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 100,
+          "initial": 78,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击间隔大幅度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 100,
+          "initial": 82,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击间隔超大幅度缩短",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 100,
+          "initial": 85,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

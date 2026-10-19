@@ -1,0 +1,309 @@
+{
+  "id": "char_437_mizuki",
+  "name": "水月",
+  "english": "Mizuki",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "伏击客",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1758,
+        "atk": 975,
+        "def": 356,
+        "magicResistance": 30.0,
+        "cost": 21,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "创伤性癔症",
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害"
+        },
+        {
+          "name": "反移情",
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1758,
+        "atk": 975,
+        "def": 356,
+        "magicResistance": 30.0,
+        "cost": 20.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "创伤性癔症",
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害"
+        },
+        {
+          "name": "反移情",
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1758,
+        "atk": 975,
+        "def": 356,
+        "magicResistance": 30.0,
+        "cost": 20.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "创伤性癔症",
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害"
+        },
+        {
+          "name": "反移情",
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1758,
+        "atk": 1007.0,
+        "def": 356,
+        "magicResistance": 30.0,
+        "cost": 20.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "创伤性癔症",
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害"
+        },
+        {
+          "name": "反移情",
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1758,
+        "atk": 1007.0,
+        "def": 356,
+        "magicResistance": 30.0,
+        "cost": 20.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "创伤性癔症",
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害"
+        },
+        {
+          "name": "反移情",
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+12%（+2%）"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1758,
+        "atk": 1007.0,
+        "def": 356,
+        "magicResistance": 30.0,
+        "cost": 19.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "创伤性癔症",
+          "description": "攻击时对攻击目标中生命值最少的敌人额外造成相当于攻击力50%的法术伤害"
+        },
+        {
+          "name": "反移情",
+          "description": "攻击范围内存在生命值低于一半的敌人时，攻击力+12%（+2%）"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+32",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "唤醒",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力230%的物理伤害，且第一天赋伤害倍率提升至2.3倍\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力250%的物理伤害，且第一天赋伤害倍率提升至2.5倍\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力270%的物理伤害，且第一天赋伤害倍率提升至2.7倍\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力300%的物理伤害，且第一天赋伤害倍率提升至3.0倍\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "囚徒困境",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔缩短，攻击力+20%，第一天赋额外攻击1个目标并附加1秒束缚",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 5,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔缩短，攻击力+23%，第一天赋额外攻击1个目标并附加1.1秒束缚",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 7,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔缩短，攻击力+26%，第一天赋额外攻击1个目标并附加1.2秒束缚",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 10,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔较大幅度缩短，攻击力+30%，第一天赋额外攻击1个目标并附加1.3秒束缚",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 10,
+          "charges": 1,
+          "duration": "21 秒"
+        }
+      ]
+    },
+    {
+      "name": "镜花水月",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+105%，第一天赋额外攻击2个目标并附加1秒晕眩；每次攻击命中目标少于3名敌人时，自身流失最大生命值的15%。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+120%，第一天赋额外攻击2个目标并附加1秒晕眩；每次攻击命中目标少于3名敌人时，自身流失最大生命值的15%。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 65,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+135%，第一天赋额外攻击2个目标并附加1秒晕眩；每次攻击命中目标少于3名敌人时，自身流失最大生命值的12%。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 65,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+150%，第一天赋额外攻击2个目标并附加1秒晕眩；每次攻击命中目标少于3名敌人时，自身流失最大生命值的12%。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

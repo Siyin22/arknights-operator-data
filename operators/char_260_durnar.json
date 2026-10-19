@@ -1,0 +1,239 @@
+{
+  "id": "char_260_durnar",
+  "name": "坚雷",
+  "english": "Dur-nar",
+  "rarity": 4,
+  "profession": "重装",
+  "branch": "驭法铁卫",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "防护",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3007,
+        "atk": 648,
+        "def": 548,
+        "magicResistance": 15.0,
+        "cost": 24,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "攻守兼备",
+          "description": "攻击力+7%，防御力+7%"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3007,
+        "atk": 648,
+        "def": 548,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "攻守兼备",
+          "description": "攻击力+7%，防御力+7%"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3007,
+        "atk": 648,
+        "def": 548,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "攻守兼备",
+          "description": "攻击力+7%，防御力+7%"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3007,
+        "atk": 671.0,
+        "def": 548,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "攻守兼备",
+          "description": "攻击力+7%，防御力+7%"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3007,
+        "atk": 671.0,
+        "def": 568.0,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "攻守兼备",
+          "description": "攻击力+7%，防御力+7%"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3007,
+        "atk": 671.0,
+        "def": 568.0,
+        "magicResistance": 15.0,
+        "cost": 22.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "攻守兼备",
+          "description": "攻击力+7%，防御力+7%"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "防御力+20",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "起盾回击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 31,
+          "initial": 6,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 29,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 27,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 25,
+          "initial": 12,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

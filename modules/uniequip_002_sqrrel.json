@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_sqrrel",
+  "name": "客制化防火服",
+  "type": "PUS-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 21.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 12.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 27.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 17.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+20",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+20",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+20",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+20",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+20",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+20",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+23",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，阻挡2个及以上敌人时自身推力增加一级\n可以放置于远程位",
+            "condition": ""
+          },
+          {
+            "name": "防火护服",
+            "description": "法术抗性+23",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_277_sqrrel",
+  "operator_name": "阿消",
+  "profession": "特种",
+  "branch": "推击手"
+}

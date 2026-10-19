@@ -1,0 +1,308 @@
+{
+  "id": "char_377_gdglow",
+  "name": "澄闪",
+  "english": "Goldenglow",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "驭械术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1480,
+        "atk": 391,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 22,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信标的愤怒",
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪300%攻击力的法术伤害"
+        },
+        {
+          "name": "精准导流",
+          "description": "自身与浮游单元无视敌人15点法术抗性"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1480,
+        "atk": 391,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信标的愤怒",
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪300%攻击力的法术伤害"
+        },
+        {
+          "name": "精准导流",
+          "description": "自身与浮游单元无视敌人15点法术抗性"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1480,
+        "atk": 391,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信标的愤怒",
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪315%（+15%）攻击力的法术伤害"
+        },
+        {
+          "name": "精准导流",
+          "description": "自身与浮游单元无视敌人15点法术抗性"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1480,
+        "atk": 416.0,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信标的愤怒",
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪315%（+15%）攻击力的法术伤害"
+        },
+        {
+          "name": "精准导流",
+          "description": "自身与浮游单元无视敌人15点法术抗性"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1480,
+        "atk": 416.0,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信标的愤怒",
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪315%（+15%）攻击力的法术伤害"
+        },
+        {
+          "name": "精准导流",
+          "description": "自身与浮游单元无视敌人15点法术抗性"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1480,
+        "atk": 416.0,
+        "def": 125,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "信标的愤怒",
+          "description": "技能开启后浮游单元攻击时有10%概率自爆（回到干员身边）对小范围敌人造成澄闪315%（+15%）攻击力的法术伤害"
+        },
+        {
+          "name": "精准导流",
+          "description": "自身与浮游单元无视敌人18（+3）点法术抗性"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+25",
+    "部署费用-1",
+    "第二天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "火花四溅",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击力+32%，攻击速度+38\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击力+34%，攻击速度+42\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击力+36%，攻击速度+46\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击力+40%，攻击速度+50\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "电流翻涌",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击范围扩大，攻击力+45%\n浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击范围扩大，攻击力+50%\n浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击范围扩大，攻击力+55%\n浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "浮游单元+1，释放浮游单元锁定敌人攻击，攻击范围扩大，攻击力+60%\n浮游单元锁敌后直至敌人被击杀或自爆后返回干员身边\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "澄净闪耀",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，浮游单元+2，释放浮游单元锁定敌人攻击，攻击范围扩大至整个战场，攻击力+55%，浮游单元攻击附带0.5秒停顿\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，浮游单元+2，释放浮游单元锁定敌人攻击，攻击范围扩大至整个战场，攻击力+60%，浮游单元攻击附带0.5秒停顿\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，浮游单元+2，释放浮游单元锁定敌人攻击，攻击范围扩大至整个战场，攻击力+70%，浮游单元攻击附带0.5秒停顿\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 17,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，浮游单元+2，释放浮游单元锁定敌人攻击，攻击范围扩大至整个战场，攻击力+80%，浮游单元攻击附带0.5秒停顿\n浮游单元锁敌后直至敌人被击杀、自爆或技能结束后返回干员身边",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 17,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

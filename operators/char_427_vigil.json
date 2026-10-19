@@ -1,0 +1,405 @@
+{
+  "id": "char_427_vigil",
+  "name": "伺夜",
+  "english": "Vigil",
+  "rarity": 6,
+  "profession": "先锋",
+  "branch": "战术家",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "费用回复",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 542,
+        "def": 154,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狼群领袖",
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）"
+        },
+        {
+          "name": "狼群天性",
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其175防御力"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 542,
+        "def": 154,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狼群领袖",
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）"
+        },
+        {
+          "name": "狼群天性",
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其175防御力"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 542,
+        "def": 154,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狼群领袖",
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）"
+        },
+        {
+          "name": "狼群天性",
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其175防御力"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 542,
+        "def": 154,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狼群领袖",
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）"
+        },
+        {
+          "name": "狼群天性",
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其175防御力"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 542,
+        "def": 154,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狼群领袖",
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）"
+        },
+        {
+          "name": "狼群天性",
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其200（+25）防御力"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 542,
+        "def": 154,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狼群领袖",
+          "description": "可以在战术点召唤由初始两只“狼影”构成的狼群协助作战，“狼影”的数量每25秒增加一只（至多3只；每只“狼影”使狼群阻挡数+1且攻击额外造成一次伤害）"
+        },
+        {
+          "name": "狼群天性",
+          "description": "敌人被狼群阻挡时，伺夜和狼群对其的攻击无视其200（+25）防御力"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "领袖的呼唤",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得7点部署费用，并增加一只“狼影”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得7点部署费用，并增加一只“狼影”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 3,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得7点部署费用，并增加一只“狼影”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 4,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得7点部署费用，并增加一只“狼影”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 5,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "领袖的馈赠",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得2点部署费用，并使狼群下次攻击的攻击力提升至170%且狼群恢复15%生命值；若狼群击倒敌人则额外获得1点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 1,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得2点部署费用，并使狼群下次攻击的攻击力提升至180%且狼群恢复15%生命值；若狼群击倒敌人则额外获得1点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得2点部署费用，并使狼群下次攻击的攻击力提升至190%且狼群恢复15%生命值；若狼群击倒敌人则额外获得1点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 3,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得2点部署费用，并使狼群下次攻击的攻击力提升至200%且狼群恢复20%生命值；若狼群击倒敌人则额外获得1点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 4,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "领袖的尊严",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能持续时间内逐渐获得11点部署费用，攻击变为三连击；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力30%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 7,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能持续时间内逐渐获得11点部署费用，攻击变为三连击；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力35%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 8,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能持续时间内逐渐获得11点部署费用，攻击变为三连击；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力40%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 9,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能持续时间内逐渐获得12点部署费用，攻击变为三连击；狼群与伺夜攻击被狼群阻挡的单位造成伤害时，额外造成相当于伺夜攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "狼群",
+      "stats": {
+        "maxHp": 1100,
+        "atk": 371,
+        "def": 317,
+        "magicResistance": 20.0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.25,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "只能部署在召唤者攻击范围内",
+      "skills": [
+        {
+          "name": "狼群",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "狼群",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "狼群",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

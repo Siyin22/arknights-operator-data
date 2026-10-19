@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ashlok",
+  "name": "出门必备套装",
+  "type": "FOR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 235.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 290.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+12%（+2%），前后两格为地面时改为攻击力+18%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+12%（+2%），前后两格为地面时改为攻击力+18%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 325.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+10%，前后两格为地面时改为攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+12%（+2%），前后两格为地面时改为攻击力+22%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "炮术研习",
+            "description": "攻击力+12%（+2%），前后两格为地面时改为攻击力+22%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_431_ashlok",
+  "operator_name": "灰毫",
+  "profession": "重装",
+  "branch": "要塞"
+}

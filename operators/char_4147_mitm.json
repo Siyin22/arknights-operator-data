@@ -1,0 +1,289 @@
+{
+  "id": "char_4147_mitm",
+  "name": "渡桥",
+  "english": "Mitm",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "战术家",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "爆发"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 555,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "废品战车",
+          "description": "可以在战术点召唤樱桃三号协助作战，其被击败后会在15秒后自动刷新，并在周围四格生成残骸"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 555,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "废品战车",
+          "description": "可以在战术点召唤樱桃三号协助作战，其被击败后会在15秒后自动刷新，并在周围四格生成残骸"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 555,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "废品战车",
+          "description": "可以在战术点召唤樱桃三号协助作战，其被击败后会在15秒后自动刷新，并在周围四格生成残骸"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 555,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "废品战车",
+          "description": "可以在战术点召唤樱桃三号协助作战，其被击败后会在15秒后自动刷新，并在周围四格生成残骸"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 555,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "废品战车",
+          "description": "可以在战术点召唤樱桃三号协助作战，其被击败后会在15秒后自动刷新，并在周围四格生成残骸"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1370,
+        "atk": 555,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "废品战车",
+          "description": "可以在战术点召唤樱桃三号协助作战，其被击败后会在15秒后自动刷新，并在周围四格生成残骸"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+8",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "遥控解体",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得6点部署费用，并使樱桃三号自毁且对周围四格敌人造成相当于渡桥攻击力355%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 6,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得6点部署费用，并使樱桃三号自毁且对周围四格敌人造成相当于渡桥攻击力370%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 7,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得6点部署费用，并使樱桃三号自毁且对周围四格敌人造成相当于渡桥攻击力385%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 8,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得6点部署费用，并使樱桃三号自毁且对周围四格敌人造成相当于渡桥攻击力400%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 9,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "承压功率",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能持续时间内逐渐获得12点部署费用，攻击力+60%；樱桃三号停止攻击，阻挡数+1，防御力+110%\n技能结束后樱桃三号销毁自身",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 17,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能持续时间内逐渐获得12点部署费用，攻击力+65%；樱桃三号停止攻击，阻挡数+1，防御力+120%\n技能结束后樱桃三号销毁自身",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 18,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能持续时间内逐渐获得12点部署费用，攻击力+70%；樱桃三号停止攻击，阻挡数+1，防御力+130%\n技能结束后樱桃三号销毁自身",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 19,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能持续时间内逐渐获得12点部署费用，攻击力+80%；樱桃三号停止攻击，阻挡数+1，防御力+140%\n技能结束后樱桃三号销毁自身",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "樱桃三号",
+      "stats": {
+        "maxHp": 2750,
+        "atk": 323,
+        "def": 250,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.25,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人，作为小车形态存在时只能部署在召唤者攻击范围内",
+      "skills": [
+        {
+          "name": "废品战车",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "作为小车形态存在时被击败后会在周围四格生成残骸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "废品战车",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "作为小车形态存在时被击败后会在周围四格生成残骸",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

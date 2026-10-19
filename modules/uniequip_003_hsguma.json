@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_hsguma",
+  "name": "护身符",
+  "type": "PRO-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 85.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 115.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升9%，自身防御力额外提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升9%，自身防御力额外提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升9%，自身防御力额外提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升9%，自身防御力额外提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升9%，自身防御力额外提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升11%（+2%），自身防御力额外提升4%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 140.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升11%，自身防御力额外提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升11%，自身防御力额外提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升11%，自身防御力额外提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升11%，自身防御力额外提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升11%，自身防御力额外提升6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "特种作战策略",
+            "description": "在场时所有友方【重装】职业干员的防御力提升13%（+2%），自身防御力额外提升6%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_136_hsguma",
+  "operator_name": "星熊",
+  "profession": "重装",
+  "branch": "铁卫"
+}

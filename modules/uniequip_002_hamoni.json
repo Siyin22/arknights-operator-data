@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_hamoni",
+  "name": "情报人员资料夹",
+  "type": "MSC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升23%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升23%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 82.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升25%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "不期而至",
+            "description": "攻击被阻挡的敌人造成伤害提升25%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_297_hamoni",
+  "operator_name": "和弦",
+  "profession": "术师",
+  "branch": "秘术师"
+}

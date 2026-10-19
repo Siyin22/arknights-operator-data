@@ -1,0 +1,263 @@
+{
+  "id": "char_4025_aprot2",
+  "name": "暮落",
+  "english": "Shalem",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "驭法铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3090,
+        "atk": 729,
+        "def": 550,
+        "magicResistance": 15.0,
+        "cost": 25,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回忆之地",
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30"
+        },
+        {
+          "name": "厄运宣告",
+          "description": "攻击时有20%的几率使目标法术抗性-25%，持续3秒"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3090,
+        "atk": 729,
+        "def": 550,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回忆之地",
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30"
+        },
+        {
+          "name": "厄运宣告",
+          "description": "攻击时有20%的几率使目标法术抗性-25%，持续3秒"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3090,
+        "atk": 729,
+        "def": 550,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回忆之地",
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30"
+        },
+        {
+          "name": "厄运宣告",
+          "description": "攻击时有20%的几率使目标法术抗性-25%，持续3秒"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3090,
+        "atk": 754.0,
+        "def": 550,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回忆之地",
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30"
+        },
+        {
+          "name": "厄运宣告",
+          "description": "攻击时有20%的几率使目标法术抗性-25%，持续3秒"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3090,
+        "atk": 754.0,
+        "def": 550,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回忆之地",
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30"
+        },
+        {
+          "name": "厄运宣告",
+          "description": "攻击时有25%（+5%）的几率使目标法术抗性-25%，持续3秒"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3090,
+        "atk": 754.0,
+        "def": 550,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回忆之地",
+          "description": "在【傀影与猩红孤钻】中，攻击力+15%，攻击速度+30"
+        },
+        {
+          "name": "厄运宣告",
+          "description": "攻击时有25%（+5%）的几率使目标法术抗性-25%，持续3秒"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "速战速决",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔缩短，生命上限+30%，同时攻击所有阻挡的敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 12,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔缩短，生命上限+40%，同时攻击所有阻挡的敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 13,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔缩短，生命上限+50%，同时攻击所有阻挡的敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 14,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔较大幅度缩短，生命上限+50%，同时攻击所有阻挡的敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "燃命狂欢",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每秒流失5%生命，攻击范围扩大，每次攻击变为攻击力65%的6连发，随机攻击范围内的目标",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 26,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每秒流失5%生命，攻击范围扩大，每次攻击变为攻击力70%的6连发，随机攻击范围内的目标",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 24,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每秒流失5%生命，攻击范围扩大，每次攻击变为攻击力75%的6连发，随机攻击范围内的目标",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每秒流失5%生命，攻击范围扩大，每次攻击变为攻击力80%的6连发，随机攻击范围内的目标",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

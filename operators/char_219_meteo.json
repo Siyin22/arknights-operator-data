@@ -1,0 +1,239 @@
+{
+  "id": "char_219_meteo",
+  "name": "陨星",
+  "english": "Meteorite",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "炮手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1505,
+        "atk": 950,
+        "def": 116,
+        "magicResistance": 0,
+        "cost": 28,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "爆破附着改装",
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1505,
+        "atk": 950,
+        "def": 116,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "爆破附着改装",
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1505,
+        "atk": 950,
+        "def": 116,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "爆破附着改装",
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1505,
+        "atk": 985.0,
+        "def": 116,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "爆破附着改装",
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1505,
+        "atk": 985.0,
+        "def": 116,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "爆破附着改装",
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1505,
+        "atk": 985.0,
+        "def": 116,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "爆破附着改装",
+          "description": "普通攻击和技能释放时，30%几率当次攻击的攻击力+60%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "霰射弹头",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的爆炸范围扩大，造成相当于攻击力170%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的爆炸范围扩大，造成相当于攻击力185%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的爆炸范围扩大，造成相当于攻击力200%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的爆炸范围扩大，造成相当于攻击力215%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "高爆弹头",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力240%的物理伤害，所有命中目标在-1秒内防御力-210",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力260%的物理伤害，所有命中目标在-1秒内防御力-250",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力280%的物理伤害，所有命中目标在-1秒内防御力-290",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即发射一枚火焰弹，对目标范围内所有敌人造成相当于攻击力300%的物理伤害，所有命中目标在-1秒内防御力-330",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_265_sophia",
+  "name": "鞭刃",
+  "english": "Whislash",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "教官",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1932,
+        "atk": 675,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 18,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "责骂",
+          "description": "在场时阻挡数大于等于3的友方近战单位攻速+6，防御+12%"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 1932,
+        "atk": 675,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "责骂",
+          "description": "在场时阻挡数大于等于3的友方近战单位攻速+6，防御+12%"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 1932,
+        "atk": 675,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "责骂",
+          "description": "在场时阻挡数大于等于3的友方近战单位攻速+6，防御+12%"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 1932,
+        "atk": 675,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "责骂",
+          "description": "在场时阻挡数大于等于3的友方近战单位攻速+6，防御+12%"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 1932,
+        "atk": 675,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "责骂",
+          "description": "在场时阻挡数大于等于3的友方近战单位攻速+8（+2），防御+14%（+2%）"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    },
+    {
+      "stats": {
+        "maxHp": 1932,
+        "atk": 675,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "责骂",
+          "description": "在场时阻挡数大于等于3的友方近战单位攻速+8（+2），防御+14%（+2%）"
+        }
+      ],
+      "trait": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "激励艺术",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "第一天赋效果提升至2.7倍，阻挡数小于3的近战干员受到一半的增益",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 0,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "第一天赋效果提升至2.8倍，阻挡数小于3的近战干员受到一半的增益",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 0,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "第一天赋效果提升至2.9倍，阻挡数小于3的近战干员受到一半的增益",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 0,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "第一天赋效果提升至3倍，阻挡数小于3的近战干员受到一半的增益",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "鞭刃",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "第一天赋效果提升至1.7倍；攻击力+35%，攻击范围+1格，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 64,
+          "initial": 20,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "第一天赋效果提升至1.8倍；攻击力+40%，攻击范围+1格，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 63,
+          "initial": 20,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "第一天赋效果提升至1.9倍；攻击力+50%，攻击范围+1格，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 62,
+          "initial": 20,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "第一天赋效果提升至2倍；攻击力+60%，攻击范围+1格，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

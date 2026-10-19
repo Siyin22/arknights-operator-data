@@ -1,0 +1,239 @@
+{
+  "id": "char_337_utage",
+  "name": "宴",
+  "english": "Utage",
+  "rarity": 4,
+  "profession": "近卫",
+  "branch": "武者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3444,
+        "atk": 723,
+        "def": 352,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "认真模式",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3444,
+        "atk": 723,
+        "def": 352,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "认真模式",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3444,
+        "atk": 723,
+        "def": 352,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "认真模式",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3444,
+        "atk": 746.0,
+        "def": 352,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "认真模式",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3444,
+        "atk": 746.0,
+        "def": 352,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "认真模式",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 3444,
+        "atk": 746.0,
+        "def": 352,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "认真模式",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "分神",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，阻挡数变为0，防御力+160%，每秒恢复8%的最大生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 6,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，阻挡数变为0，防御力+170%，每秒恢复8%的最大生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 7,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，阻挡数变为0，防御力+180%，每秒恢复8%的最大生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 8,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，阻挡数变为0，防御力+200%，每秒恢复10%的最大生命值",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 10,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    },
+    {
+      "name": "落地斩·破门",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即流失50%当前生命，并在-1秒内攻击力+80%，伤害类型变为法术",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即流失50%当前生命，并在-1秒内攻击力+90%，伤害类型变为法术",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即流失50%当前生命，并在-1秒内攻击力+100%，伤害类型变为法术",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即流失50%当前生命，并在-1秒内攻击力+110%，伤害类型变为法术",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

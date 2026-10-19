@@ -1,0 +1,274 @@
+{
+  "id": "uniequip_003_phatom",
+  "name": "“如影随形”",
+  "type": "EXE-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "镜中虚影",
+          "bonuses": [
+            {
+              "key": "maxHp",
+              "label": "生命上限",
+              "value": 100.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 60.0
+            },
+            {
+              "key": "def",
+              "label": "防御",
+              "value": 40.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性进一步增强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性进一步增强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性进一步增强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性进一步增强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性进一步增强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "镜中虚影",
+            "description": "可以使用一个属性进一步增强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间；本体和虚影同时在场时，攻击力各+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_250_phatom",
+  "operator_name": "傀影",
+  "profession": "特种",
+  "branch": "处决者"
+}

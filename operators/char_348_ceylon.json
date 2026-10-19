@@ -1,0 +1,238 @@
+{
+  "id": "char_348_ceylon",
+  "name": "锡兰",
+  "english": "Ceylon",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "疗养师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 508,
+        "def": 126,
+        "magicResistance": 10.0,
+        "cost": 22,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湖畔漫步者",
+          "description": "攻击力+5%，当场地中存在水地形时改为攻击力+18%"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 508,
+        "def": 126,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湖畔漫步者",
+          "description": "攻击力+5%，当场地中存在水地形时改为攻击力+18%"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 508,
+        "def": 126,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湖畔漫步者",
+          "description": "攻击力+5%，当场地中存在水地形时改为攻击力+18%"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 508,
+        "def": 126,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湖畔漫步者",
+          "description": "攻击力+5%，当场地中存在水地形时改为攻击力+18%"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 508,
+        "def": 126,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湖畔漫步者",
+          "description": "攻击力+6%（+1%），当场地中存在水地形时改为攻击力+24%（+6%）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1655,
+        "atk": 508,
+        "def": 126,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湖畔漫步者",
+          "description": "攻击力+6%（+1%），当场地中存在水地形时改为攻击力+24%（+6%）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "集中式水疗",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗时的治疗量提升至攻击力的170%，并且不会因特性效果而降低\n可以充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗时的治疗量提升至攻击力的180%，并且不会因特性效果而降低\n可以充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗时的治疗量提升至攻击力的190%，并且不会因特性效果而降低\n可以充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗时的治疗量提升至攻击力的200%，并且不会因特性效果而降低\n可以充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "水灵庇护",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，治疗目标数+1，持续时间内攻击范围内的友方单位获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 32,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+53%，治疗目标数+1，持续时间内攻击范围内的友方单位获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 34,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+56%，治疗目标数+1，持续时间内攻击范围内的友方单位获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 36,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+60%，治疗目标数+1，持续时间内攻击范围内的友方单位获得抵抗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 40,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

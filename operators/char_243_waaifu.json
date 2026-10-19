@@ -1,0 +1,239 @@
+{
+  "id": "char_243_waaifu",
+  "name": "槐琥",
+  "english": "Waai Fu",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "处决者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "快速复活",
+    "削弱"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1455,
+        "atk": 586,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 9,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "红眉咏春",
+          "description": "攻击时有20%的几率攻击力提升至150%，并将目标稍微地击退"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1455,
+        "atk": 586,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "红眉咏春",
+          "description": "攻击时有20%的几率攻击力提升至150%，并将目标稍微地击退"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1455,
+        "atk": 586,
+        "def": 353.0,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "红眉咏春",
+          "description": "攻击时有20%的几率攻击力提升至150%，并将目标稍微地击退"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1455,
+        "atk": 586,
+        "def": 353.0,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "红眉咏春",
+          "description": "攻击时有20%的几率攻击力提升至150%，并将目标稍微地击退"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1455,
+        "atk": 586,
+        "def": 353.0,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "红眉咏春",
+          "description": "攻击时有20%的几率攻击力提升至160%（+10%），并将目标稍微地击退"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1455,
+        "atk": 586,
+        "def": 353.0,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "红眉咏春",
+          "description": "攻击时有20%的几率攻击力提升至160%（+10%），并将目标稍微地击退"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "防御力+19",
+    "再部署时间-2秒",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "寸劲",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击力+55%，并使被攻击目标在3秒内攻击力-30%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击力+60%，并使被攻击目标在3秒内攻击力-33%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击力+65%，并使被攻击目标在3秒内攻击力-36%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击力+70%，并使被攻击目标在3秒内攻击力-40%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        }
+      ]
+    },
+    {
+      "name": "七武掠阵踢",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力240%的物理伤害，并使命中目标失去特殊能力7秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力255%的物理伤害，并使命中目标失去特殊能力7秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力270%的物理伤害，并使命中目标失去特殊能力7秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力290%的物理伤害，并使命中目标失去特殊能力8秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

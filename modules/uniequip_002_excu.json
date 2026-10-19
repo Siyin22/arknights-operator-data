@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_excu",
+  "name": "执行者随身包",
+  "type": "RPR-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 46.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标190的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标190的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标190的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标190的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标205（+15）的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标205（+15）的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标210的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标210的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标210的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标210的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标225（+15）的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至160%",
+            "condition": ""
+          },
+          {
+            "name": "终结改装",
+            "description": "攻击时无视目标225（+15）的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_279_excu",
+  "operator_name": "送葬人",
+  "profession": "狙击",
+  "branch": "散射手"
+}

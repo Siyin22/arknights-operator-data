@@ -1,0 +1,466 @@
+{
+  "id": "char_250_phatom",
+  "name": "傀影",
+  "english": "Phantom",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "处决者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "快速复活",
+    "控场",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1645,
+        "atk": 648,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "镜中虚影",
+          "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "虚影精通",
+          "description": "虚影的再部署时间-10秒"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1645,
+        "atk": 648,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "镜中虚影",
+          "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "虚影精通",
+          "description": "虚影的再部署时间-10秒"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1645,
+        "atk": 670.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "镜中虚影",
+          "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "虚影精通",
+          "description": "虚影的再部署时间-10秒"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1645,
+        "atk": 670.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "镜中虚影",
+          "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "虚影精通",
+          "description": "虚影的再部署时间-10秒"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1775.0,
+        "atk": 670.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "镜中虚影",
+          "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "虚影精通",
+          "description": "虚影的再部署时间-10秒"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1775.0,
+        "atk": 670.0,
+        "def": 322,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "镜中虚影",
+          "description": "可以使用一个属性更强的虚影，虚影拥有和自己一样的技能，拥有独立的再部署时间"
+        },
+        {
+          "name": "虚影精通",
+          "description": "虚影的再部署时间-10秒"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "攻击力+22",
+    "再部署时间-2秒",
+    "生命上限+130",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "暗夜魅影",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即获得40%的物理闪避和可吸收相当于自己最大生命50%物理伤害的屏障，持续-1秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即获得40%的物理闪避和可吸收相当于自己最大生命60%物理伤害的屏障，持续-1秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即获得40%的物理闪避和可吸收相当于自己最大生命70%物理伤害的屏障，持续-1秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即获得50%的物理闪避和可吸收相当于自己最大生命80%物理伤害的屏障，持续-1秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "血色乐章",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即获得9层可叠加的攻击力+16%的增益（每攻击一次消耗一层）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即获得9层可叠加的攻击力+17%的增益（每攻击一次消耗一层）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即获得9层可叠加的攻击力+18%的增益（每攻击一次消耗一层）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即获得10层可叠加的攻击力+20%的增益（每攻击一次消耗一层）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "夜幕突袭",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力240%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）3秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力260%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）3.5秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力280%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）4秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立即对周围所有敌人造成相当于攻击力300%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）4.5秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "镜中虚影",
+      "stats": {
+        "maxHp": 1416,
+        "atk": 548,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 45,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人",
+      "skills": [
+        {
+          "name": "暗夜魅影",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "部署后立即获得40%的物理闪避和可吸收相当于自己最大生命50%物理伤害的屏障，持续-1秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "部署后立即获得40%的物理闪避和可吸收相当于自己最大生命60%物理伤害的屏障，持续-1秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "部署后立即获得40%的物理闪避和可吸收相当于自己最大生命70%物理伤害的屏障，持续-1秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "部署后立即获得50%的物理闪避和可吸收相当于自己最大生命80%物理伤害的屏障，持续-1秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "血色乐章",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "部署后立即获得9层可叠加的攻击力+16%的增益（每攻击一次消耗一层）",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "部署后立即获得9层可叠加的攻击力+17%的增益（每攻击一次消耗一层）",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "部署后立即获得9层可叠加的攻击力+18%的增益（每攻击一次消耗一层）",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "部署后立即获得10层可叠加的攻击力+20%的增益（每攻击一次消耗一层）",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "夜幕突袭",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "部署后立即对周围所有敌人造成相当于攻击力240%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）3秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "部署后立即对周围所有敌人造成相当于攻击力260%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）3.5秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "部署后立即对周围所有敌人造成相当于攻击力280%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）4秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "部署后立即对周围所有敌人造成相当于攻击力300%的物理伤害，将其小力地推开并随机施加以下任意一个状态（停顿、束缚、晕眩）4.5秒",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

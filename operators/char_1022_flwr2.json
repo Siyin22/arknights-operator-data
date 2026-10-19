@@ -1,0 +1,239 @@
+{
+  "id": "char_1022_flwr2",
+  "name": "撷英调香师",
+  "english": "Perfumer the Distilled",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "护佑者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "生存"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2095,
+        "atk": 470,
+        "def": 182,
+        "magicResistance": 25.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "百里香",
+          "description": "使攻击范围内除自身外当前生命比例小于等于自身的友军获得14%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2095,
+        "atk": 470,
+        "def": 182,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "百里香",
+          "description": "使攻击范围内除自身外当前生命比例小于等于自身的友军获得14%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2095,
+        "atk": 470,
+        "def": 182,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "百里香",
+          "description": "使攻击范围内除自身外当前生命比例小于等于自身的友军获得14%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2255.0,
+        "atk": 470,
+        "def": 182,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "百里香",
+          "description": "使攻击范围内除自身外当前生命比例小于等于自身的友军获得14%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2255.0,
+        "atk": 470,
+        "def": 182,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "百里香",
+          "description": "使攻击范围内除自身外当前生命比例小于等于自身的友军获得16%（+2%）的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2255.0,
+        "atk": 470,
+        "def": 182,
+        "magicResistance": 25.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "百里香",
+          "description": "使攻击范围内除自身外当前生命比例小于等于自身的友军获得16%（+2%）的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+160",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "“山中的喜悦”",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即进行一次治疗，治疗量为撷英调香师攻击力的350%，并使目标防御力+20%，持续10秒（不可叠加）\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 6,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即进行一次治疗，治疗量为撷英调香师攻击力的400%，并使目标防御力+20%，持续10秒（不可叠加）\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 7,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即进行一次治疗，治疗量为撷英调香师攻击力的450%，并使目标防御力+20%，持续10秒（不可叠加）\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 8,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即进行一次治疗，治疗量为撷英调香师攻击力的500%，并使目标防御力+25%，持续10秒（不可叠加）\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 9,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "“神殿的余烬”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+38，天赋提供的庇护效果提升至1.7倍，每次治疗使目标在3秒内攻击力+20%、每秒流失1%最大生命值（不可叠加）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+42，天赋提供的庇护效果提升至1.8倍，每次治疗使目标在3秒内攻击力+25%、每秒流失1%最大生命值（不可叠加）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+46，天赋提供的庇护效果提升至1.9倍，每次治疗使目标在3秒内攻击力+25%、每秒流失1%最大生命值（不可叠加）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+50，天赋提供的庇护效果提升至2倍，每次治疗使目标在3秒内攻击力+30%、每秒流失1%最大生命值（不可叠加）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

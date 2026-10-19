@@ -1,0 +1,255 @@
+{
+  "id": "char_4164_tecno",
+  "name": "特克诺",
+  "english": "Tecno",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "塑灵术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "召唤"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 519,
+        "def": 105,
+        "magicResistance": 20.0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "即兴制偶",
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 519,
+        "def": 105,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "即兴制偶",
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 519,
+        "def": 105,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "即兴制偶",
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 544.0,
+        "def": 105,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "即兴制偶",
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 544.0,
+        "def": 105,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "即兴制偶",
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1855,
+        "atk": 544.0,
+        "def": 105,
+        "magicResistance": 20.0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "即兴制偶",
+          "description": "攻击范围内的地面敌人被击倒时原地生成一个木偶舞者（最多存在5个），木偶舞者攻击造成法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "关节锁定",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，木偶舞者的阻挡数+1，生命上限+40%，防御力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 6,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+43%，木偶舞者的阻挡数+1，生命上限+43%，防御力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 7,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+46%，木偶舞者的阻挡数+1，生命上限+46%，防御力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 8,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+50%，木偶舞者的阻挡数+1，生命上限+50%，防御力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "恣意挥洒",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，自身和木偶舞者的攻击速度+70，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\n技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，自身和木偶舞者的攻击速度+80，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\n技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，自身和木偶舞者的攻击速度+90，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\n技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，自身和木偶舞者的攻击速度+100，木偶舞者变为远程攻击，可攻击特克诺攻击范围内的敌人\n技能结束时所有木偶舞者在距离特克诺最近的可部署地块重新生成",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "木偶舞者",
+      "stats": {
+        "maxHp": 1144,
+        "atk": 298,
+        "def": 295,
+        "magicResistance": 20.0,
+        "cost": 0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.5,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人，攻击造成法术伤害",
+      "skills": []
+    }
+  ]
+}

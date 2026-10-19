@@ -1,0 +1,346 @@
+{
+  "id": "uniequip_003_ironmn",
+  "name": "海布里印记",
+  "type": "CRA-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        },
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        },
+        {
+          "name": "铁钳号·原型机",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -10.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 340.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 54.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        },
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        },
+        {
+          "name": "铁钳号·原型机",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -10.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+4（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+4（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+4（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+4（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+4（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+4（此效果不受技能影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 400.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        },
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        },
+        {
+          "name": "铁钳号·原型机",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -10.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+6（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+6（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+6（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+6（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+6（此效果不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "战地工程师",
+            "description": "可以携带3个(最多可部署2个)，效果根据技能改变而改变，自身装置天赋生效的干员攻击速度+6（此效果不受技能影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4072_ironmn",
+  "operator_name": "白铁",
+  "profession": "辅助",
+  "branch": "工匠"
+}

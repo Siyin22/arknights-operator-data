@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ulpia",
+  "name": "乌尔比安的衣橱",
+  "type": "CRU-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 330.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 84.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 430.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 107.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身120点生命值；生命值低于50%时，治疗效果提升至170点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身120点生命值；生命值低于50%时，治疗效果提升至170点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身120点生命值；生命值低于50%时，治疗效果提升至170点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身120点生命值；生命值低于50%时，治疗效果提升至170点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身120点生命值；生命值低于50%时，治疗效果提升至170点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身120点生命值；生命值低于50%时，治疗效果提升至170点生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 510.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 120.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身130点生命值；生命值低于60%时，治疗效果提升至175点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身130点生命值；生命值低于60%时，治疗效果提升至175点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身130点生命值；生命值低于60%时，治疗效果提升至175点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身130点生命值；生命值低于60%时，治疗效果提升至175点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身130点生命值；生命值低于60%时，治疗效果提升至175点生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "本性的坚守",
+            "description": "每次受到伤害时，治疗自身130点生命值；生命值低于60%时，治疗效果提升至175点生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4145_ulpia",
+  "operator_name": "乌尔比安",
+  "profession": "近卫",
+  "branch": "重剑手"
+}

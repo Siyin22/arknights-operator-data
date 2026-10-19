@@ -1,0 +1,162 @@
+{
+  "id": "char_123_fang",
+  "name": "芬",
+  "english": "Fang",
+  "rarity": 3,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "费用回复"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1325,
+        "atk": 325,
+        "def": 310,
+        "magicResistance": 0,
+        "cost": 11,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1325,
+        "atk": 325,
+        "def": 310,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1325,
+        "atk": 325,
+        "def": 310,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1325,
+        "atk": 325,
+        "def": 330.0,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1325,
+        "atk": 325,
+        "def": 330.0,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1325,
+        "atk": 325,
+        "def": 330.0,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻量化",
+          "description": "自身部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+20",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "冲锋号令·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得6点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 6,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

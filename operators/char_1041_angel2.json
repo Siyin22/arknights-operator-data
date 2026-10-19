@@ -1,0 +1,465 @@
+{
+  "id": "char_1041_angel2",
+  "name": "新约能天使",
+  "english": "Exusiai the New Covenant",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "怪杰",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 778,
+        "def": 150,
+        "magicResistance": 10.0,
+        "cost": 13,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "火力电台",
+          "description": "在场时，每当有友方干员的弹药被消耗就会回复自身6%生命值，并有25%概率立即对该干员攻击范围的敌人召唤一次轰炸，造成相当于自身攻击力150%的物理溅射伤害"
+        },
+        {
+          "name": "铳弹协约",
+          "description": "在场时，携带弹药类技能的干员攻击力+9%，对【拉特兰】干员的效果翻倍"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 778,
+        "def": 150,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "火力电台",
+          "description": "在场时，每当有友方干员的弹药被消耗就会回复自身6%生命值，并有25%概率立即对该干员攻击范围的敌人召唤一次轰炸，造成相当于自身攻击力150%的物理溅射伤害"
+        },
+        {
+          "name": "铳弹协约",
+          "description": "在场时，携带弹药类技能的干员攻击力+9%，对【拉特兰】干员的效果翻倍"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 778,
+        "def": 150,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "火力电台",
+          "description": "在场时，每当有友方干员的弹药被消耗就会回复自身6%生命值，并有25%概率立即对该干员攻击范围的敌人召唤一次轰炸，造成相当于自身攻击力150%的物理溅射伤害"
+        },
+        {
+          "name": "铳弹协约",
+          "description": "在场时，携带弹药类技能的干员攻击力+13%（+4%），对【拉特兰】干员的效果翻倍"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 808.0,
+        "def": 150,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "火力电台",
+          "description": "在场时，每当有友方干员的弹药被消耗就会回复自身6%生命值，并有25%概率立即对该干员攻击范围的敌人召唤一次轰炸，造成相当于自身攻击力150%的物理溅射伤害"
+        },
+        {
+          "name": "铳弹协约",
+          "description": "在场时，携带弹药类技能的干员攻击力+13%（+4%），对【拉特兰】干员的效果翻倍"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 808.0,
+        "def": 150,
+        "magicResistance": 10.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "火力电台",
+          "description": "在场时，每当有友方干员的弹药被消耗就会回复自身6%生命值，并有25%概率立即对该干员攻击范围的敌人召唤一次轰炸，造成相当于自身攻击力165%（+15%）的物理溅射伤害"
+        },
+        {
+          "name": "铳弹协约",
+          "description": "在场时，携带弹药类技能的干员攻击力+13%（+4%），对【拉特兰】干员的效果翻倍"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    },
+    {
+      "stats": {
+        "maxHp": 2350,
+        "atk": 808.0,
+        "def": 150,
+        "magicResistance": 10.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "火力电台",
+          "description": "在场时，每当有友方干员的弹药被消耗就会回复自身6%生命值，并有25%概率立即对该干员攻击范围的敌人召唤一次轰炸，造成相当于自身攻击力165%（+15%）的物理溅射伤害"
+        },
+        {
+          "name": "铳弹协约",
+          "description": "在场时，携带弹药类技能的干员攻击力+13%（+4%），对【拉特兰】干员的效果翻倍"
+        }
+      ],
+      "trait": "自身生命会不断流失"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+30",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "天空大扫除",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击造成攻击力210%的物理伤害，优先攻击空中单位，主动关闭时发射剩余所有弹药攻击范围内的随机敌人\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 5,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击造成攻击力220%的物理伤害，优先攻击空中单位，主动关闭时发射剩余所有弹药攻击范围内的随机敌人\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 6,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击造成攻击力230%的物理伤害，优先攻击空中单位，主动关闭时发射剩余所有弹药攻击范围内的随机敌人\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 7,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击造成攻击力250%的物理伤害，优先攻击空中单位，主动关闭时发射剩余所有弹药攻击范围内的随机敌人\n攻击装有8发弹药，打完后结束（可随时停止技能）",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 8,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "开火成瘾症",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即偷取攻击范围内1名友方干员70点攻击速度（持续至技能结束或新约能天使离场），自身与其获得最大生命值200%的屏障，该屏障会持续衰减，攻击间隔降低，每次攻击造成攻击力270%的物理伤害\n攻击装有35发弹药，打完后结束（可随时停止技能），如果成功偷取攻击速度则额外获得5发弹药",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 23,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "立即偷取攻击范围内1名友方干员70点攻击速度（持续至技能结束或新约能天使离场），自身与其获得最大生命值220%的屏障，该屏障会持续衰减，攻击间隔降低，每次攻击造成攻击力280%的物理伤害\n攻击装有35发弹药，打完后结束（可随时停止技能），如果成功偷取攻击速度则额外获得5发弹药",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 23,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "立即偷取攻击范围内1名友方干员70点攻击速度（持续至技能结束或新约能天使离场），自身与其获得最大生命值230%的屏障，该屏障会持续衰减，攻击间隔降低，每次攻击造成攻击力290%的物理伤害\n攻击装有35发弹药，打完后结束（可随时停止技能），如果成功偷取攻击速度则额外获得5发弹药",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 23,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "立即偷取攻击范围内1名友方干员70点攻击速度（持续至技能结束或新约能天使离场），自身与其获得最大生命值250%的屏障，该屏障会持续衰减，攻击间隔降低，每次攻击造成攻击力300%的物理伤害\n攻击装有35发弹药，打完后结束（可随时停止技能），如果成功偷取攻击速度则额外获得5发弹药",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "使命必达！",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+20%，每次攻击变为相当于攻击力135%的5连击，若存在投递坐标，立即对该处造成一次相当于攻击力250%的物理溅射伤害并将一名再部署时间最长的地面干员部署至该处，使其获得6点技力\n部署后获得投递坐标，攻击装有50发弹药，每次攻击消耗5发，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+22%，每次攻击变为相当于攻击力150%的5连击，若存在投递坐标，立即对该处造成一次相当于攻击力250%的物理溅射伤害并将一名再部署时间最长的地面干员部署至该处，使其获得6点技力\n部署后获得投递坐标，攻击装有50发弹药，每次攻击消耗5发，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 27,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+25%，每次攻击变为相当于攻击力155%的5连击，若存在投递坐标，立即对该处造成一次相当于攻击力250%的物理溅射伤害并将一名再部署时间最长的地面干员部署至该处，使其获得6点技力\n部署后获得投递坐标，攻击装有50发弹药，每次攻击消耗5发，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 28,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+30%，每次攻击变为相当于攻击力160%的5连击，若存在投递坐标，立即对该处造成一次相当于攻击力250%的物理溅射伤害并将一名再部署时间最长的地面干员部署至该处，使其获得6点技力\n部署后获得投递坐标，攻击装有50发弹药，每次攻击消耗5发，打完后结束（可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 30,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "投递坐标",
+      "stats": {
+        "maxHp": 3000,
+        "atk": 0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 5.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "天空大扫除",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "开火成瘾症",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "使命必达！",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

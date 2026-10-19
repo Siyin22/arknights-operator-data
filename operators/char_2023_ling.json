@@ -1,0 +1,776 @@
+{
+  "id": "char_2023_ling",
+  "name": "令",
+  "english": "Ling",
+  "rarity": 6,
+  "profession": "辅助",
+  "branch": "召唤师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "召唤",
+    "支援",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1429,
+        "atk": 508,
+        "def": 138,
+        "magicResistance": 20.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "挑灯问梦",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "随付笺咏醉屠苏",
+          "description": "召唤物被击倒/吸收/回收时令额外获得3点技力、攻击力+3%（攻击力加成最多叠加5层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1429,
+        "atk": 508,
+        "def": 138,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "挑灯问梦",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "随付笺咏醉屠苏",
+          "description": "召唤物被击倒/吸收/回收时令额外获得3点技力、攻击力+3%（攻击力加成最多叠加5层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1429,
+        "atk": 508,
+        "def": 138,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "挑灯问梦",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "随付笺咏醉屠苏",
+          "description": "召唤物被击倒/吸收/回收时令额外获得3点技力、攻击力+3%（攻击力加成最多叠加5层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1429,
+        "atk": 532.0,
+        "def": 138,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "挑灯问梦",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "随付笺咏醉屠苏",
+          "description": "召唤物被击倒/吸收/回收时令额外获得3点技力、攻击力+3%（攻击力加成最多叠加5层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1429,
+        "atk": 532.0,
+        "def": 138,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "挑灯问梦",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "随付笺咏醉屠苏",
+          "description": "召唤物被击倒/吸收/回收时令额外获得4(+1)点技力、攻击力+3%（攻击力加成最多叠加5层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1429,
+        "atk": 532.0,
+        "def": 138,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "挑灯问梦",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "随付笺咏醉屠苏",
+          "description": "召唤物被击倒/吸收/回收时令额外获得4(+1)点技力、攻击力+3%（攻击力加成最多叠加5层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "重进酒",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：召唤物可部署在近战位\n开启：自身与召唤物攻击力+38%，攻击速度+38，召唤物伤害类型变为法术\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：召唤物可部署在近战位\n开启：自身与召唤物攻击力+42%，攻击速度+42，召唤物伤害类型变为法术\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：召唤物可部署在近战位\n开启：自身与召唤物攻击力+46%，攻击速度+46，召唤物伤害类型变为法术\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：召唤物可部署在近战位\n开启：自身与召唤物攻击力+50%，攻击速度+50，召唤物伤害类型变为法术\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "笑鸣瑟",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：召唤物可部署在远程位，攻击造成法术伤害\n开启：令与召唤物对攻击范围内两名敌人造成370%攻击力的法术伤害并束缚2.5秒\n技能结束时回收生命值低于一半的召唤物。可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：召唤物可部署在远程位，攻击造成法术伤害\n开启：令与召唤物对攻击范围内两名敌人造成390%攻击力的法术伤害并束缚2.5秒\n技能结束时回收生命值低于一半的召唤物。可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：召唤物可部署在远程位，攻击造成法术伤害\n开启：令与召唤物对攻击范围内两名敌人造成420%攻击力的法术伤害并束缚2.5秒\n技能结束时回收生命值低于一半的召唤物。可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：召唤物可部署在远程位，攻击造成法术伤害\n开启：令与召唤物对攻击范围内两名敌人造成450%攻击力的法术伤害并束缚3秒\n技能结束时回收生命值低于一半的召唤物。可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "宁作吾",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：召唤物可部署在近战位且攻击范围内存在其他召唤物时与其合并为高级形态\n开启：自身与召唤物攻击力+70%，防御力+60%，召唤物每0.5秒对周围四格敌人造成20%令攻击力的法术伤害\n技能结束时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：召唤物可部署在近战位且攻击范围内存在其他召唤物时与其合并为高级形态\n开启：自身与召唤物攻击力+80%，防御力+70%，召唤物每0.5秒对周围四格敌人造成20%令攻击力的法术伤害\n技能结束时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：召唤物可部署在近战位且攻击范围内存在其他召唤物时与其合并为高级形态\n开启：自身与召唤物攻击力+90%，防御力+85%，召唤物每0.5秒对周围四格敌人造成20%令攻击力的法术伤害\n技能结束时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：召唤物可部署在近战位且攻击范围内存在其他召唤物时与其合并为高级形态\n开启：自身与召唤物攻击力+100%，防御力+100%，召唤物每0.5秒对周围四格敌人造成20%令攻击力的法术伤害\n技能结束时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "“清平”",
+      "stats": {
+        "maxHp": 2500,
+        "atk": 549,
+        "def": 351,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人",
+      "skills": [
+        {
+          "name": "重进酒",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "重进酒",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "重进酒",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "“逍遥”",
+      "stats": {
+        "maxHp": 1217,
+        "atk": 406,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 9,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "攻击造成法术伤害",
+      "skills": [
+        {
+          "name": "笑鸣瑟",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "笑鸣瑟",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "笑鸣瑟",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "令技能结束时，若自身生命值低于一半则被回收",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "“弦惊”",
+      "stats": {
+        "maxHp": 3607,
+        "atk": 823,
+        "def": 423,
+        "magicResistance": 10.0,
+        "cost": 23,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 20,
+        "attackSpeed": 100.0
+      },
+      "trait": "攻击阻挡的所有敌人",
+      "skills": [
+        {
+          "name": "宁作吾",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "宁作吾",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "宁作吾",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "基础形态：攻击造成物理伤害\n高级形态：大幅度强化，攻击造成法术伤害，占据2个部署位，撤退或被击倒时返还2个部署位",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

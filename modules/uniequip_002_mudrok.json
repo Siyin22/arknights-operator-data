@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_mudrok",
+  "name": "土石的根系",
+  "type": "UNY-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 245.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 325.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身22%最大生命和1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身22%最大生命和1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身22%最大生命和1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身22%最大生命和1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身24%（+2%）最大生命和1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身24%（+2%）最大生命和1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 400.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身23%最大生命和2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身23%最大生命和2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身23%最大生命和2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身23%最大生命和2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身25%（+2%）最大生命和2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "沃土予身",
+            "description": "每9秒获得1层护盾（最多3层，部署后立即获得1层），每层护盾破裂时恢复自身25%（+2%）最大生命和2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_311_mudrok",
+  "operator_name": "泥岩",
+  "profession": "重装",
+  "branch": "不屈者"
+}

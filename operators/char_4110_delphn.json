@@ -1,0 +1,262 @@
+{
+  "id": "char_4110_delphn",
+  "name": "戴菲恩",
+  "english": "Delphine",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "秘术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1532,
+        "atk": 1370,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 26,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "濯洗剑锋",
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高18%"
+        },
+        {
+          "name": "挥斩敌愁",
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1532,
+        "atk": 1370,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "濯洗剑锋",
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高18%"
+        },
+        {
+          "name": "挥斩敌愁",
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1532,
+        "atk": 1370,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "濯洗剑锋",
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高18%"
+        },
+        {
+          "name": "挥斩敌愁",
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1532,
+        "atk": 1370,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "濯洗剑锋",
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高18%"
+        },
+        {
+          "name": "挥斩敌愁",
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1532,
+        "atk": 1370,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "濯洗剑锋",
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高20%（+2%）"
+        },
+        {
+          "name": "挥斩敌愁",
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1532,
+        "atk": 1370,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "濯洗剑锋",
+          "description": "攻击生命值高于80%的敌人时造成的伤害提高20%（+2%）"
+        },
+        {
+          "name": "挥斩敌愁",
+          "description": "在【恶兆湍流】中，攻击【萨卡兹】敌人时攻击力提升至120%，且可额外储存一个仅用于攻击【萨卡兹】敌人的攻击能量"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "“贯注”",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力40%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力43%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力46%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        }
+      ]
+    },
+    {
+      "name": "“抢攻”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，不再以生命值低于50%的敌人为目标，攻击会使命中目标每秒受到6%戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 16,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%，不再以生命值低于50%的敌人为目标，攻击会使命中目标每秒受到6%戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 17,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%，不再以生命值低于50%的敌人为目标，攻击会使命中目标每秒受到6%戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 18,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，不再以生命值低于50%的敌人为目标，攻击会使命中目标每秒受到6%戴菲恩攻击力的法术伤害（最多叠加4次，持续至技能结束）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

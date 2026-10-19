@@ -1,0 +1,239 @@
+{
+  "id": "char_4163_rosesa",
+  "name": "瑰盐",
+  "english": "Rose Salt",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "群愈师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1875,
+        "atk": 360,
+        "def": 151,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "最好的草药医生",
+          "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升15%"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1875,
+        "atk": 360,
+        "def": 151,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "最好的草药医生",
+          "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升15%"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1875,
+        "atk": 360,
+        "def": 151,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "最好的草药医生",
+          "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升15%"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1875,
+        "atk": 360,
+        "def": 151,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "最好的草药医生",
+          "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升15%"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1875,
+        "atk": 360,
+        "def": 151,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "最好的草药医生",
+          "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升17%（+2%）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1875,
+        "atk": 360,
+        "def": 151,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "最好的草药医生",
+          "description": "自身攻击力-5%，但攻击范围内的友方干员受到的治疗效果提升17%（+2%）"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "上佳的应急药呀",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗可以恢复相当于攻击力165%的生命\n可充能1次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗可以恢复相当于攻击力170%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗可以恢复相当于攻击力180%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗可以恢复相当于攻击力190%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "绝妙的长效药呀",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔缩短，攻击范围内的友方干员受到的物理与法术伤害的30%变为持续5秒的生命流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 21,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔缩短，攻击范围内的友方干员受到的物理与法术伤害的35%变为持续5秒的生命流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 23,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔缩短，攻击范围内的友方干员受到的物理与法术伤害的40%变为持续5秒的生命流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 25,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔缩短，攻击范围内的友方干员受到的物理与法术伤害的50%变为持续5秒的生命流失",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 27,
+          "charges": 1,
+          "duration": "27 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

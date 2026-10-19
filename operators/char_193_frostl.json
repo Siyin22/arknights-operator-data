@@ -1,0 +1,239 @@
+{
+  "id": "char_193_frostl",
+  "name": "霜叶",
+  "english": "Frostleaf",
+  "rarity": 4,
+  "profession": "近卫",
+  "branch": "领主",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "减速",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2260,
+        "atk": 660,
+        "def": 378,
+        "magicResistance": 10.0,
+        "cost": 18,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "掩护打击",
+          "description": "攻击范围扩大，但攻击间隔略微增大"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2260,
+        "atk": 660,
+        "def": 378,
+        "magicResistance": 10.0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "掩护打击",
+          "description": "攻击范围扩大，但攻击间隔略微增大"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2260,
+        "atk": 660,
+        "def": 378,
+        "magicResistance": 10.0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "掩护打击",
+          "description": "攻击范围扩大，但攻击间隔略微增大"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2260,
+        "atk": 660,
+        "def": 378,
+        "magicResistance": 10.0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "掩护打击",
+          "description": "攻击范围扩大，但攻击间隔略微增大"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2260,
+        "atk": 660,
+        "def": 378,
+        "magicResistance": 10.0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "掩护打击",
+          "description": "攻击范围扩大，但攻击间隔略微增大"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2260,
+        "atk": 660,
+        "def": 378,
+        "magicResistance": 10.0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "掩护打击",
+          "description": "攻击范围扩大，但攻击间隔略微增大"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+8",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "寒霜枪刃",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成攻击力135%的物理伤害，令命中目标在-1秒内移动速度-35%",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成攻击力140%的物理伤害，令命中目标在-1秒内移动速度-40%",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成攻击力145%的物理伤害，令命中目标在-1秒内移动速度-45%",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成攻击力150%的物理伤害，令命中目标在-1秒内移动速度-50%",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "凝冰枪刃",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+35；每次攻击使命中目标移动速度-42%，并有25%的几率使其束缚1.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+40；每次攻击使命中目标移动速度-44%，并有30%的几率使其束缚2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+45；每次攻击使命中目标移动速度-46%，并有35%的几率使其束缚2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+50；每次攻击使命中目标移动速度-50%，并有40%的几率使其束缚2秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

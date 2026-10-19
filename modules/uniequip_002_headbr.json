@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_headbr",
+  "name": "冬将军的毕业礼物",
+  "type": "SOL-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 225.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，自身部署费用额外-1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 37.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "冲锋领袖",
+            "description": "编入队伍时所有【先锋】职业干员的部署费用-1，【尖兵】分支职业干员部署费用额外-1",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_115_headbr",
+  "operator_name": "凛冬",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

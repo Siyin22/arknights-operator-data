@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_aurora",
+  "name": "盾用摄制模块",
+  "type": "HES-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 320.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%（+0.5%）最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%（+0.5%）最大生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 380.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 90.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4%最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4.5%（+0.5%）最大生命值",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "缓慢回复技力，只有阻挡敌人时恢复技力回复速度",
+            "condition": ""
+          },
+          {
+            "name": "低温休憩",
+            "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复4.5%（+0.5%）最大生命值",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_422_aurora",
+  "operator_name": "极光",
+  "profession": "重装",
+  "branch": "决战者"
+}

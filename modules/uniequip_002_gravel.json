@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_gravel",
+  "name": "隐秘行动工具包",
+  "type": "EXE-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短3秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "战场附庸",
+            "description": "部署时，使正在再部署的【卡西米尔】阵营干员缩短5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_237_gravel",
+  "operator_name": "砾",
+  "profession": "特种",
+  "branch": "处决者"
+}

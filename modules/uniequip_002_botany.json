@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_botany",
+  "name": "昨日、今日、明日",
+  "type": "RIT-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 95.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 29.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+8（+1），最多可叠加3层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+8（+1），最多可叠加3层",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 145.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加4层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加4层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加4层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+7，最多可叠加4层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+8（+1），最多可叠加4层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "背弃沉默",
+            "description": "攻击范围内有敌人侵蚀损伤爆发时攻击速度+8（+1），最多可叠加4层",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4223_botany",
+  "operator_name": "伯塔尼",
+  "profession": "辅助",
+  "branch": "巫役"
+}

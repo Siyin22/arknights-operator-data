@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_savage",
+  "name": "未竟的旅程",
+  "type": "CEN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+13%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "山谷",
+            "description": "周围四格中有两格以上的高地地形时攻击力和防御力+15%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_230_savage",
+  "operator_name": "暴行",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

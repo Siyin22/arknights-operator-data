@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_chimes",
+  "name": "致继任者",
+  "type": "CRU-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 230.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 305.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 89.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+7%，生命值高于50%时获得+28%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+7%，生命值高于50%时获得+28%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+7%，生命值高于50%时获得+28%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+7%，生命值高于50%时获得+28%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+7%，生命值高于50%时获得+30%（+2%）攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+7%，生命值高于50%时获得+30%（+2%）攻击力的精力充沛",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+8%，生命值高于50%时获得+33%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+8%，生命值高于50%时获得+33%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+8%，生命值高于50%时获得+33%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+8%，生命值高于50%时获得+33%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+8%，生命值高于50%时获得+35%（+2%）攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的治疗效果提升20%",
+            "condition": ""
+          },
+          {
+            "name": "走山路",
+            "description": "生命上限+8%，生命值高于50%时获得+35%（+2%）攻击力的精力充沛",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4083_chimes",
+  "operator_name": "铎铃",
+  "profession": "近卫",
+  "branch": "重剑手"
+}

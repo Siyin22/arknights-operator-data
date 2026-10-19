@@ -1,0 +1,239 @@
+{
+  "id": "char_148_nearl",
+  "name": "临光",
+  "english": "Nearl",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "守护者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "治疗"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2780,
+        "atk": 502,
+        "def": 625,
+        "magicResistance": 10.0,
+        "cost": 21,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天马光环",
+          "description": "在场时，全地图的友方单位医疗效果提高10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2780,
+        "atk": 502,
+        "def": 625,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天马光环",
+          "description": "在场时，全地图的友方单位医疗效果提高10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2780,
+        "atk": 502,
+        "def": 625,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天马光环",
+          "description": "在场时，全地图的友方单位医疗效果提高10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2780,
+        "atk": 502,
+        "def": 650.0,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天马光环",
+          "description": "在场时，全地图的友方单位医疗效果提高10%"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2780,
+        "atk": 502,
+        "def": 650.0,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天马光环",
+          "description": "在场时，全地图的友方单位医疗效果提高12%（+2%）"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2780,
+        "atk": 502,
+        "def": 650.0,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天马光环",
+          "description": "在场时，全地图的友方单位医疗效果提高12%（+2%）"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+25",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "急救",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力150%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力160%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力170%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力180%的生命\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "急救模式",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，停止攻击并专心对周围友方角色进行治疗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%，停止攻击并专心对周围友方角色进行治疗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，停止攻击并专心对周围友方角色进行治疗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，停止攻击并专心对周围友方角色进行治疗",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

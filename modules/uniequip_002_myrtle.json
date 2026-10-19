@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_myrtle",
+  "name": "“私人收藏”",
+  "type": "BEA-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复28点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复28点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复28点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复28点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复31（+3）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复31（+3）点生命",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复30点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复30点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复30点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复30点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复33（+3）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "浮光跃金",
+            "description": "在场时，所有【先锋】干员每秒回复33（+3）点生命",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_151_myrtle",
+  "operator_name": "桃金娘",
+  "profession": "先锋",
+  "branch": "执旗手"
+}

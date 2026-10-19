@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_scave",
+  "name": "“专属餐具”",
+  "type": "SOL-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 27.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 18.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+14%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 36.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+18%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "单独行动者",
+            "description": "当周围四格内没有其他友方单位时，攻击力和防御力各+18%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_149_scave",
+  "operator_name": "清道夫",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

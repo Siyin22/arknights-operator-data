@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_halo",
+  "name": "未组装的钟表",
+  "type": "CHA-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 50.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 62.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加6次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加6次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加6次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加6次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加6次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加6次",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 74.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加7次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加7次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加7次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加7次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加7次",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害不再降低并造成短暂的停顿",
+            "condition": ""
+          },
+          {
+            "name": "科研热忱",
+            "description": "每在场上停留10秒，攻击速度+4，最多可以叠加7次",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_135_halo",
+  "operator_name": "星源",
+  "profession": "术师",
+  "branch": "链术师"
+}

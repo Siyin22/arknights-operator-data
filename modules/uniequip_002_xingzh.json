@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_xingzh",
+  "name": "别昔年",
+  "type": "BLS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得12%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得12%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得12%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得12%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得14%（+2%）的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得14%（+2%）的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 175.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得15%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得15%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得15%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得15%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得17%（+2%）的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于100%攻击力）",
+            "condition": ""
+          },
+          {
+            "name": "同路之谊",
+            "description": "使攻击范围内除自己外2名友军获得17%（+2%）的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4172_xingzh",
+  "operator_name": "行箸",
+  "profession": "辅助",
+  "branch": "护佑者"
+}

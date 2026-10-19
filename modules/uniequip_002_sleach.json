@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_sleach",
+  "name": "牧人的歌",
+  "type": "BEA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+12，敌人的攻击速度-12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+12，敌人的攻击速度-12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+12，敌人的攻击速度-12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+12，敌人的攻击速度-12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+14（+2），敌人的攻击速度-14（+2）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+14（+2），敌人的攻击速度-14（+2）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+13，敌人的攻击速度-13",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+13，敌人的攻击速度-13",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+13，敌人的攻击速度-13",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+13，敌人的攻击速度-13",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+15（+2），敌人的攻击速度-15（+2）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "不退之旗",
+            "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+15（+2），敌人的攻击速度-15（+2）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_479_sleach",
+  "operator_name": "琴柳",
+  "profession": "先锋",
+  "branch": "执旗手"
+}

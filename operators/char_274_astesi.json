@@ -1,0 +1,239 @@
+{
+  "id": "char_274_astesi",
+  "name": "星极",
+  "english": "Astesia",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "术战者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2523,
+        "atk": 690,
+        "def": 448,
+        "magicResistance": 15.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天体仪",
+          "description": "每在场上停留20秒，攻击速度+5，最多可以叠加5次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2523,
+        "atk": 690,
+        "def": 448,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天体仪",
+          "description": "每在场上停留20秒，攻击速度+5，最多可以叠加5次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2523,
+        "atk": 690,
+        "def": 448,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天体仪",
+          "description": "每在场上停留20秒，攻击速度+5，最多可以叠加5次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2523,
+        "atk": 690,
+        "def": 471.0,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天体仪",
+          "description": "每在场上停留20秒，攻击速度+5，最多可以叠加5次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2523,
+        "atk": 690,
+        "def": 471.0,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天体仪",
+          "description": "每在场上停留20秒，攻击速度+5，最多可以叠加5次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2523,
+        "atk": 690,
+        "def": 471.0,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "天体仪",
+          "description": "每在场上停留20秒，攻击速度+5，最多可以叠加5次"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+23",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "星座守护",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，防御力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 6,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+43%，防御力+65%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 7,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+46%，防御力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+50%，防御力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "星辉剑",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，防御力+60%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 6,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+65%，防御力+65%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 7,
+          "charges": 1,
+          "duration": "13 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，防御力+70%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 8,
+          "charges": 1,
+          "duration": "14 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，防御力+80%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

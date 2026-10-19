@@ -1,0 +1,373 @@
+{
+  "id": "char_113_cqbw",
+  "name": "W",
+  "english": "W",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "炮手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 1012,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 29,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "设伏",
+          "description": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标"
+        },
+        {
+          "name": "落井下石",
+          "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+18%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 1012,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "设伏",
+          "description": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标"
+        },
+        {
+          "name": "落井下石",
+          "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+18%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 1012,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "设伏",
+          "description": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标"
+        },
+        {
+          "name": "落井下石",
+          "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+18%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 1047.0,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "设伏",
+          "description": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标"
+        },
+        {
+          "name": "落井下石",
+          "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+18%"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 1047.0,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 28.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "设伏",
+          "description": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标"
+        },
+        {
+          "name": "落井下石",
+          "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+21%（+3%）"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1605,
+        "atk": 1047.0,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 27.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "设伏",
+          "description": "在战场停留10秒后获得60%的物理和法术闪避，且不容易成为敌人的攻击目标"
+        },
+        {
+          "name": "落井下石",
+          "description": "攻击范围内的敌人在被晕眩时受到的物理伤害+21%（+3%）"
+        }
+      ],
+      "trait": "攻击造成群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "红桃K",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即发射一枚榴弹，造成相当于攻击力310%的物理伤害，并使命中目标晕眩2.1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即发射一枚榴弹，造成相当于攻击力320%的物理伤害，并使命中目标晕眩2.4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即发射一枚榴弹，造成相当于攻击力330%的物理伤害，并使命中目标晕眩2.7秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即发射一枚榴弹，造成相当于攻击力350%的物理伤害，并使命中目标晕眩3秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "惊吓盒子",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击变为在攻击范围内的一个可放置地块埋下地雷（持续120秒）；地雷在敌人经过时会爆炸，爆炸后对周围所有敌人造成相当于攻击力250%的物理伤害并令其晕眩1.8秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击变为在攻击范围内的一个可放置地块埋下地雷（持续120秒）；地雷在敌人经过时会爆炸，爆炸后对周围所有敌人造成相当于攻击力260%的物理伤害并令其晕眩1.8秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击变为在攻击范围内的一个可放置地块埋下地雷（持续120秒）；地雷在敌人经过时会爆炸，爆炸后对周围所有敌人造成相当于攻击力270%的物理伤害并令其晕眩2秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击变为在攻击范围内的一个可放置地块埋下地雷（持续120秒）；地雷在敌人经过时会爆炸，爆炸后对周围所有敌人造成相当于攻击力280%的物理伤害并令其晕眩2.2秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "D12",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "在攻击范围内生命值最多的3个敌人身上放置一枚炸弹；炸弹会在一定延迟后引爆，每个对其周围的所有敌人造成相当于攻击力280%的物理伤害并令其晕眩4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 17,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "在攻击范围内生命值最多的4个敌人身上放置一枚炸弹；炸弹会在一定延迟后引爆，每个对其周围的所有敌人造成相当于攻击力290%的物理伤害并令其晕眩4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 18,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "在攻击范围内生命值最多的4个敌人身上放置一枚炸弹；炸弹会在一定延迟后引爆，每个对其周围的所有敌人造成相当于攻击力300%的物理伤害并令其晕眩4.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 19,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "在攻击范围内生命值最多的4个敌人身上放置一枚炸弹；炸弹会在一定延迟后引爆，每个对其周围的所有敌人造成相当于攻击力310%的物理伤害并令其晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "此面向敌",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 0,
+        "attackSpeed": 100.0
+      },
+      "trait": "",
+      "skills": [
+        {
+          "name": "受害者启动模式",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "敌人经过时会爆炸，爆炸后对周围所有敌人造成物理伤害并令其晕眩",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "敌人经过时会爆炸，爆炸后对周围所有敌人造成物理伤害并令其晕眩",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "敌人经过时会爆炸，爆炸后对周围所有敌人造成物理伤害并令其晕眩",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "敌人经过时会爆炸，爆炸后对周围所有敌人造成物理伤害并令其晕眩",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

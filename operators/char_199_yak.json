@@ -1,0 +1,238 @@
+{
+  "id": "char_199_yak",
+  "name": "角峰",
+  "english": "Matterhorn",
+  "rarity": 4,
+  "profession": "重装",
+  "branch": "铁卫",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3620,
+        "atk": 375,
+        "def": 670,
+        "magicResistance": 5.0,
+        "cost": 21,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪原卫士",
+          "description": "法术抗性+15"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3620,
+        "atk": 375,
+        "def": 670,
+        "magicResistance": 5.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪原卫士",
+          "description": "法术抗性+15"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3620,
+        "atk": 375,
+        "def": 670,
+        "magicResistance": 5.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪原卫士",
+          "description": "法术抗性+15"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3870.0,
+        "atk": 375,
+        "def": 670,
+        "magicResistance": 5.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪原卫士",
+          "description": "法术抗性+15"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3870.0,
+        "atk": 375,
+        "def": 670,
+        "magicResistance": 5.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪原卫士",
+          "description": "法术抗性+15"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3870.0,
+        "atk": 375,
+        "def": 670,
+        "magicResistance": 5.0,
+        "cost": 19.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "雪原卫士",
+          "description": "法术抗性+15"
+        }
+      ],
+      "trait": "能够阻挡三个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+250",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "体能强化",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "生命上限+40%，每秒恢复30点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 5,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "生命上限+50%，每秒恢复33点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 5,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "生命上限+60%，每秒恢复36点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "生命上限+70%，每秒恢复40点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "抗寒体质",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "生命上限+40%，防御力+15%，法术抗性+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 5,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "生命上限+43%，防御力+20%，法术抗性+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 5,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "生命上限+46%，防御力+25%，法术抗性+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 5,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "生命上限+50%，防御力+30%，法术抗性+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

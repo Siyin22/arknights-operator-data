@@ -1,0 +1,239 @@
+{
+  "id": "char_4036_forcer",
+  "name": "见行者",
+  "english": "Enforcer",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "推击手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "位移",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2287,
+        "atk": 653,
+        "def": 416,
+        "magicResistance": 0,
+        "cost": 22,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技巧射击",
+          "description": "攻击重量大于等于3的敌人时无视目标180的防御力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2287,
+        "atk": 653,
+        "def": 416,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技巧射击",
+          "description": "攻击重量大于等于3的敌人时无视目标180的防御力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2287,
+        "atk": 653,
+        "def": 416,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技巧射击",
+          "description": "攻击重量大于等于3的敌人时无视目标180的防御力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2287,
+        "atk": 653,
+        "def": 416,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技巧射击",
+          "description": "攻击重量大于等于3的敌人时无视目标180的防御力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2287,
+        "atk": 653,
+        "def": 416,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技巧射击",
+          "description": "攻击重量大于等于3的敌人时无视目标200（+20）的防御力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2287,
+        "atk": 653,
+        "def": 416,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "技巧射击",
+          "description": "攻击重量大于等于3的敌人时无视目标200（+20）的防御力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "护身射击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击会把目标往攻击方向中等力度地推开，目标撞到高台时晕眩1.7秒。",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击会把目标往攻击方向中等力度地推开，目标撞到高台时晕眩1.8秒。",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击会把目标往攻击方向中等力度地推开，目标撞到高台时晕眩1.9秒。",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击会把目标往攻击方向较大力地推开，目标撞到高台时晕眩2秒。",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "惊爆射击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即将范围内所有敌人往身前方向较大力地推开并晕眩2.2秒（撞到高台时晕眩时间延长为3.4秒）。若目标碰撞其他敌人，使其晕眩2.2秒。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即将范围内所有敌人往身前方向较大力地推开并晕眩2.3秒（撞到高台时晕眩时间延长为3.6秒）。若目标碰撞其他敌人，使其晕眩2.3秒。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即将范围内所有敌人往身前方向较大力地推开并晕眩2.4秒（撞到高台时晕眩时间延长为3.8秒）。若目标碰撞其他敌人，使其晕眩2.4秒。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即将范围内所有敌人往身前方向大力地推开并晕眩2.5秒（撞到高台时晕眩时间延长为4秒）。若目标碰撞其他敌人，使其晕眩2.5秒。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

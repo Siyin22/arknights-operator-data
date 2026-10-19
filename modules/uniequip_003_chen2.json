@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_chen2",
+  "name": "假期的最后一天",
+  "type": "RPR-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+10%，攻击速度+8，当场地中存在水地形时改为攻击力+15%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+10%，攻击速度+8，当场地中存在水地形时改为攻击力+15%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+10%，攻击速度+8，当场地中存在水地形时改为攻击力+15%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+10%，攻击速度+8，当场地中存在水地形时改为攻击力+15%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+10%，攻击速度+8，当场地中存在水地形时改为攻击力+15%，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+10%，攻击速度+8，当场地中存在水地形时改为攻击力+15%，攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+15%，攻击速度+12，当场地中存在水地形时改为攻击力+28%，攻击速度+20，技能开启时，场地视为水地形",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+15%，攻击速度+12，当场地中存在水地形时改为攻击力+28%，攻击速度+20，技能开启时，场地视为水地形",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+15%，攻击速度+12，当场地中存在水地形时改为攻击力+28%，攻击速度+20，技能开启时，场地视为水地形",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+15%，攻击速度+12，当场地中存在水地形时改为攻击力+28%，攻击速度+20，技能开启时，场地视为水地形",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+15%，攻击速度+12，当场地中存在水地形时改为攻击力+28%，攻击速度+20，技能开启时，场地视为水地形",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "假日余韵",
+            "description": "攻击力+15%，攻击速度+12，当场地中存在水地形时改为攻击力+28%，攻击速度+20，技能开启时，场地视为水地形",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1013_chen2",
+  "operator_name": "假日威龙陈",
+  "profession": "狙击",
+  "branch": "散射手"
+}

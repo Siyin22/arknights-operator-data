@@ -1,0 +1,239 @@
+{
+  "id": "char_455_nothin",
+  "name": "乌有",
+  "english": "Mr.Nothing",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "行商",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "快速复活",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2598,
+        "atk": 765,
+        "def": 396,
+        "magicResistance": 0,
+        "cost": 8,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "出其不意",
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至150%并晕眩目标4秒"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2598,
+        "atk": 765,
+        "def": 396,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 25,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "出其不意",
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至150%并晕眩目标4秒"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2598,
+        "atk": 765,
+        "def": 396,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "出其不意",
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至150%并晕眩目标4秒"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2598,
+        "atk": 790.0,
+        "def": 396,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "出其不意",
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至150%并晕眩目标4秒"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2598,
+        "atk": 790.0,
+        "def": 396,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "出其不意",
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至155%（+5%）并晕眩目标4秒"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    },
+    {
+      "stats": {
+        "maxHp": 2598,
+        "atk": 790.0,
+        "def": 396,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 22.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "出其不意",
+          "description": "如果4秒内没有主动攻击过，下一次攻击的攻击力提升至155%（+5%）并晕眩目标4秒"
+        }
+      ],
+      "trait": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-3秒",
+    "攻击力+25",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "知难而退",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "主动开启：当生命低于20%时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复12%的生命值\n被动效果：携带此技能时阻挡数+1；",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "主动开启：当生命低于20%时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复13%的生命值\n被动效果：携带此技能时阻挡数+1；",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "主动开启：当生命低于20%时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复14%的生命值\n被动效果：携带此技能时阻挡数+1；",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "主动开启：当生命低于20%时自身停止攻击且不阻挡敌人，更不容易受到敌人的攻击，每秒回复15%的生命值\n被动效果：携带此技能时阻挡数+1；",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "5 秒"
+        }
+      ]
+    },
+    {
+      "name": "阴晴圆缺",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启时，攻击力+40%，且以下三种效果中随机获得一种：每次攻击使目标攻击速度-30（持续5秒且不叠加）；攻击速度+25；获得+40%的物理闪避，阻挡数+1\n技能持续时间无限，可主动关闭技能；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启时，攻击力+50%，且以下三种效果中随机获得一种：每次攻击使目标攻击速度-30（持续5秒且不叠加）；攻击速度+25；获得+45%的物理闪避，阻挡数+1\n技能持续时间无限，可主动关闭技能；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启时，攻击力+55%，且以下三种效果中随机获得一种：每次攻击使目标攻击速度-30（持续5秒且不叠加）；攻击速度+28；获得+45%的物理闪避，阻挡数+1\n技能持续时间无限，可主动关闭技能；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启时，攻击力+60%，且以下三种效果中随机获得一种：每次攻击使目标攻击速度-35（持续5秒且不叠加）；攻击速度+28；获得+50%的物理闪避，阻挡数+1\n技能持续时间无限，可主动关闭技能；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

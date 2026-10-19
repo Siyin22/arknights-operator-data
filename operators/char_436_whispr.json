@@ -1,0 +1,238 @@
+{
+  "id": "char_436_whispr",
+  "name": "絮雨",
+  "english": "Whisperain",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "疗养师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 532,
+        "def": 119,
+        "magicResistance": 10.0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命塔台",
+          "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力6%的生命（不受特性影响）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 532,
+        "def": 119,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命塔台",
+          "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力6%的生命（不受特性影响）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 532,
+        "def": 119,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命塔台",
+          "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力6%的生命（不受特性影响）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 555.0,
+        "def": 119,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命塔台",
+          "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力6%的生命（不受特性影响）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 555.0,
+        "def": 119,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命塔台",
+          "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力7%（+1%）的生命（不受特性影响）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    },
+    {
+      "stats": {
+        "maxHp": 1632,
+        "atk": 555.0,
+        "def": 119,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "生命塔台",
+          "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力7%（+1%）的生命（不受特性影响）"
+        }
+      ],
+      "trait": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "定向诊断",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗时的治疗量提升至攻击力的120%，额外治疗一名单位（优先选择处于异常状态中的单位）并使其获得抵抗，持续4秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗时的治疗量提升至攻击力的120%，额外治疗一名单位（优先选择处于异常状态中的单位）并使其获得抵抗，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗时的治疗量提升至攻击力的125%，额外治疗一名单位（优先选择处于异常状态中的单位）并使其获得抵抗，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗时的治疗量提升至攻击力的130%，额外治疗一名单位（优先选择处于异常状态中的单位）并使其获得抵抗，持续5秒",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "痛觉抑制",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔缩短，天赋生命回复效果提升至170%，每次治疗使目标获得3秒抵抗\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 59,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔缩短，天赋生命回复效果提升至180%，每次治疗使目标获得3秒抵抗\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 58,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔缩短，天赋生命回复效果提升至190%，每次治疗使目标获得3秒抵抗\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 57,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔缩短，天赋生命回复效果提升至200%，每次治疗使目标获得4秒抵抗\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

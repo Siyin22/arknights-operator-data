@@ -1,0 +1,263 @@
+{
+  "id": "char_4184_dolris",
+  "name": "三角初华",
+  "english": "Misumi Uika",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "吟游者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1410,
+        "atk": 379,
+        "def": 253,
+        "magicResistance": 0,
+        "cost": 7,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谎言的假面",
+          "description": "技能未开启时每4秒治疗攻击范围内生命最低的友方单位相当于攻击力30%的生命；技能期间优先选择丰川祥子作为治疗目标"
+        },
+        {
+          "name": "毋畏悲伤",
+          "description": "治疗Ave Mujica成员时使Fever+5；攻击范围内Ave Mujica成员攻击时，附带三角初华攻击力30%的法术伤害"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1410,
+        "atk": 379,
+        "def": 253,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谎言的假面",
+          "description": "技能未开启时每4秒治疗攻击范围内生命最低的友方单位相当于攻击力30%的生命；技能期间优先选择丰川祥子作为治疗目标"
+        },
+        {
+          "name": "毋畏悲伤",
+          "description": "治疗Ave Mujica成员时使Fever+5；攻击范围内Ave Mujica成员攻击时，附带三角初华攻击力30%的法术伤害"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1410,
+        "atk": 379,
+        "def": 253,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谎言的假面",
+          "description": "技能未开启时每4秒治疗攻击范围内生命最低的友方单位相当于攻击力30%的生命；技能期间优先选择丰川祥子作为治疗目标"
+        },
+        {
+          "name": "毋畏悲伤",
+          "description": "治疗Ave Mujica成员时使Fever+5；攻击范围内Ave Mujica成员攻击时，附带三角初华攻击力30%的法术伤害"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1410,
+        "atk": 399.0,
+        "def": 253,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谎言的假面",
+          "description": "技能未开启时每4秒治疗攻击范围内生命最低的友方单位相当于攻击力30%的生命；技能期间优先选择丰川祥子作为治疗目标"
+        },
+        {
+          "name": "毋畏悲伤",
+          "description": "治疗Ave Mujica成员时使Fever+5；攻击范围内Ave Mujica成员攻击时，附带三角初华攻击力30%的法术伤害"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1410,
+        "atk": 399.0,
+        "def": 253,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谎言的假面",
+          "description": "技能未开启时每4秒治疗攻击范围内生命最低的友方单位相当于攻击力35%(+5%)的生命；技能期间优先选择丰川祥子作为治疗目标"
+        },
+        {
+          "name": "毋畏悲伤",
+          "description": "治疗Ave Mujica成员时使Fever+5；攻击范围内Ave Mujica成员攻击时，附带三角初华攻击力30%的法术伤害"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1410,
+        "atk": 399.0,
+        "def": 253,
+        "magicResistance": 0,
+        "cost": 5.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "谎言的假面",
+          "description": "技能未开启时每4秒治疗攻击范围内生命最低的友方单位相当于攻击力35%(+5%)的生命；技能期间优先选择丰川祥子作为治疗目标"
+        },
+        {
+          "name": "毋畏悲伤",
+          "description": "治疗Ave Mujica成员时使Fever+5；攻击范围内Ave Mujica成员攻击时，附带三角初华攻击力30%的法术伤害"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+20",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "我思念的",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击范围内所有友方单位获得相当于三角初华40%攻击力与防御力的鼓舞效果，目标受到伤害时三角初华会为其治疗80点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 23,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击范围内所有友方单位获得相当于三角初华45%攻击力与防御力的鼓舞效果，目标受到伤害时三角初华会为其治疗85点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 23,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击范围内所有友方单位获得相当于三角初华50%攻击力与防御力的鼓舞效果，目标受到伤害时三角初华会为其治疗90点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 24,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击范围内所有友方单位获得相当于三角初华55%攻击力与防御力的鼓舞效果，目标受到伤害时三角初华会为其治疗100点生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "我悲悯的",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能期间特性不再恢复生命，每0.3秒对攻击范围内随机一名敌人造成相当于攻击力80%的法术伤害并为一名友方治疗相当于攻击力20%的生命；攻击范围内所有其他友方单位获得相当于三角初华90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 15,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能期间特性不再恢复生命，每0.3秒对攻击范围内随机一名敌人造成相当于攻击力85%的法术伤害并为一名友方治疗相当于攻击力20%的生命；攻击范围内所有其他友方单位获得相当于三角初华90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 17,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能期间特性不再恢复生命，每0.3秒对攻击范围内随机一名敌人造成相当于攻击力90%的法术伤害并为一名友方治疗相当于攻击力25%的生命；攻击范围内所有其他友方单位获得相当于三角初华90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 18,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能期间特性不再恢复生命，每0.3秒对攻击范围内随机一名敌人造成相当于攻击力100%的法术伤害并为一名友方治疗相当于攻击力25%的生命；攻击范围内所有其他友方单位获得相当于三角初华100%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

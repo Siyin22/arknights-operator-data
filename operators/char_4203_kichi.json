@@ -1,0 +1,238 @@
+{
+  "id": "char_4203_kichi",
+  "name": "吉星",
+  "english": "Kichisei",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "散射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2310,
+        "atk": 792,
+        "def": 190,
+        "magicResistance": 0,
+        "cost": 31,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "好运连击！",
+          "description": "上场后每击倒过一种敌人，自身造成的伤害+6%，最多叠加3次"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2310,
+        "atk": 792,
+        "def": 190,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "好运连击！",
+          "description": "上场后每击倒过一种敌人，自身造成的伤害+6%，最多叠加3次"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2310,
+        "atk": 792,
+        "def": 190,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "好运连击！",
+          "description": "上场后每击倒过一种敌人，自身造成的伤害+6%，最多叠加3次"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2310,
+        "atk": 823.0,
+        "def": 190,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "好运连击！",
+          "description": "上场后每击倒过一种敌人，自身造成的伤害+6%，最多叠加3次"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2310,
+        "atk": 823.0,
+        "def": 190,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "好运连击！",
+          "description": "上场后每击倒过一种敌人，自身造成的伤害+7%（+1%），最多叠加3次"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 2310,
+        "atk": 823.0,
+        "def": 190,
+        "magicResistance": 0,
+        "cost": 29.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "好运连击！",
+          "description": "上场后每击倒过一种敌人，自身造成的伤害+7%（+1%），最多叠加3次"
+        }
+      ],
+      "trait": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+31",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "欢迎您来！",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔略微增大，每次攻击后攻击力+20%，最多叠加4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔略微增大，每次攻击后攻击力+22%，最多叠加4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 30,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔略微增大，每次攻击后攻击力+23%，最多叠加4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 30,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔略微增大，每次攻击后攻击力+25%，最多叠加4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 30,
+          "charges": 1,
+          "duration": "42 秒"
+        }
+      ]
+    },
+    {
+      "name": "吉星高照！",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+60%；攻击时将依次并且循环对命中的目标施加不同效果：停顿1.3秒、束缚1.3秒、晕眩1.3秒；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 22,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+65%；攻击时将依次并且循环对命中的目标施加不同效果：停顿1.3秒、束缚1.3秒、晕眩1.3秒；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 23,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+70%；攻击时将依次并且循环对命中的目标施加不同效果：停顿1.3秒、束缚1.3秒、晕眩1.3秒；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 24,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+80%；攻击时将依次并且循环对命中的目标施加不同效果：停顿1.5秒、束缚1.5秒、晕眩1.5秒；",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "36 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

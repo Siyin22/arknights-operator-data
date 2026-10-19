@@ -1,0 +1,308 @@
+{
+  "id": "char_340_shwaz",
+  "name": "黑",
+  "english": "Schwarz",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "重射手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 940,
+        "def": 225,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "破甲箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使命中目标的防御力下降20%，持续5秒"
+        },
+        {
+          "name": "交叉火力",
+          "description": "场上存在黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+8%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 940,
+        "def": 225,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "破甲箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使命中目标的防御力下降20%，持续5秒"
+        },
+        {
+          "name": "交叉火力",
+          "description": "场上存在黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+8%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 940,
+        "def": 225,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "破甲箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使命中目标的防御力下降20%，持续5秒"
+        },
+        {
+          "name": "交叉火力",
+          "description": "场上存在黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+8%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 970.0,
+        "def": 225,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "破甲箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使命中目标的防御力下降20%，持续5秒"
+        },
+        {
+          "name": "交叉火力",
+          "description": "场上存在黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+8%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 970.0,
+        "def": 225,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "破甲箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使命中目标的防御力下降20%，持续5秒"
+        },
+        {
+          "name": "交叉火力",
+          "description": "场上存在黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+8%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1833,
+        "atk": 970.0,
+        "def": 225,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "破甲箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至160%，并使命中目标的防御力下降20%，持续5秒"
+        },
+        {
+          "name": "交叉火力",
+          "description": "场上存在黑和另外至少一名【狙击】干员时，所有【狙击】干员的攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "部署费用-1",
+    "第二天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "强弩",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击的攻击力提高至190%，且天赋发动概率提高至70%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击的攻击力提高至200%，且天赋发动概率提高至73%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击的攻击力提高至210%，且天赋发动概率提高至76%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击的攻击力提高至220%，且天赋发动概率提高至80%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "暮眼锐瞳",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+100%，天赋的发动概率提高至45%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 16,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+110%，天赋的发动概率提高至45%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 17,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+120%，天赋的发动概率提高至45%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 18,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+130%，天赋的发动概率提高至50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "战术的终结",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围改为前方3格，攻击间隔略微增大，攻击力+140%，天赋的发动概率提高至100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 9,
+          "charges": 1,
+          "duration": "21 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围改为前方4格，攻击间隔略微增大，攻击力+150%，天赋的发动概率提高至100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 10,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围改为前方4格，攻击间隔略微增大，攻击力+160%，天赋的发动概率提高至100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 11,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围改为前方4格，攻击间隔略微增大，攻击力+180%，天赋的发动概率提高至100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 12,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

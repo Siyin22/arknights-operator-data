@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_slbell",
+  "name": "“续针”",
+  "type": "UMD-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有20%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有20%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有20%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有20%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有20%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有20%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 8.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有25%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有25%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有25%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有25%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有25%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "双响",
+            "description": "攻击时同时攻击两个目标，攻击有25%概率造成1秒寒冷",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_174_slbell",
+  "operator_name": "初雪",
+  "profession": "辅助",
+  "branch": "削弱者"
+}

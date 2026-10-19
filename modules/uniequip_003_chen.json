@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_chen",
+  "name": "往昔时光",
+  "type": "SWO-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 36.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+11%，防御力+11%，物理闪避+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+11%，防御力+11%，物理闪避+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+11%，防御力+11%，物理闪避+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+11%，防御力+11%，物理闪避+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+12%（+1%），防御力+12%（+1%），物理闪避+18%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+12%（+1%），防御力+12%（+1%），物理闪避+18%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+15%，防御力+15%，物理闪避+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+15%，防御力+15%，物理闪避+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+15%，防御力+15%，物理闪避+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+15%，防御力+15%，物理闪避+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+16%（+1%），防御力+16%（+1%），物理闪避+21%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "持刀格斗术",
+            "description": "攻击力+16%（+1%），防御力+16%（+1%），物理闪避+21%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_010_chen",
+  "operator_name": "陈",
+  "profession": "近卫",
+  "branch": "剑豪"
+}

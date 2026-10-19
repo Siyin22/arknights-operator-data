@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_judge",
+  "name": "“无罪”",
+  "type": "UNY-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 48.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力55%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力55%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力55%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力55%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力58%（+3%）的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力58%（+3%）的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力58%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力58%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力58%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力58%的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力61%（+3%）的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围8格没有友方干员时攻击力和防御力+8%",
+            "condition": ""
+          },
+          {
+            "name": "荆棘环身",
+            "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力61%（+3%）的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4065_judge",
+  "operator_name": "斥罪",
+  "profession": "重装",
+  "branch": "不屈者"
+}

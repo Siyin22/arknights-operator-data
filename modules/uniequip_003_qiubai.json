@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_qiubai",
+  "name": "欲雪时",
+  "type": "LOR-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 240.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有23%的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有23%的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有26%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有26%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有26%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有26%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 280.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有25%的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有25%的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有28%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有28%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有28%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上敌人时攻击速度+12",
+            "condition": ""
+          },
+          {
+            "name": "落英",
+            "description": "攻击时有28%（+3%）的几率使目标束缚1.5秒，首次命中敌人时提升至100%且束缚时间提升至3秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4082_qiubai",
+  "operator_name": "仇白",
+  "profession": "近卫",
+  "branch": "领主"
+}

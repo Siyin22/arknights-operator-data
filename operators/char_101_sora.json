@@ -1,0 +1,239 @@
+{
+  "id": "char_101_sora",
+  "name": "空",
+  "english": "Sora",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "吟游者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1356,
+        "atk": 385,
+        "def": 258,
+        "magicResistance": 0,
+        "cost": 7,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "安可",
+          "description": "技能结束后，50%几率立即回复50%的最大技力"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1356,
+        "atk": 385,
+        "def": 258,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "安可",
+          "description": "技能结束后，50%几率立即回复50%的最大技力"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1356,
+        "atk": 385,
+        "def": 258,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "安可",
+          "description": "技能结束后，50%几率立即回复50%的最大技力"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1496.0,
+        "atk": 385,
+        "def": 258,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "安可",
+          "description": "技能结束后，50%几率立即回复50%的最大技力"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1496.0,
+        "atk": 385,
+        "def": 258,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "安可",
+          "description": "技能结束后，50%几率立即回复50%的最大技力"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1496.0,
+        "atk": 385,
+        "def": 258,
+        "magicResistance": 0,
+        "cost": 5.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "安可",
+          "description": "技能结束后，50%几率立即回复50%的最大技力"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+140",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "睡眠之歌",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击范围内所有敌人全部进入沉睡，同时特性效果提高至70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 40,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击范围内所有敌人全部进入沉睡，同时特性效果提高至80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 41,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击范围内所有敌人全部进入沉睡，同时特性效果提高至90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 42,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击范围内所有敌人全部进入沉睡，同时特性效果提高至100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 45,
+          "charges": 1,
+          "duration": "7 秒"
+        }
+      ]
+    },
+    {
+      "name": "战斗之歌",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内所有其他友方单位获得相当于空90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内所有其他友方单位获得相当于空90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 21,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内所有其他友方单位获得相当于空90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 22,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内所有其他友方单位获得相当于空100%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

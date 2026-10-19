@@ -1,0 +1,327 @@
+{
+  "id": "char_2015_dusk",
+  "name": "夕",
+  "english": "Dusk",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "扩散术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "群攻",
+    "输出",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1801,
+        "atk": 1028,
+        "def": 127,
+        "magicResistance": 20.0,
+        "cost": 34,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "化境",
+          "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加15层"
+        },
+        {
+          "name": "点睛",
+          "description": "部署后首次攻击敌人时，在目标位置（可部署地面）召唤一个“小自在”（持续25秒）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1801,
+        "atk": 1028,
+        "def": 127,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "化境",
+          "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加15层"
+        },
+        {
+          "name": "点睛",
+          "description": "部署后首次攻击敌人时，在目标位置（可部署地面）召唤一个“小自在”（持续25秒）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1801,
+        "atk": 1028,
+        "def": 127,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "化境",
+          "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加15层"
+        },
+        {
+          "name": "点睛",
+          "description": "部署后首次攻击敌人时，在目标位置（可部署地面）召唤一个“小自在”（持续25秒）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1801,
+        "atk": 1062.0,
+        "def": 127,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "化境",
+          "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加15层"
+        },
+        {
+          "name": "点睛",
+          "description": "部署后首次攻击敌人时，在目标位置（可部署地面）召唤一个“小自在”（持续25秒）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1801,
+        "atk": 1062.0,
+        "def": 127,
+        "magicResistance": 20.0,
+        "cost": 33.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "化境",
+          "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加18（+3）层"
+        },
+        {
+          "name": "点睛",
+          "description": "部署后首次攻击敌人时，在目标位置（可部署地面）召唤一个“小自在”（持续25秒）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1801,
+        "atk": 1062.0,
+        "def": 127,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "化境",
+          "description": "夕与\"小自在\"击杀一名敌人时，夕获得2%攻击力，最多可叠加18（+3）层"
+        },
+        {
+          "name": "点睛",
+          "description": "部署后首次攻击敌人时，在目标位置（可部署地面）召唤一个“小自在”（持续25秒）"
+        }
+      ],
+      "trait": "攻击造成群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+34",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "工笔入化",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击溅射范围扩大，造成相当于攻击力210%的法术伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击溅射范围扩大，造成相当于攻击力220%的法术伤害\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击溅射范围扩大，造成相当于攻击力235%的法术伤害\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击溅射范围扩大，造成相当于攻击力250%的法术伤害\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "泼墨淋漓",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+40%，攻击速度+40，攻击范围内的所有敌人且对生命值低于一半的敌人造成的法术伤害提升至125%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 15,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+45%，攻击速度+45，攻击范围内的所有敌人且对生命值低于一半的敌人造成的法术伤害提升至130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 20,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+50%，攻击速度+50，攻击范围内的所有敌人且对生命值低于一半的敌人造成的法术伤害提升至130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+55%，攻击速度+55，攻击范围内的所有敌人且对生命值低于一半的敌人造成的法术伤害提升至130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 25,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "写意胜形",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，优先攻击未阻挡的敌人，攻击范围与溅射范围扩大，攻击力+100%，每次攻击时在目标位置（可部署地面）召唤/刷新一个\"小自在\"（持续25秒）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 104,
+          "initial": 55,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，优先攻击未阻挡的敌人，攻击范围与溅射范围扩大，攻击力+110%，每次攻击时在目标位置（可部署地面）召唤/刷新一个\"小自在\"（持续25秒）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 103,
+          "initial": 60,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，优先攻击未阻挡的敌人，攻击范围与溅射范围扩大，攻击力+115%，每次攻击时在目标位置（可部署地面）召唤/刷新一个\"小自在\"（持续25秒）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 102,
+          "initial": 65,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，优先攻击未阻挡的敌人，攻击范围与溅射范围扩大，攻击力+120%，每次攻击时在目标位置（可部署地面）召唤/刷新一个\"小自在\"（持续25秒）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 100,
+          "initial": 70,
+          "charges": 1,
+          "duration": "60 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "“小自在”",
+      "stats": {
+        "maxHp": 1997,
+        "atk": 398,
+        "def": 302,
+        "magicResistance": 50.0,
+        "cost": 0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.9,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "攻击造成法术伤害",
+      "skills": []
+    }
+  ]
+}

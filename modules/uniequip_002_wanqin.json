@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_wanqin",
+  "name": "牵风",
+  "type": "BEA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 105.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+7%，若部署方向与万顷相同，改为+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+7%，若部署方向与万顷相同，改为+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+7%，若部署方向与万顷相同，改为+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+7%，若部署方向与万顷相同，改为+11%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+8%（+1%），若部署方向与万顷相同，改为+12%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+8%（+1%），若部署方向与万顷相同，改为+12%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+9%，若部署方向与万顷相同，改为+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+9%，若部署方向与万顷相同，改为+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+9%，若部署方向与万顷相同，改为+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+9%，若部署方向与万顷相同，改为+13%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+10%（+1%），若部署方向与万顷相同，改为+14%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "看天时",
+            "description": "周围8格的干员最大生命值+10%（+1%），若部署方向与万顷相同，改为+14%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4119_wanqin",
+  "operator_name": "万顷",
+  "profession": "先锋",
+  "branch": "执旗手"
+}

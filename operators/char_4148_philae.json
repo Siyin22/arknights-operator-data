@@ -1,0 +1,239 @@
+{
+  "id": "char_4148_philae",
+  "name": "菲莱",
+  "english": "Philae",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "本源铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "元素",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3227,
+        "atk": 643,
+        "def": 584,
+        "magicResistance": 10.0,
+        "cost": 25,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神河谕使",
+          "description": "受到的元素损伤-10%，受到凋亡损伤时回复2点技力"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3227,
+        "atk": 643,
+        "def": 584,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神河谕使",
+          "description": "受到的元素损伤-10%，受到凋亡损伤时回复2点技力"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3227,
+        "atk": 643,
+        "def": 584,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神河谕使",
+          "description": "受到的元素损伤-10%，受到凋亡损伤时回复2点技力"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3227,
+        "atk": 668.0,
+        "def": 584,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神河谕使",
+          "description": "受到的元素损伤-10%，受到凋亡损伤时回复2点技力"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3227,
+        "atk": 668.0,
+        "def": 584,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神河谕使",
+          "description": "受到的元素损伤-12%（+2%），受到凋亡损伤时回复2点技力"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3227,
+        "atk": 668.0,
+        "def": 584,
+        "magicResistance": 10.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "神河谕使",
+          "description": "受到的元素损伤-12%（+2%），受到凋亡损伤时回复2点技力"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "灵河护佑",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "生命上限+60%，立刻清除自身的元素损伤并获得1200点损伤屏障",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 5,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "生命上限+70%，立刻清除自身的元素损伤并获得1400点损伤屏障",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 10,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "生命上限+80%，立刻清除自身的元素损伤并获得1600点损伤屏障",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "生命上限+90%，立刻清除自身的元素损伤并获得1800点损伤屏障",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 10,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    },
+    {
+      "name": "冥河诅咒",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，生命上限+50%，受到攻击时对周围的地面敌人造成攻击力140%的法术伤害并附带25%攻击力的凋亡损伤（每2秒最多触发一次）；若技能期间受到元素损伤则攻击力+80%至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 17,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，生命上限+50%，受到攻击时对周围的地面敌人造成攻击力160%的法术伤害并附带25%攻击力的凋亡损伤（每2秒最多触发一次）；若技能期间受到元素损伤则攻击力+85%至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 18,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，生命上限+50%，受到攻击时对周围的地面敌人造成攻击力180%的法术伤害并附带25%攻击力的凋亡损伤（每2秒最多触发一次）；若技能期间受到元素损伤则攻击力+90%至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 19,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，生命上限+50%，受到攻击时对周围的地面敌人造成攻击力200%的法术伤害并附带25%攻击力的凋亡损伤（每2秒最多触发一次）；若技能期间受到元素损伤则攻击力+100%至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 20,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

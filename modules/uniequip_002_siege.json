@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_siege",
+  "name": "“糖果盒”",
+  "type": "SOL-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 46.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+10%（+2%），自身攻击力和防御力额外+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+10%（+2%），自身攻击力和防御力额外+6%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+8%，自身攻击力和防御力额外+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+10%（+2%），自身攻击力和防御力额外+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡两个敌人，阻挡敌人时攻击力和防御力各+8％",
+            "condition": ""
+          },
+          {
+            "name": "万兽之王",
+            "description": "所有【先锋】职业干员的攻击力和防御力各+10%（+2%），自身攻击力和防御力额外+8%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_112_siege",
+  "operator_name": "推进之王",
+  "profession": "先锋",
+  "branch": "尖兵"
+}

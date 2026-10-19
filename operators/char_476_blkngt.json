@@ -1,0 +1,289 @@
+{
+  "id": "char_476_blkngt",
+  "name": "夜半",
+  "english": "Blacknight",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "战术家",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 502,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "夜行",
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 502,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "夜行",
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 502,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "夜行",
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 502,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "夜行",
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 502,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "夜行",
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 502,
+        "def": 133,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "夜行",
+          "description": "可以在战术点召唤眠兽协助作战，其被击败后会在15秒后自动刷新"
+        }
+      ],
+      "trait": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+8",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "半醒",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻获得11点部署费用，眠兽进入休眠，期间每秒恢复13%最大生命；眠兽受到伤害时醒来，攻击力+40%，攻击速度+40%，持续10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 14,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻获得11点部署费用，眠兽进入休眠，期间每秒恢复14%最大生命；眠兽受到伤害时醒来，攻击力+45%，攻击速度+45%，持续10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 15,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻获得11点部署费用，眠兽进入休眠，期间每秒恢复14%最大生命；眠兽受到伤害时醒来，攻击力+50%，攻击速度+50%，持续10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 16,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻获得11点部署费用，眠兽进入休眠，期间每秒恢复14%最大生命；眠兽受到伤害时醒来，攻击力+55%，攻击速度+55%，持续10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 17,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    },
+    {
+      "name": "安眠",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即使战术点周围的所有地面敌人陷入5秒沉睡并获得4点部署费用；5秒内眠兽的攻击变为群体法术攻击，攻击沉睡的目标时攻击力提升至150%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 10,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即使战术点周围的所有地面敌人陷入5秒沉睡并获得4点部署费用；5秒内眠兽的攻击变为群体法术攻击，攻击沉睡的目标时攻击力提升至170%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 10,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即使战术点周围的所有地面敌人陷入5秒沉睡并获得4点部署费用；5秒内眠兽的攻击变为群体法术攻击，攻击沉睡的目标时攻击力提升至190%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 10,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即使战术点周围的所有地面敌人陷入6秒沉睡并获得4点部署费用；6秒内眠兽的攻击变为群体法术攻击，攻击沉睡的目标时攻击力提升至210%\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 10,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "眠兽",
+      "stats": {
+        "maxHp": 2582,
+        "atk": 474,
+        "def": 308,
+        "magicResistance": 20.0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.25,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人，只能部署在召唤者攻击范围内",
+      "skills": [
+        {
+          "name": "食梦",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "可以攻击并优先攻击沉睡的目标",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "食梦",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "可以攻击并优先攻击沉睡的目标",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

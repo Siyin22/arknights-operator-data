@@ -1,0 +1,308 @@
+{
+  "id": "char_430_fartth",
+  "name": "远牙",
+  "english": "Fartooth",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "神射手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1522,
+        "atk": 1296,
+        "def": 163,
+        "magicResistance": 0,
+        "cost": 22,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凝神",
+          "description": "最近10秒内未受伤害时，攻击力+15%"
+        },
+        {
+          "name": "屏息",
+          "description": "技能开启时不容易成为敌人的目标，且攻击无视目标的物理闪避"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1522,
+        "atk": 1296,
+        "def": 163,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凝神",
+          "description": "最近10秒内未受伤害时，攻击力+15%"
+        },
+        {
+          "name": "屏息",
+          "description": "技能开启时不容易成为敌人的目标，且攻击无视目标的物理闪避"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1522,
+        "atk": 1296,
+        "def": 163,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凝神",
+          "description": "最近10秒内未受伤害时，攻击力+15%"
+        },
+        {
+          "name": "屏息",
+          "description": "技能开启时不容易成为敌人的目标，且攻击无视目标的物理闪避"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1522,
+        "atk": 1336.0,
+        "def": 163,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凝神",
+          "description": "最近10秒内未受伤害时，攻击力+15%"
+        },
+        {
+          "name": "屏息",
+          "description": "技能开启时不容易成为敌人的目标，且攻击无视目标的物理闪避"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1522,
+        "atk": 1336.0,
+        "def": 163,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凝神",
+          "description": "最近10秒内未受伤害时，攻击力+18%（+3%）"
+        },
+        {
+          "name": "屏息",
+          "description": "技能开启时不容易成为敌人的目标，且攻击无视目标的物理闪避"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1522,
+        "atk": 1336.0,
+        "def": 163,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.7,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "凝神",
+          "description": "最近10秒内未受伤害时，攻击力+18%（+3%）"
+        },
+        {
+          "name": "屏息",
+          "description": "技能开启时不容易成为敌人的目标，且攻击无视目标的物理闪避"
+        }
+      ],
+      "trait": "优先攻击攻击范围内防御力最低的敌方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+40",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "同盟支援",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "可以攻击到范围外被阻挡的敌方单位，攻击速度+90",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 21,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "可以攻击到范围外被阻挡的敌方单位，攻击速度+95",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 22,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "可以攻击到范围外被阻挡的敌方单位，攻击速度+100",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 23,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "可以攻击到范围外被阻挡的敌方单位，攻击速度+110",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "光羽箭",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围改为前方无限长的直线，攻击力+100%，攻击原本范围以外的目标时，造成的伤害提高至130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 7,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围改为前方无限长的直线，攻击力+110%，攻击原本范围以外的目标时，造成的伤害提高至130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 8,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围改为前方无限长的直线，攻击力+120%，攻击原本范围以外的目标时，造成的伤害提高至130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 9,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围改为前方无限长的直线，攻击力+140%，攻击原本范围以外的目标时，造成的伤害提高至140%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

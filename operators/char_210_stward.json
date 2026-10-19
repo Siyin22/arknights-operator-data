@@ -1,0 +1,162 @@
+{
+  "id": "char_210_stward",
+  "name": "史都华德",
+  "english": "Steward",
+  "rarity": 3,
+  "profession": "术师",
+  "branch": "中坚术师",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1100,
+        "atk": 520,
+        "def": 90,
+        "magicResistance": 15.0,
+        "cost": 18,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "铠甲突破",
+          "description": "攻击力+6%，优先攻击防御力最高的敌人"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1100,
+        "atk": 520,
+        "def": 90,
+        "magicResistance": 15.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "铠甲突破",
+          "description": "攻击力+6%，优先攻击防御力最高的敌人"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1100,
+        "atk": 520,
+        "def": 90,
+        "magicResistance": 15.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "铠甲突破",
+          "description": "攻击力+6%，优先攻击防御力最高的敌人"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1100,
+        "atk": 543.0,
+        "def": 90,
+        "magicResistance": 15.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "铠甲突破",
+          "description": "攻击力+6%，优先攻击防御力最高的敌人"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1100,
+        "atk": 543.0,
+        "def": 90,
+        "magicResistance": 15.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "铠甲突破",
+          "description": "攻击力+6%，优先攻击防御力最高的敌人"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1100,
+        "atk": 543.0,
+        "def": 90,
+        "magicResistance": 15.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "铠甲突破",
+          "description": "攻击力+6%，优先攻击防御力最高的敌人"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强力击·α型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至190%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_phatm2",
+  "name": "酒神之心",
+  "type": "RIT-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 37.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-17；攻击范围内的敌人普通攻击时受到80点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-17；攻击范围内的敌人普通攻击时受到80点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-17；攻击范围内的敌人普通攻击时受到80点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-17；攻击范围内的敌人普通攻击时受到80点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-21（+4）；攻击范围内的敌人普通攻击时受到80点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-21（+4）；攻击范围内的敌人普通攻击时受到80点神经损伤",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-20；攻击范围内的敌人普通攻击时受到90点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-20；攻击范围内的敌人普通攻击时受到90点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-20；攻击范围内的敌人普通攻击时受到90点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-20；攻击范围内的敌人普通攻击时受到90点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-24（+4）；攻击范围内的敌人普通攻击时受到90点神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对精英和领袖敌人造成的元素损伤提升18%",
+            "condition": ""
+          },
+          {
+            "name": "堕梦",
+            "description": "在场时，全场处于神经损伤爆发期间的敌人攻击速度-24（+4）；攻击范围内的敌人普通攻击时受到90点神经损伤",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1042_phatm2",
+  "operator_name": "酒神",
+  "profession": "辅助",
+  "branch": "巫役"
+}

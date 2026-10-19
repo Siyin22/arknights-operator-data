@@ -1,0 +1,466 @@
+{
+  "id": "char_1052_kalts2",
+  "name": "凯尔希·思衡托",
+  "english": "Kal'tsit·Esperanta",
+  "rarity": 6,
+  "profession": "医疗",
+  "branch": "守望者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "高空",
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 510,
+        "def": 306,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "遗尘守望",
+          "description": "生命上限和防御力+25%，阻挡数+1，阻挡范围扩大，部署后生命修复单元升空，自身起飞"
+        },
+        {
+          "name": "医者丰碑",
+          "description": "其他友方干员进入自身攻击范围时立刻获得1层护盾并额外获得一次每秒回复50点生命值的增益治疗，持续30秒（不可叠加），增益治疗对【罗德岛】干员的效果翻倍"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 510,
+        "def": 306,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "遗尘守望",
+          "description": "生命上限和防御力+25%，阻挡数+1，阻挡范围扩大，部署后生命修复单元升空，自身起飞"
+        },
+        {
+          "name": "医者丰碑",
+          "description": "其他友方干员进入自身攻击范围时立刻获得1层护盾并额外获得一次每秒回复50点生命值的增益治疗，持续30秒（不可叠加），增益治疗对【罗德岛】干员的效果翻倍"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 510,
+        "def": 306,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "遗尘守望",
+          "description": "生命上限和防御力+30%（+5%），阻挡数+1，阻挡范围扩大，部署后生命修复单元升空，自身起飞"
+        },
+        {
+          "name": "医者丰碑",
+          "description": "其他友方干员进入自身攻击范围时立刻获得1层护盾并额外获得一次每秒回复50点生命值的增益治疗，持续30秒（不可叠加），增益治疗对【罗德岛】干员的效果翻倍"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 535.0,
+        "def": 306,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "遗尘守望",
+          "description": "生命上限和防御力+30%（+5%），阻挡数+1，阻挡范围扩大，部署后生命修复单元升空，自身起飞"
+        },
+        {
+          "name": "医者丰碑",
+          "description": "其他友方干员进入自身攻击范围时立刻获得1层护盾并额外获得一次每秒回复50点生命值的增益治疗，持续30秒（不可叠加），增益治疗对【罗德岛】干员的效果翻倍"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 535.0,
+        "def": 306,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "遗尘守望",
+          "description": "生命上限和防御力+30%（+5%），阻挡数+1，阻挡范围扩大，部署后生命修复单元升空，自身起飞"
+        },
+        {
+          "name": "医者丰碑",
+          "description": "其他友方干员进入自身攻击范围时立刻获得1层护盾并额外获得一次每秒回复50点生命值的增益治疗，持续30秒（不可叠加），增益治疗对【罗德岛】干员的效果翻倍"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 535.0,
+        "def": 306,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "遗尘守望",
+          "description": "生命上限和防御力+30%（+5%），阻挡数+1，阻挡范围扩大，部署后生命修复单元升空，自身起飞"
+        },
+        {
+          "name": "医者丰碑",
+          "description": "其他友方干员进入自身攻击范围时立刻获得1层护盾并额外获得一次每秒回复60（+10）点生命值的增益治疗，持续30秒（不可叠加），增益治疗对【罗德岛】干员的效果翻倍"
+        }
+      ],
+      "trait": "恢复友方单位生命，并且可以起飞"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+25",
+    "部署费用-1",
+    "第二天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "应急肃正防线",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+75%，攻击速度+35，所有其他起飞的友方干员阻挡范围扩大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+80%，攻击速度+35，所有其他起飞的友方干员阻挡范围扩大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 22,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+85%，攻击速度+35，所有其他起飞的友方干员阻挡范围扩大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+90%，攻击速度+50，所有其他起飞的友方干员阻挡范围扩大",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 28,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "保护性拒止",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+125%，攻击变为射出医疗单元（优先选择敌人），击中时对目标周围所有敌人造成相当于攻击力350%的真实伤害，使其停顿5秒并回复目标周围所有友方干员相当于攻击力170%的生命\n攻击装有10发弹药，可以随时停止技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+130%，攻击变为射出医疗单元（优先选择敌人），击中时对目标周围所有敌人造成相当于攻击力360%的真实伤害，使其停顿5秒并回复目标周围所有友方干员相当于攻击力180%的生命\n攻击装有10发弹药，可以随时停止技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 22,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+135%，攻击变为射出医疗单元（优先选择敌人），击中时对目标周围所有敌人造成相当于攻击力370%的真实伤害，使其停顿5秒并回复目标周围所有友方干员相当于攻击力190%的生命\n攻击装有10发弹药，可以随时停止技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+150%，攻击变为射出医疗单元（优先选择敌人），击中时对目标周围所有敌人造成相当于攻击力380%的真实伤害，使其停顿5秒并回复目标周围所有友方干员相当于攻击力200%的生命\n攻击装有10发弹药，可以随时停止技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 28,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "破梏重生",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻获得战术锚点，攻击力+125%，攻击间隔大幅缩小，额外治疗1个目标，部署战术锚点后，自身移动至该位置，并使攻击范围内最多2名友方干员可以部署至自身攻击范围的另一位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 30,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻获得战术锚点，攻击力+130%，攻击间隔大幅缩小，额外治疗1个目标，部署战术锚点后，自身移动至该位置，并使攻击范围内最多2名友方干员可以部署至自身攻击范围的另一位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 58,
+          "initial": 32,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻获得战术锚点，攻击力+135%，攻击间隔大幅缩小，额外治疗1个目标，部署战术锚点后，自身移动至该位置，并使攻击范围内最多2名友方干员可以部署至自身攻击范围的另一位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 55,
+          "initial": 33,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻获得战术锚点，攻击力+150%，攻击间隔大幅缩小，额外治疗1个目标，部署战术锚点后，自身移动至该位置，并使攻击范围内最多2名友方干员可以部署至自身攻击范围的另一位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 35,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "战术锚点",
+      "stats": {
+        "maxHp": 2235,
+        "atk": 0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击，仅可以部署在凯尔希·思衡托攻击范围外的远程位",
+      "skills": [
+        {
+          "name": "应急肃正防线",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "保护性拒止",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "破梏重生",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

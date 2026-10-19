@@ -1,0 +1,308 @@
+{
+  "id": "char_472_pasngr",
+  "name": "异客",
+  "english": "Passenger",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "链术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 774,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 33,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机理分析",
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升20%"
+        },
+        {
+          "name": "孤卒",
+          "description": "当周围4格没有敌人时，攻击力+8%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 774,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机理分析",
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升20%"
+        },
+        {
+          "name": "孤卒",
+          "description": "当周围4格没有敌人时，攻击力+8%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 774,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机理分析",
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升20%"
+        },
+        {
+          "name": "孤卒",
+          "description": "当周围4格没有敌人时，攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 806.0,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机理分析",
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升20%"
+        },
+        {
+          "name": "孤卒",
+          "description": "当周围4格没有敌人时，攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 806.0,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机理分析",
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升20%"
+        },
+        {
+          "name": "孤卒",
+          "description": "当周围4格没有敌人时，攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 806.0,
+        "def": 130,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机理分析",
+          "description": "攻击命中生命值在80%以上的敌人时，3秒内异客对其造成的伤害提升25%（+5%）"
+        },
+        {
+          "name": "孤卒",
+          "description": "当周围4格没有敌人时，攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+32",
+    "部署费用-1",
+    "第一天赋效果增强"
+  ],
+  "skills": [
+    {
+      "name": "电能之触",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击时攻击力提升至210%，最多在4个目标间跳跃，攻击造成的停顿时间延长至1.5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击时攻击力提升至220%，最多在4个目标间跳跃，攻击造成的停顿时间延长至1.5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击时攻击力提升至230%，最多在4个目标间跳跃，攻击造成的停顿时间延长至1.5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击时攻击力提升至250%，最多在4个目标间跳跃，攻击造成的停顿时间延长至1.5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "聚焦指令",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击距离+1，攻击力+20%，攻击间隔缩短，攻击最大弹跳次数提升至5",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 16,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击距离+1，攻击力+25%，攻击间隔缩短，攻击最大弹跳次数提升至5",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 17,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击距离+1，攻击力+30%，攻击间隔缩短，攻击最大弹跳次数提升至5",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 18,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击距离+1，攻击力+30%，攻击间隔较大幅度缩短，攻击最大弹跳次数提升至5",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 20,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "辉煌裂片",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续-1秒的雷暴区域，期间每0.5秒以130%的攻击力对雷暴区域内的随机敌人进行一次额外攻击；可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续-1秒的雷暴区域，期间每0.5秒以135%的攻击力对雷暴区域内的随机敌人进行一次额外攻击；可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续-1秒的雷暴区域，期间每0.5秒以140%的攻击力对雷暴区域内的随机敌人进行一次额外攻击；可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即寻找大范围内生命值最高的目标，在其位置生成持续-1秒的雷暴区域，期间每0.5秒以150%的攻击力对雷暴区域内的随机敌人进行一次额外攻击；可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

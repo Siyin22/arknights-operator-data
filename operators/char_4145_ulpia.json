@@ -1,0 +1,326 @@
+{
+  "id": "char_4145_ulpia",
+  "name": "乌尔比安",
+  "english": "Ulpianus",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "重剑手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 6522,
+        "atk": 1649,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "本性的坚守",
+          "description": "每次受到伤害时，治疗自身100点生命值；生命值低于50%时，治疗效果提升至160点生命值"
+        },
+        {
+          "name": "血脉的哺养",
+          "description": "每次击倒一名敌人时，自身的生命上限提高120，攻击力提高30，最多叠加9次，其他【深海猎人】干员获得50%的提高效果"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6522,
+        "atk": 1649,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "本性的坚守",
+          "description": "每次受到伤害时，治疗自身100点生命值；生命值低于50%时，治疗效果提升至160点生命值"
+        },
+        {
+          "name": "血脉的哺养",
+          "description": "每次击倒一名敌人时，自身的生命上限提高120，攻击力提高30，最多叠加9次，其他【深海猎人】干员获得50%的提高效果"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6772.0,
+        "atk": 1649,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "本性的坚守",
+          "description": "每次受到伤害时，治疗自身100点生命值；生命值低于50%时，治疗效果提升至160点生命值"
+        },
+        {
+          "name": "血脉的哺养",
+          "description": "每次击倒一名敌人时，自身的生命上限提高120，攻击力提高30，最多叠加9次，其他【深海猎人】干员获得50%的提高效果"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6772.0,
+        "atk": 1694.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "本性的坚守",
+          "description": "每次受到伤害时，治疗自身100点生命值；生命值低于50%时，治疗效果提升至160点生命值"
+        },
+        {
+          "name": "血脉的哺养",
+          "description": "每次击倒一名敌人时，自身的生命上限提高120，攻击力提高30，最多叠加9次，其他【深海猎人】干员获得50%的提高效果"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6772.0,
+        "atk": 1694.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "本性的坚守",
+          "description": "每次受到伤害时，治疗自身100点生命值；生命值低于50%时，治疗效果提升至160点生命值"
+        },
+        {
+          "name": "血脉的哺养",
+          "description": "每次击倒一名敌人时，自身的生命上限提高120，攻击力提高30，最多叠加10（+1）次，其他【深海猎人】干员获得50%的提高效果"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6772.0,
+        "atk": 1694.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "本性的坚守",
+          "description": "每次受到伤害时，治疗自身100点生命值；生命值低于50%时，治疗效果提升至160点生命值"
+        },
+        {
+          "name": "血脉的哺养",
+          "description": "每次击倒一名敌人时，自身的生命上限提高120，攻击力提高30，最多叠加10（+1）次，其他【深海猎人】干员获得50%的提高效果"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "生命上限+250",
+    "攻击力+45",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "必须促成的接触",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向前方扔出船锚，船锚会把目标地点周围的两名敌人中等力度地拖拽至面前，对其造成相当于攻击力210%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "向前方扔出船锚，船锚会把目标地点周围的两名敌人中等力度地拖拽至面前，对其造成相当于攻击力230%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "向前方扔出船锚，船锚会把目标地点周围的两名敌人中等力度地拖拽至面前，对其造成相当于攻击力250%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "向前方扔出船锚，船锚会把目标地点周围的两名敌人中等力度地拖拽至面前，对其造成相当于攻击力270%的物理伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "必须维系的界限",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "第一天赋的效果提升至1.8倍，阻挡数+1，生命上限+40%，攻击力+130%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "第一天赋的效果提升至1.8倍，阻挡数+1，生命上限+45%，攻击力+140%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 76,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "第一天赋的效果提升至1.8倍，阻挡数+1，生命上限+50%，攻击力+150%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "第一天赋的效果提升至2倍，阻挡数+1，生命上限+60%，攻击力+160%\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "必须开辟的通路",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "最大生命值+60%，攻击力+230%，立即朝面前扔出一个船锚，撞击到目标或达到最远距离时停止，并对周围所有敌人造成攻击力140%的物理伤害和6秒晕眩。若船锚停留的位置可以部署，乌尔比安会移动到该位置\n可以手动结束技能，技能结束时乌尔比安会返回到初始的位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "最大生命值+60%，攻击力+240%，立即朝面前扔出一个船锚，撞击到目标或达到最远距离时停止，并对周围所有敌人造成攻击力145%的物理伤害和6秒晕眩。若船锚停留的位置可以部署，乌尔比安会移动到该位置\n可以手动结束技能，技能结束时乌尔比安会返回到初始的位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 16,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "最大生命值+60%，攻击力+250%，立即朝面前扔出一个船锚，撞击到目标或达到最远距离时停止，并对周围所有敌人造成攻击力150%的物理伤害和6秒晕眩。若船锚停留的位置可以部署，乌尔比安会移动到该位置\n可以手动结束技能，技能结束时乌尔比安会返回到初始的位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 18,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "最大生命值+80%，攻击力+260%，立即朝面前扔出一个船锚，撞击到目标或达到最远距离时停止，并对周围所有敌人造成攻击力160%的物理伤害和6秒晕眩。若船锚停留的位置可以部署，乌尔比安会移动到该位置\n可以手动结束技能，技能结束时乌尔比安会返回到初始的位置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "从不混淆的方向",
+      "stats": {
+        "maxHp": 3500,
+        "atk": 777,
+        "def": 650,
+        "magicResistance": 50.0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "乌尔比安技能结束时返回该位置，并且其他干员不能部署",
+      "skills": []
+    }
+  ]
+}

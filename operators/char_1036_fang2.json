@@ -1,0 +1,239 @@
+{
+  "id": "char_1036_fang2",
+  "name": "历阵锐枪芬",
+  "english": "Fang the Fire-sharpened",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "冲锋手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2226,
+        "atk": 640,
+        "def": 360,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻装上阵",
+          "description": "自身初次部署费用-3；撤退后使下一名干员部署费用-1"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2226,
+        "atk": 640,
+        "def": 360,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻装上阵",
+          "description": "自身初次部署费用-3；撤退后使下一名干员部署费用-1"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2226,
+        "atk": 640,
+        "def": 360,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻装上阵",
+          "description": "自身初次部署费用-3；撤退后使下一名干员部署费用-1"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2226,
+        "atk": 665.0,
+        "def": 360,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻装上阵",
+          "description": "自身初次部署费用-3；撤退后使下一名干员部署费用-1"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2226,
+        "atk": 665.0,
+        "def": 360,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻装上阵",
+          "description": "自身初次部署费用-3；撤退后使下一名干员部署费用-1"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    },
+    {
+      "stats": {
+        "maxHp": 2226,
+        "atk": 665.0,
+        "def": 360,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "轻装上阵",
+          "description": "自身初次部署费用-3；撤退后使下一名干员部署费用-1"
+        }
+      ],
+      "trait": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "贯敌刺枪",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击变为攻击力150%的二连击，且击败敌人后部署费用回复+1\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击变为攻击力160%的二连击，且击败敌人后部署费用回复+1\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击变为攻击力170%的二连击，且击败敌人后部署费用回复+1\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击变为攻击力180%的二连击，且击败敌人后部署费用回复+1\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "执守阵线",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+95%，防御力+30%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+100%，防御力+40%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+110%，防御力+40%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+120%，防御力+40%，阻挡数+1，同时攻击阻挡的所有敌人",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

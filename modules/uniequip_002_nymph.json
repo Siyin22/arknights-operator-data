@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_nymph",
+  "name": "心声",
+  "type": "PRI-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+2%，最多可叠加10层，叠至10层后，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+2%，最多可叠加10层，叠至10层后，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+2%，最多可叠加10层，叠至10层后，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+2%，最多可叠加10层，叠至10层后，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+2%，最多可叠加12（+2）层，叠至10层后，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+2%，最多可叠加12（+2）层，叠至10层后，攻击速度+7",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+3%，最多可叠加10层，叠至10层后，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+3%，最多可叠加10层，叠至10层后，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+3%，最多可叠加10层，叠至10层后，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+3%，最多可叠加10层，叠至10层后，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+3%，最多可叠加12（+2）层，叠至10层后，攻击速度+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "对处于元素爆发期间的敌人造成的伤害提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "窥心钥",
+            "description": "全场有敌人凋亡损伤爆发时，攻击力+3%，最多可叠加12（+2）层，叠至10层后，攻击速度+12",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4146_nymph",
+  "operator_name": "妮芙",
+  "profession": "术师",
+  "branch": "本源术师"
+}

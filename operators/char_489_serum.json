@@ -1,0 +1,239 @@
+{
+  "id": "char_489_serum",
+  "name": "蚀清",
+  "english": "Corroserum",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "轰击术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻",
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1572,
+        "atk": 850,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 33,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术性调整",
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.45/秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1572,
+        "atk": 850,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术性调整",
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.45/秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1572,
+        "atk": 850,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术性调整",
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.45/秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1572,
+        "atk": 883.0,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术性调整",
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.45/秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1572,
+        "atk": 883.0,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 32.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术性调整",
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.5（+0.05）/秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1572,
+        "atk": 883.0,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术性调整",
+          "description": "4秒内没有主动攻击过，技力自然回复速度+0.5（+0.05）/秒"
+        }
+      ],
+      "trait": "攻击造成超远距离的群体法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+33",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "专注力超载",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+100%，技能结束后蚀清晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+110%，技能结束后蚀清晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+120%，技能结束后蚀清晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+135%，技能结束后蚀清晕眩10秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "传导蚀滞弹",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%，攻击后使目标失去特殊能力3.5秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+80%，攻击后使目标失去特殊能力4秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%，攻击后使目标失去特殊能力4.5秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击后使目标失去特殊能力5秒\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

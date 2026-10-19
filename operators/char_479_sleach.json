@@ -1,0 +1,309 @@
+{
+  "id": "char_479_sleach",
+  "name": "琴柳",
+  "english": "Saileach",
+  "rarity": 6,
+  "profession": "先锋",
+  "branch": "执旗手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "费用回复",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1835,
+        "atk": 586,
+        "def": 407,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不退之旗",
+          "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+10，敌人的攻击速度-10"
+        },
+        {
+          "name": "精神感召",
+          "description": "部署后，下一名部署的干员费用-2"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1835,
+        "atk": 586,
+        "def": 407,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不退之旗",
+          "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+10，敌人的攻击速度-10"
+        },
+        {
+          "name": "精神感召",
+          "description": "部署后，下一名部署的干员费用-2"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1835,
+        "atk": 586,
+        "def": 407,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不退之旗",
+          "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+10，敌人的攻击速度-10"
+        },
+        {
+          "name": "精神感召",
+          "description": "部署后，下一名部署的干员费用-2"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1835,
+        "atk": 611.0,
+        "def": 407,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不退之旗",
+          "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+10，敌人的攻击速度-10"
+        },
+        {
+          "name": "精神感召",
+          "description": "部署后，下一名部署的干员费用-2"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1835,
+        "atk": 611.0,
+        "def": 407,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不退之旗",
+          "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+12（+2），敌人的攻击速度-12（+2）"
+        },
+        {
+          "name": "精神感召",
+          "description": "部署后，下一名部署的干员费用-2"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    },
+    {
+      "stats": {
+        "maxHp": 1835,
+        "atk": 611.0,
+        "def": 407,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不退之旗",
+          "description": "部署时自身持有军旗；军旗周围8格的干员攻击速度+12（+2），敌人的攻击速度-12（+2）"
+        },
+        {
+          "name": "精神感召",
+          "description": "部署后，下一名部署的干员费用-2"
+        }
+      ],
+      "trait": "技能发动期间阻挡数变为0"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "支援号令·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 12,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 13,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 14,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，持续时间内回复总共18点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 15,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    },
+    {
+      "name": "信仰传承",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，持续时间内回复总共20点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+35%且每秒恢复相当于琴柳攻击力35%的生命值。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 12,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，持续时间内回复总共20点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+40%且每秒恢复相当于琴柳攻击力40%的生命值。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 13,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，持续时间内回复总共20点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+45%且每秒恢复相当于琴柳攻击力45%的生命值。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 14,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，持续时间内回复总共20点部署费用；将军旗掷向范围内生命比例最低的干员所在位置，使其防御力+50%且每秒恢复相当于琴柳攻击力50%的生命值。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    },
+    {
+      "name": "光辉旗帜",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，立即回复10点部署费用，将军旗掷向地面敌人所在位置，并对周围造成240%的物理伤害和3秒晕眩；期间军旗周围8格敌人受到停顿和25%的脆弱效果。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 6,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，立即回复10点部署费用，将军旗掷向地面敌人所在位置，并对周围造成260%的物理伤害和3.5秒晕眩；期间军旗周围8格敌人受到停顿和25%的脆弱效果。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 7,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，立即回复10点部署费用，将军旗掷向地面敌人所在位置，并对周围造成280%的物理伤害和3.5秒晕眩；期间军旗周围8格敌人受到停顿和27%的脆弱效果。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 7,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，立即回复10点部署费用，将军旗掷向地面敌人所在位置，并对周围造成300%的物理伤害和3.5秒晕眩；期间军旗周围8格敌人受到停顿和30%的脆弱效果。技能结束时收回军旗。",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 7,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_slchan",
+  "name": "“凌绝顶”",
+  "type": "HOK-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 22.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 27.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+16%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+18%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+18%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 31.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+22%（+2%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拖拽期间敌人受到正比于距离的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "雪境猎手",
+            "description": "未阻挡敌人时，攻击力和防御力各+22%（+2%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_173_slchan",
+  "operator_name": "崖心",
+  "profession": "特种",
+  "branch": "钩索师"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_lumen",
+  "name": "“幸运”",
+  "type": "WAH-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力90%的生命，该效果有11秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力90%的生命，该效果有11秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力90%的生命，该效果有11秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力90%的生命，该效果有11秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力90%的生命，该效果有9（-2）秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力90%的生命，该效果有9（-2）秒冷却时间",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力100%的生命，该效果有10秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力100%的生命，该效果有10秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力100%的生命，该效果有10秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力100%的生命，该效果有10秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力100%的生命，该效果有8（-2）秒冷却时间",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "应急处理",
+            "description": "攻击范围内的友方受到异常状态时，立刻治疗目标相当于流明攻击力100%的生命，该效果有8（-2）秒冷却时间",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4042_lumen",
+  "operator_name": "流明",
+  "profession": "医疗",
+  "branch": "疗养师"
+}

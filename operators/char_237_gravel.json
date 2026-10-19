@@ -1,0 +1,239 @@
+{
+  "id": "char_237_gravel",
+  "name": "砾",
+  "english": "Gravel",
+  "rarity": 4,
+  "profession": "特种",
+  "branch": "处决者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "快速复活",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1720,
+        "atk": 452,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 8,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子支援",
+          "description": "自身部署费用-1，所有初始部署费用不超过10的单位防御力提升6%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1720,
+        "atk": 452,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子支援",
+          "description": "自身部署费用-1，所有初始部署费用不超过10的单位防御力提升6%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1880.0,
+        "atk": 452,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子支援",
+          "description": "自身部署费用-1，所有初始部署费用不超过10的单位防御力提升6%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1880.0,
+        "atk": 452,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子支援",
+          "description": "自身部署费用-1，所有初始部署费用不超过10的单位防御力提升6%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1880.0,
+        "atk": 452,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子支援",
+          "description": "自身部署费用-1，所有初始部署费用不超过10的单位防御力提升8%（+2%）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1880.0,
+        "atk": 452,
+        "def": 335,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "小个子支援",
+          "description": "自身部署费用-1，所有初始部署费用不超过10的单位防御力提升8%（+2%）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "生命上限+160",
+    "再部署时间-2秒",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "影袭",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后防御力+340%，在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后防御力+360%，在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后防御力+380%，在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后防御力+400%，在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "鼠群",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后获得可吸收相当于自己最大生命180%的屏障，该屏障会在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后获得可吸收相当于自己最大生命200%的屏障，该屏障会在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后获得可吸收相当于自己最大生命220%的屏障，该屏障会在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后获得可吸收相当于自己最大生命250%的屏障，该屏障会在-1秒内持续衰减",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

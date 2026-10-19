@@ -1,0 +1,239 @@
+{
+  "id": "char_4232_hbound",
+  "name": "旅骨",
+  "english": "Homebound",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "炼金师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "削弱",
+    "减速"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1360,
+        "atk": 491,
+        "def": 100,
+        "magicResistance": 30.0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "潜水作业",
+          "description": "使自身炼金单元影响范围内地面敌人的物理和法术命中率-9%；若敌人重量大于等于3，改为物理和法术命中率-13%"
+        }
+      ],
+      "trait": "可以投掷炼金单元协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1360,
+        "atk": 491,
+        "def": 100,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "潜水作业",
+          "description": "使自身炼金单元影响范围内地面敌人的物理和法术命中率-9%；若敌人重量大于等于3，改为物理和法术命中率-13%"
+        }
+      ],
+      "trait": "可以投掷炼金单元协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1360,
+        "atk": 491,
+        "def": 100,
+        "magicResistance": 30.0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "潜水作业",
+          "description": "使自身炼金单元影响范围内地面敌人的物理和法术命中率-9%；若敌人重量大于等于3，改为物理和法术命中率-13%"
+        }
+      ],
+      "trait": "可以投掷炼金单元协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1360,
+        "atk": 491,
+        "def": 100,
+        "magicResistance": 30.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "潜水作业",
+          "description": "使自身炼金单元影响范围内地面敌人的物理和法术命中率-9%；若敌人重量大于等于3，改为物理和法术命中率-13%"
+        }
+      ],
+      "trait": "可以投掷炼金单元协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1360,
+        "atk": 491,
+        "def": 100,
+        "magicResistance": 30.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "潜水作业",
+          "description": "使自身炼金单元影响范围内地面敌人的物理和法术命中率-10%（-1%）；若敌人重量大于等于3，改为物理和法术命中率-15%（-2%）"
+        }
+      ],
+      "trait": "可以投掷炼金单元协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1360,
+        "atk": 491,
+        "def": 100,
+        "magicResistance": 30.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "潜水作业",
+          "description": "使自身炼金单元影响范围内地面敌人的物理和法术命中率-10%（-1%）；若敌人重量大于等于3，改为物理和法术命中率-15%（-2%）"
+        }
+      ],
+      "trait": "可以投掷炼金单元协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "触礁",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "投掷一个炼金单元，在9秒内使落点周围的地面敌人移动速度-40%，每秒受到相当于攻击力60%的法术伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "投掷一个炼金单元，在9秒内使落点周围的地面敌人移动速度-45%，每秒受到相当于攻击力65%的法术伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 5,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "投掷一个炼金单元，在10秒内使落点周围的地面敌人移动速度-45%，每秒受到相当于攻击力70%的法术伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 6,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "投掷一个炼金单元，在10秒内使落点周围的地面敌人移动速度-50%，每秒受到相当于攻击力80%的法术伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 6,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "座浅",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "投掷一个炼金单元，在32秒内使落点周围的地面敌人每秒受到相当于攻击力17%的法术伤害；重量大于等于3的敌人移动速度-70%，每秒额外受到相当于攻击力150%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 29,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "投掷一个炼金单元，在33秒内使落点周围的地面敌人每秒受到相当于攻击力18%的法术伤害；重量大于等于3的敌人移动速度-70%，每秒额外受到相当于攻击力160%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 30,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "投掷一个炼金单元，在34秒内使落点周围的地面敌人每秒受到相当于攻击力19%的法术伤害；重量大于等于3的敌人移动速度-70%，每秒额外受到相当于攻击力170%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 31,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "投掷一个炼金单元，在35秒内使落点周围的地面敌人每秒受到相当于攻击力20%的法术伤害；重量大于等于3的敌人移动速度-70%，每秒额外受到相当于攻击力180%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 32,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

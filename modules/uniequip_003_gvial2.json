@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_gvial2",
+  "name": "好锯多磨",
+  "type": "CEN-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 21.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 26.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 63.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到5%的【物理脆弱】，自身受到的治疗效果提升25%，生命值低于一半时提升至50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到5%的【物理脆弱】，自身受到的治疗效果提升25%，生命值低于一半时提升至50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到5%的【物理脆弱】，自身受到的治疗效果提升25%，生命值低于一半时提升至50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到5%的【物理脆弱】，自身受到的治疗效果提升25%，生命值低于一半时提升至50%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到5%的【物理脆弱】，自身受到的治疗效果提升30%（+5%），生命值低于一半时提升至55%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到5%的【物理脆弱】，自身受到的治疗效果提升30%（+5%），生命值低于一半时提升至55%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 29.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 71.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到10%的【物理脆弱】，自身受到的治疗效果提升30%，生命值低于一半时提升至60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到10%的【物理脆弱】，自身受到的治疗效果提升30%，生命值低于一半时提升至60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到10%的【物理脆弱】，自身受到的治疗效果提升30%，生命值低于一半时提升至60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到10%的【物理脆弱】，自身受到的治疗效果提升30%，生命值低于一半时提升至60%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到10%的【物理脆弱】，自身受到的治疗效果提升35%（+5%），生命值低于一半时提升至65%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值高于50%时受到的物理伤害降低20%",
+            "condition": ""
+          },
+          {
+            "name": "医学背景",
+            "description": "被自身阻挡的敌人受到10%的【物理脆弱】，自身受到的治疗效果提升35%（+5%），生命值低于一半时提升至65%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1026_gvial2",
+  "operator_name": "百炼嘉维尔",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

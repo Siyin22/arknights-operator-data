@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_lemuen",
+  "name": "“弹匣与花窗”",
+  "type": "DEA-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场20秒后，攻击力+15%，自身弹药类技能弹药上限+2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场20秒后，攻击力+15%，自身弹药类技能弹药上限+2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场20秒后，攻击力+15%，自身弹药类技能弹药上限+2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场20秒后，攻击力+15%，自身弹药类技能弹药上限+2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场20秒后，攻击力+15%，自身弹药类技能弹药上限+2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场20秒后，攻击力+15%，自身弹药类技能弹药上限+2",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 120.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场15秒后，攻击力+18%，自身弹药类技能弹药上限+2，其他拉特兰干员弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场15秒后，攻击力+18%，自身弹药类技能弹药上限+2，其他拉特兰干员弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场15秒后，攻击力+18%，自身弹药类技能弹药上限+2，其他拉特兰干员弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场15秒后，攻击力+18%，自身弹药类技能弹药上限+2，其他拉特兰干员弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场15秒后，攻击力+18%，自身弹药类技能弹药上限+2，其他拉特兰干员弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "逃犯引渡手续",
+            "description": "在场15秒后，攻击力+18%，自身弹药类技能弹药上限+2，其他拉特兰干员弹药类技能弹药上限+1",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4193_lemuen",
+  "operator_name": "蕾缪安",
+  "profession": "狙击",
+  "branch": "神射手"
+}

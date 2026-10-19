@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_acdrop",
+  "name": "“自由、洋葱圈和我”",
+  "type": "ARC-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成30%攻击力的伤害（当敌人在正前方两格时提升至45%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        },
+        {
+          "key": "respawnTime",
+          "label": "再部署时间",
+          "value": -25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "再部署时间减少",
+            "condition": ""
+          },
+          {
+            "name": "滑射技巧",
+            "description": "每次攻击至少造成35%攻击力的伤害（当敌人在正前方两格时提升至50%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_366_acdrop",
+  "operator_name": "酸糖",
+  "profession": "狙击",
+  "branch": "重射手"
+}

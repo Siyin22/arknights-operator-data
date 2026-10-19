@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_toddi",
+  "name": "弩箭调试箱",
+  "type": "SIE-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至155%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至160%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至160%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至165%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至165%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至165%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至165%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至170%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击重量较重（重量等级大于等于3）的敌人时，攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "火热直觉",
+            "description": "攻击【萨卡兹】敌人时，攻击力提升至170%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_363_toddi",
+  "operator_name": "熔泉",
+  "profession": "狙击",
+  "branch": "攻城手"
+}

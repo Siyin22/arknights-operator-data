@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_archet",
+  "name": "旧日重现",
+  "type": "MAR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.3秒回复1点技力，场上存在其他【狙击】干员时自身改为每2秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.3秒回复1点技力，场上存在其他【狙击】干员时自身改为每2秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.3秒回复1点技力，场上存在其他【狙击】干员时自身改为每2秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.3秒回复1点技力，场上存在其他【狙击】干员时自身改为每2秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.3秒回复1点技力，场上存在其他【狙击】干员时自身改为每2秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.3秒回复1点技力，场上存在其他【狙击】干员时自身改为每2秒回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.2秒回复1点技力，场上存在其他【狙击】干员时自身改为每1.8秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.2秒回复1点技力，场上存在其他【狙击】干员时自身改为每1.8秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.2秒回复1点技力，场上存在其他【狙击】干员时自身改为每1.8秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.2秒回复1点技力，场上存在其他【狙击】干员时自身改为每1.8秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.2秒回复1点技力，场上存在其他【狙击】干员时自身改为每1.8秒回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "兰登战术",
+            "description": "在场时所有【狙击】干员的攻击回复技能每2.2秒回复1点技力，场上存在其他【狙击】干员时自身改为每1.8秒回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_332_archet",
+  "operator_name": "空弦",
+  "profession": "狙击",
+  "branch": "速射手"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "char_4188_confes",
+  "name": "CONFESS-47",
+  "english": "CONFESS-47",
+  "rarity": 1,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "支援机械",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 870,
+        "atk": 192,
+        "def": 184,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "先付费，再告解·I",
+          "description": "首次阻挡敌人时立即获得2点部署费用，并使该敌人沉睡5秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 870,
+        "atk": 192,
+        "def": 184,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "先付费，再告解·II",
+          "description": "首次阻挡敌人时立即获得2点部署费用，并使该敌人沉睡6秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 870,
+        "atk": 192,
+        "def": 184,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "先付费，再告解·III",
+          "description": "首次阻挡敌人时立即获得3点部署费用，并使该敌人沉睡6秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 870,
+        "atk": 192,
+        "def": 184,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "先付费，再告解·IV",
+          "description": "首次阻挡敌人时立即获得3点部署费用，并使该敌人沉睡7秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 870,
+        "atk": 192,
+        "def": 184,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "先付费，再告解·V",
+          "description": "首次阻挡敌人时立即获得4点部署费用，并使该敌人沉睡7秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 870,
+        "atk": 192,
+        "def": 184,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "先付费，再告解·VI",
+          "description": "首次阻挡敌人时立即获得4点部署费用，并使该敌人沉睡8秒"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长"
+    }
+  ],
+  "potential": [
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强"
+  ],
+  "skills": [],
+  "tokens": []
+}

@@ -1,0 +1,238 @@
+{
+  "id": "char_4213_skybx",
+  "name": "天空盒",
+  "english": "Skybox",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "裂空炮手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "群攻"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 984,
+        "def": 197,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开门！管理局",
+          "description": "对每个敌人首次造成伤害后，使目标的特殊能力失效，持续7秒"
+        }
+      ],
+      "trait": "部署后起飞，起飞后只攻击空中敌人；技能开启时降落且攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 984,
+        "def": 197,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开门！管理局",
+          "description": "对每个敌人首次造成伤害后，使目标的特殊能力失效，持续7秒"
+        }
+      ],
+      "trait": "部署后起飞，起飞后只攻击空中敌人；技能开启时降落且攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 984,
+        "def": 197,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开门！管理局",
+          "description": "对每个敌人首次造成伤害后，使目标的特殊能力失效，持续7秒"
+        }
+      ],
+      "trait": "部署后起飞，起飞后只攻击空中敌人；技能开启时降落且攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 984,
+        "def": 197,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开门！管理局",
+          "description": "对每个敌人首次造成伤害后，使目标的特殊能力失效，持续7秒"
+        }
+      ],
+      "trait": "部署后起飞，起飞后只攻击空中敌人；技能开启时降落且攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 1019.0,
+        "def": 197,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开门！管理局",
+          "description": "对每个敌人首次造成伤害后，使目标的特殊能力失效，持续7秒"
+        }
+      ],
+      "trait": "部署后起飞，起飞后只攻击空中敌人；技能开启时降落且攻击造成群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1558,
+        "atk": 1019.0,
+        "def": 197,
+        "magicResistance": 0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.1,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "开门！管理局",
+          "description": "对每个敌人首次造成伤害后，使目标的特殊能力失效，持续7秒"
+        }
+      ],
+      "trait": "部署后起飞，起飞后只攻击空中敌人；技能开启时降落且攻击造成群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "攻击力+35",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "源石火药驾临",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击变为投掷源石炸弹，爆炸范围扩大，造成相当于攻击力240%的物理伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击变为投掷源石炸弹，爆炸范围扩大，造成相当于攻击力260%的物理伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击变为投掷源石炸弹，爆炸范围扩大，造成相当于攻击力280%的物理伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击变为投掷源石炸弹，爆炸范围扩大，造成相当于攻击力300%的物理伤害\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "电磁脉冲恩宠",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击时攻击力提升至180%\n过载：主动关闭时发射剩余全部弹药攻击随机敌人\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 16,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击时攻击力提升至200%\n过载：主动关闭时发射剩余全部弹药攻击随机敌人\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 17,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击时攻击力提升至220%\n过载：主动关闭时发射剩余全部弹药攻击随机敌人\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 18,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击时攻击力提升至240%\n过载：主动关闭时发射剩余全部弹药攻击随机敌人\n技能拥有10枚弹药，可随时主动关闭",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 20,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

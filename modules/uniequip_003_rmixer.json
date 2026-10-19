@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_rmixer",
+  "name": "“老朋友”",
+  "type": "SPT-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 57.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限15%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限15%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限15%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限15%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限18%（+3%）的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限18%（+3%）的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+8%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 74.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 63.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限20%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限20%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限20%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限20%的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限23%（+3%）的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击距离+1（不受技能攻击范围变化影响）",
+            "condition": ""
+          },
+          {
+            "name": "架盾送客仪礼",
+            "description": "若5秒内未主动攻击，获得相当于生命上限23%（+3%）的屏障，失去屏障后重新计时；拥有来自自身的屏障时攻击力+15%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4194_rmixer",
+  "operator_name": "信仰搅拌机",
+  "profession": "重装",
+  "branch": "哨戒铁卫"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_luton",
+  "name": "生还的人与物",
+  "type": "UNY-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 280.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身18%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身18%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身18%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身18%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身20%（+2%）的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身20%（+2%）的生命",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身20%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身20%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身20%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身20%的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身22%（+2%）的生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到来自自身阻挡单位的伤害降低15%",
+            "condition": ""
+          },
+          {
+            "name": "死里求生",
+            "description": "自身阻挡的敌方单位被击杀时，回复自身22%（+2%）的生命",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4130_luton",
+  "operator_name": "露托",
+  "profession": "重装",
+  "branch": "不屈者"
+}

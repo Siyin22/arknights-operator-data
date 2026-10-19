@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_whispr",
+  "name": "古朴的急救箱",
+  "type": "WAH-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力8%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力8%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力8%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力8%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力9%（+1%）的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力9%（+1%）的生命（不受特性影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力9%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力9%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力9%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力9%的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力10%（+1%）的生命（不受特性影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "自身获得抵抗且更不容易受到敌人的攻击",
+            "condition": ""
+          },
+          {
+            "name": "生命塔台",
+            "description": "攻击范围内拥有抵抗的友方单位每秒恢复相当于絮雨攻击力10%（+1%）的生命（不受特性影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_436_whispr",
+  "operator_name": "絮雨",
+  "profession": "医疗",
+  "branch": "疗养师"
+}

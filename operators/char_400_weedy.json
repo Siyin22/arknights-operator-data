@@ -1,0 +1,374 @@
+{
+  "id": "char_400_weedy",
+  "name": "温蒂",
+  "english": "Weedy",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "推击手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "位移",
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2133,
+        "atk": 722,
+        "def": 439,
+        "magicResistance": 0,
+        "cost": 21,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工程蓄水炮",
+          "description": "可以使用一个持续20秒的蓄水炮，能攻击单个敌人并将其小力度地推开"
+        },
+        {
+          "name": "蓄水炮强化",
+          "description": "蓄水炮普通攻击和技能的推力增加一级，且在温蒂周围4格内时令其每3秒获得1点技力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2133,
+        "atk": 722,
+        "def": 439,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工程蓄水炮",
+          "description": "可以使用一个持续20秒的蓄水炮，能攻击单个敌人并将其小力度地推开"
+        },
+        {
+          "name": "蓄水炮强化",
+          "description": "蓄水炮普通攻击和技能的推力增加一级，且在温蒂周围4格内时令其每3秒获得1点技力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2133,
+        "atk": 722,
+        "def": 439,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "工程蓄水炮",
+          "description": "可以使用一个持续20秒的蓄水炮，能攻击单个敌人并将其小力度地推开"
+        },
+        {
+          "name": "蓄水炮强化",
+          "description": "蓄水炮普通攻击和技能的推力增加一级，且在温蒂周围4格内时令其每3秒获得1点技力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2133,
+        "atk": 722,
+        "def": 439,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "工程蓄水炮",
+          "description": "可以使用一个持续20秒的蓄水炮，能攻击单个敌人并将其小力度地推开"
+        },
+        {
+          "name": "蓄水炮强化",
+          "description": "蓄水炮普通攻击和技能的推力增加一级，且在温蒂周围4格内时令其每3秒获得1点技力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2273.0,
+        "atk": 722,
+        "def": 439,
+        "magicResistance": 0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "工程蓄水炮",
+          "description": "可以使用一个持续20秒的蓄水炮，能攻击单个敌人并将其小力度地推开"
+        },
+        {
+          "name": "蓄水炮强化",
+          "description": "蓄水炮普通攻击和技能的推力增加一级，且在温蒂周围4格内时令其每3秒获得1点技力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    },
+    {
+      "stats": {
+        "maxHp": 2273.0,
+        "atk": 722,
+        "def": 439,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 108.0
+      },
+      "talents": [
+        {
+          "name": "工程蓄水炮",
+          "description": "可以使用一个持续20秒的蓄水炮，能攻击单个敌人并将其小力度地推开"
+        },
+        {
+          "name": "蓄水炮强化",
+          "description": "蓄水炮普通攻击和技能的推力增加一级，且在温蒂周围4格内时令其每3秒获得1点技力"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人\n可以放置于远程位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+8",
+    "生命上限+140",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "炮管敲击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击会把目标往攻击方向中等力度地推开，造成相当于攻击力135%的物理伤害并令其晕眩0.9秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击会把目标往攻击方向中等力度地推开，造成相当于攻击力140%的物理伤害并令其晕眩1秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击会把目标往攻击方向中等力度地推开，造成相当于攻击力145%的物理伤害并令其晕眩1.1秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击会把目标往攻击方向较大力地推开，造成相当于攻击力150%的物理伤害并令其晕眩1.2秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "水炮模式",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+170%，攻击距离+1格且切换为远程群体攻击，且会把击中目标小力地推开\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+180%，攻击距离+1格且切换为远程群体攻击，且会把击中目标小力地推开\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 76,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+190%，攻击距离+2格且切换为远程群体攻击，且会把击中目标小力地推开\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+200%，攻击距离+2格且切换为远程群体攻击，且会把击中目标中等力度地推开\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "液氮大炮",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即发射一个压缩液氮炮，造成相当于攻击力320%的群体法术伤害并将敌人较大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 16,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即发射一个压缩液氮炮，造成相当于攻击力330%的群体法术伤害并将敌人较大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 17,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即发射一个压缩液氮炮，造成相当于攻击力340%的群体法术伤害并将敌人较大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 18,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即发射一个压缩液氮炮，造成相当于攻击力350%的群体法术伤害并将敌人大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 20,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "工程蓄水炮",
+      "stats": {
+        "maxHp": 100,
+        "atk": 585,
+        "def": 100,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 2.4,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "液氮大炮",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "立即发射一个压缩液氮炮，造成相当于攻击力320%的群体法术伤害并将敌人较大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "立即发射一个压缩液氮炮，造成相当于攻击力330%的群体法术伤害并将敌人较大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "立即发射一个压缩液氮炮，造成相当于攻击力340%的群体法术伤害并将敌人较大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "立即发射一个压缩液氮炮，造成相当于攻击力350%的群体法术伤害并将敌人大力地推开，令其-1秒内移动时受到正比于距离的真实伤害；如果蓄水炮在周围4格内的话也会同样进行发射",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

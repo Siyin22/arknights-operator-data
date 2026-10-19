@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_fartth",
+  "name": "支持者来信",
+  "type": "DEA-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近5秒内未受伤害时，攻击力+15%，攻击速度+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近5秒内未受伤害时，攻击力+15%，攻击速度+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近5秒内未受伤害时，攻击力+15%，攻击速度+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近5秒内未受伤害时，攻击力+15%，攻击速度+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近5秒内未受伤害时，攻击力+18%（+3%），攻击速度+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近5秒内未受伤害时，攻击力+18%（+3%），攻击速度+4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 120.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近3秒内未受伤害时，攻击力+15%，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近3秒内未受伤害时，攻击力+15%，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近3秒内未受伤害时，攻击力+15%，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近3秒内未受伤害时，攻击力+15%，攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近3秒内未受伤害时，攻击力+18%（+3%），攻击速度+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击的敌人未被击倒时自身额外获得1点技力",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近3秒内未受伤害时，攻击力+18%（+3%），攻击速度+7",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_430_fartth",
+  "operator_name": "远牙",
+  "profession": "狙击",
+  "branch": "神射手"
+}

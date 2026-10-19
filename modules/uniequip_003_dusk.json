@@ -1,0 +1,310 @@
+{
+  "id": "uniequip_003_dusk",
+  "name": "“终夜无寐”",
+  "type": "SPC-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 51.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“小自在”",
+          "bonuses": [
+            {
+              "key": "maxHp",
+              "label": "生命上限",
+              "value": 250.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 15.0
+            },
+            {
+              "key": "def",
+              "label": "防御",
+              "value": 15.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每2.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每2.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每2.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每2.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每2.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每2.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 82.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "“小自在”",
+          "bonuses": [
+            {
+              "key": "maxHp",
+              "label": "生命上限",
+              "value": 400.0
+            },
+            {
+              "key": "atk",
+              "label": "攻击",
+              "value": 25.0
+            },
+            {
+              "key": "def",
+              "label": "防御",
+              "value": 25.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每1.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每1.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每1.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每1.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每1.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "点睛",
+            "description": "部署后首次攻击敌人时，在目标位置和周围4格（可部署地面）召唤2个“小自在”（持续25秒）；所有小自在属性更强且每1.5秒为夕回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2015_dusk",
+  "operator_name": "夕",
+  "profession": "术师",
+  "branch": "扩散术师"
+}

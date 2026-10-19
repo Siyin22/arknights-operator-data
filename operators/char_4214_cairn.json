@@ -1,0 +1,239 @@
+{
+  "id": "char_4214_cairn",
+  "name": "响石",
+  "english": "Cairn",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "本源铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "元素",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3633,
+        "atk": 606,
+        "def": 560,
+        "magicResistance": 10.0,
+        "cost": 25,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "过饱和讲解",
+          "description": "对自身阻挡的敌人每秒造成相当于攻击力9%的神经损伤"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3633,
+        "atk": 606,
+        "def": 560,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "过饱和讲解",
+          "description": "对自身阻挡的敌人每秒造成相当于攻击力9%的神经损伤"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3633,
+        "atk": 606,
+        "def": 560,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "过饱和讲解",
+          "description": "对自身阻挡的敌人每秒造成相当于攻击力9%的神经损伤"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3633,
+        "atk": 631.0,
+        "def": 560,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "过饱和讲解",
+          "description": "对自身阻挡的敌人每秒造成相当于攻击力9%的神经损伤"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3633,
+        "atk": 631.0,
+        "def": 560,
+        "magicResistance": 10.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "过饱和讲解",
+          "description": "对自身阻挡的敌人每秒造成相当于攻击力10%（+1%）的神经损伤"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    },
+    {
+      "stats": {
+        "maxHp": 3633,
+        "atk": 631.0,
+        "def": 560,
+        "magicResistance": 10.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "过饱和讲解",
+          "description": "对自身阻挡的敌人每秒造成相当于攻击力10%（+1%）的神经损伤"
+        }
+      ],
+      "trait": "能够阻挡三个敌人，可以造成元素损伤"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "覆盖式休整",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "生命上限+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 16,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "生命上限+110%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 17,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "生命上限+120%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 18,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "生命上限+130%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "震撼型指路",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得90%最大生命值的屏障（屏障持续10秒，最多不超过生命上限90%），并使自身周围地面敌人10秒内每秒受到相当于攻击力60%的法术伤害和攻击力10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 10,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得90%最大生命值的屏障（屏障持续10秒，最多不超过生命上限90%），并使自身周围地面敌人10秒内每秒受到相当于攻击力60%的法术伤害和攻击力10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 12,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得90%最大生命值的屏障（屏障持续10秒，最多不超过生命上限90%），并使自身周围地面敌人10秒内每秒受到相当于攻击力70%的法术伤害和攻击力10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 13,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得90%最大生命值的屏障（屏障持续10秒，最多不超过生命上限90%），并使自身周围地面敌人10秒内每秒受到相当于攻击力80%的法术伤害和攻击力10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 14,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

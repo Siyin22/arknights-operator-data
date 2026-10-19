@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_pallas",
+  "name": "“故乡的山岩”",
+  "type": "INS-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 73.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+27%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+27%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+27%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+27%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+27%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+27%攻击力的精力充沛",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 210.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 83.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+30%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+30%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+30%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+30%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+30%攻击力的精力充沛",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "英雄的诞生",
+            "description": "在场时，所有【米诺斯】干员生命值高于50%时获得+30%攻击力的精力充沛",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_485_pallas",
+  "operator_name": "帕拉斯",
+  "profession": "近卫",
+  "branch": "教官"
+}

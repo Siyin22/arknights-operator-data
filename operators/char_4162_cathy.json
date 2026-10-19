@@ -1,0 +1,289 @@
+{
+  "id": "char_4162_cathy",
+  "name": "凯瑟琳",
+  "english": "Catherine",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "工匠",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2680,
+        "atk": 590,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定向支援信号",
+          "description": "携带3个支援装置（最多部署2个），使一名干员获得相当于凯瑟琳生命上限20%的屏障（若目标最近5秒内未受攻击，则每秒补充相当于凯瑟琳生命上限6%的屏障，不超过初始上限），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2680,
+        "atk": 590,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定向支援信号",
+          "description": "携带3个支援装置（最多部署2个），使一名干员获得相当于凯瑟琳生命上限20%的屏障（若目标最近5秒内未受攻击，则每秒补充相当于凯瑟琳生命上限6%的屏障，不超过初始上限），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2680,
+        "atk": 590,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定向支援信号",
+          "description": "携带3个支援装置（最多部署2个），使一名干员获得相当于凯瑟琳生命上限20%的屏障（若目标最近5秒内未受攻击，则每秒补充相当于凯瑟琳生命上限6%的屏障，不超过初始上限），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2680,
+        "atk": 590,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定向支援信号",
+          "description": "携带3个支援装置（最多部署2个），使一名干员获得相当于凯瑟琳生命上限20%的屏障（若目标最近5秒内未受攻击，则每秒补充相当于凯瑟琳生命上限6%的屏障，不超过初始上限），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2680,
+        "atk": 590,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定向支援信号",
+          "description": "携带3个支援装置（最多部署2个），使一名干员获得相当于凯瑟琳生命上限22%（+2%）的屏障（若目标最近5秒内未受攻击，则每秒补充相当于凯瑟琳生命上限6%的屏障，不超过初始上限），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2680,
+        "atk": 590,
+        "def": 460,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "定向支援信号",
+          "description": "携带3个支援装置（最多部署2个），使一名干员获得相当于凯瑟琳生命上限22%（+2%）的屏障（若目标最近5秒内未受攻击，则每秒补充相当于凯瑟琳生命上限6%的屏障，不超过初始上限），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "岁月锻打",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "自身和拥有装置屏障的其他干员攻击力+11%，防御力+11%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "自身和拥有装置屏障的其他干员攻击力+12%，防御力+12%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "自身和拥有装置屏障的其他干员攻击力+13%，防御力+13%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "自身和拥有装置屏障的其他干员攻击力+15%，防御力+15%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "战火淬炼",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，生命上限+55%，防御力+15%，装置效果改为使目标干员每秒获得相当于凯瑟琳生命上限6%的屏障（不会超过天赋上限）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，生命上限+60%，防御力+20%，装置效果改为使目标干员每秒获得相当于凯瑟琳生命上限6%的屏障（不会超过天赋上限）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，生命上限+65%，防御力+25%，装置效果改为使目标干员每秒获得相当于凯瑟琳生命上限6%的屏障（不会超过天赋上限）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，生命上限+70%，防御力+30%，装置效果改为使目标干员每秒获得相当于凯瑟琳生命上限6%的屏障（不会超过天赋上限）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "爬行号·防护单元",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 15,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "岁月锻打",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "被动"
+            }
+          ]
+        },
+        {
+          "name": "战火淬炼",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

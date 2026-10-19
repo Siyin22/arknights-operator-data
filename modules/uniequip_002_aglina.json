@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_aglina",
+  "name": "重力校准模块",
+  "type": "DEC-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复30点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复30点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复35（+5）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复35（+5）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复35（+5）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复35（+5）点生命",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复35点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复35点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复40（+5）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复40（+5）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复40（+5）点生命",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "兼职工作",
+            "description": "技能未开启时，全场友方单位每秒回复40（+5）点生命",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_291_aglina",
+  "operator_name": "安洁莉娜",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

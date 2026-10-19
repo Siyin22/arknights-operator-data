@@ -1,0 +1,309 @@
+{
+  "id": "char_1029_yato2",
+  "name": "麒麟R夜刀",
+  "english": "Kirin R Yato",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "处决者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "快速复活",
+    "爆发"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1629,
+        "atk": 655,
+        "def": 318,
+        "magicResistance": 0,
+        "cost": 10,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "双雷剑麒麟",
+          "description": "攻击额外造成攻击力20%的法术伤害"
+        },
+        {
+          "name": "鬼人强化状态",
+          "description": "技能期间及技能结束后的10秒内攻击力+13%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1629,
+        "atk": 655,
+        "def": 318,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "双雷剑麒麟",
+          "description": "攻击额外造成攻击力20%的法术伤害"
+        },
+        {
+          "name": "鬼人强化状态",
+          "description": "技能期间及技能结束后的10秒内攻击力+13%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1629,
+        "atk": 677.0,
+        "def": 318,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "双雷剑麒麟",
+          "description": "攻击额外造成攻击力20%的法术伤害"
+        },
+        {
+          "name": "鬼人强化状态",
+          "description": "技能期间及技能结束后的10秒内攻击力+13%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1629,
+        "atk": 677.0,
+        "def": 318,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "双雷剑麒麟",
+          "description": "攻击额外造成攻击力20%的法术伤害"
+        },
+        {
+          "name": "鬼人强化状态",
+          "description": "技能期间及技能结束后的10秒内攻击力+13%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1629,
+        "atk": 677.0,
+        "def": 318,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "双雷剑麒麟",
+          "description": "攻击额外造成攻击力20%的法术伤害"
+        },
+        {
+          "name": "鬼人强化状态",
+          "description": "技能期间及技能结束后的10秒内攻击力+16%（+3%）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1629,
+        "atk": 677.0,
+        "def": 318,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 16.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "双雷剑麒麟",
+          "description": "攻击额外造成攻击力20%的法术伤害"
+        },
+        {
+          "name": "鬼人强化状态",
+          "description": "技能期间及技能结束后的10秒内攻击力+16%（+3%）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "攻击力+22",
+    "再部署时间-2秒",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "鬼人化",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+70，攻击变为二连击，且技能期间对同一目标的第三次攻击变为六连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+80，攻击变为二连击，且技能期间对同一目标的第三次攻击变为六连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+90，攻击变为二连击，且技能期间对同一目标的第三次攻击变为六连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+100，攻击变为二连击，且技能期间对同一目标的第三次攻击变为六连击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "乱舞",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "第一天赋效果提升至2.1倍，攻击力提升至130%并对前方一格的所有敌人发动16次斩击，期间更容易受到敌人的攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "第一天赋效果提升至2.2倍，攻击力提升至135%并对前方一格的所有敌人发动16次斩击，期间更容易受到敌人的攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "第一天赋效果提升至2.3倍，攻击力提升至140%并对前方一格的所有敌人发动16次斩击，期间更容易受到敌人的攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "第一天赋效果提升至2.5倍，攻击力提升至150%并对前方一格的所有敌人发动16次斩击，期间更容易受到敌人的攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "空中回旋乱舞",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向前突进2格，每突进一段距离都会对周围所有敌人发动攻击力260%的斩击；期间每攻击到一个敌人都会使突进距离延长（最多延长至5格，可以攻击空中单位）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "向前突进2格，每突进一段距离都会对周围所有敌人发动攻击力270%的斩击；期间每攻击到一个敌人都会使突进距离延长（最多延长至5格，可以攻击空中单位）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "向前突进2格，每突进一段距离都会对周围所有敌人发动攻击力280%的斩击；期间每攻击到一个敌人都会使突进距离延长（最多延长至5格，可以攻击空中单位）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "向前突进2格，每突进一段距离都会对周围所有敌人发动攻击力300%的斩击；期间每攻击到一个敌人都会使突进距离延长（最多延长至5格，可以攻击空中单位）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

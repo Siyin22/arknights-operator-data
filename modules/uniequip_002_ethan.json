@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ethan",
+  "name": "超级喷漆套装",
+  "type": "AMB-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有25%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有25%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有25%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有25%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有25%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有25%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有28%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有28%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有28%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有28%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有28%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "缠绕",
+            "description": "攻击时有28%的几率使目标束缚3.5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_355_ethan",
+  "operator_name": "伊桑",
+  "profession": "特种",
+  "branch": "伏击客"
+}

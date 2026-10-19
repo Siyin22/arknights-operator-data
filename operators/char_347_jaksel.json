@@ -1,0 +1,238 @@
+{
+  "id": "char_347_jaksel",
+  "name": "杰克",
+  "english": "Jackie",
+  "rarity": 4,
+  "profession": "近卫",
+  "branch": "斗士",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2378,
+        "atk": 589,
+        "def": 308,
+        "magicResistance": 0,
+        "cost": 9,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "极速闪避",
+          "description": "获得30%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2378,
+        "atk": 589,
+        "def": 308,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "极速闪避",
+          "description": "获得30%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2378,
+        "atk": 589,
+        "def": 308,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "极速闪避",
+          "description": "获得30%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2378,
+        "atk": 610.0,
+        "def": 308,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "极速闪避",
+          "description": "获得30%的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2378,
+        "atk": 610.0,
+        "def": 308,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "极速闪避",
+          "description": "获得33%（+3%）的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2378,
+        "atk": 610.0,
+        "def": 308,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "极速闪避",
+          "description": "获得33%（+3%）的物理闪避，闪避成功后攻击速度+12（持续5秒，不可叠加）"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+21",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "给你一拳！",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至210%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至220%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至230%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至250%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "全神贯注！",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击敌人。额外获得物理闪避60%。闪避成功后立即对一名敌人进行反击，造成相当于攻击力150%的物理伤害。(反击频率不小于60%的攻击间隔)",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击敌人。额外获得物理闪避60%。闪避成功后立即对一名敌人进行反击，造成相当于攻击力155%的物理伤害。(反击频率不小于60%的攻击间隔)",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击敌人。额外获得物理闪避60%。闪避成功后立即对一名敌人进行反击，造成相当于攻击力160%的物理伤害。(反击频率不小于60%的攻击间隔)",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击敌人。额外获得物理闪避70%。闪避成功后立即对一名敌人进行反击，造成相当于攻击力160%的物理伤害。(反击频率不小于50%的攻击间隔)",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "18 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_sntlla",
+  "name": "“冰焰”",
+  "type": "SPC-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+18%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+18%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+18%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+18%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+21%（+3%）且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+21%（+3%）且获得抵抗",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "cost",
+          "label": "部署费用",
+          "value": -8.0
+        },
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 155.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+20%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+20%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+20%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+20%且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+23%（+3%）且获得抵抗",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "生于冰寒",
+            "description": "在战场停留15秒后，攻击力+23%（+3%）且获得抵抗",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_341_sntlla",
+  "operator_name": "寒檀",
+  "profession": "术师",
+  "branch": "扩散术师"
+}

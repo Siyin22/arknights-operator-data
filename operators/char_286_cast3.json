@@ -1,0 +1,146 @@
+{
+  "id": "char_286_cast3",
+  "name": "Castle-3",
+  "english": "Castle-3",
+  "rarity": 1,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 0,
+  "level": 30,
+  "tags": [
+    "支援机械",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1391,
+        "atk": 413,
+        "def": 90,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术整理·I",
+          "description": "部署后10秒内所有友方【近战位】单位的攻击力和防御力+10%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1391,
+        "atk": 413,
+        "def": 90,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术整理·II",
+          "description": "部署后12秒内所有友方【近战位】单位的攻击力和防御力+12%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1391,
+        "atk": 413,
+        "def": 90,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术整理·III",
+          "description": "部署后14秒内所有友方【近战位】单位的攻击力和防御力+14%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1391,
+        "atk": 413,
+        "def": 90,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术整理·IV",
+          "description": "部署后16秒内所有友方【近战位】单位的攻击力和防御力+16%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1391,
+        "atk": 413,
+        "def": 90,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术整理·V",
+          "description": "部署后18秒内所有友方【近战位】单位的攻击力和防御力+18%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长"
+    },
+    {
+      "stats": {
+        "maxHp": 1391,
+        "atk": 413,
+        "def": 90,
+        "magicResistance": 0,
+        "cost": 3,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 200,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "战术整理·VI",
+          "description": "部署后20秒内所有友方【近战位】单位的攻击力和防御力+20%"
+        }
+      ],
+      "trait": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长"
+    }
+  ],
+  "potential": [
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强",
+    "天赋效果加强"
+  ],
+  "skills": [],
+  "tokens": []
+}

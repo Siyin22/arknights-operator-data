@@ -1,0 +1,239 @@
+{
+  "id": "char_4047_pianst",
+  "name": "车尔尼",
+  "english": "Czerny",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "驭法铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3322,
+        "atk": 665,
+        "def": 577,
+        "magicResistance": 15.0,
+        "cost": 27,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回声",
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力80%的法术伤害"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3322,
+        "atk": 665,
+        "def": 577,
+        "magicResistance": 15.0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回声",
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力80%的法术伤害"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3322,
+        "atk": 665,
+        "def": 577,
+        "magicResistance": 15.0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回声",
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力80%的法术伤害"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3322,
+        "atk": 665,
+        "def": 577,
+        "magicResistance": 15.0,
+        "cost": 25.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回声",
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力80%的法术伤害"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3322,
+        "atk": 665,
+        "def": 577,
+        "magicResistance": 15.0,
+        "cost": 25.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回声",
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力85%（+5%）的法术伤害"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3322,
+        "atk": 665,
+        "def": 577,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "回声",
+          "description": "法术抗性+10，每次受到法术攻击时对目标造成相当于车尔尼攻击力85%（+5%）的法术伤害"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "纷飞十指",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，法术抗性+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 12,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%，法术抗性+85%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 16,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，法术抗性+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 18,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，法术抗性+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "曲惊四座",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "生命上限+70%，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升+24%（最多10层），技能结束时对周围所有敌人造成相当于攻击力190%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 6,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "生命上限+80%，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升+26%（最多10层），技能结束时对周围所有敌人造成相当于攻击力210%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 8,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "生命上限+90%，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升+28%（最多10层），技能结束时对周围所有敌人造成相当于攻击力230%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 9,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "生命上限+100%，自身更容易受到敌人攻击，每次受到攻击使自身攻击力提升+30%（最多10层），技能结束时对周围所有敌人造成相当于攻击力250%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_cairn",
+  "name": "“降落伞”",
+  "type": "PRP-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力10%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力10%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力10%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力10%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力11%（+1%）的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力11%（+1%）的神经损伤",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 350.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力11%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力11%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力11%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力11%的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力12%（+1%）的神经损伤",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "过饱和讲解",
+            "description": "对自身阻挡的敌人每秒造成相当于攻击力12%（+1%）的神经损伤",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4214_cairn",
+  "operator_name": "响石",
+  "profession": "重装",
+  "branch": "本源铁卫"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "char_145_prove",
+  "name": "普罗旺斯",
+  "english": "Provence",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "重射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1680,
+        "atk": 871,
+        "def": 215,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狩猎箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至180%。当敌人在正前方一格时，该几率提升到50%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1680,
+        "atk": 871,
+        "def": 215,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狩猎箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至180%。当敌人在正前方一格时，该几率提升到50%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1680,
+        "atk": 871,
+        "def": 215,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狩猎箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至180%。当敌人在正前方一格时，该几率提升到50%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1680,
+        "atk": 901.0,
+        "def": 215,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狩猎箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至180%。当敌人在正前方一格时，该几率提升到50%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1680,
+        "atk": 901.0,
+        "def": 215,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狩猎箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至190%（+10%）。当敌人在正前方一格时，该几率提升到50%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    },
+    {
+      "stats": {
+        "maxHp": 1680,
+        "atk": 901.0,
+        "def": 215,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "狩猎箭头",
+          "description": "攻击时，20%几率当次攻击的攻击力提升至190%（+10%）。当敌人在正前方一格时，该几率提升到50%"
+        }
+      ],
+      "trait": "高精度的近距离射击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "狼眼",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "目标敌人的生命每降低20%，对其造成伤害时的攻击力+16%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "目标敌人的生命每降低20%，对其造成伤害时的攻击力+19%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "目标敌人的生命每降低20%，对其造成伤害时的攻击力+22%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "目标敌人的生命每降低20%，对其造成伤害时的攻击力+25%",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "杀戮嗅觉",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+160%，但普通攻击不再以生命值高于80%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+180%，但普通攻击不再以生命值高于80%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+200%，但普通攻击不再以生命值高于80%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+220%，但普通攻击不再以生命值高于80%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 0,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_papyrs",
+  "name": "小小的种子",
+  "type": "XAH-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 38.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身23%攻击力的屏障，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身23%攻击力的屏障，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身23%攻击力的屏障，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身23%攻击力的屏障，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身25%（+2%）攻击力的屏障，持续8秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身25%（+2%）攻击力的屏障，持续8秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身27%攻击力的屏障，持续10秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身27%攻击力的屏障，持续10秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身27%攻击力的屏障，持续10秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身27%攻击力的屏障，持续10秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身29%（+2%）攻击力的屏障，持续10秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低15%",
+            "condition": ""
+          },
+          {
+            "name": "博览古卷",
+            "description": "治疗会为目标干员附加相当于自身29%（+2%）攻击力的屏障，持续10秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4139_papyrs",
+  "operator_name": "莎草",
+  "profession": "医疗",
+  "branch": "链愈师"
+}

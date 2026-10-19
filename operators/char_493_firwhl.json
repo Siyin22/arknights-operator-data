@@ -1,0 +1,239 @@
+{
+  "id": "char_493_firwhl",
+  "name": "火哨",
+  "english": "Firewhistle",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "要塞",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2983,
+        "atk": 932,
+        "def": 618,
+        "magicResistance": 0,
+        "cost": 27,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "进退自如",
+          "description": "未阻挡敌人时攻击力+12%，阻挡敌人时防御力+12%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 2983,
+        "atk": 932,
+        "def": 618,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "进退自如",
+          "description": "未阻挡敌人时攻击力+12%，阻挡敌人时防御力+12%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 2983,
+        "atk": 932,
+        "def": 618,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "进退自如",
+          "description": "未阻挡敌人时攻击力+12%，阻挡敌人时防御力+12%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 2983,
+        "atk": 964.0,
+        "def": 618,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "进退自如",
+          "description": "未阻挡敌人时攻击力+12%，阻挡敌人时防御力+12%"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 2983,
+        "atk": 964.0,
+        "def": 618,
+        "magicResistance": 0,
+        "cost": 26.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "进退自如",
+          "description": "未阻挡敌人时攻击力+14%（+2%），阻挡敌人时防御力+14%（+2%）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 2983,
+        "atk": 964.0,
+        "def": 618,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 3,
+        "baseAttackTime": 2.8,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "进退自如",
+          "description": "未阻挡敌人时攻击力+14%（+2%），阻挡敌人时防御力+14%（+2%）"
+        }
+      ],
+      "trait": "不阻挡敌人时优先远程群体物理攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+32",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "野火",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击时造成150%攻击力的物理伤害，并引燃受到伤害的敌人；被引燃的敌人每秒受到一次相当于火哨40%攻击力的法术伤害，持续4秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击时造成160%攻击力的物理伤害，并引燃受到伤害的敌人；被引燃的敌人每秒受到一次相当于火哨40%攻击力的法术伤害，持续4秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击时造成175%攻击力的物理伤害，并引燃受到伤害的敌人；被引燃的敌人每秒受到一次相当于火哨40%攻击力的法术伤害，持续4秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击时造成185%攻击力的物理伤害，并引燃受到伤害的敌人；被引燃的敌人每秒受到一次相当于火哨50%攻击力的法术伤害，持续4秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "焦土",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击会在目标周围四格地面产生一个持续5秒的燃烧区域；燃烧区域中的地面敌人每秒受到一次相当于火哨65%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 19,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击会在目标周围四格地面产生一个持续5秒的燃烧区域；燃烧区域中的地面敌人每秒受到一次相当于火哨75%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 20,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击会在目标周围四格地面产生一个持续5秒的燃烧区域；燃烧区域中的地面敌人每秒受到一次相当于火哨80%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 21,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击会在目标周围四格地面产生一个持续6秒的燃烧区域；燃烧区域中的地面敌人每秒受到一次相当于火哨85%攻击力的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 23,
+          "charges": 1,
+          "duration": "17 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

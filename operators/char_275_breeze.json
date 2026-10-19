@@ -1,0 +1,239 @@
+{
+  "id": "char_275_breeze",
+  "name": "微风",
+  "english": "Breeze",
+  "rarity": 5,
+  "profession": "医疗",
+  "branch": "群愈师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1795,
+        "atk": 373,
+        "def": 153,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "医疗班保护",
+          "description": "技能开启时，所有【医疗】和【辅助】干员获得抵抗"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1795,
+        "atk": 373,
+        "def": 153,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "医疗班保护",
+          "description": "技能开启时，所有【医疗】和【辅助】干员获得抵抗"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1795,
+        "atk": 373,
+        "def": 153,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "医疗班保护",
+          "description": "技能开启时，所有【医疗】和【辅助】干员获得抵抗"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1795,
+        "atk": 393.0,
+        "def": 153,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "医疗班保护",
+          "description": "技能开启时，所有【医疗】和【辅助】干员获得抵抗"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1795,
+        "atk": 393.0,
+        "def": 153,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "医疗班保护",
+          "description": "技能开启时，所有【医疗】和【辅助】干员获得抵抗"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1795,
+        "atk": 393.0,
+        "def": 153,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "医疗班保护",
+          "description": "技能开启时，所有【医疗】和【辅助】干员获得抵抗"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+20",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "集束疗法",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+100%，治疗目标数-1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 20,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+110%，治疗目标数-1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 20,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+120%，治疗目标数-1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+140%，治疗目标数-1",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "扩散疗法",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+190%，攻击变为对攻击范围内一名友方单位发射医疗弹，对目标和其周围8格内的友方单位进行治疗（对周围单位的治疗量减半）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 48,
+          "charges": 1,
+          "duration": "41 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+210%，攻击变为对攻击范围内一名友方单位发射医疗弹，对目标和其周围8格内的友方单位进行治疗（对周围单位的治疗量减半）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 52,
+          "charges": 1,
+          "duration": "42 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+230%，攻击变为对攻击范围内一名友方单位发射医疗弹，对目标和其周围8格内的友方单位进行治疗（对周围单位的治疗量减半）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 56,
+          "charges": 1,
+          "duration": "43 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+250%，攻击变为对攻击范围内一名友方单位发射医疗弹，对目标和其周围8格内的友方单位进行治疗（对周围单位的治疗量减半）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 60,
+          "charges": 1,
+          "duration": "45 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

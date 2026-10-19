@@ -1,0 +1,263 @@
+{
+  "id": "char_4045_heidi",
+  "name": "海蒂",
+  "english": "Heidi",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "吟游者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1510,
+        "atk": 360,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 9,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机敏的反抗者",
+          "description": "装备技能1时，攻击范围内友方单位攻击力+5%；装备技能2时，攻击范围内友方单位防御力+5%"
+        },
+        {
+          "name": "私人信使",
+          "description": "在【破碎日冕】中，攻击范围内所有友方干员技力自然回复速度+0.5/秒"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1510,
+        "atk": 360,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机敏的反抗者",
+          "description": "装备技能1时，攻击范围内友方单位攻击力+5%；装备技能2时，攻击范围内友方单位防御力+5%"
+        },
+        {
+          "name": "私人信使",
+          "description": "在【破碎日冕】中，攻击范围内所有友方干员技力自然回复速度+0.5/秒"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1510,
+        "atk": 360,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机敏的反抗者",
+          "description": "装备技能1时，攻击范围内友方单位攻击力+5%；装备技能2时，攻击范围内友方单位防御力+5%"
+        },
+        {
+          "name": "私人信使",
+          "description": "在【破碎日冕】中，攻击范围内所有友方干员技力自然回复速度+0.5/秒"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1510,
+        "atk": 360,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机敏的反抗者",
+          "description": "装备技能1时，攻击范围内友方单位攻击力+5%；装备技能2时，攻击范围内友方单位防御力+5%"
+        },
+        {
+          "name": "私人信使",
+          "description": "在【破碎日冕】中，攻击范围内所有友方干员技力自然回复速度+0.5/秒"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1510,
+        "atk": 360,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机敏的反抗者",
+          "description": "装备技能1时，攻击范围内友方单位攻击力+6%(+1%)；装备技能2时，攻击范围内友方单位防御力+6%(+1%)"
+        },
+        {
+          "name": "私人信使",
+          "description": "在【破碎日冕】中，攻击范围内所有友方干员技力自然回复速度+0.5/秒"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    },
+    {
+      "stats": {
+        "maxHp": 1510,
+        "atk": 360,
+        "def": 268,
+        "magicResistance": 0,
+        "cost": 6.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "机敏的反抗者",
+          "description": "装备技能1时，攻击范围内友方单位攻击力+6%(+1%)；装备技能2时，攻击范围内友方单位防御力+6%(+1%)"
+        },
+        {
+          "name": "私人信使",
+          "description": "在【破碎日冕】中，攻击范围内所有友方干员技力自然回复速度+0.5/秒"
+        }
+      ],
+      "trait": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞影响"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "虚构故事·怒士",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内所有友方单位阻挡数-3，获得相当于海蒂90%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内所有友方单位阻挡数-3，获得相当于海蒂100%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 11,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内所有友方单位阻挡数-3，获得相当于海蒂105%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 11,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内所有友方单位阻挡数-3，获得相当于海蒂110%攻击力的鼓舞效果",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 12,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    },
+    {
+      "name": "虚构故事·锈城",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内所有友方单位阻挡数+1，并获得相当于海蒂50%防御力和20%生命值上限的鼓舞效果，自身特性效果提高至23%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内所有友方单位阻挡数+1，并获得相当于海蒂55%防御力和23%生命值上限的鼓舞效果，自身特性效果提高至25%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 17,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内所有友方单位阻挡数+1，并获得相当于海蒂60%防御力和26%生命值上限的鼓舞效果，自身特性效果提高至28%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内所有友方单位阻挡数+1，并获得相当于海蒂70%防御力和30%生命值上限的鼓舞效果，自身特性效果提高至30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

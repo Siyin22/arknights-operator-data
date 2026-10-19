@@ -1,0 +1,372 @@
+{
+  "id": "char_4046_ebnhlz",
+  "name": "黑键",
+  "english": "Ebenholz",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "秘术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1678,
+        "atk": 1550,
+        "def": 135,
+        "magicResistance": 20.0,
+        "cost": 25,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强弱法",
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+        },
+        {
+          "name": "倚音",
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力15%的法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1678,
+        "atk": 1550,
+        "def": 135,
+        "magicResistance": 20.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强弱法",
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+        },
+        {
+          "name": "倚音",
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力15%的法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1678,
+        "atk": 1550,
+        "def": 135,
+        "magicResistance": 20.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强弱法",
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+        },
+        {
+          "name": "倚音",
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力15%的法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1678,
+        "atk": 1602.0,
+        "def": 135,
+        "magicResistance": 20.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强弱法",
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+        },
+        {
+          "name": "倚音",
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力15%的法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1678,
+        "atk": 1602.0,
+        "def": 135,
+        "magicResistance": 20.0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强弱法",
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+        },
+        {
+          "name": "倚音",
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力17%（+2%）的法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    },
+    {
+      "stats": {
+        "maxHp": 1678,
+        "atk": 1602.0,
+        "def": 135,
+        "magicResistance": 20.0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 3.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "强弱法",
+          "description": "储存的攻击能量造成的伤害提升至135%，可额外储存1份只用于攻击精英或领袖敌人的攻击能量"
+        },
+        {
+          "name": "倚音",
+          "description": "若攻击目标周围没有其他敌人，攻击对其额外造成相当于攻击力17%（+2%）的法术伤害"
+        }
+      ],
+      "trait": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+52",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "渐快急板",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围改变，攻击间隔大幅度缩短，每次攻击造成相当于攻击力40%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围改变，攻击间隔超大幅度缩短，每次攻击造成相当于攻击力43%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围改变，攻击间隔超大幅度缩短，每次攻击造成相当于攻击力46%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围改变，攻击间隔超大幅度缩短，每次攻击造成相当于攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 1,
+          "duration": "5 秒"
+        }
+      ]
+    },
+    {
+      "name": "荒芜回响",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤消耗能量数+1个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力200%的法术伤害并以中等力度拖拽敌人至自身中心",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤消耗能量数+1个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力215%的法术伤害并以中等力度拖拽敌人至自身中心",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤消耗能量数+1个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力230%的法术伤害并以中等力度拖拽敌人至自身中心",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "消耗所有攻击能量，在攻击范围内的可放置地块召唤消耗能量数+1个旧日残影（持续30秒），残影在敌人接近时激活，对周围的敌人造成攻击力245%的法术伤害并以中等力度拖拽敌人至自身中心",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "寂静之声",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+60，攻击力+50%，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的130%\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+70，攻击力+55%，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的133%\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 9,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+70，攻击力+60%，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的136%\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 9,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+80，攻击力+65%，只以精英或领袖敌人为攻击目标，第一天赋的伤害加成提升至原本的140%\n可主动关闭技能（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "旧日残影",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 0,
+        "attackSpeed": 100.0
+      },
+      "trait": "",
+      "skills": [
+        {
+          "name": "闪回",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "敌人接近时会激活，激活后对周围所有敌人造成法术伤害并令以中等力度拖拽敌人至自身中心",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精一",
+              "description": "敌人接近时会激活，激活后对周围所有敌人造成法术伤害并令以中等力度拖拽敌人至自身中心",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精二",
+              "description": "敌人接近时会激活，激活后对周围所有敌人造成法术伤害并令以中等力度拖拽敌人至自身中心",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            },
+            {
+              "label": "专精三",
+              "description": "敌人接近时会激活，激活后对周围所有敌人造成法术伤害并令以中等力度拖拽敌人至自身中心",
+              "trigger": "自动触发",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "即时 / 见描述"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

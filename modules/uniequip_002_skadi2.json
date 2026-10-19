@@ -1,0 +1,350 @@
+{
+  "id": "uniequip_002_skadi2",
+  "name": "蜕化的残迹",
+  "type": "BAR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 84.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 26.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 12.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "斯卡蒂的海嗣",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -3.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续28秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-3秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续28秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续28秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-3秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续28秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续28秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-3秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续28秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续28秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-3秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续28秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续28秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-3秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续28秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续28秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-3秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续28秒",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 17.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "斯卡蒂的海嗣",
+          "bonuses": [
+            {
+              "key": "respawnTime",
+              "label": "再部署时间",
+              "value": -5.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续30秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-5秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续30秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续30秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-5秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续30秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续30秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-5秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续30秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续30秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-5秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续30秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续30秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-5秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续30秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在2名及以上其他干员时，攻击力+8%（不受技能影响）",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "可以使用一个持续30秒的海嗣，海嗣的攻击范围视为自身攻击范围的延伸，海嗣的再部署时间-5秒",
+            "condition": ""
+          },
+          {
+            "name": "远古血亲",
+            "description": "部署后持续30秒",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1012_skadi2",
+  "operator_name": "浊心斯卡蒂",
+  "profession": "辅助",
+  "branch": "吟游者"
+}

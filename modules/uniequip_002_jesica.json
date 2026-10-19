@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_jesica",
+  "name": "杰西卡的订单",
+  "type": "MAR-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+14，攻击力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+14，攻击力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+14，攻击力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+14，攻击力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+14，攻击力+3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+14，攻击力+3%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+16，攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+16，攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+16，攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+16，攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+16，攻击力+6%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "快速弹匣",
+            "description": "攻击速度+16，攻击力+6%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_235_jesica",
+  "operator_name": "杰西卡",
+  "profession": "狙击",
+  "branch": "速射手"
+}

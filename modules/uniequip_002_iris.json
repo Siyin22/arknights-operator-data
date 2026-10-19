@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_iris",
+  "name": "梦之城堡立体书",
+  "type": "MSC-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至135%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至135%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至135%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至135%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至139%（+4%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至139%（+4%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 82.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至138%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至138%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至138%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至138%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至142%（+4%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多4个）",
+            "condition": ""
+          },
+          {
+            "name": "封印的宝盒",
+            "description": "储存的攻击能量造成的伤害提升至142%（+4%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_338_iris",
+  "operator_name": "爱丽丝",
+  "profession": "术师",
+  "branch": "秘术师"
+}

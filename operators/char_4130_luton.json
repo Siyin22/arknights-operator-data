@@ -1,0 +1,239 @@
+{
+  "id": "char_4130_luton",
+  "name": "露托",
+  "english": "Lutonada",
+  "rarity": 4,
+  "profession": "重装",
+  "branch": "不屈者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "生存",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3950,
+        "atk": 790,
+        "def": 545,
+        "magicResistance": 10.0,
+        "cost": 34,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "死里求生",
+          "description": "自身阻挡的敌方单位被击杀时，回复自身16%的生命"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 3950,
+        "atk": 790,
+        "def": 545,
+        "magicResistance": 10.0,
+        "cost": 33.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "死里求生",
+          "description": "自身阻挡的敌方单位被击杀时，回复自身16%的生命"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 3950,
+        "atk": 790,
+        "def": 545,
+        "magicResistance": 10.0,
+        "cost": 33.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "死里求生",
+          "description": "自身阻挡的敌方单位被击杀时，回复自身16%的生命"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 3950,
+        "atk": 790,
+        "def": 570.0,
+        "magicResistance": 10.0,
+        "cost": 33.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "死里求生",
+          "description": "自身阻挡的敌方单位被击杀时，回复自身16%的生命"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 3950,
+        "atk": 790,
+        "def": 570.0,
+        "magicResistance": 10.0,
+        "cost": 33.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "死里求生",
+          "description": "自身阻挡的敌方单位被击杀时，回复自身18%（+2%）的生命"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 3950,
+        "atk": 790,
+        "def": 570.0,
+        "magicResistance": 10.0,
+        "cost": 32.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "死里求生",
+          "description": "自身阻挡的敌方单位被击杀时，回复自身18%（+2%）的生命"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+25",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "强力击·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至200%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至210%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至220%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至230%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "强磁防卫",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，展开大盾并开启强磁场模式，防御力+95%，每2秒对周围所有地面敌人造成相当于攻击力70%的法术伤害，并将所有未被阻挡的敌人小力地拖拽至自身中心",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，展开大盾并开启强磁场模式，防御力+105%，每2秒对周围所有地面敌人造成相当于攻击力80%的法术伤害，并将所有未被阻挡的敌人小力地拖拽至自身中心",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，展开大盾并开启强磁场模式，防御力+115%，每2秒对周围所有地面敌人造成相当于攻击力90%的法术伤害，并将所有未被阻挡的敌人小力地拖拽至自身中心",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，展开大盾并开启强磁场模式，防御力+130%，每2秒对周围所有地面敌人造成相当于攻击力100%的法术伤害，并将所有未被阻挡的敌人小力地拖拽至自身中心",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

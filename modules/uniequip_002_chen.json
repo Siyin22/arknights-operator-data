@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_chen",
+  "name": "罗德岛制式剑",
+  "type": "SWO-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力，自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力，自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力，自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力，自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力，自身额外回复1点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能造成的伤害提升10%",
+            "condition": ""
+          },
+          {
+            "name": "呵斥",
+            "description": "在场时每3秒回复全场友方角色1点攻击/受击技力，自身额外回复1点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_010_chen",
+  "operator_name": "陈",
+  "profession": "近卫",
+  "branch": "剑豪"
+}

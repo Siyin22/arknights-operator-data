@@ -1,0 +1,239 @@
+{
+  "id": "char_4109_baslin",
+  "name": "深律",
+  "english": "Bassline",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "守护者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "治疗"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 523,
+        "def": 600,
+        "magicResistance": 10.0,
+        "cost": 21,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "威权教诲",
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 523,
+        "def": 600,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "威权教诲",
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 523,
+        "def": 600,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "威权教诲",
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2770,
+        "atk": 523,
+        "def": 625.0,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "威权教诲",
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2970.0,
+        "atk": 523,
+        "def": 625.0,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "威权教诲",
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    },
+    {
+      "stats": {
+        "maxHp": 2970.0,
+        "atk": 523,
+        "def": 625.0,
+        "magicResistance": 10.0,
+        "cost": 19.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "威权教诲",
+          "description": "法术抗性+12，周围8格有友方干员时，法术抗性额外+4"
+        }
+      ],
+      "trait": "技能可以治疗友方单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+25",
+    "生命上限+200",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "急救",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力150%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力160%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力170%的生命\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下一次攻击会为周围血量不足一半的一名友方单位恢复相当于攻击力180%的生命\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "沉音宁神",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个屏障，屏障能吸收相当于深律攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 50,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个屏障，屏障能吸收相当于深律攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 51,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个屏障，屏障能吸收相当于深律攻击力50%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 52,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，停止攻击并专心对周围友方角色进行治疗，每次治疗使目标获得一个屏障，屏障能吸收相当于深律攻击力60%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 53,
+          "charges": 1,
+          "duration": "60 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

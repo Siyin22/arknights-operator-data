@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_gnosis",
+  "name": "一号项目模型",
+  "type": "UMD-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内存在精英或领袖敌人时技力自然恢复速度+0.25/秒",
+            "condition": ""
+          },
+          {
+            "name": "殊途同归",
+            "description": "灵知在场且部署后经过10秒时，使所有【谢拉格】干员获得抵抗，且攻击力+15%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_206_gnosis",
+  "operator_name": "灵知",
+  "profession": "辅助",
+  "branch": "削弱者"
+}

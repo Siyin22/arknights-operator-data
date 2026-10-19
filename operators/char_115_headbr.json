@@ -1,0 +1,239 @@
+{
+  "id": "char_115_headbr",
+  "name": "凛冬",
+  "english": "Зима",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2150,
+        "atk": 470,
+        "def": 420,
+        "magicResistance": 0,
+        "cost": 13,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "冲锋领袖",
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2150,
+        "atk": 470,
+        "def": 420,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "冲锋领袖",
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2150,
+        "atk": 470,
+        "def": 420,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "冲锋领袖",
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2150,
+        "atk": 470,
+        "def": 444.0,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "冲锋领袖",
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2150,
+        "atk": 470,
+        "def": 444.0,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "冲锋领袖",
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2150,
+        "atk": 470,
+        "def": 444.0,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "冲锋领袖",
+          "description": "编入队伍时所有【先锋】职业干员的部署费用-1"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+24",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "冲锋号令·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 14,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 16,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 18,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得12点部署费用",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "乌萨斯战吼",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能持续时间内逐渐获得11点部署费用\n所有先锋干员攻击力和防御力+45%，并在击杀敌人时额外获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 14,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能持续时间内逐渐获得11点部署费用\n所有先锋干员攻击力和防御力+50%，并在击杀敌人时额外获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 16,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能持续时间内逐渐获得11点部署费用\n所有先锋干员攻击力和防御力+55%，并在击杀敌人时额外获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 18,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能持续时间内逐渐获得12点部署费用\n所有先锋干员攻击力和防御力+60%，并在击杀敌人时额外获得1点部署费用",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_typhon",
+  "name": "冰原的影子",
+  "type": "SIE-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 84.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至200%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至200%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至200%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至200%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至210%（+10%）并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至210%（+10%）并使目标停顿3秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 94.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至220%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至220%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至220%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至220%并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至230%（+10%）并使目标停顿3秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升12%）",
+            "condition": ""
+          },
+          {
+            "name": "重如沼泥",
+            "description": "技能期间对每个敌人前两次造成伤害时，攻击力提升至230%（+10%）并使目标停顿3秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2012_typhon",
+  "operator_name": "提丰",
+  "profession": "狙击",
+  "branch": "攻城手"
+}

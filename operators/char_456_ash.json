@@ -1,0 +1,308 @@
+{
+  "id": "char_456_ash",
+  "name": "灰烬",
+  "english": "Ash",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "速射手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1689,
+        "atk": 624,
+        "def": 169,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "辅助装备",
+          "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩4秒"
+        },
+        {
+          "name": "突击手",
+          "description": "首次部署时部署费用-3，部署后立即获得17技力"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1689,
+        "atk": 624,
+        "def": 169,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "辅助装备",
+          "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩4秒"
+        },
+        {
+          "name": "突击手",
+          "description": "首次部署时部署费用-3，部署后立即获得17技力"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1689,
+        "atk": 624,
+        "def": 169,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "辅助装备",
+          "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩4秒"
+        },
+        {
+          "name": "突击手",
+          "description": "首次部署时部署费用-3，部署后立即获得17技力"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1689,
+        "atk": 651.0,
+        "def": 169,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "辅助装备",
+          "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩4秒"
+        },
+        {
+          "name": "突击手",
+          "description": "首次部署时部署费用-3，部署后立即获得17技力"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1689,
+        "atk": 651.0,
+        "def": 169,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "辅助装备",
+          "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩4秒"
+        },
+        {
+          "name": "突击手",
+          "description": "首次部署时部署费用-3，部署后立即获得20（+3）技力"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1689,
+        "atk": 651.0,
+        "def": 169,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "辅助装备",
+          "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩4秒"
+        },
+        {
+          "name": "突击手",
+          "description": "首次部署时部署费用-3，部署后立即获得20（+3）技力"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "支援射击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+11%，攻击变为2连击\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+12%，攻击变为2连击\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 48,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+13%，攻击变为2连击\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+15%，攻击变为2连击\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "突击战术",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即触发第一天赋，攻击间隔大幅度缩短，且攻击被晕眩目标时攻击力提高至210%\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "立即触发第一天赋，攻击间隔大幅度缩短，且攻击被晕眩目标时攻击力提高至220%\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "立即触发第一天赋，攻击间隔大幅度缩短，且攻击被晕眩目标时攻击力提高至230%\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "立即触发第一天赋，攻击间隔大幅度缩短，且攻击被晕眩目标时攻击力提高至250%\n攻击装有31发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    },
+    {
+      "name": "攻坚榴弹",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向前发射破墙弹，对沿途敌人造成260%的物理伤害并向后较大力度推动；爆炸对周围造成360%的物理伤害（从低地撞到高台直接爆炸且造成720%的物理伤害）；每次部署只能释放2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "向前发射破墙弹，对沿途敌人造成270%的物理伤害并向后较大力度推动；爆炸对周围造成370%的物理伤害（从低地撞到高台直接爆炸且造成740%的物理伤害）；每次部署只能释放2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "向前发射破墙弹，对沿途敌人造成280%的物理伤害并向后较大力度推动；爆炸对周围造成380%的物理伤害（从低地撞到高台直接爆炸且造成760%的物理伤害）；每次部署只能释放2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "向前发射破墙弹，对沿途敌人造成300%的物理伤害并向后较大力度推动；爆炸对周围造成400%的物理伤害（从低地撞到高台直接爆炸且造成800%的物理伤害）；每次部署只能释放2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

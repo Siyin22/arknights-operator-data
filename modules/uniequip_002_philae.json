@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_philae",
+  "name": "被摩挲的日子",
+  "type": "PRP-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 230.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 57.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-16%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-16%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-16%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-16%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-18%（+2%），受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-18%（+2%），受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 300.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-20%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-20%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-20%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-20%，受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-22%（+2%），受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时，自身造成的元素损伤提升15%",
+            "condition": ""
+          },
+          {
+            "name": "神河谕使",
+            "description": "受到的元素损伤-22%（+2%），受到凋亡损伤时回复2点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4148_philae",
+  "operator_name": "菲莱",
+  "profession": "重装",
+  "branch": "本源铁卫"
+}

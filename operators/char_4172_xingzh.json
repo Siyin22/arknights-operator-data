@@ -1,0 +1,239 @@
+{
+  "id": "char_4172_xingzh",
+  "name": "行箸",
+  "english": "Xingzhu",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "护佑者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "生存"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1746,
+        "atk": 473,
+        "def": 231,
+        "magicResistance": 25.0,
+        "cost": 13,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "同路之谊",
+          "description": "使攻击范围内除自己外2名友军获得10%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 1746,
+        "atk": 473,
+        "def": 231,
+        "magicResistance": 25.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "同路之谊",
+          "description": "使攻击范围内除自己外2名友军获得10%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 1746,
+        "atk": 473,
+        "def": 231,
+        "magicResistance": 25.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "同路之谊",
+          "description": "使攻击范围内除自己外2名友军获得10%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 1746,
+        "atk": 473,
+        "def": 231,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "同路之谊",
+          "description": "使攻击范围内除自己外2名友军获得10%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 1746,
+        "atk": 473,
+        "def": 231,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "同路之谊",
+          "description": "使攻击范围内除自己外2名友军获得12%（+2%）的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 1746,
+        "atk": 473,
+        "def": 231,
+        "magicResistance": 25.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "同路之谊",
+          "description": "使攻击范围内除自己外2名友军获得12%（+2%）的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "盈帙满笥",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的290%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 7,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的300%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 7,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的310%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 8,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对攻击范围内的所有目标进行一次治疗，回复量为行箸攻击力的330%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 8,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "食不厌精",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+43，额外治疗1名目标，且每秒恢复天赋生效目标相当于行箸攻击力18%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 55,
+          "charges": 1,
+          "duration": "26 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+45，额外治疗1名目标，且每秒恢复天赋生效目标相当于行箸攻击力18%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 57,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+47，额外治疗1名目标，且每秒恢复天赋生效目标相当于行箸攻击力18%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 59,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+50，额外治疗1名目标，且每秒恢复天赋生效目标相当于行箸攻击力20%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 75,
+          "initial": 60,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

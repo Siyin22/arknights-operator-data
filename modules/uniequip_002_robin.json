@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_robin",
+  "name": "限量版年历",
+  "type": "TRP-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 36.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 39.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续4秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续4秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 185.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 41.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "有20%概率部署造成2倍伤害的陷阱",
+            "condition": ""
+          },
+          {
+            "name": "进阶隐蔽",
+            "description": "受到攻击后获得迷彩，持续6秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_451_robin",
+  "operator_name": "罗宾",
+  "profession": "特种",
+  "branch": "陷阱师"
+}

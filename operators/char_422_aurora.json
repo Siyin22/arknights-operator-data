@@ -1,0 +1,239 @@
+{
+  "id": "char_422_aurora",
+  "name": "极光",
+  "english": "Aurora",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "决战者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "防护"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4027,
+        "atk": 956,
+        "def": 695,
+        "magicResistance": 0,
+        "cost": 32,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低温休憩",
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3%最大生命值"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4027,
+        "atk": 956,
+        "def": 695,
+        "magicResistance": 0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低温休憩",
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3%最大生命值"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4027,
+        "atk": 956,
+        "def": 695,
+        "magicResistance": 0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低温休憩",
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3%最大生命值"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4027,
+        "atk": 956,
+        "def": 722.0,
+        "magicResistance": 0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低温休憩",
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3%最大生命值"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4027,
+        "atk": 956,
+        "def": 722.0,
+        "magicResistance": 0,
+        "cost": 31.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低温休憩",
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%（+0.5%）最大生命值"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    },
+    {
+      "stats": {
+        "maxHp": 4027,
+        "atk": 956,
+        "def": 722.0,
+        "magicResistance": 0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低温休憩",
+          "description": "未开启技能且技力小于或等于最大值一半时，停止攻击并每秒恢复3.5%（+0.5%）最大生命值"
+        }
+      ],
+      "trait": "只有阻挡敌人时才能够回复技力"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "防御力+27",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "固守家园",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "阻挡数+2，防御力+180%，获得抵抗\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "阻挡数+2，防御力+190%，获得抵抗\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "阻挡数+2，防御力+200%，获得抵抗\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "阻挡数+2，防御力+210%，获得抵抗\n技能结束后自身晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "人工降雪",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔略微增大，攻击力+60%，攻击对目标造成2.5秒寒冷，若目标已经处于冻结状态，则改为使本次攻击的攻击力提高至300%\n攻击装有9发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔略微增大，攻击力+65%，攻击对目标造成2.5秒寒冷，若目标已经处于冻结状态，则改为使本次攻击的攻击力提高至310%\n攻击装有9发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 11,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔略微增大，攻击力+70%，攻击对目标造成2.5秒寒冷，若目标已经处于冻结状态，则改为使本次攻击的攻击力提高至320%\n攻击装有9发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 12,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔略微增大，攻击力+75%，攻击对目标造成2.5秒寒冷，若目标已经处于冻结状态，则改为使本次攻击的攻击力提高至330%\n攻击装有9发子弹，打完后技能结束（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 13,
+          "charges": 1,
+          "duration": "弹药制（见描述）"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

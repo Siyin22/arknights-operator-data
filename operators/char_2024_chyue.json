@@ -1,0 +1,308 @@
+{
+  "id": "char_2024_chyue",
+  "name": "重岳",
+  "english": "Chongyue",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "斗士",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "爆发"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2635,
+        "atk": 650,
+        "def": 393,
+        "magicResistance": 0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "止戈",
+          "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升65%"
+        },
+        {
+          "name": "万象为宾",
+          "description": "若重岳释放一次技能击倒不少于一个敌人，则回复3点技力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2635,
+        "atk": 650,
+        "def": 393,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "止戈",
+          "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升65%"
+        },
+        {
+          "name": "万象为宾",
+          "description": "若重岳释放一次技能击倒不少于一个敌人，则回复3点技力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2635,
+        "atk": 650,
+        "def": 393,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "止戈",
+          "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升65%"
+        },
+        {
+          "name": "万象为宾",
+          "description": "若重岳释放一次技能击倒不少于一个敌人，则回复3点技力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2635,
+        "atk": 674.0,
+        "def": 393,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "止戈",
+          "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升65%"
+        },
+        {
+          "name": "万象为宾",
+          "description": "若重岳释放一次技能击倒不少于一个敌人，则回复3点技力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2635,
+        "atk": 674.0,
+        "def": 393,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "止戈",
+          "description": "对目标普通攻击时，有25%（+2%）的概率使重岳2.5秒内对其造成的伤害提升70%（+5%）"
+        },
+        {
+          "name": "万象为宾",
+          "description": "若重岳释放一次技能击倒不少于一个敌人，则回复3点技力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2635,
+        "atk": 674.0,
+        "def": 393,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "止戈",
+          "description": "对目标普通攻击时，有25%（+2%）的概率使重岳2.5秒内对其造成的伤害提升70%（+5%）"
+        },
+        {
+          "name": "万象为宾",
+          "description": "若重岳释放一次技能击倒不少于一个敌人，则回复3点技力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "冲盈",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对目标造成相当于攻击力290%的物理伤害；技能达到最大充能层数时消耗所有充能，造成对应次数的伤害\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "对目标造成相当于攻击力320%的物理伤害；技能达到最大充能层数时消耗所有充能，造成对应次数的伤害\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "对目标造成相当于攻击力350%的物理伤害；技能达到最大充能层数时消耗所有充能，造成对应次数的伤害\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "对目标造成相当于攻击力400%的物理伤害；技能达到最大充能层数时消耗所有充能，造成对应次数的伤害\n可充能3次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "拂尘",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对周围至多4个敌人造成相当于攻击力350%的物理伤害并使其中第一天赋生效的目标浮空；之后使周围所有浮空敌人结束浮空状态，对其100%触发第一天赋并造成相当于攻击力480%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "对周围至多4个敌人造成相当于攻击力380%的物理伤害并使其中第一天赋生效的目标浮空；之后使周围所有浮空敌人结束浮空状态，对其100%触发第一天赋并造成相当于攻击力530%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "对周围至多4个敌人造成相当于攻击力410%的物理伤害并使其中第一天赋生效的目标浮空；之后使周围所有浮空敌人结束浮空状态，对其100%触发第一天赋并造成相当于攻击力580%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 7,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "对周围至多4个敌人造成相当于攻击力450%的物理伤害并使其中第一天赋生效的目标浮空；之后使周围所有浮空敌人结束浮空状态，对其100%触发第一天赋并造成相当于攻击力650%的物理伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 9,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "我无",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "对目标及其周围造成相当于攻击力300%的物理伤害；累计使用五次技能后：重岳攻击的范围扩大且攻击变为二连击，技能变为自动释放且造成额外一次伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "对目标及其周围造成相当于攻击力320%的物理伤害；累计使用五次技能后：重岳攻击的范围扩大且攻击变为二连击，技能变为自动释放且造成额外一次伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "对目标及其周围造成相当于攻击力350%的物理伤害；累计使用五次技能后：重岳攻击的范围扩大且攻击变为二连击，技能变为自动释放且造成额外一次伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "对目标及其周围造成相当于攻击力380%的物理伤害；累计使用五次技能后：重岳攻击的范围扩大且攻击变为二连击，技能变为自动释放且造成额外一次伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

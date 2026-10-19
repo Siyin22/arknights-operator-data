@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_fartth",
+  "name": "首战支援套组",
+  "type": "DEA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 85.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近8秒内未受伤害时，攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近8秒内未受伤害时，攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近8秒内未受伤害时，攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近8秒内未受伤害时，攻击力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近8秒内未受伤害时，攻击力+23%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近8秒内未受伤害时，攻击力+23%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近6秒内未受伤害时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近6秒内未受伤害时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近6秒内未受伤害时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近6秒内未受伤害时，攻击力+22%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近6秒内未受伤害时，攻击力+25%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击越远的敌人造成的伤害越高（最高提升15%）",
+            "condition": ""
+          },
+          {
+            "name": "凝神",
+            "description": "最近6秒内未受伤害时，攻击力+25%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_430_fartth",
+  "operator_name": "远牙",
+  "profession": "狙击",
+  "branch": "神射手"
+}

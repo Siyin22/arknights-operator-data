@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_baslin",
+  "name": "受赐玩物",
+  "type": "GUA-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 265.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 345.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+12，周围8格有友方干员时，自身与其法术抗性额外+4",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 410.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "受到的伤害减少15%",
+            "condition": ""
+          },
+          {
+            "name": "威权教诲",
+            "description": "法术抗性+14，周围8格有友方干员时，自身与其法术抗性额外+5",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4109_baslin",
+  "operator_name": "深律",
+  "profession": "重装",
+  "branch": "守护者"
+}

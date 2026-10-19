@@ -1,0 +1,238 @@
+{
+  "id": "char_4079_haini",
+  "name": "海霓",
+  "english": "Lucilla",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "削弱者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 505,
+        "def": 103,
+        "magicResistance": 25.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "测绘器材的奇用",
+          "description": "攻击范围内的非精英和领袖敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 505,
+        "def": 103,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "测绘器材的奇用",
+          "description": "攻击范围内的非精英和领袖敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 505,
+        "def": 103,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "测绘器材的奇用",
+          "description": "攻击范围内的非精英和领袖敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 505,
+        "def": 103,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "测绘器材的奇用",
+          "description": "攻击范围内的非精英和领袖敌人获得16%的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 505,
+        "def": 103,
+        "magicResistance": 33.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "测绘器材的奇用",
+          "description": "攻击范围内的非精英和领袖敌人获得18%（+2%）的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1625,
+        "atk": 505,
+        "def": 103,
+        "magicResistance": 33.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "测绘器材的奇用",
+          "description": "攻击范围内的非精英和领袖敌人获得18%（+2%）的脆弱效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+8",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迷惑性洋流图",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提升至145%，并同时攻击4个敌人",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提升至160%，并同时攻击4个敌人",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提升至180%，并同时攻击4个敌人",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提升至200%，并同时攻击4个敌人",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "阻滞性显色剂",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，额外攻击一个目标，攻击范围内的非精英和领袖敌人移动速度-50%，且被击倒时使天赋效果提升0.5倍，最多提升至3.0倍，持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 22,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+43%，额外攻击一个目标，攻击范围内的非精英和领袖敌人移动速度-55%，且被击倒时使天赋效果提升0.5倍，最多提升至3.0倍，持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 23,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+46%，额外攻击一个目标，攻击范围内的非精英和领袖敌人移动速度-55%，且被击倒时使天赋效果提升0.5倍，最多提升至3.0倍，持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 24,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+50%，额外攻击一个目标，攻击范围内的非精英和领袖敌人移动速度-60%，且被击倒时使天赋效果提升0.5倍，最多提升至3.0倍，持续至技能结束",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

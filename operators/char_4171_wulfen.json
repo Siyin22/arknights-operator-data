@@ -1,0 +1,349 @@
+{
+  "id": "char_4171_wulfen",
+  "name": "钼铅",
+  "english": "Wulfenite",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "陷阱师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "召唤",
+    "削弱"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1650,
+        "atk": 560,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "探险家的口袋",
+          "description": "可以使用3个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1650,
+        "atk": 560,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "探险家的口袋",
+          "description": "可以使用3个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1650,
+        "atk": 560,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "探险家的口袋",
+          "description": "可以使用3个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1650,
+        "atk": 583.0,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "探险家的口袋",
+          "description": "可以使用3个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1650,
+        "atk": 583.0,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "探险家的口袋",
+          "description": "可以使用4（+1）个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    },
+    {
+      "stats": {
+        "maxHp": 1650,
+        "atk": 583.0,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "探险家的口袋",
+          "description": "可以使用4（+1）个矿石“杀手”（最多拥有4个），矿石“杀手”被部署后准备一段时间可以主动引爆"
+        }
+      ],
+      "trait": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "“驱兽专用”",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力210%的物理伤害，并使其晕眩2.5秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力220%的物理伤害，并使其晕眩2.5秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力230%的物理伤害，并使其晕眩2.5秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力250%的物理伤害，并使其晕眩3秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "“顽石专用”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成两次相当于攻击力220%的物理伤害，并使其防御力-25%（不叠加），持续-1秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成两次相当于攻击力230%的物理伤害，并使其防御力-25%（不叠加），持续-1秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成两次相当于攻击力240%的物理伤害，并使其防御力-25%（不叠加），持续-1秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成两次相当于攻击力250%的物理伤害，并使其防御力-25%（不叠加），持续-1秒\n主动效果：立即获得一个矿石“杀手”",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "矿石“杀手”",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击，无法放置于敌人已在的格子中",
+      "skills": [
+        {
+          "name": "“驱兽专用”",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "引爆时对范围内所有目标造成相当于钼铅攻击力210%的物理伤害，并使其晕眩2.5秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "引爆时对范围内所有目标造成相当于钼铅攻击力220%的物理伤害，并使其晕眩2.5秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "引爆时对范围内所有目标造成相当于钼铅攻击力230%的物理伤害，并使其晕眩2.5秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "引爆时对范围内所有目标造成相当于钼铅攻击力250%的物理伤害，并使其晕眩3秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "“顽石专用”",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "引爆时对范围内所有目标造成两次相当于钼铅攻击力220%的物理伤害，并使其防御力-25%（不叠加），持续-1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "引爆时对范围内所有目标造成两次相当于钼铅攻击力230%的物理伤害，并使其防御力-25%（不叠加），持续-1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "引爆时对范围内所有目标造成两次相当于钼铅攻击力240%的物理伤害，并使其防御力-25%（不叠加），持续-1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "引爆时对范围内所有目标造成两次相当于钼铅攻击力250%的物理伤害，并使其防御力-25%（不叠加），持续-1秒",
+              "trigger": "手动触发",
+              "recovery": "自动回复",
+              "cost": 8,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_378_asbest",
+  "name": "石棉",
+  "english": "Asbestos",
+  "rarity": 5,
+  "profession": "重装",
+  "branch": "驭法铁卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "防护",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3135,
+        "atk": 673,
+        "def": 595,
+        "magicResistance": 15.0,
+        "cost": 25,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湿润皮肤",
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3135,
+        "atk": 673,
+        "def": 595,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湿润皮肤",
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3135,
+        "atk": 673,
+        "def": 595,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湿润皮肤",
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345.0,
+        "atk": 673,
+        "def": 595,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湿润皮肤",
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345.0,
+        "atk": 673,
+        "def": 595,
+        "magicResistance": 15.0,
+        "cost": 24.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湿润皮肤",
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 3345.0,
+        "atk": 673,
+        "def": 595,
+        "magicResistance": 15.0,
+        "cost": 23.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "湿润皮肤",
+          "description": "法术抗性+10，受到敌人的法术普通攻击时获得3点技力"
+        }
+      ],
+      "trait": "技能开启时普通攻击会造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+210",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "固守模式",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "抵消下一次受到的法术伤害，且技能持续时间内受到的法术伤害-20%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "抵消下一次受到的法术伤害，且技能持续时间内受到的法术伤害-23%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "抵消下一次受到的法术伤害，且技能持续时间内受到的法术伤害-26%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "抵消下一次受到的法术伤害，且技能持续时间内受到的法术伤害-30%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "火电模式",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+60%，防御力+45%，攻击范围扩大，攻击变为群体攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 22,
+          "charges": 1,
+          "duration": "46 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+70%，防御力+50%，攻击范围更加扩大，攻击变为群体攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 24,
+          "charges": 1,
+          "duration": "47 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+80%，防御力+55%，攻击范围更加扩大，攻击变为群体攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 26,
+          "charges": 1,
+          "duration": "48 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+90%，防御力+60%，攻击范围更加扩大，攻击变为群体攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 30,
+          "charges": 1,
+          "duration": "50 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

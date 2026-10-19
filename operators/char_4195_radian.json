@@ -1,0 +1,776 @@
+{
+  "id": "char_4195_radian",
+  "name": "电弧",
+  "english": "Raidian",
+  "rarity": 6,
+  "profession": "辅助",
+  "branch": "召唤师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "召唤",
+    "输出",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1369,
+        "atk": 486,
+        "def": 163,
+        "magicResistance": 20.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "卡带里的灵感",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "加油~",
+          "description": "电弧的召唤物获得相当于其自身12％攻击力、防御力、生命值的鼓舞效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1369,
+        "atk": 486,
+        "def": 163,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "卡带里的灵感",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "加油~",
+          "description": "电弧的召唤物获得相当于其自身12％攻击力、防御力、生命值的鼓舞效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1369,
+        "atk": 486,
+        "def": 163,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "卡带里的灵感",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "加油~",
+          "description": "电弧的召唤物获得相当于其自身12％攻击力、防御力、生命值的鼓舞效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1369,
+        "atk": 510.0,
+        "def": 163,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "卡带里的灵感",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "加油~",
+          "description": "电弧的召唤物获得相当于其自身12％攻击力、防御力、生命值的鼓舞效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1369,
+        "atk": 510.0,
+        "def": 163,
+        "magicResistance": 20.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "卡带里的灵感",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "加油~",
+          "description": "电弧的召唤物获得相当于其自身15％(+3％)攻击力、防御力、生命值的鼓舞效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 1369,
+        "atk": 510.0,
+        "def": 163,
+        "magicResistance": 20.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "卡带里的灵感",
+          "description": "可以使用5个召唤物（最多同时部署3个），功能随技能选择而改变"
+        },
+        {
+          "name": "加油~",
+          "description": "电弧的召唤物获得相当于其自身15％(+3％)攻击力、防御力、生命值的鼓舞效果"
+        }
+      ],
+      "trait": "攻击造成法术伤害\n可以使用召唤物协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "律动线",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：召唤物可部署在近战位\n开启：自身和召唤物防御力+60%并获得70%最大生命值的屏障，持续至技能结束\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：召唤物可部署在近战位\n开启：自身和召唤物防御力+65%并获得80%最大生命值的屏障，持续至技能结束\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：召唤物可部署在近战位\n开启：自身和召唤物防御力+70%并获得90%最大生命值的屏障，持续至技能结束\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：召唤物可部署在近战位\n开启：自身和召唤物防御力+80%并获得100%最大生命值的屏障，持续至技能结束\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "环形鳞地",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：召唤物可部署在近战位，会持续向前方发射子弹\n开启：自身和召唤物攻击力+50%，召唤物攻击额外创造出2颗子弹且子弹飞行距离+1\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：召唤物可部署在近战位，会持续向前方发射子弹\n开启：自身和召唤物攻击力+60%，召唤物攻击额外创造出2颗子弹且子弹飞行距离+1\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 12,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：召唤物可部署在近战位，会持续向前方发射子弹\n开启：自身和召唤物攻击力+65%，召唤物攻击额外创造出2颗子弹且子弹飞行距离+2\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 14,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：召唤物可部署在近战位，会持续向前方发射子弹\n开启：自身和召唤物攻击力+80%，召唤物攻击额外创造出2颗子弹且子弹飞行距离+2\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 16,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "手牵手",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：召唤物可部署在远程位，召唤物找不到攻击目标且可攻击时，可以与其自身范围内其他电弧的召唤物协同攻击\n开启：自身和召唤物攻击力+110%，对敌人造成伤害时，使敌人受到停顿与20％法术脆弱效果，持续2秒\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 24,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：召唤物可部署在远程位，召唤物找不到攻击目标且可攻击时，可以与其自身范围内其他电弧的召唤物协同攻击\n开启：自身和召唤物攻击力+120%，对敌人造成伤害时，使敌人受到停顿与20％法术脆弱效果，持续2秒\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 46,
+          "initial": 26,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：召唤物可部署在远程位，召唤物找不到攻击目标且可攻击时，可以与其自身范围内其他电弧的召唤物协同攻击\n开启：自身和召唤物攻击力+130%，对敌人造成伤害时，使敌人受到停顿与25％法术脆弱效果，持续2秒\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 28,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：召唤物可部署在远程位，召唤物找不到攻击目标且可攻击时，可以与其自身范围内其他电弧的召唤物协同攻击\n开启：自身和召唤物攻击力+150%，对敌人造成伤害时，使敌人受到停顿与35％法术脆弱效果，持续2秒\n技能开启时获得1个召唤物",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 30,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "戴乌",
+      "stats": {
+        "maxHp": 3230,
+        "atk": 471,
+        "def": 683,
+        "magicResistance": 0,
+        "cost": 18,
+        "blockCnt": 3,
+        "baseAttackTime": 1.2,
+        "respawnTime": 20,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡三个敌人",
+      "skills": [
+        {
+          "name": "律动线",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "律动线",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "律动线",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "赛柯",
+      "stats": {
+        "maxHp": 2333,
+        "atk": 773,
+        "def": 237,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "持续攻击创造出飞行一段距离的子弹，子弹对碰撞到的首个地面敌方单位造成物理伤害。",
+      "skills": [
+        {
+          "name": "环形鳞地",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "环形鳞地",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "环形鳞地",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "桑特拉",
+      "stats": {
+        "maxHp": 1430,
+        "atk": 741,
+        "def": 143,
+        "magicResistance": 10.0,
+        "cost": 16,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 10,
+        "attackSpeed": 100.0
+      },
+      "trait": "攻击造成法术伤害",
+      "skills": [
+        {
+          "name": "手牵手",
+          "index": 1,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "手牵手",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "手牵手",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

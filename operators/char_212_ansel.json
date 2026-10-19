@@ -1,0 +1,162 @@
+{
+  "id": "char_212_ansel",
+  "name": "安赛尔",
+  "english": "Ansel",
+  "rarity": 3,
+  "profession": "医疗",
+  "branch": "医师",
+  "phase": 1,
+  "level": 55,
+  "tags": [
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1135,
+        "atk": 407,
+        "def": 109,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "附加治疗",
+          "description": "有15%的几率额外治疗一名友方单位"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1135,
+        "atk": 407,
+        "def": 109,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "附加治疗",
+          "description": "有15%的几率额外治疗一名友方单位"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1135,
+        "atk": 407,
+        "def": 109,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "附加治疗",
+          "description": "有15%的几率额外治疗一名友方单位"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1135,
+        "atk": 427.0,
+        "def": 109,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "附加治疗",
+          "description": "有15%的几率额外治疗一名友方单位"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1135,
+        "atk": 427.0,
+        "def": 109,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "附加治疗",
+          "description": "有18%（+3%）的几率额外治疗一名友方单位"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1135,
+        "atk": 427.0,
+        "def": 109,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "附加治疗",
+          "description": "有18%（+3%）的几率额外治疗一名友方单位"
+        }
+      ],
+      "trait": "恢复友方单位生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+20",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "治疗范围强化",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围+2格，攻击力+40%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

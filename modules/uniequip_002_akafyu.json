@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_akafyu",
+  "name": "武将甲胄",
+  "type": "SBL-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+8%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+8%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+12%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "生命值低于50%时，获得25%的庇护",
+            "condition": ""
+          },
+          {
+            "name": "信影流·逆风",
+            "description": "阻挡敌人时防御力+12%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_475_akafyu",
+  "operator_name": "赤冬",
+  "profession": "近卫",
+  "branch": "武者"
+}

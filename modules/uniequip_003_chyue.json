@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_chyue",
+  "name": "“朔”",
+  "type": "FGT-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升70%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升70%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升70%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升70%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有25%（+2%）的概率使重岳2.5秒内对其造成的伤害提升75%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有25%（+2%）的概率使重岳2.5秒内对其造成的伤害提升75%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有23%的概率使重岳2.5秒内对其造成的伤害提升75%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有25%（+2%）的概率使重岳2.5秒内对其造成的伤害提升80%（+5%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡一个敌人，生命值高于50%时攻击速度+10",
+            "condition": ""
+          },
+          {
+            "name": "止戈",
+            "description": "对目标普通攻击时，有25%（+2%）的概率使重岳2.5秒内对其造成的伤害提升80%（+5%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_2024_chyue",
+  "operator_name": "重岳",
+  "profession": "近卫",
+  "branch": "斗士"
+}

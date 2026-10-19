@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_skadi",
+  "name": "往日残梦",
+  "type": "DRE-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 90.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-20秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-20秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 320.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 105.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-30秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-30秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-30秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-30秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-30秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击被阻挡的敌人时攻击力提升至115%",
+            "condition": ""
+          },
+          {
+            "name": "迅捷出击",
+            "description": "自身再部署时间-30秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_263_skadi",
+  "operator_name": "斯卡蒂",
+  "profession": "近卫",
+  "branch": "无畏者"
+}

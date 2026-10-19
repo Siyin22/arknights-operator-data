@@ -1,0 +1,309 @@
+{
+  "id": "char_2013_cerber",
+  "name": "刻俄柏",
+  "english": "Ceobe",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "中坚术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1565,
+        "atk": 757,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "剥壳",
+          "description": "攻击时对目标额外造成相当于其防御力40%的法术伤害"
+        },
+        {
+          "name": "独行长路",
+          "description": "当周围四格内没有其他友方单位时，攻击力+8%，攻击速度+8"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1565,
+        "atk": 757,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "剥壳",
+          "description": "攻击时对目标额外造成相当于其防御力40%的法术伤害"
+        },
+        {
+          "name": "独行长路",
+          "description": "当周围四格内没有其他友方单位时，攻击力+8%，攻击速度+8"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1565,
+        "atk": 757,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "剥壳",
+          "description": "攻击时对目标额外造成相当于其防御力40%的法术伤害"
+        },
+        {
+          "name": "独行长路",
+          "description": "当周围四格内没有其他友方单位时，攻击力+8%，攻击速度+8"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1565,
+        "atk": 784.0,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "剥壳",
+          "description": "攻击时对目标额外造成相当于其防御力40%的法术伤害"
+        },
+        {
+          "name": "独行长路",
+          "description": "当周围四格内没有其他友方单位时，攻击力+8%，攻击速度+8"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1565,
+        "atk": 784.0,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "剥壳",
+          "description": "攻击时对目标额外造成相当于其防御力44%（+4%）的法术伤害"
+        },
+        {
+          "name": "独行长路",
+          "description": "当周围四格内没有其他友方单位时，攻击力+8%，攻击速度+8"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1565,
+        "atk": 784.0,
+        "def": 128,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "剥壳",
+          "description": "攻击时对目标额外造成相当于其防御力44%（+4%）的法术伤害"
+        },
+        {
+          "name": "独行长路",
+          "description": "当周围四格内没有其他友方单位时，攻击力+8%，攻击速度+8"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+27",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "“很冰的斧”",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提升至180%，优先攻击没有被阻挡的目标，并令目标束缚-1秒\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提升至190%，优先攻击没有被阻挡的目标，并令目标束缚-1秒\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提升至200%，优先攻击没有被阻挡的目标，并令目标束缚-1秒\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提升至210%，优先攻击没有被阻挡的目标，并令目标束缚-1秒\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "“很热的刀”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔较大幅度缩短，优先攻击防御力最高的目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 16,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔大幅度缩短，优先攻击防御力最高的目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 18,
+          "charges": 1,
+          "duration": "37 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔大幅度缩短，优先攻击防御力最高的目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 20,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔超大幅度缩短，优先攻击防御力最高的目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "“很重的枪”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+160%，伤害类型变为物理，优先攻击防御力最低的目标，并令其失去特殊能力3秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 47,
+          "charges": 1,
+          "duration": "57 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+175%，伤害类型变为物理，优先攻击防御力最低的目标，并令其失去特殊能力3.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 49,
+          "charges": 1,
+          "duration": "58 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+190%，伤害类型变为物理，优先攻击防御力最低的目标，并令其失去特殊能力4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 52,
+          "charges": 1,
+          "duration": "59 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+210%，伤害类型变为物理，优先攻击防御力最低的目标，并令其失去特殊能力5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 55,
+          "charges": 1,
+          "duration": "60 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

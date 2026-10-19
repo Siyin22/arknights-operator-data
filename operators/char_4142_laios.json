@@ -1,0 +1,239 @@
+{
+  "id": "char_4142_laios",
+  "name": "莱欧斯",
+  "english": "Laios",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3868,
+        "atk": 975,
+        "def": 281,
+        "magicResistance": 0,
+        "cost": 18,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "迷宫魔物专家",
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3868,
+        "atk": 975,
+        "def": 281,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "迷宫魔物专家",
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3868,
+        "atk": 975,
+        "def": 281,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "迷宫魔物专家",
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3868,
+        "atk": 1007.0,
+        "def": 281,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "迷宫魔物专家",
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3868,
+        "atk": 1007.0,
+        "def": 281,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "迷宫魔物专家",
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3868,
+        "atk": 1007.0,
+        "def": 281,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "迷宫魔物专家",
+          "description": "击倒敌人后，莱欧斯攻击所有同名敌人时无视其40%防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+32",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "胆小剑助",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "生命值高于50%时，获得+50%攻击力的精力充沛\n场上首次出现领袖敌人时，莱欧斯在15秒内无法攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "生命值高于50%时，获得+55%攻击力的精力充沛\n场上首次出现领袖敌人时，莱欧斯在15秒内无法攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "生命值高于50%时，获得+60%攻击力的精力充沛\n场上首次出现领袖敌人时，莱欧斯在15秒内无法攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "生命值高于50%时，获得+70%攻击力的精力充沛\n场上首次出现领袖敌人时，莱欧斯在15秒内无法攻击",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    },
+    {
+      "name": "威吓战法",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，技能期间使阻挡的敌人战栗，技能结束时立即对阻挡的敌人造成相当于攻击力380%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，技能期间使阻挡的敌人战栗，技能结束时立即对阻挡的敌人造成相当于攻击力400%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，技能期间使阻挡的敌人战栗，技能结束时立即对阻挡的敌人造成相当于攻击力420%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，技能期间使阻挡的敌人战栗，技能结束时立即对阻挡的敌人造成相当于攻击力450%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

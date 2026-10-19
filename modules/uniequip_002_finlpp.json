@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_finlpp",
+  "name": "“江河之韵”",
+  "type": "WAH-Y",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 20.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 26.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 26.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "拥有较大治疗范围，治疗较远目标时治疗量不再降低",
+            "condition": ""
+          },
+          {
+            "name": "细水长流",
+            "description": "技能的治疗效果提高20%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_385_finlpp",
+  "operator_name": "清流",
+  "profession": "医疗",
+  "branch": "疗养师"
+}

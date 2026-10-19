@@ -1,0 +1,263 @@
+{
+  "id": "char_4186_tmoris",
+  "name": "八幡海铃",
+  "english": "Yahata Umiri",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "伏击客",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1929,
+        "atk": 839,
+        "def": 361,
+        "magicResistance": 30.0,
+        "cost": 22,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "应召而至",
+          "description": "被八幡海铃伤害的敌人有21%概率被停顿3秒；技能期间，八幡海铃的攻击范围扩大"
+        },
+        {
+          "name": "毋畏恐惧",
+          "description": "造成停顿、恐惧时使Fever+2；\n在场时，Ave Mujica成员对处于停顿、恐惧的敌人造成的伤害增加10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1929,
+        "atk": 839,
+        "def": 361,
+        "magicResistance": 30.0,
+        "cost": 21.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "应召而至",
+          "description": "被八幡海铃伤害的敌人有21%概率被停顿3秒；技能期间，八幡海铃的攻击范围扩大"
+        },
+        {
+          "name": "毋畏恐惧",
+          "description": "造成停顿、恐惧时使Fever+2；\n在场时，Ave Mujica成员对处于停顿、恐惧的敌人造成的伤害增加10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1929,
+        "atk": 839,
+        "def": 361,
+        "magicResistance": 30.0,
+        "cost": 21.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "应召而至",
+          "description": "被八幡海铃伤害的敌人有21%概率被停顿3秒；技能期间，八幡海铃的攻击范围扩大"
+        },
+        {
+          "name": "毋畏恐惧",
+          "description": "造成停顿、恐惧时使Fever+2；\n在场时，Ave Mujica成员对处于停顿、恐惧的敌人造成的伤害增加10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1929,
+        "atk": 839,
+        "def": 361,
+        "magicResistance": 30.0,
+        "cost": 20.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "应召而至",
+          "description": "被八幡海铃伤害的敌人有21%概率被停顿3秒；技能期间，八幡海铃的攻击范围扩大"
+        },
+        {
+          "name": "毋畏恐惧",
+          "description": "造成停顿、恐惧时使Fever+2；\n在场时，Ave Mujica成员对处于停顿、恐惧的敌人造成的伤害增加10%"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1929,
+        "atk": 839,
+        "def": 361,
+        "magicResistance": 30.0,
+        "cost": 20.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "应召而至",
+          "description": "被八幡海铃伤害的敌人有21%概率被停顿3秒；技能期间，八幡海铃的攻击范围扩大"
+        },
+        {
+          "name": "毋畏恐惧",
+          "description": "造成停顿、恐惧时使Fever+2；\n在场时，Ave Mujica成员对处于停顿、恐惧的敌人造成的伤害增加15%（+5%）"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    },
+    {
+      "stats": {
+        "maxHp": 1929,
+        "atk": 839,
+        "def": 361,
+        "magicResistance": 30.0,
+        "cost": 19.0,
+        "blockCnt": 0,
+        "baseAttackTime": 3.5,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "应召而至",
+          "description": "被八幡海铃伤害的敌人有21%概率被停顿3秒；技能期间，八幡海铃的攻击范围扩大"
+        },
+        {
+          "name": "毋畏恐惧",
+          "description": "造成停顿、恐惧时使Fever+2；\n在场时，Ave Mujica成员对处于停顿、恐惧的敌人造成的伤害增加15%（+5%）"
+        }
+      ],
+      "trait": "对攻击范围内所有敌人造成伤害\n拥有50%的物理和法术闪避且不容易成为敌人的攻击目标"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "颤栗之弦",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "发动一次5连击，对攻击范围内的地面敌人每次造成相当于65%攻击力的法术伤害。\n其他Ave Mujica成员开启技能时，额外释放一次\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "2.1 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "发动一次5连击，对攻击范围内的地面敌人每次造成相当于67%攻击力的法术伤害。\n其他Ave Mujica成员开启技能时，额外释放一次\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "2.1 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "发动一次5连击，对攻击范围内的地面敌人每次造成相当于68%攻击力的法术伤害。\n其他Ave Mujica成员开启技能时，额外释放一次\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "2.1 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "发动一次5连击，对攻击范围内的地面敌人每次造成相当于70%攻击力的法术伤害。\n其他Ave Mujica成员开启技能时，额外释放一次\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "2.1 秒"
+        }
+      ]
+    },
+    {
+      "name": "无存之所",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即使攻击范围内的敌人恐惧1.5秒，每秒对攻击范围内的敌人造成攻击力88%的法术伤害，第一天赋造成停顿的概率提升至2倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 22,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即使攻击范围内的敌人恐惧1.5秒，每秒对攻击范围内的敌人造成攻击力92%的法术伤害，第一天赋造成停顿的概率提升至2.1倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 23,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即使攻击范围内的敌人恐惧1.5秒，每秒对攻击范围内的敌人造成攻击力95%的法术伤害，第一天赋造成停顿的概率提升至2.1倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 24,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即使攻击范围内的敌人恐惧1.5秒，每秒对攻击范围内的敌人造成攻击力100%的法术伤害，第一天赋造成停顿的概率提升至2.2倍",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

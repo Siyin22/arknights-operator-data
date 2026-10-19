@@ -1,0 +1,309 @@
+{
+  "id": "char_197_poca",
+  "name": "早露",
+  "english": "Роса",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "攻城手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 1142,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深入骨髓",
+          "description": "攻击重量较重（重量等级大于等于3）的敌人时，无视其防御力的60%"
+        },
+        {
+          "name": "学生楷模",
+          "description": "编入队伍时，所有【乌萨斯学生自治团】干员攻击力+8%"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 1142,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深入骨髓",
+          "description": "攻击重量较重（重量等级大于等于3）的敌人时，无视其防御力的60%"
+        },
+        {
+          "name": "学生楷模",
+          "description": "编入队伍时，所有【乌萨斯学生自治团】干员攻击力+8%"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 1142,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深入骨髓",
+          "description": "攻击重量较重（重量等级大于等于3）的敌人时，无视其防御力的60%"
+        },
+        {
+          "name": "学生楷模",
+          "description": "编入队伍时，所有【乌萨斯学生自治团】干员攻击力+8%"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 1176.0,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深入骨髓",
+          "description": "攻击重量较重（重量等级大于等于3）的敌人时，无视其防御力的60%"
+        },
+        {
+          "name": "学生楷模",
+          "description": "编入队伍时，所有【乌萨斯学生自治团】干员攻击力+8%"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 1176.0,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深入骨髓",
+          "description": "攻击重量较重（重量等级大于等于3）的敌人时，无视其防御力的60%"
+        },
+        {
+          "name": "学生楷模",
+          "description": "编入队伍时，所有【乌萨斯学生自治团】干员攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1755,
+        "atk": 1176.0,
+        "def": 122,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.4,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "深入骨髓",
+          "description": "攻击重量较重（重量等级大于等于3）的敌人时，无视其防御力的60%"
+        },
+        {
+          "name": "学生楷模",
+          "description": "编入队伍时，所有【乌萨斯学生自治团】干员攻击力+10%（+2%）"
+        }
+      ],
+      "trait": "优先攻击重量最重的敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+34",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "攻击力强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "分裂射击",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，可以额外攻击一个敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 80,
+          "initial": 45,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+70%，可以额外攻击一个敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 75,
+          "initial": 45,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%，可以额外攻击一个敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 45,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+90%，可以额外攻击一个敌人",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 65,
+          "initial": 45,
+          "charges": 1,
+          "duration": "60 秒"
+        }
+      ]
+    },
+    {
+      "name": "雪崩击",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+10%，立即向至多3个重量最重的敌人发射束缚叉枪；技能持续时间内所有目标受到束缚效果，每秒受到一次攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 12,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+15%，立即向至多3个重量最重的敌人发射束缚叉枪；技能持续时间内所有目标受到束缚效果，每秒受到一次攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 13,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+20%，立即向至多4个重量最重的敌人发射束缚叉枪；技能持续时间内所有目标受到束缚效果，每秒受到一次攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 14,
+          "charges": 1,
+          "duration": "7 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+25%，立即向至多4个重量最重的敌人发射束缚叉枪；技能持续时间内所有目标受到束缚效果，每秒受到一次攻击",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

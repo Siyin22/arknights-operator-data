@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_glassb",
+  "name": "读书笔记",
+  "type": "DEC-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 80.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 3.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 4.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+24（+3），技能期间攻速加成额外提升5",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+24（+3），技能期间攻速加成额外提升5",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+21，技能期间攻速加成额外提升10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+24（+3），技能期间攻速加成额外提升10",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成法术伤害，并对敌人造成较长的停顿",
+            "condition": ""
+          },
+          {
+            "name": "探知者",
+            "description": "防御力-35%，但攻击速度+24（+3），技能期间攻速加成额外提升10",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_195_glassb",
+  "operator_name": "真理",
+  "profession": "辅助",
+  "branch": "凝滞师"
+}

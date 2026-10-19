@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_003_ash",
+  "name": "刺针式合金爆破弹",
+  "type": "MAR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 90.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 14.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 12.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 19.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 16.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩5秒，且5秒内灰烬对这些敌人造成的物理伤害提升7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩5秒，且5秒内灰烬对这些敌人造成的物理伤害提升7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩5秒，且5秒内灰烬对这些敌人造成的物理伤害提升7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩5秒，且5秒内灰烬对这些敌人造成的物理伤害提升7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩5秒，且5秒内灰烬对这些敌人造成的物理伤害提升7%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩5秒，且5秒内灰烬对这些敌人造成的物理伤害提升7%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 22.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 19.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩6秒，且6秒内灰烬对这些敌人造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩6秒，且6秒内灰烬对这些敌人造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩6秒，且6秒内灰烬对这些敌人造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩6秒，且6秒内灰烬对这些敌人造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩6秒，且6秒内灰烬对这些敌人造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击空中单位时攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "辅助装备",
+            "description": "部署后立即对攻击范围内一个敌人投掷闪光弹，使其和周围敌人晕眩6秒，且6秒内灰烬对这些敌人造成的物理伤害提升10%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_456_ash",
+  "operator_name": "灰烬",
+  "profession": "狙击",
+  "branch": "速射手"
+}

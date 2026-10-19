@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_zebra",
+  "name": "人气角色贴纸",
+  "type": "PRO-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 50.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 280.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得23%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得23%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得23%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得23%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得26%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得26%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 375.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 65.0
+        },
+        {
+          "key": "blockCnt",
+          "label": "阻挡数",
+          "value": 1.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得25%的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得28%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "能够阻挡四个敌人",
+            "condition": ""
+          },
+          {
+            "name": "条纹迷彩",
+            "description": "自身和周围8格内的高台干员获得28%（+3%）的物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_304_zebra",
+  "operator_name": "暴雨",
+  "profession": "重装",
+  "branch": "铁卫"
+}

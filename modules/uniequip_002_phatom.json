@@ -1,0 +1,313 @@
+{
+  "id": "uniequip_002_phatom",
+  "name": "克里斯汀小姐的毛毡",
+  "type": "EXE-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 62.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-14秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-14秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-14秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-14秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-14秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-14秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-14秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-14秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-14秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-14秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-14秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-14秒",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 73.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-16秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-16秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-16秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-16秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-16秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-16秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-16秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-16秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-16秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-16秒",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "撤退时返还大量该次部署费用",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "虚影的再部署时间-16秒",
+            "condition": ""
+          },
+          {
+            "name": "虚影精通",
+            "description": "再部署时间-16秒",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_250_phatom",
+  "operator_name": "傀影",
+  "profession": "特种",
+  "branch": "处决者"
+}

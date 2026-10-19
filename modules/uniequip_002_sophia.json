@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_sophia",
+  "name": "加长鞭刃丝线",
+  "type": "INS-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 47.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 47.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾，【卡西米尔】阵营干员额外再获得1层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾，【卡西米尔】阵营干员额外再获得1层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾，【卡西米尔】阵营干员额外再获得1层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾，【卡西米尔】阵营干员额外再获得1层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾，【卡西米尔】阵营干员额外再获得1层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至130%",
+            "condition": ""
+          },
+          {
+            "name": "比肩的愿景",
+            "description": "部署后，使场上阻挡数大于等于3的友方近战单位获得1层物理护盾，【卡西米尔】阵营干员额外再获得1层",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_265_sophia",
+  "operator_name": "鞭刃",
+  "profession": "近卫",
+  "branch": "教官"
+}

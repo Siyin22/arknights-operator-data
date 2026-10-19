@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_gvial2",
+  "name": "嘉维尔的折磨",
+  "type": "CEN-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 29.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升13%，每再阻挡一个敌人提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升13%，每再阻挡一个敌人提升4%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升5%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升5%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升5%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升5%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 73.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 34.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升13%，每再阻挡一个敌人提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升13%，每再阻挡一个敌人提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升6%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升6%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升6%（+1%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "战地巨斧",
+            "description": "攻击力和防御力提升15%（+2%），每再阻挡一个敌人提升6%（+1%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1026_gvial2",
+  "operator_name": "百炼嘉维尔",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

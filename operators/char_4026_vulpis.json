@@ -1,0 +1,309 @@
+{
+  "id": "char_4026_vulpis",
+  "name": "忍冬",
+  "english": "Vulpisfoglia",
+  "rarity": 6,
+  "profession": "先锋",
+  "branch": "尖兵",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "费用回复",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2180,
+        "atk": 622,
+        "def": 380,
+        "magicResistance": 0,
+        "cost": 14,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "追凶",
+          "description": "对每个敌人造成首次伤害后，10秒内忍冬对该敌人造成伤害时额外造成攻击力30%的法术伤害"
+        },
+        {
+          "name": "蓄势",
+          "description": "在场时，部署费用的自然回复速度+10%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2180,
+        "atk": 622,
+        "def": 380,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "追凶",
+          "description": "对每个敌人造成首次伤害后，10秒内忍冬对该敌人造成伤害时额外造成攻击力30%的法术伤害"
+        },
+        {
+          "name": "蓄势",
+          "description": "在场时，部署费用的自然回复速度+10%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2180,
+        "atk": 622,
+        "def": 380,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "追凶",
+          "description": "对每个敌人造成首次伤害后，10秒内忍冬对该敌人造成伤害时额外造成攻击力30%的法术伤害"
+        },
+        {
+          "name": "蓄势",
+          "description": "在场时，部署费用的自然回复速度+10%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2180,
+        "atk": 647.0,
+        "def": 380,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "追凶",
+          "description": "对每个敌人造成首次伤害后，10秒内忍冬对该敌人造成伤害时额外造成攻击力30%的法术伤害"
+        },
+        {
+          "name": "蓄势",
+          "description": "在场时，部署费用的自然回复速度+10%，若4秒内自身未受到伤害，则每秒恢复4%的最大生命值"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2180,
+        "atk": 647.0,
+        "def": 380,
+        "magicResistance": 0,
+        "cost": 13.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "追凶",
+          "description": "对每个敌人造成首次伤害后，10秒内忍冬对该敌人造成伤害时额外造成攻击力30%的法术伤害"
+        },
+        {
+          "name": "蓄势",
+          "description": "在场时，部署费用的自然回复速度+10%，若4秒内自身未受到伤害，则每秒恢复5%（+1%）的最大生命值"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2180,
+        "atk": 647.0,
+        "def": 380,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.05,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "追凶",
+          "description": "对每个敌人造成首次伤害后，10秒内忍冬对该敌人造成伤害时额外造成攻击力30%的法术伤害"
+        },
+        {
+          "name": "蓄势",
+          "description": "在场时，部署费用的自然回复速度+10%，若4秒内自身未受到伤害，则每秒恢复5%（+1%）的最大生命值"
+        }
+      ],
+      "trait": "能够阻挡两个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "小施惩戒",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击额外造成攻击力245%的法术伤害，并获得1点部署费用\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 4,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击额外造成攻击力260%的法术伤害，并获得1点部署费用\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 6,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击额外造成攻击力275%的法术伤害，并获得1点部署费用\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 7,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击额外造成攻击力290%的法术伤害，并获得1点部署费用\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 8,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "坠刃拷问",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得6点部署费用，对周围最多6名敌人造成相当于攻击力245%的法术伤害，并令击中目标停顿4.5秒；若敌人已经处于停顿状态，则额外使敌人晕眩4.5秒\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 17,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得6点部署费用，对周围最多6名敌人造成相当于攻击力260%的法术伤害，并令击中目标停顿5秒；若敌人已经处于停顿状态，则额外使敌人晕眩4.5秒\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 18,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得6点部署费用，对周围最多6名敌人造成相当于攻击力280%的法术伤害，并令击中目标停顿5秒；若敌人已经处于停顿状态，则额外使敌人晕眩5秒\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 19,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得7点部署费用，对周围最多6名敌人造成相当于攻击力300%的法术伤害，并令击中目标停顿5秒；若敌人已经处于停顿状态，则额外使敌人晕眩5秒\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 20,
+          "charges": 2,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "隐狐之艺",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启时立即获得8点部署费用，攻击距离+1，攻击力+80%，攻击速度从+170逐渐衰减至+0，同时攻击阻挡的所有敌人，每次攻击晕眩敌人0.2秒\n若技能期间击倒敌人，则技能结束时进入迷彩状态，直至下一次开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 7,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启时立即获得8点部署费用，攻击距离+1，攻击力+90%，攻击速度从+170逐渐衰减至+0，同时攻击阻挡的所有敌人，每次攻击晕眩敌人0.2秒\n若技能期间击倒敌人，则技能结束时进入迷彩状态，直至下一次开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 7,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启时立即获得8点部署费用，攻击距离+1，攻击力+100%，攻击速度从+170逐渐衰减至+0，同时攻击阻挡的所有敌人，每次攻击晕眩敌人0.2秒\n若技能期间击倒敌人，则技能结束时进入迷彩状态，直至下一次开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 19,
+          "initial": 9,
+          "charges": 1,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启时立即获得9点部署费用，攻击距离+1，攻击力+110%，攻击速度从+180逐渐衰减至+0，同时攻击阻挡的所有敌人，每次攻击晕眩敌人0.2秒\n若技能期间击倒敌人，则技能结束时进入迷彩状态，直至下一次开启技能",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 10,
+          "charges": 1,
+          "duration": "10 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

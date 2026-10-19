@@ -1,0 +1,239 @@
+{
+  "id": "char_326_glacus",
+  "name": "格劳克斯",
+  "english": "Glaucus",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "凝滞师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "减速",
+    "控场"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1567,
+        "atk": 540,
+        "def": 100,
+        "magicResistance": 20.0,
+        "cost": 15,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "反制装置",
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力提升至150%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1567,
+        "atk": 540,
+        "def": 100,
+        "magicResistance": 20.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "反制装置",
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力提升至150%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1567,
+        "atk": 540,
+        "def": 100,
+        "magicResistance": 20.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "反制装置",
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力提升至150%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1567,
+        "atk": 563.0,
+        "def": 100,
+        "magicResistance": 20.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "反制装置",
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力提升至150%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1567,
+        "atk": 563.0,
+        "def": 100,
+        "magicResistance": 20.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "反制装置",
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力提升至155%（+5%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1567,
+        "atk": 563.0,
+        "def": 100,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "反制装置",
+          "description": "优先攻击【无人机】单位，且攻击【无人机】时攻击力提升至155%（+5%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "双线装填",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+40%，额外攻击一个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 12,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+43%，额外攻击一个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 14,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+46%，额外攻击一个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 16,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+50%，额外攻击一个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "反制电磁脉冲",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "向周围发射一道冲击波，击中的所有敌人受到攻击力320%的法术伤害并束缚4.5秒；如果目标是【无人机】，受到的伤害加倍并将效果改为晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 16,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "向周围发射一道冲击波，击中的所有敌人受到攻击力340%的法术伤害并束缚5秒；如果目标是【无人机】，受到的伤害加倍并将效果改为晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 17,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "向周围发射一道冲击波，击中的所有敌人受到攻击力360%的法术伤害并束缚5.5秒；如果目标是【无人机】，受到的伤害加倍并将效果改为晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 18,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "向周围发射一道冲击波，击中的所有敌人受到攻击力400%的法术伤害并束缚6秒；如果目标是【无人机】，受到的伤害加倍并将效果改为晕眩",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

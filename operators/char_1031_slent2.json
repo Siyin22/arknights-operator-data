@@ -1,0 +1,374 @@
+{
+  "id": "char_1031_slent2",
+  "name": "淬羽赫默",
+  "english": "Silence the Paradigmatic",
+  "rarity": 6,
+  "profession": "辅助",
+  "branch": "护佑者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "支援",
+    "生存",
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2277,
+        "atk": 522,
+        "def": 184,
+        "magicResistance": 25.0,
+        "cost": 15,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "无声砥柱",
+          "description": "使攻击范围内的友军获得10%的庇护，友军的生命越低该效果越强（低于30%生命时获得最大24%的庇护）"
+        },
+        {
+          "name": "丰润羽翼",
+          "description": "攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力5%的生命，【莱茵生命】干员的恢复效果翻倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2277,
+        "atk": 522,
+        "def": 184,
+        "magicResistance": 25.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "无声砥柱",
+          "description": "使攻击范围内的友军获得10%的庇护，友军的生命越低该效果越强（低于30%生命时获得最大24%的庇护）"
+        },
+        {
+          "name": "丰润羽翼",
+          "description": "攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力5%的生命，【莱茵生命】干员的恢复效果翻倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2277,
+        "atk": 522,
+        "def": 184,
+        "magicResistance": 25.0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "无声砥柱",
+          "description": "使攻击范围内的友军获得10%的庇护，友军的生命越低该效果越强（低于30%生命时获得最大24%的庇护）"
+        },
+        {
+          "name": "丰润羽翼",
+          "description": "攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力5%的生命，【莱茵生命】干员的恢复效果翻倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2277,
+        "atk": 522,
+        "def": 184,
+        "magicResistance": 25.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "无声砥柱",
+          "description": "使攻击范围内的友军获得10%的庇护，友军的生命越低该效果越强（低于30%生命时获得最大24%的庇护）"
+        },
+        {
+          "name": "丰润羽翼",
+          "description": "攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力5%的生命，【莱茵生命】干员的恢复效果翻倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2277,
+        "atk": 522,
+        "def": 184,
+        "magicResistance": 25.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "无声砥柱",
+          "description": "使攻击范围内的友军获得10%的庇护，友军的生命越低该效果越强（低于30%生命时获得最大24%的庇护）"
+        },
+        {
+          "name": "丰润羽翼",
+          "description": "攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力6%（+1%）的生命，【莱茵生命】干员的恢复效果翻倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2277,
+        "atk": 522,
+        "def": 184,
+        "magicResistance": 25.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "无声砥柱",
+          "description": "使攻击范围内的友军获得10%的庇护，友军的生命越低该效果越强（低于30%生命时获得最大24%的庇护）"
+        },
+        {
+          "name": "丰润羽翼",
+          "description": "攻击范围内生命低于50%的友军每秒恢复相当于淬羽赫默攻击力6%（+1%）的生命，【莱茵生命】干员的恢复效果翻倍"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "进取之心",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "俯瞰视界",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+30，技能期间可以使用一个辅助无人机\n无人机投入战场后使周围友军享受2.4倍的第一天赋效果，技能结束或淬羽赫默离场时销毁",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 8,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+40，技能期间可以使用一个辅助无人机\n无人机投入战场后使周围友军享受2.6倍的第一天赋效果，技能结束或淬羽赫默离场时销毁",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 10,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+50，技能期间可以使用一个辅助无人机\n无人机投入战场后使周围友军享受2.8倍的第一天赋效果，技能结束或淬羽赫默离场时销毁",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 26,
+          "initial": 12,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+60，技能期间可以使用一个辅助无人机\n无人机投入战场后使周围友军享受3倍的第一天赋效果，技能结束或淬羽赫默离场时销毁",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 24,
+          "initial": 14,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    },
+    {
+      "name": "无畏者协议",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+30%，第一天赋效果提升至1.8倍；技能期间仅一次，攻击范围内的一名干员受到致命伤时，使其生命值在7秒内不低于1\n同一次作战中最多使用2次，可主动关闭（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 20,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+30%，第一天赋效果提升至1.8倍；技能期间仅一次，攻击范围内的一名干员受到致命伤时，使其生命值在8秒内不低于1\n同一次作战中最多使用2次，可主动关闭（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 20,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+30%，第一天赋效果提升至1.8倍；技能期间仅一次，攻击范围内的一名干员受到致命伤时，使其生命值在9秒内不低于1\n同一次作战中最多使用2次，可主动关闭（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 20,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+30%，第一天赋效果提升至1.8倍；技能期间仅一次，攻击范围内的一名干员受到致命伤时，使其生命值在10秒内不低于1\n同一次作战中最多使用2次，可主动关闭（期间可随时停止技能）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "60 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "夜灯",
+      "stats": {
+        "maxHp": 1000,
+        "atk": 0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 0,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": [
+        {
+          "name": "夜灯",
+          "index": 2,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "使周围八格友军享受2.4倍的淬羽赫默第一天赋效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精一",
+              "description": "使周围八格友军享受2.6倍的淬羽赫默第一天赋效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精二",
+              "description": "使周围八格友军享受2.8倍的淬羽赫默第一天赋效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            },
+            {
+              "label": "专精三",
+              "description": "使周围八格友军享受3倍的淬羽赫默第一天赋效果",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "被动"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "uniequip_002_thorns",
+  "name": "“盐与沙”",
+  "type": "LOR-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 39.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 215.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 48.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到125点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到140（+15）点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到140（+15）点法术伤害，可叠加3次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 260.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到135点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到135点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到135点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到135点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到150（+15）点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击附带10%攻击力的法术伤害",
+            "condition": ""
+          },
+          {
+            "name": "神经腐蚀",
+            "description": "攻击使目标中毒，在3秒内每秒受到150（+15）点法术伤害，可叠加4次（对会远程攻击的目标伤害加倍）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_293_thorns",
+  "operator_name": "棘刺",
+  "profession": "近卫",
+  "branch": "领主"
+}

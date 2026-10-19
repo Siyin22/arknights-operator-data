@@ -1,0 +1,308 @@
+{
+  "id": "char_4138_narant",
+  "name": "娜仁图亚",
+  "english": "Narantuya",
+  "rarity": 6,
+  "profession": "狙击",
+  "branch": "回环射手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2500,
+        "atk": 765,
+        "def": 170,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“我见，我得”",
+          "description": "在场时，每次攻击到敌人偷取其25点攻击力（最高250点）与20点防御力（最高200点）"
+        },
+        {
+          "name": "婀娜虚影",
+          "description": "获得35%的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2500,
+        "atk": 765,
+        "def": 170,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“我见，我得”",
+          "description": "在场时，每次攻击到敌人偷取其25点攻击力（最高250点）与20点防御力（最高200点）"
+        },
+        {
+          "name": "婀娜虚影",
+          "description": "获得35%的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2500,
+        "atk": 765,
+        "def": 170,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“我见，我得”",
+          "description": "在场时，每次攻击到敌人偷取其25点攻击力（最高250点）与20点防御力（最高200点）"
+        },
+        {
+          "name": "婀娜虚影",
+          "description": "获得38%（+3%）的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2500,
+        "atk": 792.0,
+        "def": 170,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“我见，我得”",
+          "description": "在场时，每次攻击到敌人偷取其25点攻击力（最高250点）与20点防御力（最高200点）"
+        },
+        {
+          "name": "婀娜虚影",
+          "description": "获得38%（+3%）的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2500,
+        "atk": 792.0,
+        "def": 170,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“我见，我得”",
+          "description": "在场时，每次攻击到敌人偷取其27（+2）点攻击力（最高270（+20）点）与21（+1）点防御力（最高210（+10）点）"
+        },
+        {
+          "name": "婀娜虚影",
+          "description": "获得38%（+3%）的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    },
+    {
+      "stats": {
+        "maxHp": 2500,
+        "atk": 792.0,
+        "def": 170,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "“我见，我得”",
+          "description": "在场时，每次攻击到敌人偷取其27（+2）点攻击力（最高270（+20）点）与21（+1）点防御力（最高210（+10）点）"
+        },
+        {
+          "name": "婀娜虚影",
+          "description": "获得38%（+3%）的物理与法术闪避，周围8格内敌人的物理与法术命中率-20%"
+        }
+      ],
+      "trait": "持有回旋投射物时才能够攻击（投射物需要时间回收）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+27",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "旋刃",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "可以在下列状态和初始状态间切换：\n攻击距离-1，回旋投射物造成相当于攻击力160%的物理伤害，并且可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "可以在下列状态和初始状态间切换：\n攻击距离-1，回旋投射物造成相当于攻击力170%的物理伤害，并且可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "可以在下列状态和初始状态间切换：\n攻击距离-1，回旋投射物造成相当于攻击力180%的物理伤害，并且可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "可以在下列状态和初始状态间切换：\n攻击距离-1，回旋投射物造成相当于攻击力190%的物理伤害，并且可以在敌人间重复弹射（最多弹跳3次）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "恶魇",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击造成相当于攻击力225%的物理伤害并使目标停顿1秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力170%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 18,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击造成相当于攻击力230%的物理伤害并使目标停顿1秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力180%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 17,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击造成相当于攻击力240%的物理伤害并使目标停顿1秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力190%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 16,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击造成相当于攻击力250%的物理伤害并使目标停顿1秒，投射物命中目标后会在短暂突进后折返，返回时对穿过的所有敌人造成一次相当于攻击力200%的物理伤害",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 15,
+          "initial": 8,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "吞日",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击发射3个回旋投射物（每个造成相当于攻击力160%的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多3名敌人造成一次相当于攻击力140%的物理伤害并使其停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 36,
+          "initial": 17,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击发射3个回旋投射物（每个造成相当于攻击力165%的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多3名敌人造成一次相当于攻击力145%的物理伤害并使其停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击发射3个回旋投射物（每个造成相当于攻击力170%的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多3名敌人造成一次相当于攻击力150%的物理伤害并使其停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 19,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击发射3个回旋投射物（每个造成相当于攻击力175%的物理伤害），投射物全部回收时娜仁图亚对周围8格内至多3名敌人造成一次相当于攻击力160%的物理伤害并使其停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

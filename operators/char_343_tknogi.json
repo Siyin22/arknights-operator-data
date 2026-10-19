@@ -1,0 +1,239 @@
+{
+  "id": "char_343_tknogi",
+  "name": "月禾",
+  "english": "Tsukinogi",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "护佑者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "支援",
+    "生存"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2020,
+        "atk": 485,
+        "def": 175,
+        "magicResistance": 25.0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "祝",
+          "description": "攻击范围内的友军生命少于40%时，使其获得18%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2020,
+        "atk": 485,
+        "def": 175,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "祝",
+          "description": "攻击范围内的友军生命少于40%时，使其获得18%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2020,
+        "atk": 485,
+        "def": 175,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "祝",
+          "description": "攻击范围内的友军生命少于40%时，使其获得18%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2180.0,
+        "atk": 485,
+        "def": 175,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "祝",
+          "description": "攻击范围内的友军生命少于40%时，使其获得18%的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2180.0,
+        "atk": 485,
+        "def": 175,
+        "magicResistance": 25.0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "祝",
+          "description": "攻击范围内的友军生命少于40%时，使其获得20%（+2%）的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    },
+    {
+      "stats": {
+        "maxHp": 2180.0,
+        "atk": 485,
+        "def": 175,
+        "magicResistance": 25.0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "祝",
+          "description": "攻击范围内的友军生命少于40%时，使其获得20%（+2%）的庇护"
+        }
+      ],
+      "trait": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "生命上限+160",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迹无",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围内的友军获得31%的物理闪避与法术闪避，并使敌人的隐匿效果失效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 21,
+          "charges": 1,
+          "duration": "31 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围内的友军获得32%的物理闪避与法术闪避，并使敌人的隐匿效果失效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 22,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围内的友军获得33%的物理闪避与法术闪避，并使敌人的隐匿效果失效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 23,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围内的友军获得35%的物理闪避与法术闪避，并使敌人的隐匿效果失效",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 25,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "森廻",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，天赋的触发条件变为55%生命且庇护效果提升至2倍，每秒恢复攻击范围内友军相当于月禾攻击力10%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 51,
+          "initial": 20,
+          "charges": 1,
+          "duration": "17 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，天赋的触发条件变为55%生命且庇护效果提升至2.1倍，每秒恢复攻击范围内友军相当于月禾攻击力10%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 21,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，天赋的触发条件变为55%生命且庇护效果提升至2.2倍，每秒恢复攻击范围内友军相当于月禾攻击力12%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 22,
+          "charges": 1,
+          "duration": "19 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，天赋的触发条件变为60%生命且庇护效果提升至2.3倍，每秒恢复攻击范围内友军相当于月禾攻击力12%的生命",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 48,
+          "initial": 23,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

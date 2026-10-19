@@ -1,0 +1,238 @@
+{
+  "id": "char_4004_pudd",
+  "name": "布丁",
+  "english": "Pudding",
+  "rarity": 4,
+  "profession": "术师",
+  "branch": "链术师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1326,
+        "atk": 612,
+        "def": 108,
+        "magicResistance": 20.0,
+        "cost": 31,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "电磁波",
+          "description": "攻击力+10%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1326,
+        "atk": 612,
+        "def": 108,
+        "magicResistance": 20.0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "电磁波",
+          "description": "攻击力+10%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1326,
+        "atk": 612,
+        "def": 108,
+        "magicResistance": 20.0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "电磁波",
+          "description": "攻击力+10%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1326,
+        "atk": 635.0,
+        "def": 108,
+        "magicResistance": 20.0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "电磁波",
+          "description": "攻击力+10%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1326,
+        "atk": 635.0,
+        "def": 108,
+        "magicResistance": 20.0,
+        "cost": 30.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "电磁波",
+          "description": "攻击力+10%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1326,
+        "atk": 635.0,
+        "def": 108,
+        "magicResistance": 20.0,
+        "cost": 29.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.3,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "电磁波",
+          "description": "攻击力+10%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "战术咏唱·β型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+55",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+65",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 5,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+75",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "扩散电流",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "技能开启时，攻击力+80%，攻击可在敌人间重复跳跃，最多弹跳4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "技能开启时，攻击力+90%，攻击可在敌人间重复跳跃，最多弹跳4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "技能开启时，攻击力+100%，攻击可在敌人间重复跳跃，最多弹跳4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 15,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "技能开启时，攻击力+110%，攻击可在敌人间重复跳跃，最多弹跳4次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

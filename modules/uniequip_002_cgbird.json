@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_cgbird",
+  "name": "“封闭的希望”",
+  "type": "RIN-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+17（+2）且受到的治疗效果提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+17（+2）且受到的治疗效果提升3%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        },
+        {
+          "key": "magicResistance",
+          "label": "法术抗性",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+15且受到的治疗效果提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+17（+2）且受到的治疗效果提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "白恶魔的庇护",
+            "description": "攻击范围内的友方单位法术抗性+17（+2）且受到的治疗效果提升5%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_179_cgbird",
+  "operator_name": "夜莺",
+  "profession": "医疗",
+  "branch": "群愈师"
+}

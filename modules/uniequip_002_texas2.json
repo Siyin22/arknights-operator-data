@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_texas2",
+  "name": "蓝莓与黑巧",
+  "type": "EXE-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 140.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+25%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+25%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+25%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+25%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+25%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+25%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+28%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+28%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+28%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+28%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+28%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "周围四格没有友方干员时攻击力+10%",
+            "condition": ""
+          },
+          {
+            "name": "德克萨斯传统",
+            "description": "被动技能持续时间内攻击力+28%，首次击倒敌人时回复所有生命并重新释放被动技能",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_1028_texas2",
+  "operator_name": "缄默德克萨斯",
+  "profession": "特种",
+  "branch": "处决者"
+}

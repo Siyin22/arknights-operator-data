@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_bison",
+  "name": "“一路以来”",
+  "type": "PRO-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+60，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+60，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+60，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+60，自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+80（+20），自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+80（+20），自己身后的如果是【先锋】或【近卫】干员也能享受到相同效果",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 85.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+80，自己身后的干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+80，自己身后的干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+80，自己身后的干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+80，自己身后的干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+100（+20），自己身后的干员也能享受到相同效果",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "交叉掩护",
+            "description": "在场时自身防御力+100（+20），自己身后的干员也能享受到相同效果",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_325_bison",
+  "operator_name": "拜松",
+  "profession": "重装",
+  "branch": "铁卫"
+}

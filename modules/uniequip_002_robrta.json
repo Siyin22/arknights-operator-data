@@ -1,0 +1,361 @@
+{
+  "id": "uniequip_002_robrta",
+  "name": "半自动造型工具套组",
+  "type": "CRA-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "全自动造型仪",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 200.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 38.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "全自动造型仪",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+36%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+39%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+39%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+39%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+39%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 250.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 46.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "全自动造型仪",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -2.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+40%并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+43%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+43%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "携带3个造型仪（最多部署3个），使一名近战位上的单位防御力+43%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": ""
+          },
+          {
+            "name": "造型仪调试",
+            "description": "使一名近战位上的单位防御力+43%（+3%）并获得2层护盾（持续25秒，防御加成不叠加）",
+            "condition": "作用于召唤物"
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_484_robrta",
+  "operator_name": "罗比菈塔",
+  "profession": "辅助",
+  "branch": "工匠"
+}

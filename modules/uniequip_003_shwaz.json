@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_shwaz",
+  "name": "老剃刀",
+  "type": "ARC-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 10.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 13.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至165%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 120.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 16.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击正前方的敌人时攻击力提升至105%且无视其物理闪避",
+            "condition": ""
+          },
+          {
+            "name": "破甲箭头",
+            "description": "攻击时，20%几率当次攻击的攻击力提升至170%，并使命中目标的防御力下降25%，持续5秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_340_shwaz",
+  "operator_name": "黑",
+  "profession": "狙击",
+  "branch": "重射手"
+}

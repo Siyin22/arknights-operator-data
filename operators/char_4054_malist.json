@@ -1,0 +1,238 @@
+{
+  "id": "char_4054_malist",
+  "name": "至简",
+  "english": "Minimalist",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "驭械术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1500,
+        "atk": 360,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 23,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "忽有所悟",
+          "description": "攻击时，25％几率当次攻击的攻击力提升至150％"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1500,
+        "atk": 360,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "忽有所悟",
+          "description": "攻击时，25％几率当次攻击的攻击力提升至150％"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1500,
+        "atk": 360,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 22.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "忽有所悟",
+          "description": "攻击时，25％几率当次攻击的攻击力提升至150％"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1500,
+        "atk": 360,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "忽有所悟",
+          "description": "攻击时，25％几率当次攻击的攻击力提升至150％"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1500,
+        "atk": 360,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "忽有所悟",
+          "description": "攻击时，30％（+5%）几率当次攻击的攻击力提升至150％"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    },
+    {
+      "stats": {
+        "maxHp": 1500,
+        "atk": 360,
+        "def": 120,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "忽有所悟",
+          "description": "攻击时，30％（+5%）几率当次攻击的攻击力提升至150％"
+        }
+      ],
+      "trait": "操作浮游单元造成法术伤害\n单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "神工意匠",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力160%的法术伤害，并连续攻击两次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 2,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力170%的法术伤害，并连续攻击两次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 3,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力180%的法术伤害，并连续攻击两次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 4,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力200%的法术伤害，并连续攻击两次\n可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 4,
+          "charges": 3,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

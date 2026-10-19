@@ -1,0 +1,309 @@
+{
+  "id": "char_188_helage",
+  "name": "赫拉格",
+  "english": "Hellagur",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "武者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4225,
+        "atk": 832,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 26,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "月盈星亏",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "运筹帷幄",
+          "description": "未阻挡敌人时每秒回复60生命"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4225,
+        "atk": 832,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "月盈星亏",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "运筹帷幄",
+          "description": "未阻挡敌人时每秒回复60生命"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4225,
+        "atk": 832,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "月盈星亏",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "运筹帷幄",
+          "description": "未阻挡敌人时每秒回复60生命"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4225,
+        "atk": 858.0,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "月盈星亏",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "运筹帷幄",
+          "description": "未阻挡敌人时每秒回复60生命"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4225,
+        "atk": 858.0,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 25.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "月盈星亏",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "运筹帷幄",
+          "description": "未阻挡敌人时每秒回复70（+10）生命"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    },
+    {
+      "stats": {
+        "maxHp": 4225,
+        "atk": 858.0,
+        "def": 334,
+        "magicResistance": 0,
+        "cost": 24.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "月盈星亏",
+          "description": "在场时，自身获得最高+100攻击速度的坚忍（损失70%生命值时达到最大加成）"
+        },
+        {
+          "name": "运筹帷幄",
+          "description": "未阻挡敌人时每秒回复70（+10）生命"
+        }
+      ],
+      "trait": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+26",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "新月",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提升至145%，并连续攻击两次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提升至155%，并连续攻击两次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提升至165%，并连续攻击两次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提升至175%，并连续攻击两次",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "弦月",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+50%，攻击变为二连击，获得75%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 10,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+60%，攻击变为二连击，获得75%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 11,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+70%，攻击变为二连击，获得75%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 12,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+80%，攻击变为二连击，获得75%的物理闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "13 秒"
+        }
+      ]
+    },
+    {
+      "name": "满月",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%，攻击范围+1格，最多可以同时攻击3个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 41,
+          "initial": 15,
+          "charges": 1,
+          "duration": "14 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+80%，攻击范围+2格，最多可以同时攻击3个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 15,
+          "charges": 1,
+          "duration": "14 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+90%，攻击范围+2格，最多可以同时攻击3个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 15,
+          "charges": 1,
+          "duration": "14 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+100%，攻击范围+2格，最多可以同时攻击3个目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

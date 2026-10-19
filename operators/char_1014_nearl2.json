@@ -1,0 +1,372 @@
+{
+  "id": "char_1014_nearl2",
+  "name": "耀骑士临光",
+  "english": "Nearl the Radiant Knight",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "无畏者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 3750,
+        "atk": 1149,
+        "def": 295,
+        "magicResistance": 0,
+        "cost": 19,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不畏苦暗",
+          "description": "部署时对周围四格敌人造成80%攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害"
+        },
+        {
+          "name": "破晓",
+          "description": "攻击无视敌人20%的防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3750,
+        "atk": 1149,
+        "def": 295,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不畏苦暗",
+          "description": "部署时对周围四格敌人造成80%攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害"
+        },
+        {
+          "name": "破晓",
+          "description": "攻击无视敌人20%的防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3750,
+        "atk": 1149,
+        "def": 295,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不畏苦暗",
+          "description": "部署时对周围四格敌人造成80%攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害"
+        },
+        {
+          "name": "破晓",
+          "description": "攻击无视敌人20%的防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3750,
+        "atk": 1184.0,
+        "def": 295,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不畏苦暗",
+          "description": "部署时对周围四格敌人造成80%攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害"
+        },
+        {
+          "name": "破晓",
+          "description": "攻击无视敌人20%的防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3750,
+        "atk": 1184.0,
+        "def": 295,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不畏苦暗",
+          "description": "部署时对周围四格敌人造成80%攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害"
+        },
+        {
+          "name": "破晓",
+          "description": "攻击无视敌人23%（+3%）的防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 3750,
+        "atk": 1184.0,
+        "def": 295,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "不畏苦暗",
+          "description": "部署时对周围四格敌人造成80%攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害"
+        },
+        {
+          "name": "破晓",
+          "description": "攻击无视敌人23%（+3%）的防御力"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+35",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "灿焰长刃",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+55%，攻击速度+38\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+60%，攻击速度+42\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+65%，攻击速度+46\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+70%，攻击速度+50\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "逐夜烁光",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：部署不消耗部署位。\n部署后攻击力+120%，获得3层护盾。技能结束后自动撤退，本次再部署时间延长25%，上一名部署干员势力为【卡西米尔】时本次再部署时间不再延长",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：部署不消耗部署位。\n部署后攻击力+130%，获得4层护盾。技能结束后自动撤退，本次再部署时间延长25%，上一名部署干员势力为【卡西米尔】时本次再部署时间不再延长",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：部署不消耗部署位。\n部署后攻击力+145%，获得4层护盾。技能结束后自动撤退，本次再部署时间延长25%，上一名部署干员势力为【卡西米尔】时本次再部署时间不再延长",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：部署不消耗部署位。\n部署后攻击力+160%，获得4层护盾。技能结束后自动撤退，本次再部署时间延长25%，上一名部署干员势力为【卡西米尔】时本次再部署时间不再延长",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "27 秒"
+        }
+      ]
+    },
+    {
+      "name": "耀阳颔首",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "在周围四格可部署地面召唤一把\"耀阳\"对周围敌人造成100%耀骑士临光攻击力的真实伤害并晕眩3秒，自身攻击范围扩大，攻击力+100%、防御力+70%，攻击自身与\"耀阳\"阻挡的单位时伤害类型变为真实",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 20,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "在周围四格可部署地面召唤一把\"耀阳\"对周围敌人造成110%耀骑士临光攻击力的真实伤害并晕眩3秒，自身攻击范围扩大，攻击力+110%、防御力+80%，攻击自身与\"耀阳\"阻挡的单位时伤害类型变为真实",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "在周围四格可部署地面召唤一把\"耀阳\"对周围敌人造成110%耀骑士临光攻击力的真实伤害并晕眩3秒，自身攻击范围扩大，攻击力+125%、防御力+90%，攻击自身与\"耀阳\"阻挡的单位时伤害类型变为真实",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "在周围四格可部署地面召唤一把\"耀阳\"对周围敌人造成110%耀骑士临光攻击力的真实伤害并晕眩3秒，自身攻击范围扩大，攻击力+140%、防御力+100%，攻击自身与\"耀阳\"阻挡的单位时伤害类型变为真实",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "“耀阳”",
+      "stats": {
+        "maxHp": 6000,
+        "atk": 10,
+        "def": 600,
+        "magicResistance": 20.0,
+        "cost": 0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.0,
+        "respawnTime": 0,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡两个敌人",
+      "skills": [
+        {
+          "name": "“耀阳”",
+          "index": 3,
+          "levels": [
+            {
+              "label": "7级",
+              "description": "部署时对周围四格敌人造成100%耀骑士临光攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精一",
+              "description": "部署时对周围四格敌人造成110%耀骑士临光攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精二",
+              "description": "部署时对周围四格敌人造成110%耀骑士临光攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            },
+            {
+              "label": "专精三",
+              "description": "部署时对周围四格敌人造成110%耀骑士临光攻击力的真实伤害并晕眩3秒，上一名部署干员势力为【卡西米尔】时额外造成一次伤害",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 0,
+              "duration": "无限持续"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "char_4187_graceb",
+  "name": "聆音",
+  "english": "Gracebearer",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "本源近卫",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "爆发",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2600,
+        "atk": 900,
+        "def": 350,
+        "magicResistance": 10.0,
+        "cost": 22,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "趁势怜悯",
+          "description": "攻击力+10%，击倒过处于神经损伤爆发期间的敌人后改为攻击力+15%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2600,
+        "atk": 900,
+        "def": 350,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "趁势怜悯",
+          "description": "攻击力+10%，击倒过处于神经损伤爆发期间的敌人后改为攻击力+15%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2600,
+        "atk": 900,
+        "def": 350,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "趁势怜悯",
+          "description": "攻击力+10%，击倒过处于神经损伤爆发期间的敌人后改为攻击力+15%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2600,
+        "atk": 930.0,
+        "def": 350,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "趁势怜悯",
+          "description": "攻击力+10%，击倒过处于神经损伤爆发期间的敌人后改为攻击力+15%"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2600,
+        "atk": 930.0,
+        "def": 350,
+        "magicResistance": 10.0,
+        "cost": 21.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "趁势怜悯",
+          "description": "攻击力+13%（+3%），击倒过处于神经损伤爆发期间的敌人后改为攻击力+18%（+3%）"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以造成元素伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2600,
+        "atk": 930.0,
+        "def": 350,
+        "magicResistance": 10.0,
+        "cost": 20.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.2,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "趁势怜悯",
+          "description": "攻击力+13%（+3%），击倒过处于神经损伤爆发期间的敌人后改为攻击力+18%（+3%）"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，可以造成元素伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+30",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "开颅挽歌",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击变为二连击，每次攻击造成相当于攻击力130%的物理伤害，攻击附带造成伤害10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击变为二连击，每次攻击造成相当于攻击力135%的物理伤害，攻击附带造成伤害10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 11,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击变为二连击，每次攻击造成相当于攻击力140%的物理伤害，攻击附带造成伤害10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 12,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击变为二连击，每次攻击造成相当于攻击力150%的物理伤害，攻击附带造成伤害10%的神经损伤",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "破膛弥撒",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即对周围最多5名地面敌人造成三次相当于攻击力220%的物理伤害，若目标处于神经损伤爆发期间则改为造成元素伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "立即对周围最多6名地面敌人造成三次相当于攻击力230%的物理伤害，若目标处于神经损伤爆发期间则改为造成元素伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "立即对周围最多6名地面敌人造成三次相当于攻击力240%的物理伤害，若目标处于神经损伤爆发期间则改为造成元素伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "立即对周围最多6名地面敌人造成三次相当于攻击力250%的物理伤害，若目标处于神经损伤爆发期间则改为造成元素伤害\n可充能2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

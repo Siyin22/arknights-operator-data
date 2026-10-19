@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_shining",
+  "name": "干枯剑鞘",
+  "type": "PHY-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+80，地面单位防御力额外+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+80，地面单位防御力额外+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+80，地面单位防御力额外+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+80，地面单位防御力额外+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+80，地面单位防御力额外+30",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+85（+5），地面单位防御力额外+30",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+100，地面单位防御力额外+40",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+100，地面单位防御力额外+40",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+100，地面单位防御力额外+40",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+100，地面单位防御力额外+40",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+100，地面单位防御力额外+40",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "治疗地面单位时治疗量提升15%",
+            "condition": ""
+          },
+          {
+            "name": "黑恶魔的庇护",
+            "description": "攻击范围内的友方单位防御力+105（+5），地面单位防御力额外+40",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_147_shining",
+  "operator_name": "闪灵",
+  "profession": "医疗",
+  "branch": "医师"
+}

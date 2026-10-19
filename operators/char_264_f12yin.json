@@ -1,0 +1,309 @@
+{
+  "id": "char_264_f12yin",
+  "name": "山",
+  "english": "Mountain",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "斗士",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2745,
+        "atk": 632,
+        "def": 402,
+        "magicResistance": 0,
+        "cost": 11,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巨力重拳",
+          "description": "攻击时有20%的几率攻击力提升至160%，并在3秒内使目标攻击力降低15%（不可叠加）"
+        },
+        {
+          "name": "强壮肉体",
+          "description": "防御力+10%，获得15%的物理闪避"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2745,
+        "atk": 632,
+        "def": 402,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巨力重拳",
+          "description": "攻击时有20%的几率攻击力提升至160%，并在3秒内使目标攻击力降低15%（不可叠加）"
+        },
+        {
+          "name": "强壮肉体",
+          "description": "防御力+10%，获得15%的物理闪避"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2745,
+        "atk": 632,
+        "def": 402,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巨力重拳",
+          "description": "攻击时有20%的几率攻击力提升至160%，并在3秒内使目标攻击力降低15%（不可叠加）"
+        },
+        {
+          "name": "强壮肉体",
+          "description": "防御力+10%，获得15%的物理闪避"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2745,
+        "atk": 656.0,
+        "def": 402,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巨力重拳",
+          "description": "攻击时有20%的几率攻击力提升至160%，并在3秒内使目标攻击力降低15%（不可叠加）"
+        },
+        {
+          "name": "强壮肉体",
+          "description": "防御力+10%，获得15%的物理闪避"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2745,
+        "atk": 656.0,
+        "def": 402,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巨力重拳",
+          "description": "攻击时有20%的几率攻击力提升至165%（+5%），并在3秒内使目标攻击力降低15%（不可叠加）"
+        },
+        {
+          "name": "强壮肉体",
+          "description": "防御力+10%，获得15%的物理闪避"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2745,
+        "atk": 656.0,
+        "def": 402,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.78,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "巨力重拳",
+          "description": "攻击时有20%的几率攻击力提升至165%（+5%），并在3秒内使目标攻击力降低15%（不可叠加）"
+        },
+        {
+          "name": "强壮肉体",
+          "description": "防御力+10%，获得15%的物理闪避"
+        }
+      ],
+      "trait": "能够阻挡一个敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+24",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "左勾扫拳",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提升至200%，额外攻击一个目标",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提升至210%，额外攻击一个目标",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提升至220%，额外攻击一个目标",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提升至230%，额外攻击一个目标",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "横扫架势",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "可以在下列状态和初始状态间切换：\n防御力-25%，攻击距离缩短，攻击力+50%，阻挡数+1，同时攻击阻挡的所有敌人，每秒恢复最大生命的5.0%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "可以在下列状态和初始状态间切换：\n防御力-25%，攻击距离缩短，攻击力+60%，阻挡数+1，同时攻击阻挡的所有敌人，每秒恢复最大生命的5.5%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "可以在下列状态和初始状态间切换：\n防御力-25%，攻击距离缩短，攻击力+70%，阻挡数+1，同时攻击阻挡的所有敌人，每秒恢复最大生命的6.0%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "可以在下列状态和初始状态间切换：\n防御力-20%，攻击距离缩短，攻击力+80%，阻挡数+1，同时攻击阻挡的所有敌人，每秒恢复最大生命的7.0%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "震地碎岩击",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔增大，攻击力+70%，攻击变为2连击，第一天赋的发动几率提升至55%，每次攻击周围最多3个敌人并将其中等力度地推动",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 44,
+          "initial": 25,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔增大，攻击力+80%，攻击变为2连击，第一天赋的发动几率提升至60%，每次攻击周围最多4个敌人并将其中等力度地推动",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 43,
+          "initial": 25,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔增大，攻击力+90%，攻击变为2连击，第一天赋的发动几率提升至65%，每次攻击周围最多4个敌人并将其中等力度地推动",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 42,
+          "initial": 25,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔增大，攻击力+100%，攻击变为2连击，第一天赋的发动几率提升至75%，每次攻击周围最多4个敌人并将其中等力度地推动",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 40,
+          "initial": 25,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

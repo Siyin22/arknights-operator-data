@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_snakek",
+  "name": "超强棒球套装",
+  "type": "PRO-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+15%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+15%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 170.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+18%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "阻挡敌人时防御力+20%",
+            "condition": ""
+          },
+          {
+            "name": "防御专精",
+            "description": "防御力+18%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_150_snakek",
+  "operator_name": "蛇屠箱",
+  "profession": "重装",
+  "branch": "铁卫"
+}

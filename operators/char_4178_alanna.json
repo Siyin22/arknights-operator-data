@@ -1,0 +1,256 @@
+{
+  "id": "char_4178_alanna",
+  "name": "阿兰娜",
+  "english": "Alanna",
+  "rarity": 5,
+  "profession": "辅助",
+  "branch": "工匠",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 610,
+        "def": 467,
+        "magicResistance": 0,
+        "cost": 18,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "临时改装",
+          "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其80点防御力（持续30秒），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 610,
+        "def": 467,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "临时改装",
+          "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其80点防御力（持续30秒），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 610,
+        "def": 467,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "临时改装",
+          "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其80点防御力（持续30秒），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 635.0,
+        "def": 467,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "临时改装",
+          "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其80点防御力（持续30秒），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 635.0,
+        "def": 467,
+        "magicResistance": 0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "临时改装",
+          "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其90（+10）点防御力（持续30秒），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    },
+    {
+      "stats": {
+        "maxHp": 2560,
+        "atk": 635.0,
+        "def": 467,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "临时改装",
+          "description": "携带3个支援装置（最多部署2个），使一名干员攻击敌人时无视其90（+10）点防御力（持续30秒），装置效果不叠加"
+        }
+      ],
+      "trait": "能够阻挡两个敌人，使用协助作战"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "气动增压",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "拥有支援装置的干员攻击速度+17，且支援装置持续时间+24秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        },
+        {
+          "label": "专精一",
+          "description": "拥有支援装置的干员攻击速度+19，且支援装置持续时间+26秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        },
+        {
+          "label": "专精二",
+          "description": "拥有支援装置的干员攻击速度+21，且支援装置持续时间+28秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        },
+        {
+          "label": "专精三",
+          "description": "拥有支援装置的干员攻击速度+23，且支援装置持续时间+30秒",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "被动"
+        }
+      ]
+    },
+    {
+      "name": "“万斤顶”",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "自身攻击力+38%，攻击速度+38，且天赋效果提升至2.2倍，技能结束后获得1个支援装置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 13,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "自身攻击力+42%，攻击速度+42，且天赋效果提升至2.3倍，技能结束后获得1个支援装置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "自身攻击力+45%，攻击速度+45，且天赋效果提升至2.5倍，技能结束后获得1个支援装置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "自身攻击力+50%，攻击速度+50，且天赋效果提升至2.7倍，技能结束后获得1个支援装置",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 15,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "小螺帽",
+      "stats": {
+        "maxHp": 100,
+        "atk": 100,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 15,
+        "attackSpeed": 100.0
+      },
+      "trait": "不会受到攻击",
+      "skills": []
+    }
+  ]
+}

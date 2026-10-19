@@ -1,0 +1,239 @@
+{
+  "id": "char_194_leto",
+  "name": "烈夏",
+  "english": "Лето",
+  "rarity": 5,
+  "profession": "近卫",
+  "branch": "领主",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "支援"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2490,
+        "atk": 720,
+        "def": 375,
+        "magicResistance": 10.0,
+        "cost": 19,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快点快点！",
+          "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+21，持续至技能结束"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2490,
+        "atk": 720,
+        "def": 375,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快点快点！",
+          "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+21，持续至技能结束"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2490,
+        "atk": 720,
+        "def": 375,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快点快点！",
+          "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+21，持续至技能结束"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2490,
+        "atk": 746.0,
+        "def": 375,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快点快点！",
+          "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+21，持续至技能结束"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2490,
+        "atk": 746.0,
+        "def": 375,
+        "magicResistance": 10.0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快点快点！",
+          "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+24（+3），持续至技能结束"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    },
+    {
+      "stats": {
+        "maxHp": 2490,
+        "atk": 746.0,
+        "def": 375,
+        "magicResistance": 10.0,
+        "cost": 17.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.3,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "快点快点！",
+          "description": "开启技能时，【乌萨斯学生自治团】干员攻击速度+24（+3），持续至技能结束"
+        }
+      ],
+      "trait": "可以进行远程攻击，但此时攻击力降低至80%"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+26",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "迅捷打击·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+34%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 39,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+37%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 38,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+40%，攻击速度+35",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 37,
+          "initial": 10,
+          "charges": 1,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+45%，攻击速度+45",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "一呼百应",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻使技能就绪的【乌萨斯学生自治团】干员同时开启技能，自身攻击力+80%，额外攻击一个目标，远程攻击不再降低攻击力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 35,
+          "initial": 12,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻使技能就绪的【乌萨斯学生自治团】干员同时开启技能，自身攻击力+90%，额外攻击一个目标，远程攻击不再降低攻击力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 14,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻使技能就绪的【乌萨斯学生自治团】干员同时开启技能，自身攻击力+100%，额外攻击一个目标，远程攻击不再降低攻击力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 14,
+          "charges": 1,
+          "duration": "25 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻使技能就绪的【乌萨斯学生自治团】干员同时开启技能，自身攻击力+115%，额外攻击一个目标，远程攻击不再降低攻击力",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 16,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

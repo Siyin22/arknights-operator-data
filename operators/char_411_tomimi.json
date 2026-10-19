@@ -1,0 +1,239 @@
+{
+  "id": "char_411_tomimi",
+  "name": "特米米",
+  "english": "Tomimi",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "中坚术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 635,
+        "def": 119,
+        "magicResistance": 20.0,
+        "cost": 22,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野法术",
+          "description": "技能开启时，攻击范围缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+100%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 635,
+        "def": 119,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野法术",
+          "description": "技能开启时，攻击范围缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+100%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 635,
+        "def": 119,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野法术",
+          "description": "技能开启时，攻击范围缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+100%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 635,
+        "def": 119,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野法术",
+          "description": "技能开启时，攻击范围缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+100%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 635,
+        "def": 119,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野法术",
+          "description": "技能开启时，攻击范围缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+120%（+20%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2120,
+        "atk": 635,
+        "def": 119,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "荒野法术",
+          "description": "技能开启时，攻击范围缩小，攻击变为物理伤害（只攻击地面敌人），攻击力+120%（+20%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "部族技艺",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+60",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+70",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+80",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 10,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+90",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 15,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "嘉维尔保护方案",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击有70%的概率随机触发下列效果之一：目标晕眩1.2秒；当次攻击力提升至190%；当次攻击造成群体伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 18,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击有80%的概率随机触发下列效果之一：目标晕眩1.2秒；当次攻击力提升至205%；当次攻击造成群体伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 18,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击有90%的概率随机触发下列效果之一：目标晕眩1.2秒；当次攻击力提升至220%；当次攻击造成群体伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 18,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击有100%的概率随机触发下列效果之一：目标晕眩1.6秒；当次攻击力提升至220%；当次攻击造成群体伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

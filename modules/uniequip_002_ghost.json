@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ghost",
+  "name": "幽明烛光",
+  "type": "CEN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 34.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 52.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 42.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升3%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升3%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 60.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 48.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升5%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "溶于血的经验",
+            "description": "在场时，所有【深海猎人】干员造成的伤害提升5%",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_143_ghost",
+  "operator_name": "幽灵鲨",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

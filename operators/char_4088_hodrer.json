@@ -1,0 +1,308 @@
+{
+  "id": "char_4088_hodrer",
+  "name": "赫德雷",
+  "english": "Hoederer",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "重剑手",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 6488,
+        "atk": 1656,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 24,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "及锋而试",
+          "description": "攻击敌人时攻击力提升至110%，若目标处于晕眩、束缚则改为提升至140%"
+        },
+        {
+          "name": "余火之氅",
+          "description": "使自身与身后一格的友军获得18%的庇护"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6488,
+        "atk": 1656,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "及锋而试",
+          "description": "攻击敌人时攻击力提升至110%，若目标处于晕眩、束缚则改为提升至140%"
+        },
+        {
+          "name": "余火之氅",
+          "description": "使自身与身后一格的友军获得18%的庇护"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6738.0,
+        "atk": 1656,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "及锋而试",
+          "description": "攻击敌人时攻击力提升至110%，若目标处于晕眩、束缚则改为提升至140%"
+        },
+        {
+          "name": "余火之氅",
+          "description": "使自身与身后一格的友军获得18%的庇护"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6738.0,
+        "atk": 1701.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "及锋而试",
+          "description": "攻击敌人时攻击力提升至110%，若目标处于晕眩、束缚则改为提升至140%"
+        },
+        {
+          "name": "余火之氅",
+          "description": "使自身与身后一格的友军获得18%的庇护"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6738.0,
+        "atk": 1701.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 23.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "及锋而试",
+          "description": "攻击敌人时攻击力提升至110%，若目标处于晕眩、束缚则改为提升至140%"
+        },
+        {
+          "name": "余火之氅",
+          "description": "使自身与身后一格的友军获得21%（+3%）的庇护"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 6738.0,
+        "atk": 1701.0,
+        "def": 0,
+        "magicResistance": 0,
+        "cost": 22.0,
+        "blockCnt": 2,
+        "baseAttackTime": 2.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "及锋而试",
+          "description": "攻击敌人时攻击力提升至110%，若目标处于晕眩、束缚则改为提升至140%"
+        },
+        {
+          "name": "余火之氅",
+          "description": "使自身与身后一格的友军获得21%（+3%）的庇护"
+        }
+      ],
+      "trait": "同时攻击阻挡的所有敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "生命上限+250",
+    "攻击力+45",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "重锋不熄",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力200%的物理伤害，并回复自身20%的生命",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力220%的物理伤害，并回复自身20%的生命",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力240%的物理伤害，并回复自身20%的生命",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力260%的物理伤害，并回复自身25%的生命",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 2,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "余烬重荷",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动效果：攻击力+28%\n主动触发可以在下列状态和初始状态间切换：\n攻击间隔略微增大，阻挡数+1，攻击使目标晕眩1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动效果：攻击力+32%\n主动触发可以在下列状态和初始状态间切换：\n攻击间隔略微增大，阻挡数+1，攻击使目标晕眩1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动效果：攻击力+36%\n主动触发可以在下列状态和初始状态间切换：\n攻击间隔略微增大，阻挡数+1，攻击使目标晕眩1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动效果：攻击力+40%\n主动触发可以在下列状态和初始状态间切换：\n攻击间隔略微增大，阻挡数+1，攻击使目标晕眩1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "死境硝烟",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每秒流失100点生命，并使自身攻击过和攻击过自身的敌人每秒受到200点真实伤害；攻击距离+1，生命上限+45%，攻击力+90%，每次攻击回复自身5%的生命且有25%概率使目标晕眩4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 60,
+          "initial": 40,
+          "charges": 1,
+          "duration": "70 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每秒流失100点生命，并使自身攻击过和攻击过自身的敌人每秒受到200点真实伤害；攻击距离+1，生命上限+45%，攻击力+100%，每次攻击回复自身5%的生命且有25%概率使目标晕眩4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 57,
+          "initial": 40,
+          "charges": 1,
+          "duration": "70 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每秒流失100点生命，并使自身攻击过和攻击过自身的敌人每秒受到200点真实伤害；攻击距离+1，生命上限+45%，攻击力+110%，每次攻击回复自身5%的生命且有25%概率使目标晕眩4秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 40,
+          "charges": 1,
+          "duration": "70 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每秒流失100点生命，并使自身攻击过和攻击过自身的敌人每秒受到200点真实伤害；攻击距离+1，生命上限+60%，攻击力+120%，每次攻击回复自身5%的生命且有25%概率使目标晕眩5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 40,
+          "charges": 1,
+          "duration": "70 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

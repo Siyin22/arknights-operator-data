@@ -1,0 +1,309 @@
+{
+  "id": "char_4098_vvana",
+  "name": "薇薇安娜",
+  "english": "Viviana",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "术战者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2920,
+        "atk": 746,
+        "def": 447,
+        "magicResistance": 15.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "燃烛施明",
+          "description": "造成的法术伤害+8%，受到的物理和法术伤害-8%。攻击范围内存在精英或领袖敌人时，该效果提升至2倍"
+        },
+        {
+          "name": "散华",
+          "description": "攻击精英或领袖敌人时，有18%概率获得一层仅抵挡近战攻击的护盾（最多1层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2920,
+        "atk": 746,
+        "def": 447,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "燃烛施明",
+          "description": "造成的法术伤害+8%，受到的物理和法术伤害-8%。攻击范围内存在精英或领袖敌人时，该效果提升至2倍"
+        },
+        {
+          "name": "散华",
+          "description": "攻击精英或领袖敌人时，有18%概率获得一层仅抵挡近战攻击的护盾（最多1层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2920,
+        "atk": 746,
+        "def": 447,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "燃烛施明",
+          "description": "造成的法术伤害+8%，受到的物理和法术伤害-8%。攻击范围内存在精英或领袖敌人时，该效果提升至2倍"
+        },
+        {
+          "name": "散华",
+          "description": "攻击精英或领袖敌人时，有20%（+2%）概率获得一层仅抵挡近战攻击的护盾（最多1层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2920,
+        "atk": 774.0,
+        "def": 447,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "燃烛施明",
+          "description": "造成的法术伤害+8%，受到的物理和法术伤害-8%。攻击范围内存在精英或领袖敌人时，该效果提升至2倍"
+        },
+        {
+          "name": "散华",
+          "description": "攻击精英或领袖敌人时，有20%（+2%）概率获得一层仅抵挡近战攻击的护盾（最多1层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2920,
+        "atk": 774.0,
+        "def": 447,
+        "magicResistance": 15.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "燃烛施明",
+          "description": "造成的法术伤害+9%（+1%），受到的物理和法术伤害-9%（-1%）。攻击范围内存在精英或领袖敌人时，该效果提升至2倍"
+        },
+        {
+          "name": "散华",
+          "description": "攻击精英或领袖敌人时，有20%（+2%）概率获得一层仅抵挡近战攻击的护盾（最多1层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2920,
+        "atk": 774.0,
+        "def": 447,
+        "magicResistance": 15.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.25,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "燃烛施明",
+          "description": "造成的法术伤害+9%（+1%），受到的物理和法术伤害-9%（-1%）。攻击范围内存在精英或领袖敌人时，该效果提升至2倍"
+        },
+        {
+          "name": "散华",
+          "description": "攻击精英或领袖敌人时，有20%（+2%）概率获得一层仅抵挡近战攻击的护盾（最多1层）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+28",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "光影迅捷剑",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至170%，并连续攻击两次；\n蓄力额外效果：攻击距离+2，改为连续攻击三次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至180%，并连续攻击两次；\n蓄力额外效果：攻击距离+2，改为连续攻击三次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至190%，并连续攻击两次；\n蓄力额外效果：攻击距离+2，改为连续攻击三次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至200%，并连续攻击两次；\n蓄力额外效果：攻击距离+2，改为连续攻击三次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "烛燃影息",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+30%，防御力+110%，阻挡数+1，同时攻击阻挡的所有敌人。每次攻击有20%的概率变为140%攻击力的二连击，并偷取目标30点攻击速度（最多30点，持续至技能结束或薇薇安娜离场）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 12,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+33%，防御力+130%，阻挡数+1，同时攻击阻挡的所有敌人。每次攻击有20%的概率变为140%攻击力的二连击，并偷取目标33点攻击速度（最多33点，持续至技能结束或薇薇安娜离场）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 13,
+          "charges": 1,
+          "duration": "32 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+36%，防御力+145%，阻挡数+1，同时攻击阻挡的所有敌人。每次攻击有20%的概率变为140%攻击力的二连击，并偷取目标36点攻击速度（最多36点，持续至技能结束或薇薇安娜离场）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 14,
+          "charges": 1,
+          "duration": "33 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+40%，防御力+160%，阻挡数+1，同时攻击阻挡的所有敌人。每次攻击有20%的概率变为150%攻击力的二连击，并偷取目标40点攻击速度（最多40点，持续至技能结束或薇薇安娜离场）",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 15,
+          "charges": 1,
+          "duration": "35 秒"
+        }
+      ]
+    },
+    {
+      "name": "“明灭”",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔延长，攻击力+75%，防御力+60%，法术抗性+20，攻击变为二连击，第二天赋的触发几率提升至2.0倍，优先攻击精英或领袖敌人\n第二次及以后使用时，攻击距离+2，攻击变为三连击，持续时间延长至25秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 12,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔延长，攻击力+85%，防御力+70%，法术抗性+25，攻击变为二连击，第二天赋的触发几率提升至2.2倍，优先攻击精英或领袖敌人\n第二次及以后使用时，攻击距离+2，攻击变为三连击，持续时间延长至25秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 14,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔延长，攻击力+95%，防御力+80%，法术抗性+25，攻击变为二连击，第二天赋的触发几率提升至2.3倍，优先攻击精英或领袖敌人\n第二次及以后使用时，攻击距离+2，攻击变为三连击，持续时间延长至25秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 16,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔延长，攻击力+110%，防御力+90%，法术抗性+25，攻击变为二连击，第二天赋的触发几率提升至2.5倍，优先攻击精英或领袖敌人\n第二次及以后使用时，攻击距离+2，攻击变为三连击，持续时间延长至25秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 18,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

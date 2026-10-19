@@ -1,0 +1,239 @@
+{
+  "id": "char_258_podego",
+  "name": "波登可",
+  "english": "Podenco",
+  "rarity": 4,
+  "profession": "辅助",
+  "branch": "凝滞师",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "减速",
+    "治疗"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1163,
+        "atk": 542,
+        "def": 96,
+        "magicResistance": 20.0,
+        "cost": 14,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "园丁",
+          "description": "在场时，所有【辅助】干员攻击力+9%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1163,
+        "atk": 542,
+        "def": 96,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "园丁",
+          "description": "在场时，所有【辅助】干员攻击力+9%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1163,
+        "atk": 542,
+        "def": 96,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "园丁",
+          "description": "在场时，所有【辅助】干员攻击力+9%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1163,
+        "atk": 563.0,
+        "def": 96,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "园丁",
+          "description": "在场时，所有【辅助】干员攻击力+9%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1163,
+        "atk": 563.0,
+        "def": 96,
+        "magicResistance": 20.0,
+        "cost": 13.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "园丁",
+          "description": "在场时，所有【辅助】干员攻击力+11%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    },
+    {
+      "stats": {
+        "maxHp": 1163,
+        "atk": 563.0,
+        "def": 96,
+        "magicResistance": 20.0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.9,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "园丁",
+          "description": "在场时，所有【辅助】干员攻击力+11%（+2%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，并对敌人造成短暂的停顿"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+21",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "花香疗法",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+30%，普通攻击改为治疗友方单位",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 6,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+40%，普通攻击改为治疗友方单位",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 7,
+          "charges": 1,
+          "duration": "23 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+50%，普通攻击改为治疗友方单位",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 8,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+60%，普通攻击改为治疗友方单位",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "25 秒"
+        }
+      ]
+    },
+    {
+      "name": "孢子扩散",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续5秒的孢子群\n孢子群范围内所有敌人被停顿且失去特殊能力，每秒受到相当于攻击力60%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 29,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续6秒的孢子群\n孢子群范围内所有敌人被停顿且失去特殊能力，每秒受到相当于攻击力65%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续6秒的孢子群\n孢子群范围内所有敌人被停顿且失去特殊能力，每秒受到相当于攻击力70%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "立即投掷一个小瓶，碎裂后在周围产生一个持续6秒的孢子群\n孢子群范围内所有敌人被停顿且失去特殊能力，每秒受到相当于攻击力80%的法术伤害",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 23,
+          "initial": 10,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

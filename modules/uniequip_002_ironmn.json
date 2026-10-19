@@ -1,0 +1,406 @@
+{
+  "id": "uniequip_002_ironmn",
+  "name": "铁钳号·爬行者",
+  "type": "CRA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 25.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "铁钳号·原型机",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -4.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 35.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "铁钳号·原型机",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -4.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.1/秒，当这些装置损毁时有80%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.1/秒，当这些装置损毁时有80%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.1/秒，当这些装置损毁时有80%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.1/秒，当这些装置损毁时有80%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.1/秒，当这些装置损毁时有90%（+10%）的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.1/秒，当这些装置损毁时有90%（+10%）的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 45.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 45.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "白铁™多功能平台",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -1.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "name": "铁钳号·原型机",
+          "bonuses": [
+            {
+              "key": "cost",
+              "label": "部署费用",
+              "value": -4.0
+            },
+            {
+              "key": null,
+              "label": "max_deck_stack_cnt",
+              "value": 1.0
+            }
+          ]
+        }
+      ],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.2/秒，当这些装置损毁时有90%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.2/秒，当这些装置损毁时有90%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.2/秒，当这些装置损毁时有90%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.2/秒，当这些装置损毁时有90%的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.2/秒，当这些装置损毁时有100%（+10%）的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "的持有上限+1且部署费用减少",
+            "condition": ""
+          },
+          {
+            "name": "节约经费",
+            "description": "当白铁周围8格存在自身装置时技力回复速度+0.2/秒，当这些装置损毁时有100%（+10%）的几率回收使白铁额外获得1个装置",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4072_ironmn",
+  "operator_name": "白铁",
+  "profession": "辅助",
+  "branch": "工匠"
+}

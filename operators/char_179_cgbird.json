@@ -1,0 +1,326 @@
+{
+  "id": "char_179_cgbird",
+  "name": "夜莺",
+  "english": "Nightingale",
+  "rarity": 6,
+  "profession": "医疗",
+  "branch": "群愈师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "治疗",
+    "支援"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1705,
+        "atk": 420,
+        "def": 169,
+        "magicResistance": 5.0,
+        "cost": 18,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "白恶魔的庇护",
+          "description": "攻击范围内的友方单位法术抗性+15"
+        },
+        {
+          "name": "转瞬即逝的幻影",
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1705,
+        "atk": 420,
+        "def": 169,
+        "magicResistance": 5.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "白恶魔的庇护",
+          "description": "攻击范围内的友方单位法术抗性+15"
+        },
+        {
+          "name": "转瞬即逝的幻影",
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1705,
+        "atk": 420,
+        "def": 169,
+        "magicResistance": 5.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "白恶魔的庇护",
+          "description": "攻击范围内的友方单位法术抗性+15"
+        },
+        {
+          "name": "转瞬即逝的幻影",
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1705,
+        "atk": 420,
+        "def": 169,
+        "magicResistance": 15.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "白恶魔的庇护",
+          "description": "攻击范围内的友方单位法术抗性+15"
+        },
+        {
+          "name": "转瞬即逝的幻影",
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1705,
+        "atk": 420,
+        "def": 169,
+        "magicResistance": 15.0,
+        "cost": 17.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "白恶魔的庇护",
+          "description": "攻击范围内的友方单位法术抗性+17（+2）"
+        },
+        {
+          "name": "转瞬即逝的幻影",
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    },
+    {
+      "stats": {
+        "maxHp": 1705,
+        "atk": 420,
+        "def": 169,
+        "magicResistance": 15.0,
+        "cost": 16.0,
+        "blockCnt": 1,
+        "baseAttackTime": 2.85,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "白恶魔的庇护",
+          "description": "攻击范围内的友方单位法术抗性+17（+2）"
+        },
+        {
+          "name": "转瞬即逝的幻影",
+          "description": "可以使用幻影。幻影无法攻击和阻挡敌人，拥有75法术抗性，30%的物理闪避，并且更容易吸引敌人的攻击，同时每秒流失3%的最大生命"
+        }
+      ],
+      "trait": "同时恢复三个友方单位的生命"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "法术抗性+10",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "治疗强化·γ型",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+70%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    },
+    {
+      "name": "法术护盾",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次治疗使所有目标获得一个持续-1秒的屏障\n屏障能吸收相当于夜莺攻击力60%的法术伤害，同时使目标法术抗性+15；可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次治疗使所有目标获得一个持续-1秒的屏障\n屏障能吸收相当于夜莺攻击力70%的法术伤害，同时使目标法术抗性+15；可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次治疗使所有目标获得一个持续-1秒的屏障\n屏障能吸收相当于夜莺攻击力80%的法术伤害，同时使目标法术抗性+15；可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 9,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次治疗使所有目标获得一个持续-1秒的屏障\n屏障能吸收相当于夜莺攻击力90%的法术伤害，同时使目标法术抗性+20；可充能3次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 8,
+          "initial": 0,
+          "charges": 3,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "圣域",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+50%，攻击范围内的友方单位法术抗性+105%并获得20%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 120,
+          "initial": 110,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+60%，攻击范围内的友方单位法术抗性+120%并获得20%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 120,
+          "initial": 110,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+70%，攻击范围内的友方单位法术抗性+135%并获得20%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 120,
+          "initial": 110,
+          "charges": 1,
+          "duration": "60 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+80%，攻击范围内的友方单位法术抗性+150%并获得25%的法术闪避",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 120,
+          "initial": 115,
+          "charges": 1,
+          "duration": "60 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "幻影",
+      "stats": {
+        "maxHp": 6000,
+        "atk": 0,
+        "def": 0,
+        "magicResistance": 75.0,
+        "cost": 5,
+        "blockCnt": 0,
+        "baseAttackTime": 1.0,
+        "respawnTime": 20,
+        "attackSpeed": 100.0
+      },
+      "trait": "不阻挡敌人",
+      "skills": []
+    }
+  ]
+}

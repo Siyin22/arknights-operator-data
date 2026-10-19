@@ -1,0 +1,239 @@
+{
+  "id": "char_4208_wintim",
+  "name": "冬时",
+  "english": "Снегурочка",
+  "rarity": 4,
+  "profession": "先锋",
+  "branch": "情报官",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "费用回复",
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1745,
+        "atk": 537,
+        "def": 270,
+        "magicResistance": 0,
+        "cost": 9,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "疾笔撰录",
+          "description": "攻击速度+10，自身受到伤害后失去该效果"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1745,
+        "atk": 537,
+        "def": 270,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "疾笔撰录",
+          "description": "攻击速度+10，自身受到伤害后失去该效果"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1745,
+        "atk": 537,
+        "def": 270,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "疾笔撰录",
+          "description": "攻击速度+10，自身受到伤害后失去该效果"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1745,
+        "atk": 537,
+        "def": 270,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "疾笔撰录",
+          "description": "攻击速度+10，自身受到伤害后失去该效果"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1745,
+        "atk": 537,
+        "def": 270,
+        "magicResistance": 0,
+        "cost": 8.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "疾笔撰录",
+          "description": "攻击速度+12（+2），自身受到伤害后失去该效果"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1745,
+        "atk": 537,
+        "def": 270,
+        "magicResistance": 0,
+        "cost": 7.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 31.0,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "疾笔撰录",
+          "description": "攻击速度+12（+2），自身受到伤害后失去该效果"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击速度+5",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "数据分析",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力210%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力230%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力250%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力280%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 7,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "循理归因",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+25，每次攻击获得1点部署费用，并使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 33,
+          "initial": 17,
+          "charges": 1,
+          "duration": "9 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+30，每次攻击获得1点部署费用，并使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 18,
+          "charges": 1,
+          "duration": "9 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+35，每次攻击获得1点部署费用，并使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 19,
+          "charges": 1,
+          "duration": "9 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+40，每次攻击获得1点部署费用，并使目标停顿1秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "9 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

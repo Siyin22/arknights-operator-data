@@ -1,0 +1,238 @@
+{
+  "id": "char_365_aprl",
+  "name": "四月",
+  "english": "April",
+  "rarity": 5,
+  "profession": "狙击",
+  "branch": "速射手",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1280,
+        "atk": 603,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 13,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熟练猎手",
+          "description": "自身再部署时间-20秒，自身部署费用-1"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1280,
+        "atk": 603,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熟练猎手",
+          "description": "自身再部署时间-20秒，自身部署费用-1"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1280,
+        "atk": 603,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熟练猎手",
+          "description": "自身再部署时间-20秒，自身部署费用-1"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1280,
+        "atk": 626.0,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熟练猎手",
+          "description": "自身再部署时间-20秒，自身部署费用-1"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1280,
+        "atk": 626.0,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 12.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熟练猎手",
+          "description": "自身再部署时间-20秒，自身部署费用-1"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    },
+    {
+      "stats": {
+        "maxHp": 1280,
+        "atk": 626.0,
+        "def": 160,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 60.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "熟练猎手",
+          "description": "自身再部署时间-20秒，自身部署费用-1"
+        }
+      ],
+      "trait": "优先攻击空中单位"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+23",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "精准射击",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击的攻击力提高至200%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击的攻击力提高至210%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击的攻击力提高至220%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击的攻击力提高至230%",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "灵活伪装",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击力+70%，获得迷彩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击力+80%，获得迷彩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "22 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击力+90%，获得迷彩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "24 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击力+100%，获得迷彩",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 1,
+          "duration": "26 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

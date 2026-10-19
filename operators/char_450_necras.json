@@ -1,0 +1,375 @@
+{
+  "id": "char_450_necras",
+  "name": "死芒",
+  "english": "Necrass",
+  "rarity": 6,
+  "profession": "术师",
+  "branch": "塑灵术师",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "召唤",
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1924,
+        "atk": 678,
+        "def": 178,
+        "magicResistance": 20.0,
+        "cost": 21,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "复燃",
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）"
+        },
+        {
+          "name": "回光黯淡",
+          "description": "自身和召唤物攻击生命低于50%的敌人时攻击力提升至140%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1924,
+        "atk": 678,
+        "def": 178,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "复燃",
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）"
+        },
+        {
+          "name": "回光黯淡",
+          "description": "自身和召唤物攻击生命低于50%的敌人时攻击力提升至140%"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1924,
+        "atk": 678,
+        "def": 178,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "复燃",
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）"
+        },
+        {
+          "name": "回光黯淡",
+          "description": "自身和召唤物攻击生命低于60%（+10%）的敌人时攻击力提升至145%（+5%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1924,
+        "atk": 705.0,
+        "def": 178,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "复燃",
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）"
+        },
+        {
+          "name": "回光黯淡",
+          "description": "自身和召唤物攻击生命低于60%（+10%）的敌人时攻击力提升至145%（+5%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1924,
+        "atk": 705.0,
+        "def": 178,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 64.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "复燃",
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）"
+        },
+        {
+          "name": "回光黯淡",
+          "description": "自身和召唤物攻击生命低于60%（+10%）的敌人时攻击力提升至145%（+5%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 1924,
+        "atk": 705.0,
+        "def": 178,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 64.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "复燃",
+          "description": "攻击范围内敌人被击倒时生成一个悲叹的仆役，最多召唤3个，若无法再次召唤则使一个悲叹的仆役升级（提升阻挡数与更多的生命、攻击和防御）"
+        },
+        {
+          "name": "回光黯淡",
+          "description": "自身和召唤物攻击生命低于60%（+10%）的敌人时攻击力提升至145%（+5%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+27",
+    "再部署时间-6秒",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "噩愿",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力370%的法术伤害\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 6,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力400%的法术伤害\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 6,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力420%的法术伤害\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 14,
+          "initial": 8,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力450%的法术伤害\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 8,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "折朽",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "令最多2名攻击范围内的敌人陷入沉睡，每0.5秒对目标造成相当于攻击力130%的法术伤害；技能期间目标被击倒时额外召唤2个悲叹的仆役",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 11,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "令最多2名攻击范围内的敌人陷入沉睡，每0.5秒对目标造成相当于攻击力140%的法术伤害；技能期间目标被击倒时额外召唤2个悲叹的仆役",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 22,
+          "initial": 12,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "令最多2名攻击范围内的敌人陷入沉睡，每0.5秒对目标造成相当于攻击力150%的法术伤害；技能期间目标被击倒时额外召唤2个悲叹的仆役",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 13,
+          "charges": 1,
+          "duration": "12 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "令最多2名攻击范围内的敌人陷入沉睡，每0.5秒对目标造成相当于攻击力160%的法术伤害；技能期间目标被击倒时额外召唤2个悲叹的仆役",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 14,
+          "charges": 1,
+          "duration": "12 秒"
+        }
+      ]
+    },
+    {
+      "name": "冠死以冕",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级6次\n开启：立刻对范围内所有敌人造成攻击力650%的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复20%生命（若悲叹的仆役已升级则翻倍），重复2次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 21,
+          "initial": 5,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级6次\n开启：立刻对范围内所有敌人造成攻击力700%的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复20%生命（若悲叹的仆役已升级则翻倍），重复3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 5,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级6次\n开启：立刻对范围内所有敌人造成攻击力750%的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复20%生命（若悲叹的仆役已升级则翻倍），重复3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 18,
+          "initial": 5,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级6次\n开启：立刻对范围内所有敌人造成攻击力800%的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复20%生命（若悲叹的仆役已升级则翻倍），重复3次",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 5,
+          "charges": 1,
+          "duration": "无限持续"
+        }
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "name": "悲叹的仆役",
+      "stats": {
+        "maxHp": 1850,
+        "atk": 308,
+        "def": 255,
+        "magicResistance": 10.0,
+        "cost": 0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.8,
+        "respawnTime": 5,
+        "attackSpeed": 100.0
+      },
+      "trait": "能够阻挡一个敌人（阻挡数会根据等级改变），攻击造成法术伤害",
+      "skills": [
+        {
+          "name": "怨火缠身",
+          "index": 1,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "怨火缠身",
+          "index": 2,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "",
+              "trigger": "被动",
+              "recovery": "被动",
+              "cost": 0,
+              "initial": 0,
+              "charges": 1,
+              "duration": "无限持续"
+            }
+          ]
+        },
+        {
+          "name": "怨火缠身",
+          "index": 3,
+          "levels": [
+            {
+              "label": "1级",
+              "description": "对范围内所有敌人每秒造成自身攻击力120%的法术伤害",
+              "trigger": "自动触发",
+              "recovery": "自动回复",
+              "cost": 15,
+              "initial": 0,
+              "charges": 1,
+              "duration": "8 秒"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

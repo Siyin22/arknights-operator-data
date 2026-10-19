@@ -1,0 +1,239 @@
+{
+  "id": "char_4191_tippi",
+  "name": "蒂比",
+  "english": "Tippi",
+  "rarity": 5,
+  "profession": "特种",
+  "branch": "巡空者",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "高空",
+    "生存"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2368,
+        "atk": 785,
+        "def": 430,
+        "magicResistance": 0,
+        "cost": 17,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "片场工作指南",
+          "description": "若最近9秒内未受攻击，闪避下一次物理或法术攻击"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2368,
+        "atk": 785,
+        "def": 430,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "片场工作指南",
+          "description": "若最近9秒内未受攻击，闪避下一次物理或法术攻击"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2368,
+        "atk": 785,
+        "def": 430,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "片场工作指南",
+          "description": "若最近9秒内未受攻击，闪避下一次物理或法术攻击"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2368,
+        "atk": 810.0,
+        "def": 430,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "片场工作指南",
+          "description": "若最近9秒内未受攻击，闪避下一次物理或法术攻击"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2368,
+        "atk": 810.0,
+        "def": 430,
+        "magicResistance": 0,
+        "cost": 16.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "片场工作指南",
+          "description": "若最近8（-1）秒内未受攻击，闪避下一次物理或法术攻击"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2368,
+        "atk": 810.0,
+        "def": 430,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "片场工作指南",
+          "description": "若最近8（-1）秒内未受攻击，闪避下一次物理或法术攻击"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "专业喷绘技巧",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻起飞，攻击范围扩大，攻击力+60%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 6,
+          "charges": 1,
+          "duration": "34 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻起飞，攻击范围扩大，攻击力+75%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 7,
+          "charges": 1,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻起飞，攻击范围扩大，攻击力+90%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 8,
+          "charges": 1,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻起飞，攻击范围扩大，攻击力+100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 20,
+          "initial": 10,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "紧急赶场通知",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻起飞，攻击范围扩大，攻击力+30%，攻击变为3连射\n受到攻击后触发，并闪避本次物理或法术伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 13,
+          "initial": 2,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻起飞，攻击范围扩大，攻击力+35%，攻击变为3连射\n受到攻击后触发，并闪避本次物理或法术伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 12,
+          "initial": 3,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻起飞，攻击范围扩大，攻击力+40%，攻击变为3连射\n受到攻击后触发，并闪避本次物理或法术伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 11,
+          "initial": 4,
+          "charges": 1,
+          "duration": "15 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻起飞，攻击范围扩大，攻击力+50%，攻击变为3连射\n受到攻击后触发，并闪避本次物理或法术伤害",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 10,
+          "initial": 5,
+          "charges": 1,
+          "duration": "15 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

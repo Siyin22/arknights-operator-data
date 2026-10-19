@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_blkkgt",
+  "name": "新合同",
+  "type": "SWO-Y",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 130.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 67.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+5%，攻击被战栗的目标时，无视目标30%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+5%，攻击被战栗的目标时，无视目标30%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+5%，攻击被战栗的目标时，无视目标30%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+5%，攻击被战栗的目标时，无视目标30%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+5%，攻击被战栗的目标时，无视目标35%（+5%）的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+5%，攻击被战栗的目标时，无视目标35%（+5%）的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 150.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+8%，攻击被战栗的目标时，无视目标33%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+8%，攻击被战栗的目标时，无视目标33%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+8%，攻击被战栗的目标时，无视目标33%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+8%，攻击被战栗的目标时，无视目标33%的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+8%，攻击被战栗的目标时，无视目标38%（+5%）的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击时无视敌人70点的防御力",
+            "condition": ""
+          },
+          {
+            "name": "活着的传奇",
+            "description": "攻击力+8%，攻击被战栗的目标时，无视目标38%（+5%）的防御力，地面敌人首次进入自身攻击范围时，使其战栗6秒",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4116_blkkgt",
+  "operator_name": "锏",
+  "profession": "近卫",
+  "branch": "剑豪"
+}

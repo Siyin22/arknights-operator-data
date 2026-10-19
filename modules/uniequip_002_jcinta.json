@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_jcinta",
+  "name": "弹射起步",
+  "type": "BEA-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 100.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 40.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 125.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 52.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得15%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得15%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得15%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得15%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得17%（+2%）的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得17%（+2%）的对空庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 135.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 60.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得18%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得18%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得18%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得18%的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得20%（+2%）的对空庇护",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "技能发动期间阻挡数变为0，但使身前一名干员阻挡数+1",
+            "condition": ""
+          },
+          {
+            "name": "淑女风范",
+            "description": "部署后，嘉辛塔自身与周围八格的友方单位获得20%（+2%）的对空庇护",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4237_jcinta",
+  "operator_name": "嘉辛塔",
+  "profession": "先锋",
+  "branch": "执旗手"
+}

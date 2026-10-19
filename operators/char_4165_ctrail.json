@@ -1,0 +1,239 @@
+{
+  "id": "char_4165_ctrail",
+  "name": "云迹",
+  "english": "Contrail",
+  "rarity": 4,
+  "profession": "特种",
+  "branch": "巡空者",
+  "phase": 2,
+  "level": 70,
+  "tags": [
+    "高空",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2255,
+        "atk": 727,
+        "def": 428,
+        "magicResistance": 0,
+        "cost": 16,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低空乱流",
+          "description": "在地面时防御力+10%，起飞后攻击敌人时攻击力提升至110%"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2255,
+        "atk": 727,
+        "def": 428,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低空乱流",
+          "description": "在地面时防御力+10%，起飞后攻击敌人时攻击力提升至110%"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2255,
+        "atk": 727,
+        "def": 428,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低空乱流",
+          "description": "在地面时防御力+10%，起飞后攻击敌人时攻击力提升至110%"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2255,
+        "atk": 752.0,
+        "def": 428,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低空乱流",
+          "description": "在地面时防御力+10%，起飞后攻击敌人时攻击力提升至110%"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2255,
+        "atk": 752.0,
+        "def": 428,
+        "magicResistance": 0,
+        "cost": 15.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低空乱流",
+          "description": "在地面时防御力+12%（+2%），起飞后攻击敌人时攻击力提升至112%（+2%）"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    },
+    {
+      "stats": {
+        "maxHp": 2255,
+        "atk": 752.0,
+        "def": 428,
+        "magicResistance": 0,
+        "cost": 14.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.5,
+        "respawnTime": 66.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "低空乱流",
+          "description": "在地面时防御力+12%（+2%），起飞后攻击敌人时攻击力提升至112%（+2%）"
+        }
+      ],
+      "trait": "起飞后能够阻挡2个飞行敌人"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "攻击力+25",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "紧急升空",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后立刻起飞，攻击范围扩大，攻击力+60%，获得60%的物理闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "35 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后立刻起飞，攻击范围扩大，攻击力+65%，获得60%的物理闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "36 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后立刻起飞，攻击范围扩大，攻击力+70%，获得60%的物理闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "38 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后立刻起飞，攻击范围扩大，攻击力+80%，获得60%的物理闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "40 秒"
+        }
+      ]
+    },
+    {
+      "name": "掠空飞翎",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立刻起飞，攻击范围扩大，攻击力+60%，同时攻击2个敌人且可额外攻击1个飞行敌人，击中飞行敌人时使其停顿1.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 17,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立刻起飞，攻击范围扩大，攻击力+70%，同时攻击2个敌人且可额外攻击1个飞行敌人，击中飞行敌人时使其停顿1.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立刻起飞，攻击范围扩大，攻击力+85%，同时攻击2个敌人且可额外攻击1个飞行敌人，击中飞行敌人时使其停顿1.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 16,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立刻起飞，攻击范围扩大，攻击力+90%，同时攻击2个敌人且可额外攻击1个飞行敌人，击中飞行敌人时使其停顿1.5秒",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 15,
+          "initial": 5,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

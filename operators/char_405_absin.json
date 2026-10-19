@@ -1,0 +1,238 @@
+{
+  "id": "char_405_absin",
+  "name": "苦艾",
+  "english": "Absinthe",
+  "rarity": 5,
+  "profession": "术师",
+  "branch": "中坚术师",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "输出"
+  ],
+  "position": "远程位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 703,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 22,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "执法者",
+          "description": "攻击生命值低于40%的敌人伤害提高24%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 703,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 80,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "执法者",
+          "description": "攻击生命值低于40%的敌人伤害提高24%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 703,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 21.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "执法者",
+          "description": "攻击生命值低于40%的敌人伤害提高24%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 703,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "执法者",
+          "description": "攻击生命值低于40%的敌人伤害提高24%"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 703,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 20.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "执法者",
+          "description": "攻击生命值低于40%的敌人伤害提高30%（+6%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 1420,
+        "atk": 703,
+        "def": 124,
+        "magicResistance": 20.0,
+        "cost": 19.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "执法者",
+          "description": "攻击生命值低于40%的敌人伤害提高30%（+6%）"
+        }
+      ],
+      "trait": "攻击造成法术伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-10秒",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "执法模式",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击力+60%，优先攻击当前生命百分比最低的敌人\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 78,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击力+70%，优先攻击当前生命百分比最低的敌人\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 76,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击力+80%，优先攻击当前生命百分比最低的敌人\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 74,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击力+90%，优先攻击当前生命百分比最低的敌人\n持续时间无限",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 70,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "终结连射",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "每次攻击变为攻击力75%的4连发，但不再选择生命值高于50%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 54,
+          "initial": 19,
+          "charges": 1,
+          "duration": "27 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "每次攻击变为攻击力80%的4连发，但不再选择生命值高于50%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 53,
+          "initial": 22,
+          "charges": 1,
+          "duration": "28 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "每次攻击变为攻击力85%的4连发，但不再选择生命值高于50%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 52,
+          "initial": 25,
+          "charges": 1,
+          "duration": "29 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "每次攻击变为攻击力90%的4连发，但不再选择生命值高于50%的敌人作为目标",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 50,
+          "initial": 28,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

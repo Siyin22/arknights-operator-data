@@ -1,0 +1,239 @@
+{
+  "id": "char_4017_puzzle",
+  "name": "谜图",
+  "english": "Puzzle",
+  "rarity": 5,
+  "profession": "先锋",
+  "branch": "情报官",
+  "phase": 2,
+  "level": 80,
+  "tags": [
+    "费用回复",
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1860,
+        "atk": 606,
+        "def": 264,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "序列",
+          "description": "攻击命中生命值为满的敌人时攻击力提升至120%，并额外回复2点技力"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1860,
+        "atk": 606,
+        "def": 264,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "序列",
+          "description": "攻击命中生命值为满的敌人时攻击力提升至120%，并额外回复2点技力"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1860,
+        "atk": 606,
+        "def": 264,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "序列",
+          "description": "攻击命中生命值为满的敌人时攻击力提升至120%，并额外回复2点技力"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1860,
+        "atk": 606,
+        "def": 264,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "序列",
+          "description": "攻击命中生命值为满的敌人时攻击力提升至120%，并额外回复2点技力"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1860,
+        "atk": 606,
+        "def": 264,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "序列",
+          "description": "攻击命中生命值为满的敌人时攻击力提升至125%（+5%），并额外回复2点技力"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    },
+    {
+      "stats": {
+        "maxHp": 1860,
+        "atk": 606,
+        "def": 264,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 1.0,
+        "respawnTime": 35,
+        "attackSpeed": 105.0
+      },
+      "talents": [
+        {
+          "name": "序列",
+          "description": "攻击命中生命值为满的敌人时攻击力提升至125%（+5%），并额外回复2点技力"
+        }
+      ],
+      "trait": "再部署时间减少，可使用远程攻击"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "攻击速度+5",
+    "部署费用-1",
+    "天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "关键线索",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力230%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力250%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力270%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力300%的物理伤害，并获得3点部署费用",
+          "trigger": "自动触发",
+          "recovery": "攻击回复",
+          "cost": 5,
+          "initial": 2,
+          "charges": 1,
+          "duration": "即时 / 见描述"
+        }
+      ]
+    },
+    {
+      "name": "疑点追踪",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击速度+60，攻击使目标在16秒内每秒受到相当于谜图攻击力12%的法术伤害，效果最多可叠加10次，每次攻击时获得1点部署费用。",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 28,
+          "initial": 12,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击速度+63，攻击使目标在16秒内每秒受到相当于谜图攻击力13%的法术伤害，效果最多可叠加10次，每次攻击时获得1点部署费用。",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 27,
+          "initial": 12,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击速度+66，攻击使目标在16秒内每秒受到相当于谜图攻击力14%的法术伤害，效果最多可叠加10次，每次攻击时获得1点部署费用。",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 27,
+          "initial": 13,
+          "charges": 1,
+          "duration": "8 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击速度+70，攻击使目标在16秒内每秒受到相当于谜图攻击力15%的法术伤害，效果最多可叠加10次，每次攻击时获得1点部署费用。",
+          "trigger": "手动触发",
+          "recovery": "攻击回复",
+          "cost": 26,
+          "initial": 14,
+          "charges": 1,
+          "duration": "8 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

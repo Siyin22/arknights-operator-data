@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_coldst",
+  "name": "“桀骜”",
+  "type": "HUN-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 128.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 168.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 65.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力135%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力135%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力135%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力135%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力138%（+3%）的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力138%（+3%）的物理伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 205.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 75.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力138%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力138%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力138%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力138%的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力141%（+3%）的物理伤害",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "子弹数量为空时下次装填额外加装1发子弹",
+            "condition": ""
+          },
+          {
+            "name": "不甘示弱",
+            "description": "如果2秒内没有主动攻击过，下次攻击造成相当于攻击力141%（+3%）的物理伤害",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4104_coldst",
+  "operator_name": "冰酿",
+  "profession": "狙击",
+  "branch": "猎手"
+}

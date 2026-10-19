@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_chnut",
+  "name": "地上巡旅纪念灯",
+  "type": "WDM-X",
+  "unlock": "精英2 · 40级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 50.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 60.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 24.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高25%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高28%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高28%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 70.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高27%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高30%（+3%）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "恢复友方单位生命，并回复相当于攻击力60%的元素损伤（可以回复未受伤友方单位的元素损伤）",
+            "condition": ""
+          },
+          {
+            "name": "脚踏实地",
+            "description": "治疗地面单位，元素损伤回复量提高30%（+3%）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4041_chnut",
+  "operator_name": "褐果",
+  "profession": "医疗",
+  "branch": "行医"
+}

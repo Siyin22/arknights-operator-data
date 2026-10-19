@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_aprl",
+  "name": "高保真通讯耳机",
+  "type": "MAR-Y",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 110.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 23.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 160.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 28.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-25秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-25秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-25秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-25秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-25秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-25秒，自身部署费用-2",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 32.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-28秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-28秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-28秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-28秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-28秒，自身部署费用-2",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "范围内存在地面敌人时攻击速度+8",
+            "condition": ""
+          },
+          {
+            "name": "熟练猎手",
+            "description": "自身再部署时间-28秒，自身部署费用-2",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_365_aprl",
+  "operator_name": "四月",
+  "profession": "狙击",
+  "branch": "速射手"
+}

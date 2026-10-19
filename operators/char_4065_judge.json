@@ -1,0 +1,309 @@
+{
+  "id": "char_4065_judge",
+  "name": "斥罪",
+  "english": "Penance",
+  "rarity": 6,
+  "profession": "重装",
+  "branch": "不屈者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "生存",
+    "输出"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 4655,
+        "atk": 916,
+        "def": 616,
+        "magicResistance": 10.0,
+        "cost": 36,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "律法卫士",
+          "description": "部署后立即获得相当于生命上限50%的屏障，每击倒一名敌人时获得相当于生命上限10%的屏障（最多不超过生命上限300%）"
+        },
+        {
+          "name": "荆棘环身",
+          "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力50%的法术伤害"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4655,
+        "atk": 916,
+        "def": 616,
+        "magicResistance": 10.0,
+        "cost": 35.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "律法卫士",
+          "description": "部署后立即获得相当于生命上限50%的屏障，每击倒一名敌人时获得相当于生命上限10%的屏障（最多不超过生命上限300%）"
+        },
+        {
+          "name": "荆棘环身",
+          "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力50%的法术伤害"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4655,
+        "atk": 916,
+        "def": 616,
+        "magicResistance": 10.0,
+        "cost": 35.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "律法卫士",
+          "description": "部署后立即获得相当于生命上限55%（+5%）的屏障，每击倒一名敌人时获得相当于生命上限10%的屏障（最多不超过生命上限300%）"
+        },
+        {
+          "name": "荆棘环身",
+          "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力50%的法术伤害"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4655,
+        "atk": 944.0,
+        "def": 616,
+        "magicResistance": 10.0,
+        "cost": 35.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "律法卫士",
+          "description": "部署后立即获得相当于生命上限55%（+5%）的屏障，每击倒一名敌人时获得相当于生命上限10%的屏障（最多不超过生命上限300%）"
+        },
+        {
+          "name": "荆棘环身",
+          "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力50%的法术伤害"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4655,
+        "atk": 944.0,
+        "def": 616,
+        "magicResistance": 10.0,
+        "cost": 35.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "律法卫士",
+          "description": "部署后立即获得相当于生命上限55%（+5%）的屏障，每击倒一名敌人时获得相当于生命上限10%的屏障（最多不超过生命上限300%）"
+        },
+        {
+          "name": "荆棘环身",
+          "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力53%（+3%）的法术伤害"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    },
+    {
+      "stats": {
+        "maxHp": 4655,
+        "atk": 944.0,
+        "def": 616,
+        "magicResistance": 10.0,
+        "cost": 34.0,
+        "blockCnt": 3,
+        "baseAttackTime": 1.6,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "律法卫士",
+          "description": "部署后立即获得相当于生命上限55%（+5%）的屏障，每击倒一名敌人时获得相当于生命上限10%的屏障（最多不超过生命上限300%）"
+        },
+        {
+          "name": "荆棘环身",
+          "description": "拥有来源于自身的屏障时，每次受到攻击对目标造成相当于斥罪攻击力53%（+3%）的法术伤害"
+        }
+      ],
+      "trait": "无法被友方角色治疗"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第一天赋效果增强",
+    "攻击力+28",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "一锤定音",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击额外造成相当于攻击力180%的法术伤害\n蓄力额外效果：攻击时攻击力提升至180%并使目标晕眩3秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击额外造成相当于攻击力190%的法术伤害\n蓄力额外效果：攻击时攻击力提升至180%并使目标晕眩4秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击额外造成相当于攻击力195%的法术伤害\n蓄力额外效果：攻击时攻击力提升至200%并使目标晕眩4秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 4,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击额外造成相当于攻击力200%的法术伤害\n蓄力额外效果：攻击时攻击力提升至200%并使目标晕眩5秒",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 3,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "坚心苦修",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "停止攻击，获得50%的庇护，每秒对周围所有地面敌人造成相当于攻击力110%的法术伤害，技能期间第一天赋的屏障获取效果提升80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 34,
+          "initial": 14,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "停止攻击，获得55%的庇护，每秒对周围所有地面敌人造成相当于攻击力120%的法术伤害，技能期间第一天赋的屏障获取效果提升80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 32,
+          "initial": 16,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "停止攻击，获得55%的庇护，每秒对周围所有地面敌人造成相当于攻击力130%的法术伤害，技能期间第一天赋的屏障获取效果提升80%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 31,
+          "initial": 18,
+          "charges": 1,
+          "duration": "20 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "停止攻击，获得60%的庇护，每秒对周围所有地面敌人造成相当于攻击力140%的法术伤害，技能期间第一天赋的屏障获取效果提升100%",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 30,
+          "initial": 20,
+          "charges": 1,
+          "duration": "20 秒"
+        }
+      ]
+    },
+    {
+      "name": "披荆斩棘",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "立即获得相当于生命上限100%的屏障，攻击间隔增大，攻击力+320%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 24,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "立即获得相当于生命上限110%的屏障，攻击间隔增大，攻击力+350%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 22,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "立即获得相当于生命上限120%的屏障，攻击间隔增大，攻击力+370%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 21,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "立即获得相当于生命上限130%的屏障，攻击间隔增大，攻击力+400%，自身更容易受到敌人攻击",
+          "trigger": "手动触发",
+          "recovery": "受击回复",
+          "cost": 20,
+          "initial": 0,
+          "charges": 1,
+          "duration": "30 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

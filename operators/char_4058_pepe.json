@@ -1,0 +1,309 @@
+{
+  "id": "char_4058_pepe",
+  "name": "佩佩",
+  "english": "Pepe",
+  "rarity": 6,
+  "profession": "近卫",
+  "branch": "撼地者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "输出",
+    "控场"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 2851,
+        "atk": 1360,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 20,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "往昔传承",
+          "description": "技能期间每击倒1名敌人，技能结束时获得1点技力，至多回复14点"
+        },
+        {
+          "name": "弥漫莲香",
+          "description": "在场时，所有【近卫】干员的攻击力+16%"
+        }
+      ],
+      "trait": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2851,
+        "atk": 1360,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "往昔传承",
+          "description": "技能期间每击倒1名敌人，技能结束时获得1点技力，至多回复14点"
+        },
+        {
+          "name": "弥漫莲香",
+          "description": "在场时，所有【近卫】干员的攻击力+16%"
+        }
+      ],
+      "trait": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2851,
+        "atk": 1360,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "往昔传承",
+          "description": "技能期间每击倒1名敌人，技能结束时获得1点技力，至多回复14点"
+        },
+        {
+          "name": "弥漫莲香",
+          "description": "在场时，所有【近卫】干员的攻击力+20%（+4%）"
+        }
+      ],
+      "trait": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2851,
+        "atk": 1395.0,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "往昔传承",
+          "description": "技能期间每击倒1名敌人，技能结束时获得1点技力，至多回复14点"
+        },
+        {
+          "name": "弥漫莲香",
+          "description": "在场时，所有【近卫】干员的攻击力+20%（+4%）"
+        }
+      ],
+      "trait": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2851,
+        "atk": 1395.0,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 19.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "往昔传承",
+          "description": "技能期间每击倒1名敌人，技能结束时获得1点技力，至多回复17（+3）点"
+        },
+        {
+          "name": "弥漫莲香",
+          "description": "在场时，所有【近卫】干员的攻击力+20%（+4%）"
+        }
+      ],
+      "trait": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害"
+    },
+    {
+      "stats": {
+        "maxHp": 2851,
+        "atk": 1395.0,
+        "def": 432,
+        "magicResistance": 0,
+        "cost": 18.0,
+        "blockCnt": 2,
+        "baseAttackTime": 1.8,
+        "respawnTime": 70,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "往昔传承",
+          "description": "技能期间每击倒1名敌人，技能结束时获得1点技力，至多回复17（+3）点"
+        },
+        {
+          "name": "弥漫莲香",
+          "description": "在场时，所有【近卫】干员的攻击力+20%（+4%）"
+        }
+      ],
+      "trait": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "第二天赋效果增强",
+    "攻击力+35",
+    "第一天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "盖戳！",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "下次攻击造成相当于攻击力230%的物理伤害，处于异常状态时可以释放技能并清除异常状态\n可充能1次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 1,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "下次攻击造成相当于攻击力250%的物理伤害，处于异常状态时可以释放技能并清除异常状态\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "下次攻击造成相当于攻击力270%的物理伤害，处于异常状态时可以释放技能并清除异常状态\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 6,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "下次攻击造成相当于攻击力290%的物理伤害，处于异常状态时可以释放技能并清除异常状态\n可充能2次",
+          "trigger": "自动触发",
+          "recovery": "自动回复",
+          "cost": 5,
+          "initial": 0,
+          "charges": 2,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "阻遏混乱锤",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击范围扩大，攻击力+70%，攻击速度+70，随机攻击范围内的目标\n每次使用时，使后续开启技能的攻击速度额外+30，最多叠加2层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 28,
+          "initial": 16,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击范围扩大，攻击力+75%，攻击速度+70，随机攻击范围内的目标\n每次使用时，使后续开启技能的攻击速度额外+40，最多叠加2层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 16,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击范围扩大，攻击力+80%，攻击速度+70，随机攻击范围内的目标\n每次使用时，使后续开启技能的攻击速度额外+40，最多叠加2层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 27,
+          "initial": 18,
+          "charges": 1,
+          "duration": "18 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击范围扩大，攻击力+90%，攻击速度+80，随机攻击范围内的目标\n每次使用时，使后续开启技能的攻击速度额外+40，最多叠加2层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 25,
+          "initial": 18,
+          "charges": 1,
+          "duration": "18 秒"
+        }
+      ]
+    },
+    {
+      "name": "时光震荡",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "攻击间隔略微增大，攻击力+180%，攻击使命中的目标晕眩0.8秒，对主目标提升至1.5秒，每次攻击后使溅射范围扩大且攻击力额外+16%，最多叠加4层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 51,
+          "initial": 32,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "攻击间隔略微增大，攻击力+200%，攻击使命中的目标晕眩0.8秒，对主目标提升至1.5秒，每次攻击后使溅射范围扩大且攻击力额外+20%，最多叠加4层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 49,
+          "initial": 32,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "攻击间隔略微增大，攻击力+220%，攻击使命中的目标晕眩0.8秒，对主目标提升至1.5秒，每次攻击后使溅射范围扩大且攻击力额外+20%，最多叠加4层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 47,
+          "initial": 32,
+          "charges": 1,
+          "duration": "40 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "攻击间隔略微增大，攻击力+240%，攻击使命中的目标晕眩0.8秒，对主目标提升至1.5秒，每次攻击后使溅射范围扩大且攻击力额外+25%，最多叠加4层",
+          "trigger": "手动触发",
+          "recovery": "自动回复",
+          "cost": 45,
+          "initial": 35,
+          "charges": 1,
+          "duration": "40 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

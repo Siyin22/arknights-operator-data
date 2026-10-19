@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_huang",
+  "name": "过载的武器与过热的心脏",
+  "type": "CEN-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 240.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 70.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+4%，45秒后攻速+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+4%，45秒后攻速+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+4%，45秒后攻速+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+4%，45秒后攻速+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留12（-3）秒后获得抵抗，30秒后攻击力+4%，45秒后攻速+7",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留12（-3）秒后获得抵抗，30秒后攻击力+4%，45秒后攻速+7",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 285.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 86.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+6%，45秒后攻速+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+6%，45秒后攻速+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+6%，45秒后攻速+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留15秒后获得抵抗，30秒后攻击力+6%，45秒后攻速+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留12（-3）秒后获得抵抗，30秒后攻击力+6%，45秒后攻速+12",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "同时攻击阻挡的所有敌人，攻击被阻挡的敌人攻击力提升至110%",
+            "condition": ""
+          },
+          {
+            "name": "严酷训练",
+            "description": "在战场停留12（-3）秒后获得抵抗，30秒后攻击力+6%，45秒后攻速+12",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_017_huang",
+  "operator_name": "煌",
+  "profession": "近卫",
+  "branch": "强攻手"
+}

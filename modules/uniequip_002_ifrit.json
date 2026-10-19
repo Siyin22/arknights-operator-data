@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ifrit",
+  "name": "“同熔”",
+  "type": "BLA-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 50.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 5.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 64.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 6.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有20%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有20%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有20%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有20%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有20%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每5.5（-0.5）秒额外回复2点技力，有20%概率额外回复5点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 72.0
+        },
+        {
+          "key": "attackSpeed",
+          "label": "攻击速度",
+          "value": 7.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有30%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有30%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有30%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有30%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每6秒额外回复2点技力，有30%概率额外回复5点技力",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击造成超远距离的群体法术伤害，距离越远伤害越高，最高达到110%",
+            "condition": ""
+          },
+          {
+            "name": "莱茵回路",
+            "description": "每5.5（-0.5）秒额外回复2点技力，有30%概率额外回复5点技力",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_134_ifrit",
+  "operator_name": "伊芙利特",
+  "profession": "术师",
+  "branch": "轰击术师"
+}

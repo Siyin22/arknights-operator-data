@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_003_mostma",
+  "name": "资深万国信使定制斗篷",
+  "type": "SPC-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 120.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 55.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 165.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 68.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.5/秒，自身提高至+0.7/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.5/秒，自身提高至+0.7/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.5/秒，自身提高至+0.7/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.5/秒，自身提高至+0.7/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.5/秒，自身提高至+0.7/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.5/秒，自身提高至+0.7/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 190.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 80.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.6/秒，自身提高至+0.9/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.6/秒，自身提高至+0.9/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.6/秒，自身提高至+0.9/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.6/秒，自身提高至+0.9/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.6/秒，自身提高至+0.9/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围扩大",
+            "condition": ""
+          },
+          {
+            "name": "技力光环·术师",
+            "description": "在场时所有【术师】干员的技力自然回复速度+0.6/秒，自身提高至+0.9/秒（同类效果取最高）",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_213_mostma",
+  "operator_name": "莫斯提马",
+  "profession": "术师",
+  "branch": "扩散术师"
+}

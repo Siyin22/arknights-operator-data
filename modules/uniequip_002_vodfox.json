@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_vodfox",
+  "name": "布艺苹果",
+  "type": "UMD-X",
+  "unlock": "精英2 · 50级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 10.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 20.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 25.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留15秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留15秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留15秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留15秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留15秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留15秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 30.0
+        },
+        {
+          "key": "def",
+          "label": "防御",
+          "value": 35.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留10秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留10秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留10秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留10秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留10秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "并对目标造成10％虚弱效果，持续2秒",
+            "condition": ""
+          },
+          {
+            "name": "伴生恶兆",
+            "description": "在战场停留10秒后不容易成为敌人的攻击目标",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_254_vodfox",
+  "operator_name": "巫恋",
+  "profession": "辅助",
+  "branch": "削弱者"
+}

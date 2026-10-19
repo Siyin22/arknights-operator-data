@@ -1,0 +1,308 @@
+{
+  "id": "char_1502_crosly",
+  "name": "弑君者",
+  "english": "Crownslayer",
+  "rarity": 6,
+  "profession": "特种",
+  "branch": "处决者",
+  "phase": 2,
+  "level": 90,
+  "tags": [
+    "快速复活"
+  ],
+  "position": "近战位",
+  "variants": [
+    {
+      "stats": {
+        "maxHp": 1695,
+        "atk": 635,
+        "def": 325,
+        "magicResistance": 0,
+        "cost": 12,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 22,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "吞咽苦厄",
+          "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-20%"
+        },
+        {
+          "name": "弑君者威名",
+          "description": "对未伤害过自身的地面敌人造成的物理伤害提升20%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1695,
+        "atk": 635,
+        "def": 325,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 22,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "吞咽苦厄",
+          "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-20%"
+        },
+        {
+          "name": "弑君者威名",
+          "description": "对未伤害过自身的地面敌人造成的物理伤害提升20%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1695,
+        "atk": 635,
+        "def": 325,
+        "magicResistance": 0,
+        "cost": 11.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "吞咽苦厄",
+          "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-20%"
+        },
+        {
+          "name": "弑君者威名",
+          "description": "对未伤害过自身的地面敌人造成的物理伤害提升20%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1695,
+        "atk": 635,
+        "def": 325,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "吞咽苦厄",
+          "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-20%"
+        },
+        {
+          "name": "弑君者威名",
+          "description": "对未伤害过自身的地面敌人造成的物理伤害提升20%"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1695,
+        "atk": 635,
+        "def": 325,
+        "magicResistance": 0,
+        "cost": 10.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "吞咽苦厄",
+          "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-20%"
+        },
+        {
+          "name": "弑君者威名",
+          "description": "对未伤害过自身的地面敌人造成的物理伤害提升22%（+2）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    },
+    {
+      "stats": {
+        "maxHp": 1695,
+        "atk": 635,
+        "def": 325,
+        "magicResistance": 0,
+        "cost": 9.0,
+        "blockCnt": 1,
+        "baseAttackTime": 0.93,
+        "respawnTime": 18.0,
+        "attackSpeed": 100.0
+      },
+      "talents": [
+        {
+          "name": "吞咽苦厄",
+          "description": "技能持续期间在自身周围产生烟雾，使其中的地面敌人物理与法术命中率-20%"
+        },
+        {
+          "name": "弑君者威名",
+          "description": "对未伤害过自身的地面敌人造成的物理伤害提升22%（+2）"
+        }
+      ],
+      "trait": "再部署时间大幅度减少"
+    }
+  ],
+  "potential": [
+    "部署费用-1",
+    "再部署时间-4秒",
+    "部署费用-1",
+    "第二天赋效果增强",
+    "部署费用-1"
+  ],
+  "skills": [
+    {
+      "name": "尘烟蔽目",
+      "index": 1,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后攻击力+80%，并获得40%物理和法术闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后攻击力+85%，并获得40%物理和法术闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后攻击力+90%，并获得40%物理和法术闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后攻击力+100%，并获得50%物理和法术闪避",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "10 秒"
+        }
+      ]
+    },
+    {
+      "name": "硝烟震爆",
+      "index": 2,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后-1秒内停止攻击，自身不容易成为敌人的攻击目标，第一天赋使地面敌人物理与法术命中率降低的效果提高至2倍，并在技能结束时对烟雾内的所有地面敌人造成相当于攻击力350%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后-1秒内停止攻击，自身不容易成为敌人的攻击目标，第一天赋使地面敌人物理与法术命中率降低的效果提高至2.5倍，并在技能结束时对烟雾内的所有地面敌人造成相当于攻击力400%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后-1秒内停止攻击，自身不容易成为敌人的攻击目标，第一天赋使地面敌人物理与法术命中率降低的效果提高至2.5倍，并在技能结束时对烟雾内的所有地面敌人造成相当于攻击力450%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后-1秒内停止攻击，自身不容易成为敌人的攻击目标，第一天赋使地面敌人物理与法术命中率降低的效果提高至2.5倍，并在技能结束时对烟雾内的所有地面敌人造成相当于攻击力500%的物理伤害",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "无限持续"
+        }
+      ]
+    },
+    {
+      "name": "烽烟行刑场",
+      "index": 3,
+      "levels": [
+        {
+          "label": "7级",
+          "description": "部署后第一天赋的生效范围扩大，弑君者消失在烟雾中，获得隐匿且阻挡数变为0，每2秒现身对烟雾内的一名地面敌人造成两次相当于攻击力190%的物理伤害并使目标晕眩1.5秒（对同一目标6秒内只会触发一次）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精一",
+          "description": "部署后第一天赋的生效范围扩大，弑君者消失在烟雾中，获得隐匿且阻挡数变为0，每2秒现身对烟雾内的一名地面敌人造成两次相当于攻击力210%的物理伤害并使目标晕眩2秒（对同一目标6秒内只会触发一次）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精二",
+          "description": "部署后第一天赋的生效范围扩大，弑君者消失在烟雾中，获得隐匿且阻挡数变为0，每2秒现身对烟雾内的一名地面敌人造成两次相当于攻击力230%的物理伤害并使目标晕眩3秒（对同一目标6秒内只会触发一次）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "16 秒"
+        },
+        {
+          "label": "专精三",
+          "description": "部署后第一天赋的生效范围扩大，弑君者消失在烟雾中，获得隐匿且阻挡数变为0，每2秒现身对烟雾内的一名地面敌人造成两次相当于攻击力250%的物理伤害并使目标晕眩4秒（对同一目标6秒内只会触发一次）",
+          "trigger": "被动",
+          "recovery": "被动",
+          "cost": 0,
+          "initial": 0,
+          "charges": 0,
+          "duration": "16 秒"
+        }
+      ]
+    }
+  ],
+  "tokens": []
+}

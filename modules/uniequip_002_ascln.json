@@ -1,0 +1,253 @@
+{
+  "id": "uniequip_002_ascln",
+  "name": "“无形，无情”",
+  "type": "AMB-X",
+  "unlock": "精英2 · 60级",
+  "special": "",
+  "levels": [
+    {
+      "level": 1,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 180.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 15.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 2,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 230.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 33.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续27秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续27秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续27秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续27秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续27秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续27秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ]
+      ]
+    },
+    {
+      "level": 3,
+      "bonuses": [
+        {
+          "key": "maxHp",
+          "label": "生命上限",
+          "value": 270.0
+        },
+        {
+          "key": "atk",
+          "label": "攻击",
+          "value": 53.0
+        }
+      ],
+      "tokenBonuses": [],
+      "effects": [
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续30秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续30秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续30秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续30秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续30秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ],
+        [
+          {
+            "name": "特性",
+            "description": "攻击范围内所有敌人移动速度-20%",
+            "condition": ""
+          },
+          {
+            "name": "死亡拘审",
+            "description": "攻击对敌人施加效果：移动速度降低18％，每秒受到11％阿斯卡纶当前攻击力的法术伤害，持续30秒，效果最多叠加三层",
+            "condition": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "operator_id": "char_4132_ascln",
+  "operator_name": "阿斯卡纶",
+  "profession": "特种",
+  "branch": "伏击客"
+}
