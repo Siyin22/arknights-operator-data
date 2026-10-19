@@ -34,12 +34,27 @@ def load_snapshot(repo, tag):
         for member in archive:
             if not member.isfile() or not member.name.endswith('.json'):
                 continue
+            if member.name != 'version.json' and member.name.split('/')[0] not in ('operators', 'modules'):
+                continue
             value = json.load(archive.extractfile(member))
             if member.name == 'version.json':
                 result['version'] = value
             elif member.name.split('/')[0] in ('operators', 'modules'):
                 result[member.name.split('/')[0]][Path(member.name).stem] = value
+    # Client metadata can be added later without rewriting already published data tags.
+    if not result['version'].get('client_version'):
+        try:
+            catalog = json.loads(git(repo, 'show', 'HEAD:version-info.json'))
+            client = catalog.get(tag, {}).get('client_version')
+            if client:
+                result['version']['client_version'] = client
+        except (ValueError, KeyError):
+            pass
     return result
+
+
+def version_label(version):
+    return f"客户端 {version.get('client_version') or '未记录'} · 数据 {version['official_version']}"
 
 
 def compare(before, after):
@@ -126,7 +141,7 @@ def details_module(m):
 def markdown(before, after):
     diff = compare(before, after)
     version = after['version']['official_version']
-    lines = ['# 明日方舟 · 版本差异', '', ('对比：' + before['version']['official_version'] + ' → ' + version) if before else '基准版本：' + version,
+    lines = ['# 明日方舟 · 版本差异', '', ('对比：' + version_label(before['version']) + ' → ' + version_label(after['version'])) if before else '基准版本：' + version_label(after['version']),
              '', '干员采用满级、满信赖属性；本报告文字详情为一潜，JSON 同时保留各潜能档位。']
     if before is None:
         return '\n'.join(lines + ['', f"已保存 {len(after['operators'])} 个干员 / 职业形态、{len(after['modules'])} 个模组。", '',
@@ -165,12 +180,13 @@ def html_report(text):
 
 
 def write_comparison(repo, before_tag, after_tag, output):
+    from report_renderer import render_report
     before = load_snapshot(repo, before_tag)
     after = load_snapshot(repo, after_tag)
     output = Path(output); output.mkdir(parents=True, exist_ok=True)
     text = markdown(before, after)
     (output / '版本差异.md').write_text(text, encoding='utf-8')
-    (output / '版本差异.html').write_text(html_report(text), encoding='utf-8')
+    (output / '版本差异.html').write_text(render_report(before, after, compare(before, after)), encoding='utf-8')
     return output / '版本差异.html'
 
 
