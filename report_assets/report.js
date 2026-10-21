@@ -32,7 +32,7 @@ function baseSkillsHTML(p){
   if(!p.baseSkills.length)return '<p class="card-note">该干员无已解锁的后勤技能。</p>';
   return '<table class="info-table base-skills-table"><tbody>'+p.baseSkills.map(group=>{
     const skill=group.levels.at(-1),previous=group.levels.slice(0,-1);
-    return `<tr><th scope="row">${e(skill.name)}<small class="base-skill-room">${e(skill.room)}</small></th><td><div class="base-skill-meta">${e(skill.unlock)}${previous.length?` · 替换「${e(previous.at(-1).name)}」`:''}</div><p class="effect-text">${text(skill.description)}</p></td></tr>`;
+    return `<tr><th scope="row">${e(skill.name)}<small class="base-skill-room">${e(skill.room)}</small></th><td><div class="base-skill-meta">${e(skill.unlock.replace(/ · 1级$/, ''))}${previous.length?` · 替换「${e(previous.at(-1).name)}」`:''}</div><p class="effect-text">${text(skill.description)}</p></td></tr>`;
   }).join('')+'</tbody></table>';
 }
 function operatorBody(p){

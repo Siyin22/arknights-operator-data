@@ -165,7 +165,8 @@ def details_operator(p):
         skill = group['levels'][-1]
         previous = group['levels'][:-1]
         replacement = ' · 替换「' + previous[-1]['name'] + '」' if previous else ''
-        lines += [f"**{skill['name']}** · {skill['room']} · {skill['unlock']}{replacement}", '', skill['description'], '']
+        unlock = re.sub(r' · 1级$', '', skill['unlock'])
+        lines += [f"**{skill['name']}** · {skill['room']} · {unlock}{replacement}", '', skill['description'], '']
     return lines
 
 
