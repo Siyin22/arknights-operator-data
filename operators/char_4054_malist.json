@@ -234,5 +234,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_constrLv[000]",
+          "name": "绘图设计",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，基建内除活动室外每间设施每级+1个工程机器人，上限64个"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd_bd[100]",
+          "name": "机械辅助·α",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，每16个工程机器人+5%生产力"
+        },
+        {
+          "id": "manu_prod_spd_bd[110]",
+          "name": "机械辅助·β",
+          "room": "制造站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻制造站时，每8个工程机器人+5%生产力"
+        }
+      ]
+    }
+  ]
 }

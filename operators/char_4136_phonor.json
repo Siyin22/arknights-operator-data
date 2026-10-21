@@ -142,5 +142,33 @@
     "天赋效果加强"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[004]",
+          "name": "挽歌充能·α",
+          "room": "发电站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+10%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd_P[001]",
+          "name": "咒文共鸣",
+          "room": "发电站",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻发电站时，如果逻各斯进驻在训练室协助位，则无人机充能速度+5%"
+        }
+      ]
+    }
+  ]
 }

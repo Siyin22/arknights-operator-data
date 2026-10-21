@@ -234,5 +234,29 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[025]",
+          "name": "穹顶物流管理·α",
+          "room": "发电站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+15%"
+        },
+        {
+          "id": "power_rec_spd[026]",
+          "name": "穹顶物流管理·β",
+          "room": "发电站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+20%"
+        }
+      ]
+    }
+  ]
 }

@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_oneself[000]",
+          "name": "独处",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，自身心情每小时恢复+0.7"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&cost_condChar[000]",
+          "name": "双面间谍",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，如果会客室内只有自身处于工作状态时，线索搜集速度提升50%，心情每小时消耗+2"
+        }
+      ]
+    }
+  ]
 }

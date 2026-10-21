@@ -304,5 +304,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "train_spd_doubleProf[200]",
+          "name": "女妖之力",
+          "room": "训练室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻训练室协助位时，术师与辅助干员的专精技能训练速度+30%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "train_spd_reduceTime[001]",
+          "name": "言语之义",
+          "room": "训练室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻训练室单次协助一名干员训练时长达5小时，则该名干员下次训练所需时间-50%（任意一方离开训练室时，效果消失）"
+        }
+      ]
+    }
+  ]
 }

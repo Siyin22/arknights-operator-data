@@ -234,5 +234,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_tra_spd[020]",
+          "name": "朝气蓬勃",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，所有贸易站订单效率+7%（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_wt&cost[000]",
+          "name": "裁缝·α",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，小幅提升当前贸易站高品质贵金属订单的出现概率（工作时长影响概率），心情每小时消耗-0.25"
+        },
+        {
+          "id": "trade_ord_wt&cost[010]",
+          "name": "裁缝·β",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，提升当前贸易站高品质贵金属订单的出现概率（工作时长影响概率），心情每小时消耗-0.25"
+        }
+      ]
+    }
+  ]
 }

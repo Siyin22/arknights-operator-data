@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd_reduce[000]",
+          "name": "模糊视线",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，生产力+30%，自身每有4点心情落差，生产力-5%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd_addition&cost[000]",
+          "name": "窗外雪啸",
+          "room": "制造站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻制造站时，当自身心情落差大于12时，生产力+10%，仓库容量+6"
+        }
+      ]
+    }
+  ]
 }

@@ -235,5 +235,51 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "train_spd&profession[020]",
+          "name": "近卫专精·α",
+          "room": "训练室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻训练室协助位时，近卫干员的专精技能训练速度+30%"
+        },
+        {
+          "id": "train_spd&profession[021]",
+          "name": "近卫专精·β",
+          "room": "训练室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻训练室协助位时，近卫干员的专精技能训练速度+50%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&team[000]",
+          "name": "线索搜集·α",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升10%"
+        },
+        {
+          "id": "meet_spd&team[031]",
+          "name": "B.P.R.S.",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升10%，且更容易获得黑钢国际线索（工作时长影响概率）"
+        }
+      ]
+    }
+  ]
 }

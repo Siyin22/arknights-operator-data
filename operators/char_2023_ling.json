@@ -772,5 +772,33 @@
         }
       ]
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_facCostReset[000]",
+          "name": "杯莫停",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，消除当前控制中枢内所有岁干员自身心情消耗的影响"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_costToBD[000]",
+          "name": "“山河远阔”",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，当自身心情大于12时，人间烟火+15；当自身心情处于12以下时，感知信息+10"
+        }
+      ]
+    }
   ]
 }

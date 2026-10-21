@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_proc_probability[012]",
+          "name": "“炼金术”",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工任意类材料时，副产品的产出概率提升50%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_recovery[000]",
+          "name": "“爆炸艺术”",
+          "room": "加工站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻加工站加工任意类材料时，每2次加工没有产出副产品，则恢复自身一次心情，恢复量为对应配方所需消耗的心情（加工结束后统一结算）"
+        }
+      ]
+    }
+  ]
 }

@@ -260,5 +260,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_meeting_spd&bd[000]",
+          "name": "勤学苦练",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，热情值+10；会客室线索搜集速度提升+5%（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_mp&meet_spd[000]",
+          "name": "成效优先",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "当与丰川祥子一起进驻控制中枢时，丰川祥子心情每小时消耗+0.05，会客室线索搜集速度额外提升+5%（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

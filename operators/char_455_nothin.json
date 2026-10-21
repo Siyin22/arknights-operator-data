@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "hire_spd&clue[101]",
+          "name": "好事之徒",
+          "room": "办公室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+35%，同时每个招募位（不包含初始招募位）额外+5%会客室线索搜集速度"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd_bd_n2[000]",
+          "name": "“愿者上钩”",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，宿舍内每有1名干员则人间烟火+1，同时每有1点人间烟火，则订单获取效率+1%"
+        }
+      ]
+    }
+  ]
 }

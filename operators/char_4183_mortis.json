@@ -259,5 +259,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_bd&trade[000]",
+          "name": "演技的怪物",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，热情值+20；每有8点热情值，自身心情每小时消耗+0.01，所有贸易站订单效率+1%（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost_reset[000]",
+          "name": "互为半身",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "当与丰川祥子一起进驻控制中枢时，消除自身心情消耗的影响"
+        }
+      ]
+    }
+  ]
 }

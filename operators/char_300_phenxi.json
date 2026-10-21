@@ -304,5 +304,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_recExcludeOther[000]",
+          "name": "自律",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，自身心情每小时恢复+2，同时无法获得其他来源提供的心情恢复效果"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "dorm_exchangeAp[000]",
+          "name": "患难之交",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，如果自身为满心情，则与当前宿舍前一位进驻的干员互换心情"
+        }
+      ]
+    }
+  ]
 }

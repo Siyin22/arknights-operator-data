@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_wt&cost[004]",
+          "name": "千金的眼光",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，小幅提升当前贸易站高品质贵金属订单的出现概率（工作时长影响概率），心情每小时消耗-0.25"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd[023]",
+          "name": "坎贝尔之名",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升20%"
+        }
+      ]
+    }
+  ]
 }

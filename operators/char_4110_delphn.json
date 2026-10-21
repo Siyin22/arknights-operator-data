@@ -258,5 +258,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "hire_spd&clue2[260]",
+          "name": "旧识新交",
+          "room": "办公室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+20%，每产生1次联络次数，增加格拉斯哥帮线索的概率（工作时长和招募位影响概率）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_tra_limit&spd[010]",
+          "name": "运筹好手",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，同一贸易站中，每有1名格拉斯哥帮干员，订单获取效率+10%"
+        }
+      ]
+    }
+  ]
 }

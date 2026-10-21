@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_tra_spd[010]",
+          "name": "大小姐",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，所有贸易站订单效率+7%（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "train_spd[000]",
+          "name": "教官",
+          "room": "训练室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻训练室协助位时，干员的专精技能训练速度+25%"
+        }
+      ]
+    }
+  ]
 }

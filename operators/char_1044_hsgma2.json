@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_train_spd[012]",
+          "name": "下城人脉",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，如训练室有干员在进行技能专精，则该干员的专精技能训练速度+5%（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_token_prod_spd3[000]",
+          "name": "共事情谊",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "当与龙门近卫局干员进驻控制中枢一起工作时，所有制造站生产力+3%（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

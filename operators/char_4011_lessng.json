@@ -304,5 +304,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_cost4[010]",
+          "name": "苦修之律",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，相应配方的心情消耗恒定为4"
+        },
+        {
+          "id": "workshop_formula_cost4[011]",
+          "name": "虔修之律",
+          "room": "加工站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，相应配方的心情消耗恒定为3"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[139]",
+          "name": "巫妖学识",
+          "room": "加工站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，副产品的产出概率提升80%"
+        }
+      ]
+    }
+  ]
 }

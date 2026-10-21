@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost&faction[000]",
+          "name": "德才兼备",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内每个龙门近卫局干员可使控制中枢内所有干员的心情每小时恢复+0.05"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&team[100]",
+          "name": "警司",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升25%"
+        }
+      ]
+    }
+  ]
 }

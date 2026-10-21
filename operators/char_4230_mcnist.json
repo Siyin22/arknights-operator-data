@@ -402,5 +402,33 @@
         }
       ]
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_formula_spd[011]",
+          "name": "作战指导录像",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，作战记录类配方的生产力+30%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_cost_min[001]",
+          "name": "“我睡过了”",
+          "room": "制造站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻制造站时，若单次工作时长达到12小时，生产力+10%"
+        }
+      ]
+    }
   ]
 }

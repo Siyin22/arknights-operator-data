@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "train_spd&profession[020]",
+          "name": "近卫专精·α",
+          "room": "训练室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻训练室协助位时，近卫干员的专精技能训练速度+30%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[300]",
+          "name": "特训记录",
+          "room": "加工站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻加工站加工芯片时，副产品的产出概率提升70%"
+        }
+      ]
+    }
+  ]
 }

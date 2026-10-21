@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd&limit[036]",
+          "name": "半身人公会代表",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，订单获取效率+30%，且订单上限+1"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd_bd[100]",
+          "name": "熟悉的味道",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，每1点魔物料理+1%订单效率"
+        }
+      ]
+    }
+  ]
 }

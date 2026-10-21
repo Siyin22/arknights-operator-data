@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_cost3[000]",
+          "name": "放空",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工技巧概要时，心情消耗为2的配方全部-1心情消耗"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[030]",
+          "name": "适应力",
+          "room": "加工站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻加工站加工技巧概要时，副产品的产出概率提升75%"
+        }
+      ]
+    }
+  ]
 }

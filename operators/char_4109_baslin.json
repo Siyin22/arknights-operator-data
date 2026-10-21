@@ -235,5 +235,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "hire_spd_cost[101]",
+          "name": "宫廷礼仪",
+          "room": "办公室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+10%，心情每小时消耗-0.25"
+        },
+        {
+          "id": "hire_spd_cost[120]",
+          "name": "威权谕使",
+          "room": "办公室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+30%，心情每小时消耗-0.25"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "hire_spd_bd_n1_n1[300]",
+          "name": "心声图绘",
+          "room": "办公室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻人力办公室时，每个招募位（不包含初始招募位）+15点无声共鸣"
+        }
+      ]
+    }
+  ]
 }

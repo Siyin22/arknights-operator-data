@@ -131,5 +131,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_single[030]",
+          "name": "天启",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复+0.7（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_formula_spd[020]",
+          "name": "拳术指导录像",
+          "room": "制造站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻制造站时，作战记录类配方的生产力+35%"
+        }
+      ]
+    }
+  ]
 }

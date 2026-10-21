@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[160]",
+          "name": "稀有金属辨识",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，副产品的产出概率提升100%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_cost[010]",
+          "name": "肆无忌惮",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，相应配方全部+2心情消耗"
+        }
+      ]
+    }
+  ]
 }

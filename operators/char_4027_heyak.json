@@ -305,5 +305,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd&cost_condChar[001]",
+          "name": "“职业操守”·α",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，如果会客室内只有自身处于工作状态时，线索搜集速度提升15%，心情每小时消耗+1"
+        },
+        {
+          "id": "meet_spd&cost_condChar[011]",
+          "name": "“职业操守”·β",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，如果会客室内只有自身处于工作状态时，线索搜集速度提升35%，心情每小时消耗+1"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&condChar_mustget[000]",
+          "name": "文献学顾问",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，如果会客室内只有自身处于工作状态时，连续消耗超过16点心情下一次必定获得莱茵生命的线索"
+        }
+      ]
+    }
+  ]
 }

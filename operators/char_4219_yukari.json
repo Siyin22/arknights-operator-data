@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "hire_spd_cost[999]",
+          "name": "独立调查",
+          "room": "办公室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+30%，心情每小时消耗-0.25"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "train_spd_doubleProf3[999]",
+          "name": "合理兼职",
+          "room": "训练室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻训练室协助位时，狙击与医疗干员的专精技能训练速度+45%"
+        }
+      ]
+    }
+  ]
 }

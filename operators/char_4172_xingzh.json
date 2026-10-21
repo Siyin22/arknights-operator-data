@@ -235,5 +235,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "hire_spd_cost[112]",
+          "name": "踏坊寻味·α",
+          "room": "办公室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+20%，心情每小时消耗-0.25"
+        },
+        {
+          "id": "hire_spd_cost[121]",
+          "name": "踏坊寻味·β",
+          "room": "办公室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+30%，心情每小时消耗-0.25"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd[1020]",
+          "name": "线索搜集·β",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升20%"
+        }
+      ]
+    }
+  ]
 }

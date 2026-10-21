@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_proc_probability[013]",
+          "name": "修修还能用",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工任意类材料时，副产品的产出概率提升50%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_rub[000]",
+          "name": "省省能更多",
+          "room": "加工站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻加工站加工原始心情消耗为2的精英材料时，副产品的产出概率额外提升40%"
+        }
+      ]
+    }
+  ]
 }

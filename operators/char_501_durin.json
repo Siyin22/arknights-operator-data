@@ -141,5 +141,29 @@
     "部署费用-1"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_all&oneself[000]",
+          "name": "慵懒",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）"
+        },
+        {
+          "id": "dorm_rec_all&oneself[001]",
+          "name": "嗜睡",
+          "room": "宿舍",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻宿舍时，自身心情每小时恢复-0.1，该宿舍内所有干员的心情每小时恢复+0.25（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd[021]",
+          "name": "好奇心",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升20%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd_bd[001]",
+          "name": "饱餐的干劲",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，每拥有1点魔物料理，线索搜集速度额外提升2%"
+        }
+      ]
+    }
+  ]
 }

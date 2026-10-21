@@ -141,5 +141,33 @@
     "部署费用-1"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd[020]",
+          "name": "线索搜集·β",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升20%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[300]",
+          "name": "特训记录",
+          "room": "加工站",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻加工站加工芯片时，副产品的产出概率提升70%"
+        }
+      ]
+    }
+  ]
 }

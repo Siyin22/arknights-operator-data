@@ -235,5 +235,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_law[000]",
+          "name": "合同法",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，如果下笔赤金订单交付数小于4，则视为违约订单"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_against[000]",
+          "name": "违约索赔·α",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，如果下笔赤金订单是违约订单，则赤金交付数额外+1"
+        },
+        {
+          "id": "trade_ord_against[010]",
+          "name": "违约索赔·β",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，如果下笔赤金订单是违约订单，则赤金交付数额外+2"
+        }
+      ]
+    }
+  ]
 }

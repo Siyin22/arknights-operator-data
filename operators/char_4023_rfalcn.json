@@ -259,5 +259,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_dorm_rec[001]",
+          "name": "战纹",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，所有宿舍内所有干员的心情每小时恢复+0.05（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost[011]",
+          "name": "捍卫之道",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复+0.05"
+        }
+      ]
+    }
+  ]
 }

@@ -323,5 +323,33 @@
       "trait": "",
       "skills": []
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd_notOwned[004]",
+          "name": "资深信使",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，更容易获得线索板上尚未拥有的线索"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&cost_condChar[002]",
+          "name": "我自己的愿望",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，如果会客室内只有自身处于工作状态时，线索搜集速度提升50%，心情每小时消耗+2"
+        }
+      ]
+    }
   ]
 }

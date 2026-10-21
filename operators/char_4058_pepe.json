@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_limit&trade&lv[000]",
+          "name": "多面逢源",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，当前贸易站每级+1个订单上限"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_pepe[000]",
+          "name": "慧眼独到",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，固定获取特别独占订单（不视作违约订单），且该类订单不受任何订单获取效率的影响"
+        }
+      ]
+    }
+  ]
 }

@@ -322,5 +322,33 @@
       "trait": "能够阻挡三个敌人",
       "skills": []
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_proc_probability[040]",
+          "name": "未知技术",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工任意类材料时，副产品的产出概率提升70%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_prod_spd[000]",
+          "name": "最高权限",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，所有制造站生产力+2%（同种效果取最高）"
+        }
+      ]
+    }
   ]
 }

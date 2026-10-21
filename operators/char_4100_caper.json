@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd&team[000]",
+          "name": "线索搜集·α",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升10%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&exchange[000]",
+          "name": "无辜笑脸",
+          "room": "会客室",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻会客室时，处于线索交流时线索搜集速度提升30%"
+        }
+      ]
+    }
+  ]
 }

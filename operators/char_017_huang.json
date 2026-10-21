@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[001]",
+          "name": "热能充能·α",
+          "room": "发电站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+10%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[210]",
+          "name": "斩铁裂钢",
+          "room": "加工站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻加工站加工基建材料时，副产品的产出概率提升80%"
+        }
+      ]
+    }
+  ]
 }

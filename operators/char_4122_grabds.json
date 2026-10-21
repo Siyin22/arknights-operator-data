@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_single[1010]",
+          "name": "善解人意",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复+0.55（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_all[025]",
+          "name": "乡野笛音",
+          "room": "宿舍",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

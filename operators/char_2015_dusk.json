@@ -323,5 +323,33 @@
       "trait": "攻击造成法术伤害",
       "skills": []
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost&bd1[000]",
+          "name": "\"不以物喜\"",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复+0.05；当自身心情处于12以下时，人间烟火+15"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost&bd2[000]",
+          "name": "\"不以己悲\"",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，自身心情每小时消耗+0.5；当自身心情大于12时，感知信息+10"
+        }
+      ]
+    }
   ]
 }

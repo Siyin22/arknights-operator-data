@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[011]",
+          "name": "清洁能源",
+          "room": "发电站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+15%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd&trade[000]",
+          "name": "再生能源",
+          "room": "制造站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻制造站时，每个贸易站为当前制造站贵金属类配方的生产力+20%"
+        }
+      ]
+    }
+  ]
 }

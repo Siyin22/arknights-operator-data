@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost[005]",
+          "name": "必要责任",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复+0.05"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_oneself[000]",
+          "name": "独处",
+          "room": "宿舍",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻宿舍时，自身心情每小时恢复+0.7"
+        }
+      ]
+    }
+  ]
 }

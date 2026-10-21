@@ -368,5 +368,42 @@
         }
       ]
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd_bd_n1[000]",
+          "name": "乐感",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，宿舍内每有1名干员则感知信息+1，同时每1点感知信息转化为1点无声共鸣"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd_bd[000]",
+          "name": "徘徊旋律",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，每4点无声共鸣+1%订单效率"
+        },
+        {
+          "id": "trade_ord_spd_bd[010]",
+          "name": "怅惘和声",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，每2点无声共鸣+1%订单效率"
+        }
+      ]
+    }
   ]
 }

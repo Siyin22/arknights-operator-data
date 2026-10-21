@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_all&tag[000]",
+          "name": "资深料理人",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15，如果目标是莱欧斯小队干员，则恢复效果额外+0.15（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_bd_dungeon[000]",
+          "name": "森西大食堂",
+          "room": "宿舍",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻宿舍时，当前宿舍每级提供1层魔物料理"
+        }
+      ]
+    }
+  ]
 }

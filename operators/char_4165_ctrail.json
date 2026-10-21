@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[102]",
+          "name": "气流传动",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，副产品的产出概率提升70%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "train_spd&profession[1081]",
+          "name": "特种专精·β",
+          "room": "训练室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻训练室协助位时，特种干员的专精技能训练速度+50%"
+        }
+      ]
+    }
+  ]
 }

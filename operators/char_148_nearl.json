@@ -235,5 +235,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost[000]",
+          "name": "左膀右臂",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复+0.05"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_single&oneself[030]",
+          "name": "使徒",
+          "room": "宿舍",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复+0.5（同种效果取最高）；同时自身心情每小时恢复+0.25"
+        }
+      ]
+    }
+  ]
 }

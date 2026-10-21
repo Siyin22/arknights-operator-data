@@ -304,5 +304,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost&bd_up[000]",
+          "name": "知我为我",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，自身心情每小时消耗+0.5；每个岁干员进驻在宿舍和活动室以外的设施则人间烟火+5（最多5名）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_mp_bd_cost_expand[000]",
+          "name": "孤光共照",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，其他设施内处于工作状态的干员心情每小时恢复+0.05；同时每有20点人间烟火，则额外+0.05，（与控制中枢加成有特殊比较规则）"
+        }
+      ]
+    }
+  ]
 }

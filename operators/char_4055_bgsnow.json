@@ -460,5 +460,33 @@
         }
       ]
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd&gold[100]",
+          "name": "销路宣发",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，每有1条赤金生产线，则当前贸易站订单获取效率+5%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "trade_ord_line_durin[010]",
+          "name": "际崖居民",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，基建内（不包含副手及活动室使用者）每1名杜林族干员（最多4名）为当前贸易站提供1条赤金生产线"
+        }
+      ]
+    }
   ]
 }

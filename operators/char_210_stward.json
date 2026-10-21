@@ -158,5 +158,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_limit&cost[000]",
+          "name": "谈判",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，订单上限+5，心情每小时消耗-0.25"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd[010]",
+          "name": "标准化·β",
+          "room": "制造站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻制造站时，生产力+25%"
+        }
+      ]
+    }
+  ]
 }

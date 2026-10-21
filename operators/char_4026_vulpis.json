@@ -305,5 +305,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd[1000]",
+          "name": "线索搜集·α",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升10%"
+        },
+        {
+          "id": "meet_spd[1010]",
+          "name": "线索搜集·β",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升20%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&bd[100]",
+          "name": "杀手的假期",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，当与铃兰进驻会客室一起工作时，线索搜集速度额外提升30%"
+        }
+      ]
+    }
+  ]
 }

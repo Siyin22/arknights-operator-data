@@ -259,5 +259,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_bd2[000]",
+          "name": "团队合作",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内每有1名怪物猎人小队干员，则木天蓼+2"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_token_tra_spd[000]",
+          "name": "秘传交涉术",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "当与怪物猎人小队干员进驻控制中枢一起工作时，所有贸易站订单效率+7%（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

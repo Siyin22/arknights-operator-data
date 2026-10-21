@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_probability[129]",
+          "name": "学者",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，副产品的产出概率提升80%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_formula_spd[212]",
+          "name": "源石研究",
+          "room": "制造站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻制造站时，源石类配方的生产力+35%"
+        }
+      ]
+    }
+  ]
 }

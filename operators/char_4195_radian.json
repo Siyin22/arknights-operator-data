@@ -772,5 +772,33 @@
         }
       ]
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost[013]",
+          "name": "点滴关照",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复+0.05"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_dorm_rec_tag[001]",
+          "name": "无言的慈爱",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，所有宿舍内精英干员的心情每小时恢复+0.1（同种效果取最高）"
+        }
+      ]
+    }
   ]
 }

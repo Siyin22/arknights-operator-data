@@ -235,5 +235,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "meet_spd&team[000]",
+          "name": "线索搜集·α",
+          "room": "会客室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升10%"
+        },
+        {
+          "id": "meet_spd&team[041]",
+          "name": "雪境守望",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室时，线索搜集速度提升10%，且更容易获得喀兰贸易线索（工作时长影响概率）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_flag[040]",
+          "name": "耶拉冈德",
+          "room": "会客室",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻会客室后，每当新搜集到的线索不是喀兰贸易时，则额外增加喀兰贸易线索的出现概率（工作时长影响概率）"
+        }
+      ]
+    }
+  ]
 }

@@ -306,5 +306,42 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_all[017]",
+          "name": "静心仪式·α",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.15（同种效果取最高）"
+        },
+        {
+          "id": "dorm_rec_all[027]",
+          "name": "静心仪式·β",
+          "room": "宿舍",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.2（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_dorm_rec[002]",
+          "name": "巡心",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，所有宿舍内所有干员的心情每小时恢复+0.05（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

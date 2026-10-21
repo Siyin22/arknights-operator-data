@@ -322,5 +322,33 @@
       "trait": "不会受到攻击，可部署在地面或高台位",
       "skills": []
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_formula_spd[214]",
+          "name": "源岩解析",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，源石类配方的生产力+35%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_device[050]",
+          "name": "DIY·源岩",
+          "room": "加工站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻加工站加工源岩类材料时，副产品的产出概率提升90%"
+        }
+      ]
+    }
   ]
 }

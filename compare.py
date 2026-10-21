@@ -50,6 +50,19 @@ def load_snapshot(repo, tag):
                 result['version']['client_version'] = client
         except (ValueError, KeyError):
             pass
+    if any('baseSkills' not in p for p in result['operators'].values()):
+        try:
+            history_text = git(repo, 'show', 'HEAD:base-skills-history.json')
+        except ValueError:
+            history_text = '{}'
+        supplement = json.loads(history_text).get(tag)
+        if supplement:
+            if supplement['version'] != result['version'] or supplement['operators'].keys() != result['operators'].keys():
+                raise ValueError('后勤技能补充记录与历史版本不匹配：' + tag)
+            for cid, profile in result['operators'].items():
+                if 'baseSkills' in profile and profile['baseSkills'] != supplement['operators'][cid]:
+                    raise ValueError('后勤技能补充记录冲突：' + cid)
+                profile['baseSkills'] = supplement['operators'][cid]
     return result
 
 
@@ -79,7 +92,8 @@ LABELS = {'maxHp': '生命上限', 'atk': '攻击', 'def': '防御', 'magicResis
           'charges': '充能次数', 'trigger': '触发方式', 'recovery': '回复方式',
           'tokens': '召唤物', 'tokenBonuses': '召唤物加成', 'condition': '生效条件',
           'type': '类型', 'unlock': '解锁条件', 'special': '限定模式', 'level': '等级',
-          'profession': '职业', 'branch': '分支', 'phase': '精英阶段', 'rarity': '星级'}
+          'profession': '职业', 'branch': '分支', 'phase': '精英阶段', 'rarity': '星级',
+          'baseSkills': '后勤技能', 'room': '适用设施'}
 
 
 def changes(old, new, path=''):
@@ -142,6 +156,16 @@ def details_operator(p):
         lines += ['', f"#### 技能{skill['index']} · {skill['name']}"]
         for lev in reversed(skill['levels']):
             lines += ['', f"{lev['label']} · {lev['recovery']} / {lev['trigger']} · 初始 {lev['initial']} / 消耗 {lev['cost']} 技力 · {duration_text(lev['duration'])}", '', lev['description']]
+    lines += ['', '#### 后勤技能', '']
+    if 'baseSkills' not in p:
+        lines += ['该历史版本未记录后勤技能。']
+    elif not p['baseSkills']:
+        lines += ['该干员无已解锁的后勤技能。']
+    for group in p.get('baseSkills', []):
+        skill = group['levels'][-1]
+        previous = group['levels'][:-1]
+        replacement = ' · 替换「' + previous[-1]['name'] + '」' if previous else ''
+        lines += [f"**{skill['name']}** · {skill['room']} · {skill['unlock']}{replacement}", '', skill['description'], '']
     return lines
 
 

@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_prod_limit&cost[0000]",
+          "name": "拾荒者",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，仓库容量上限+8，心情每小时消耗-0.25"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd_variable[000]",
+          "name": "回收利用",
+          "room": "制造站",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻制造站时，当前制造站内干员提升的每格仓库容量，提供2%生产力"
+        }
+      ]
+    }
+  ]
 }

@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost[008]",
+          "name": "独善其身",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复+0.05"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_mp_lonely[000]",
+          "name": "公事公办",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻控制中枢时，部分设施内处于工作状态的干员心情每小时恢复+0.1；同时控制中枢内部分技能可以为其他设施内处于工作状态的干员额外提供心情恢复"
+        }
+      ]
+    }
+  ]
 }

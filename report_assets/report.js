@@ -27,6 +27,14 @@ function skillHTML(skill,index){
   const levels = state.skills==='all'?skill.levels:[skill.levels.at(-1)];
   return `<section class="skill-box" data-skill="${index}"><div class="skill-heading"><h4><span class="skill-index">SKILL ${e(skill.index)}</span>${e(skill.name)}</h4><span class="skill-type">${e(skill.levels.at(-1).recovery)} · ${e(skill.levels.at(-1).trigger)}</span></div>${state.skills==='max'&&skill.levels.length>1?`<div class="level-tabs no-export" role="group" aria-label="${e(skill.name)}技能等级">${skill.levels.map((lev,i)=>`<button type="button" data-level="${i}" class="${i===skill.levels.length-1?'active':''}" aria-pressed="${i===skill.levels.length-1}">${e(lev.label)}</button>`).join('')}</div>`:''}<div class="skill-content">${levels.map(levelHTML).join('')}</div></section>`;
 }
+function baseSkillsHTML(p){
+  if(!Array.isArray(p.baseSkills))return '<p class="card-note">该历史版本未记录后勤技能。</p>';
+  if(!p.baseSkills.length)return '<p class="card-note">该干员无已解锁的后勤技能。</p>';
+  return '<table class="info-table base-skills-table"><tbody>'+p.baseSkills.map(group=>{
+    const skill=group.levels.at(-1),previous=group.levels.slice(0,-1);
+    return `<tr><th scope="row">${e(skill.name)}<small class="base-skill-room">${e(skill.room)}</small></th><td><div class="base-skill-meta">${e(skill.unlock)}${previous.length?` · 替换「${e(previous.at(-1).name)}」`:''}</div><p class="effect-text">${text(skill.description)}</p></td></tr>`;
+  }).join('')+'</tbody></table>';
+}
 function operatorBody(p){
   const v=p.variants[Math.min(state.potential,p.variants.length)-1];
   let body=`<div class="card-caption"><span>精英 ${e(p.phase)} · 满级 ${e(p.level)} · 满信赖 · ${e(p.position||'')}</span><span class="potential-chip">${potentialText(p.variants.length)}</span></div>`;
@@ -35,6 +43,7 @@ function operatorBody(p){
   body+=v.talents.map((t,i)=>`<tr><th><span class="talent-name">天赋 ${i+1}</span>${e(t.name)}</th><td><p class="effect-text">${text(t.description)}</p></td></tr>`).join('')+'</tbody></table>';
   body+='<h3 class="card-section-title">潜能</h3>'+potentialHTML(p);
   body+='<h3 class="card-section-title">技能</h3>'+(p.skills.map(skillHTML).join('')||'<p class="card-note">该干员没有技能。</p>');
+  body+='<h3 class="card-section-title">后勤技能</h3>'+baseSkillsHTML(p);
   if(p.tokens?.length)body+='<details class="supplement"><summary>关联召唤物 · 最高等级基础属性</summary>'+p.tokens.map(t=>`<section class="token-block"><h4>${e(t.name)}</h4>${statsHTML(t.stats)}<p class="effect-text">${text(t.trait)}</p>${t.skills.map((s,i)=>skillHTML(s,'token-'+i)).join('')}</section>`).join('')+'</details>';
   return body;
 }

@@ -345,5 +345,33 @@
         }
       ]
     }
+  ],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd&limit&cost[300]",
+          "name": "行动派",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，生产力+20%，仓库容量上限-8"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_limit&cost[1020]",
+          "name": "收纳达人",
+          "room": "制造站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻制造站时，仓库容量上限+16，心情每小时消耗-0.25"
+        }
+      ]
+    }
   ]
 }

@@ -141,5 +141,33 @@
     "部署费用-1"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd[001]",
+          "name": "订单分发·β",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，订单获取效率+30%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd[000]",
+          "name": "标准化·α",
+          "room": "制造站",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻制造站时，生产力+15%"
+        }
+      ]
+    }
+  ]
 }

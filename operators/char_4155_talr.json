@@ -235,5 +235,29 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd&limit&cost[100]",
+          "name": "量体裁衣",
+          "room": "制造站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻制造站时，生产力+20%，心情每小时消耗+0.25"
+        },
+        {
+          "id": "manu_prod_spd&limit&cost[200]",
+          "name": "得心应手",
+          "room": "制造站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻制造站时，生产力+25%，仓库容量上限+6"
+        }
+      ]
+    }
+  ]
 }

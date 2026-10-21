@@ -142,5 +142,33 @@
     "天赋效果加强"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[000]",
+          "name": "备用能源",
+          "room": "发电站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+10%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "power_prod_spd_P[000]",
+          "name": "“滴滴，启动！”",
+          "room": "发电站",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻发电站时，野鬃所在的制造站生产力+5%"
+        }
+      ]
+    }
+  ]
 }

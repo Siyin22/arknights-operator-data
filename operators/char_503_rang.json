@@ -141,5 +141,33 @@
     "部署费用-1"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "hire_spd[000]",
+          "name": "人事管理·α",
+          "room": "办公室",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻人力办公室时，人脉资源的联络速度+20%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "workshop_proc_probability[021]",
+          "name": "老当益壮",
+          "room": "加工站",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻加工站加工任意类材料时，副产品的产出概率提升60%"
+        }
+      ]
+    }
+  ]
 }

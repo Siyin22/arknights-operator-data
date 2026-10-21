@@ -141,5 +141,33 @@
     "天赋效果加强"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd&limit&bd[000]",
+          "name": "可爱的艾露猫",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，订单获取效率+5%，且订单上限+2，同时每有1个木天蓼，则订单获取效率+3%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "manu_prod_spd&limit&bd[000]",
+          "name": "可靠的随从们",
+          "room": "制造站",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻制造站时，仓库容量上限+8，生产力+5%，同时每有1个木天蓼，则生产力+1%"
+        }
+      ]
+    }
+  ]
 }

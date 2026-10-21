@@ -306,5 +306,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_train_spd[011]",
+          "name": "断金之交",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，如训练室有干员在进行技能专精，则该干员的专精技能训练速度+5%（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[1022]",
+          "name": "热能充能·γ",
+          "room": "发电站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+20%"
+        }
+      ]
+    }
+  ]
 }

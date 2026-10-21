@@ -305,5 +305,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "control_mp_cost&bd2[010]",
+          "name": "耐力回复",
+          "room": "控制中枢",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻控制中枢时，自身心情每小时消耗+0.5，木天蓼+8"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_token_prod_spd2[000]",
+          "name": "以身作则",
+          "room": "控制中枢",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "当与怪物猎人小队干员进驻控制中枢一起工作时，所有制造站生产力+2%（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

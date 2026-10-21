@@ -234,5 +234,33 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "power_rec_spd[010]",
+          "name": "设备维护",
+          "room": "发电站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻发电站时，无人机充能速度+15%"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "control_token_prod_spd[000]",
+          "name": "超频",
+          "room": "控制中枢",
+          "unlock": "精英1 · 1级",
+          "phase": 1,
+          "level": 1,
+          "description": "进驻控制中枢时，如果有2台以上作业平台进驻在发电站，则所有制造站生产力+2%（同种效果取最高）"
+        }
+      ]
+    }
+  ]
 }

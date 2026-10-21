@@ -142,5 +142,33 @@
     "天赋效果加强"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "dorm_rec_all[999]",
+          "name": "毛茸茸的抚慰",
+          "room": "宿舍",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复+0.1（同种效果取最高）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd&exchange[999]",
+          "name": "虎狼丸的报恩",
+          "room": "会客室",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻会客室时，处于线索交流时线索搜集速度提升30%"
+        }
+      ]
+    }
+  ]
 }

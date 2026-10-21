@@ -234,5 +234,29 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "workshop_formula_cost2[110]",
+          "name": "大匠之心·α",
+          "room": "加工站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，副产品的产出概率提升60%，同时心情消耗为8以上的配方全部-2心情消耗"
+        },
+        {
+          "id": "workshop_formula_cost2[111]",
+          "name": "大匠之心·β",
+          "room": "加工站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻加工站加工精英材料时，副产品的产出概率提升80%，同时心情消耗为4以上的配方全部-2心情消耗"
+        }
+      ]
+    }
+  ]
 }

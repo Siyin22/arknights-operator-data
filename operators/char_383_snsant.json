@@ -235,5 +235,29 @@
       ]
     }
   ],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd_variable2[000]",
+          "name": "天道酬勤·α",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，当前贸易站内干员提供的每5%订单获取效率，额外提供5%效率，最多提供25%效率"
+        },
+        {
+          "id": "trade_ord_spd_variable2[001]",
+          "name": "天道酬勤·β",
+          "room": "贸易站",
+          "unlock": "精英2 · 1级",
+          "phase": 2,
+          "level": 1,
+          "description": "进驻贸易站时，当前贸易站内干员提供的每5%订单获取效率，额外提供5%效率，最多提供35%效率"
+        }
+      ]
+    }
+  ]
 }

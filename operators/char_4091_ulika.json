@@ -141,5 +141,33 @@
     "天赋效果加强"
   ],
   "skills": [],
-  "tokens": []
+  "tokens": [],
+  "baseSkills": [
+    {
+      "levels": [
+        {
+          "id": "trade_ord_spd&wt[000]",
+          "name": "天真的谈判者",
+          "room": "贸易站",
+          "unlock": "初始解锁",
+          "phase": 0,
+          "level": 1,
+          "description": "进驻贸易站时，订单获取效率+10%，当前贸易站赤金订单的赤金交付数必定为2（不视作违约订单）"
+        }
+      ]
+    },
+    {
+      "levels": [
+        {
+          "id": "meet_spd_Owned[000]",
+          "name": "显眼的调查者",
+          "room": "会客室",
+          "unlock": "精英0 · 30级",
+          "phase": 0,
+          "level": 30,
+          "description": "进驻会客室时，更容易获得线索板上已经拥有的线索"
+        }
+      ]
+    }
+  ]
 }
