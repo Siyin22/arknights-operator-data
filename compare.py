@@ -195,7 +195,7 @@ def html_report(text):
         elif line:
             blocks.append('<p>' + escaped + '</p>')
     return ('<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            '<title>明日方舟 · 版本差异</title><style>body{margin:0;background:#f3f6f5;color:#213b43;font:15px/1.9 "Microsoft YaHei",sans-serif}'
+            '<title>明日方舟 · 版本差异</title><style>body{margin:0;background:#f3f6f5;color:#213b43;font:15px/1.9 "LXGW WenKai","霞鹜文楷","Microsoft YaHei","微软雅黑",sans-serif}'
             'main{max-width:1000px;margin:32px auto;padding:28px;background:white;border-radius:12px}h1,h2{color:#087b72}h2{border-top:1px solid #ddd;padding-top:24px}'
             'h3{margin-top:28px}p{white-space:pre-wrap;overflow-wrap:anywhere}button{padding:10px;cursor:pointer}@media print{button{display:none}main{margin:0}}</style>'
             '<main><button onclick="window.print()">打印 / 保存 PDF</button>' + ''.join(blocks) + '</main></html>')
