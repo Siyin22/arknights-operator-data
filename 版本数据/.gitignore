@@ -1,0 +1,8 @@
+comparison/
+__pycache__/
+*.pyc
+.venv/
+work/
+settings.json
+pipeline.lock
+启动错误.txt

@@ -20,13 +20,26 @@ def tags(repo):
             if re.fullmatch(r'\d+\.\d+\.\d+', t)]
 
 
+def data_prefix(repo, ref):
+    """Old published tags stored data at root; new commits use 版本数据/."""
+    names = git(repo, '-c', 'core.quotepath=false', 'ls-tree', '--name-only', ref, '--', '版本数据/version.json')
+    return '版本数据/' if names.strip() else ''
+
+
 def load_snapshot(repo, tag):
     if tag not in tags(repo):
         raise ValueError('未找到已保存的官方版本：' + tag)
     # One git process per version, rather than one process for every operator.
     import io
     import tarfile
-    data = subprocess.run(['git', '-C', str(repo), 'archive', 'refs/tags/' + tag], capture_output=True, timeout=60)
+    root = Path(git(repo, 'rev-parse', '--show-toplevel').strip())
+    ref = 'refs/tags/' + tag
+    prefix = data_prefix(root, ref)
+    paths = git(root, '-c', 'core.quotepath=false', 'ls-tree', '--name-only', ref, '--',
+                *[prefix + name for name in ('version.json', 'operators', 'modules')]).splitlines()
+    data = subprocess.run(['git', '-C', str(root), 'archive', ref, '--',
+                           *paths],
+                          capture_output=True, timeout=60)
     if data.returncode:
         raise ValueError(data.stderr.decode('utf-8', errors='replace'))
     result = {'operators': {}, 'modules': {}}
@@ -34,17 +47,19 @@ def load_snapshot(repo, tag):
         for member in archive:
             if not member.isfile() or not member.name.endswith('.json'):
                 continue
-            if member.name != 'version.json' and member.name.split('/')[0] not in ('operators', 'modules'):
+            name = member.name[len(prefix):]
+            if name != 'version.json' and name.split('/')[0] not in ('operators', 'modules'):
                 continue
             value = json.load(archive.extractfile(member))
-            if member.name == 'version.json':
+            if name == 'version.json':
                 result['version'] = value
-            elif member.name.split('/')[0] in ('operators', 'modules'):
-                result[member.name.split('/')[0]][Path(member.name).stem] = value
+            elif name.split('/')[0] in ('operators', 'modules'):
+                result[name.split('/')[0]][Path(name).stem] = value
+    current_prefix = data_prefix(root, 'HEAD')
     # Client metadata can be added later without rewriting already published data tags.
     if not result['version'].get('client_version'):
         try:
-            catalog = json.loads(git(repo, 'show', 'HEAD:version-info.json'))
+            catalog = json.loads(git(root, 'show', 'HEAD:' + current_prefix + 'version-info.json'))
             client = catalog.get(tag, {}).get('client_version')
             if client:
                 result['version']['client_version'] = client
@@ -52,7 +67,7 @@ def load_snapshot(repo, tag):
             pass
     if any('baseSkills' not in p for p in result['operators'].values()):
         try:
-            history_text = git(repo, 'show', 'HEAD:base-skills-history.json')
+            history_text = git(root, 'show', 'HEAD:' + current_prefix + 'base-skills-history.json')
         except ValueError:
             history_text = '{}'
         supplement = json.loads(history_text).get(tag)

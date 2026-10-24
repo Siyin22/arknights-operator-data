@@ -17,7 +17,7 @@ from version_compare import tags,write_comparison,version_label,load_snapshot
 class App:
     def __init__(self,root):
         self.root=root;self.worker=None;self.events=queue.Queue();self.cancel=threading.Event();self.failed=None
-        root.title('明日方舟 · 干员版本对比');root.geometry('940x860');root.minsize(900,830)
+        root.title('明日方舟干员模组数据工具');root.geometry('940x860');root.minsize(900,830)
         root.configure(bg='#F3F6F8')
         families={name.casefold():name for name in tkfont.families(root)}
         font_family=next((families[name.casefold()] for name in ('LXGW WenKai','霞鹜文楷','Microsoft YaHei','微软雅黑') if name.casefold() in families),'微软雅黑')
@@ -31,7 +31,7 @@ class App:
         style.configure('Title.TLabel',font=(font_family,22,'bold'))
         style.configure('Hint.TLabel',foreground='#617784')
         frame=ttk.Frame(root,padding=28);frame.pack(fill='both',expand=True)
-        ttk.Label(frame,text='明日方舟 · 干员版本对比',style='Title.TLabel').pack(anchor='w')
+        ttk.Label(frame,text='明日方舟干员模组数据工具',style='Title.TLabel').pack(anchor='w')
         ttk.Label(frame,text='按官方版本保存干员与模组，上传 GitHub；历史版本交给 Git 管理。',style='Hint.TLabel').pack(anchor='w',pady=(6,24))
         ttk.Label(frame,text='游戏安装目录').pack(anchor='w')
         row=ttk.Frame(frame);row.pack(fill='x',pady=(6,8))

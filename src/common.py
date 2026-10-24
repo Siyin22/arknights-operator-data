@@ -6,17 +6,7 @@ from pathlib import Path
 
 APP = Path(__file__).resolve().parents[1]
 OUTPUT = APP / '导出结果'
-
-def archive_directory(app):
-    """Support both the original workspace and a checkout with tool/ beside data."""
-    app = Path(app)
-    parent = app.parent
-    if app.name == 'tool' and (parent / '.git').exists() and (parent / 'version.json').is_file():
-        return parent
-    return app / '版本数据'
-
-
-ARCHIVE = archive_directory(APP)
+ARCHIVE = APP / '版本数据'
 DEFAULT_GAME = Path(r'D:\Hypergryph Launcher\games\Arknights Game')
 VERSION = '2.2.0'
 

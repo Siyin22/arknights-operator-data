@@ -59,7 +59,10 @@ def configure_remote(repo):
     remotes = git(repo, 'remote').splitlines()
     if 'origin' not in remotes:
         git(repo, 'remote', 'add', 'origin', expected)
-    elif git(repo, 'remote', 'get-url', 'origin').strip() == 'https://github.com/Siyin22/arknights-operator-data.git':
+    elif git(repo, 'remote', 'get-url', 'origin').strip() in {
+        'https://github.com/Siyin22/arknights-operator-data.git',
+        'https://github.com/Siyin22/arknights-update-tool.git',
+    }:
         # GitHub repository renamed; migrate only this tool's original URL.
         git(repo, 'remote', 'set-url', 'origin', expected)
     elif git(repo, 'remote', 'get-url', 'origin').strip() != expected:
@@ -68,17 +71,19 @@ def configure_remote(repo):
 
 
 def upload(repo):
-    repo = Path(repo)
+    repo = Path(git(repo, 'rev-parse', '--show-toplevel').strip())
     configure_remote(repo)
     if git(repo, 'status', '--porcelain').strip():
         raise UploadError('仓库有未提交的修改，本次上传已停止。')
-    # Publish managed data and the reviewed tool/ tree; local runtime state stays ignored.
+    # Source and generated data share a checkout; runtime state stays ignored.
     from archive_store import GENERATED
-    allowed = set(GENERATED) | {'tool'}
-    if any(p.split('/')[0] not in allowed for p in git(repo, 'ls-files').splitlines()):
-        raise UploadError('仓库包含预期数据与工具范围之外的文件，停止上传。')
+    allowed = (set(GENERATED) if (repo / 'version.json').is_file() else
+               {'版本数据', 'src', 'tests', 'tools', 'adapters', 'README.md', '.gitignore', '.gitattributes',
+                '使用说明.txt', '安装说明.txt', '启动工具.cmd', '启动工具.vbs', 'requirements.txt', 'requirements-lock.txt'})
     if git(repo, 'ls-files', '-ci', '--exclude-standard').strip():
         raise UploadError('仓库跟踪了应忽略的本地文件，请先移除再上传。')
+    if any(p.split('/')[0] not in allowed for p in git(repo, 'ls-files').splitlines()):
+        raise UploadError('仓库包含预期数据与工具范围之外的文件，停止上传。')
     try:
         run_network(['git', '-C', str(repo), 'push', '--atomic', 'origin', 'main', '--tags'], is_git=True, timeout=120)
     except UploadError as exc:

@@ -6,7 +6,7 @@ folder = fs.GetParentFolderName(WScript.ScriptFullName)
 python = fs.BuildPath(folder, ".venv\Scripts\pythonw.exe")
 script = fs.BuildPath(folder, "src\launch.py")
 If Not fs.FileExists(python) Then
-    MsgBox "Python environment is missing. Please ask your AI assistant to repair this tool.", 16, "Arknights Data"
+    MsgBox "Python environment is missing. See the installation guide in this folder.", 16, "Arknights Data"
     WScript.Quit 1
 End If
 shell.CurrentDirectory = folder

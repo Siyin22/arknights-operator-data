@@ -1,0 +1,26 @@
+明日方舟干员模组数据工具 · 首次安装（Windows x64）
+
+1. 安装 Python 3.12 x64（包含 Tk）、.NET 8 运行时、Git 和 GitHub CLI。
+2. 克隆完整仓库以保留版本历史：
+   git clone https://github.com/Siyin22/arknights-operator-module-data-tool.git
+   cd arknights-operator-module-data-tool
+3. 在仓库根目录创建 Python 环境并安装依赖：
+   py -3.12 -m venv .venv
+   .venv\Scripts\python.exe -m pip install -r requirements-lock.txt
+4. 如果要上传，请先用 gh auth login 登录有仓库写权限的账号。
+5. 双击根目录中的“启动工具.vbs”，或使用“启动工具.cmd”。
+
+源码位于 src，解析依赖及其许可证位于 tools，当前数据与报告位于“版本数据”。
+本地目录与 GitHub 仓库使用同一布局，根目录 .git 统一保存源码和数据历史。
+work、.venv、个人设置与诊断文件由本机生成，不上传；无需手工同步源码副本。
+不要复制现有 .venv 到其他机器；请按步骤创建环境。
+
+也可通过 GitHub 的 Code → Download ZIP 下载当前工具和数据，解压后的目录布局相同。
+查看现有报告只需 Chrome/Edge 打开“版本数据/更新报告.html”，不需要上述运行环境。
+提取、保存和比较历史版本需要完整 Git 历史，请使用上面的 git clone，而非无历史记录的 ZIP。
+提取要求本机国服 PC 客户端，当前支持客户端 2.7.81；客户端升级后需核实适配。
+界面优先使用已安装的“霞鹜文楷”，未安装时使用微软雅黑。
+“提取并上传 GitHub”会将生成的数据与报告推送到上述公开仓库。
+
+网络请求仅在对应子进程使用本地 127.0.0.1:7897 代理，不修改全局代理。
+安装 Python 依赖时可自行选择可用的国内镜像，或在该次 pip 命令加 --proxy http://127.0.0.1:7897。

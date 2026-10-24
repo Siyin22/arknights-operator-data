@@ -11,7 +11,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'src'))
 from archive_store import official_version, save_snapshot, snapshot_from_run, verified_current, write_tree, GENERATED
 from version_compare import compare, git, load_snapshot, tags, write_comparison
 from github_sync import run_network, configure_remote, upload, UploadError
-from common import archive_directory
 from test_updates import snapshot, character, module
 
 
@@ -22,8 +21,10 @@ class ArchiveTests(unittest.TestCase):
             root = Path(tmp); repo = root / 'repo'
             save_snapshot(repo, self.sample(root))
             git(repo, 'remote', 'add', 'origin', 'https://github.com/Siyin22/arknights-operator-data.git')
-            configure_remote(repo)
-            self.assertEqual(git(repo, 'remote', 'get-url', 'origin').strip(), f'https://github.com/{REPOSITORY}.git')
+            for old in ('arknights-operator-data', 'arknights-update-tool'):
+                git(repo, 'remote', 'set-url', 'origin', f'https://github.com/Siyin22/{old}.git')
+                configure_remote(repo)
+                self.assertEqual(git(repo, 'remote', 'get-url', 'origin').strip(), f'https://github.com/{REPOSITORY}.git')
             git(repo, 'remote', 'set-url', 'origin', 'https://github.com/someone/another.git')
             with self.assertRaisesRegex(UploadError, '不一致'):
                 configure_remote(repo)
@@ -32,42 +33,43 @@ class ArchiveTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp); repo = root / 'repo'
             save_snapshot(repo, self.sample(root))
-            tool = repo / 'tool'; tool.mkdir()
-            (tool / 'settings.json').write_text('{}', encoding='utf-8')
-            git(repo, 'add', '-f', 'tool/settings.json')
+            (repo / 'settings.json').write_text('{}', encoding='utf-8')
+            git(repo, 'add', '-f', 'settings.json')
             git(repo, 'commit', '-m', 'Accidentally track runtime settings')
             with patch('github_sync.run_network') as network:
                 with self.assertRaisesRegex(UploadError, '应忽略'):
                     upload(repo)
                 network.assert_not_called()
 
-    def test_checkout_layout_and_original_workspace_use_the_correct_archive(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            root = Path(tmp)
-            app = root / 'repo/tool'
-            app.mkdir(parents=True)
-            self.assertEqual(archive_directory(app), app / '版本数据')
-            (app.parent / '.git').mkdir()
-            (app.parent / 'version.json').write_text('{}', encoding='utf-8')
-            self.assertEqual(archive_directory(app), app.parent)
-            # A sibling project must not capture the original workspace accidentally.
-            self.assertEqual(archive_directory(app.parent / 'other'), app.parent / 'other/版本数据')
-
-    def test_new_version_preserves_tool_and_ignores_runtime_state(self):
+    def test_layout_migration_preserves_old_tags_and_saves_new_data_under_same_root(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp); repo = root / 'repo'; sample = self.sample(root)
             save_snapshot(repo, sample)
-            tool = repo / 'tool'; tool.mkdir()
-            (tool / 'source.py').write_text('# maintained source\n', encoding='utf-8')
-            git(repo, 'add', 'tool/source.py')
-            git(repo, 'commit', '-m', 'Add tool')
-            (tool / 'settings.json').write_text('{"game":"local"}', encoding='utf-8')
+            original_tag = git(repo, 'rev-parse', '78.2.0')
+            data = repo / '版本数据'; data.mkdir()
+            git(repo, 'mv', '--', *GENERATED, '版本数据/')
+            # Current metadata must still supplement tags from the old root layout.
+            sample['version']['client_version'] = '2.7.81'
+            write_tree(data, sample, None, ['78.2.0'])
+            (repo / '.gitignore').write_text('settings.json\n__pycache__/\n', encoding='utf-8')
+            source = repo / 'src'; source.mkdir()
+            (source / 'source.py').write_text('# maintained source\n', encoding='utf-8')
+            git(repo, 'add', '-A')
+            git(repo, 'commit', '-m', 'Unify tool and data layout')
+            (repo / 'settings.json').write_text('{"game":"local"}', encoding='utf-8')
+            self.assertEqual(load_snapshot(data, '78.2.0'), sample)
+            self.assertEqual(verified_current(data), sample)
             sample['version']['official_version'] = '78.3.0'
-            save_snapshot(repo, sample)
-            self.assertTrue((tool / 'source.py').is_file())
-            self.assertNotIn('tool/settings.json', git(repo, 'ls-files').splitlines())
+            sample['operators']['char_a']['name'] = '新版名字'
+            save_snapshot(data, sample)
+            self.assertFalse((data / '.git').exists())
+            self.assertTrue((source / 'source.py').is_file())
+            self.assertNotIn('settings.json', git(repo, 'ls-files').splitlines())
             self.assertEqual(git(repo, 'status', '--porcelain'), '')
-            self.assertEqual(verified_current(repo), sample)
+            self.assertEqual(verified_current(data), sample)
+            self.assertEqual(load_snapshot(repo, '78.3.0'), sample)
+            self.assertEqual(git(repo, 'rev-parse', '78.2.0'), original_tag)
+            self.assertIn('char_a', compare(load_snapshot(data, '78.2.0'), sample)['operators']['changed'])
 
     def test_presentation_refresh_preserves_published_tag_and_validates_data(self):
         with tempfile.TemporaryDirectory() as tmp:

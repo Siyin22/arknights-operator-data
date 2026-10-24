@@ -9,4 +9,4 @@ try:
 except Exception:
     report=Path(__file__).resolve().parents[1]/'启动错误.txt'
     report.write_text(traceback.format_exc(),encoding='utf-8-sig')
-    ctypes.windll.user32.MessageBoxW(None,'工具启动失败。请将工具目录中的“启动错误.txt”交给 AI 排查。','明日方舟数据研究工具',0x10)
+    ctypes.windll.user32.MessageBoxW(None,'工具启动失败。请将工具目录中的“启动错误.txt”交给 AI 排查。','明日方舟干员模组数据工具',0x10)

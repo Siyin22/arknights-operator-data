@@ -11,13 +11,8 @@ from common import APP, read_json, write_json
 from operator_details import build_profiles
 from version_compare import compare, git, load_snapshot, markdown, tags, version_label
 
-REPOSITORY = 'Siyin22/arknights-update-tool'
-PUBLIC_GITIGNORE = ('comparison/\n__pycache__/\n*.pyc\n'
-                    'tool/.venv/\ntool/work/\ntool/导出结果/\ntool/版本数据/\n'
-                    'tool/settings.json\ntool/pipeline.lock\ntool/启动错误.txt\n'
-                    '**/obj/\n*.pdb\n'
-                    'tool/tools/Il2CppDumper-patched/DummyDll/\n'
-                    'tool/tools/Il2CppDumper-patched/dump.cs\n')
+REPOSITORY = 'Siyin22/arknights-operator-module-data-tool'
+PUBLIC_GITIGNORE = 'comparison/\n__pycache__/\n*.pyc\n.venv/\nwork/\nsettings.json\npipeline.lock\n启动错误.txt\n'
 GENERATED = ('operators', 'modules', 'version.json', 'version-info.json', 'base-skills-history.json', 'README.md', '更新报告.md', '更新报告.html', 'compare.py', 'report_renderer.py', 'report_assets', '.gitignore', '.gitattributes')
 
 
@@ -81,6 +76,8 @@ def verified_current(repo):
 
 def initialize(repo, author='Siyin22', email='225679950+Siyin22@users.noreply.github.com'):
     repo = Path(repo); repo.mkdir(parents=True, exist_ok=True)
+    if repo.name == '版本数据' and (repo.parent / '.git').exists():
+        return  # Unified checkout: data and source share the root repository.
     if not (repo / '.git').exists():
         if any(repo.iterdir()):
             raise ValueError('版本仓库目录已有非 Git 文件，停止初始化。')
@@ -122,10 +119,10 @@ def write_tree(directory, snapshot, before, versions, version_info=None, base_sk
     (directory / '.gitignore').write_text(PUBLIC_GITIGNORE, encoding='utf-8')
     (directory / '.gitattributes').write_text('* text=auto eol=lf\n', encoding='utf-8')
     version = snapshot['version']['official_version']
-    lines = ['# 明日方舟 · 更新工具与干员版本数据', '', f"**{version_label(snapshot['version'])}**（国服）。", '',
+    lines = ['# 明日方舟 · 干员与模组版本数据', '', f"**{version_label(snapshot['version'])}**（国服）。", '',
              f'[阅读本次更新报告](更新报告.md) · [查看所有官方版本](https://github.com/{REPOSITORY}/tags)', '',
-             '工具源码、启动入口、解析依赖与测试均位于 [`tool/`](tool/README.md)，首次使用请阅读 [安装说明](tool/安装说明.txt)。克隆后工具直接使用本仓库根目录的数据与 Git 历史。', '',
-             '保存干员战斗资料、后勤技能与模组的可读数据。根目录始终是一套当前数据；旧版本保存在 Git 历史中，不按日期重复复制整套导出。', '',
+             '工具源码与启动入口位于仓库根目录，首次使用请阅读 [安装说明](../安装说明.txt)。本目录保存当前数据与报告，Git 历史在仓库根目录。', '',
+             '保存干员战斗资料、后勤技能与模组的可读数据。本目录始终是一套当前数据；旧版本保存在 Git 历史中，不按日期重复复制整套导出。', '',
              '| 内容 | 说明 |', '| --- | --- |',
              '| `operators/` | 每名干员一个 JSON，含职业形态；最高精英阶段、满级、满信赖，各潜能属性、天赋、技能七级及专精、后勤技能 |',
              '| `modules/` | 每个模组一个 JSON，含所属干员、各级属性与天赋/特性效果 |',

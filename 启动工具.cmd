@@ -1,7 +1,7 @@
 @echo off
 cd /d "%~dp0"
 if not exist "%~dp0.venv\Scripts\pythonw.exe" (
-    echo Python environment is missing. Please ask your AI assistant to repair this tool.
+    echo Python environment is missing. See the installation guide in this folder.
     pause
     exit /b 1
 )
