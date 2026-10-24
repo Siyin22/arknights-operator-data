@@ -77,7 +77,7 @@ function operatorBody(p,entry){
   const v=p.variants[Math.min(state.potential,p.variants.length)-1];
   let body=`<div class="card-caption"><span>精英 ${e(p.phase)} · 满级 ${e(p.level)} · 满信赖 · ${e(p.position||'')}</span><span class="potential-chip">${potentialText(p.variants.length)}</span></div>`;
   body+='<h3 class="card-section-title">基础属性</h3>'+statsHTML(v.stats)+'<p class="card-note">已计入满信赖与所选潜能；不叠加模组、天赋或技能的战斗增益。</p>';
-  body+='<h3 class="card-section-title">无模组特性与天赋</h3>'+baselineHTML(p);
+  body+='<h3 class="card-section-title">特性与天赋</h3>'+baselineHTML(p);
   body+='<h3 class="card-section-title">潜能</h3>'+potentialHTML(p);
   body+='<h3 class="card-section-title">技能</h3>'+(p.skills.map((s,i)=>skillHTML(s,String(i),entry)).join('')||'<p class="card-note">该干员没有技能。</p>');
   body+='<h3 class="card-section-title">后勤技能</h3>'+baseSkillsHTML(p);
@@ -131,7 +131,7 @@ function moduleBody(m,owner,includeBaseline=true){
   if(includeBaseline){
     body+='<h3 class="card-section-title">无模组特性与天赋 · 对照基准</h3>';
     body+=owner?`<p class="baseline-caption">${e(owner.name)} · 精英 ${e(owner.phase)} · 满级 ${e(owner.level)} · ${potentialText(owner.variants.length)} · 与模组相同数据版本</p>`+baselineHTML(owner):'<p class="card-note">该版本未记录所属干员资料，无法提供无模组对照。</p>';
-  }else body+='<p class="card-note">无模组特性与天赋见上方干员资料；以下均按相同潜能展示。</p>';
+  }else body+='<p class="card-note">无模组时的特性与天赋见上方干员资料；以下均按相同潜能展示。</p>';
   body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note module-explanation">各级为该级完整属性加成与模组效果，不与其他等级累加；追加效果保留原文，与上方无模组描述对照阅读。文字下半部的淡红色标记表示与上一级同一效果相比新增或改写的文字；片段首尾的分隔标点不标记。</p>';
   let previous=[];
   for(const level of m.levels){
