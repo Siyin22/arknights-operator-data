@@ -1,7 +1,8 @@
 'use strict';
 const report = JSON.parse(document.getElementById('report-data').textContent);
 const current = report.current;
-const state = {potential:1, skills:'max', selected:null, queue:new Map(), busy:false};
+const state = {potential:1, skills:'max', selected:null, queue:new Map(), busy:false,
+  modules:new Map(), skillLevels:new Map(), contexts:new Map()};
 const $ = id => document.getElementById(id);
 const disclaimer = $('report-notice').textContent;
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -10,8 +11,25 @@ const text = value => String(value ?? '').split(/(\d+(?:\.\d+)?%?)/g).map((part,
 const versionText = v => `客户端 ${v.client_version || '未记录'} · 数据 ${v.official_version}`;
 const potentialText = count => `潜能 ${Math.min(state.potential,count)}`;
 const attrs = [['maxHp','生命上限'],['atk','攻击'],['def','防御'],['magicResistance','法术抗性'],['cost','部署费用'],['blockCnt','阻挡数'],['baseAttackTime','基础攻击间隔 / 秒'],['respawnTime','再部署时间 / 秒']];
-const statusNames = {added:'新增',changed:'修改',removed:'移除',current:'当前版本资料'};
+const statusNames = {added:'新增',changed:'修改',removed:'移除',current:'当前版本资料',context:'对照资料'};
 function statsHTML(stats){return '<div class="attribute-table">'+attrs.map(([key,label])=>`<div class="attribute-cell"><small>${label}</small><strong>${e(stats[key] ?? '—')}</strong></div>`).join('')+'</div>';}
+const recordKey = entry => `${entry.version.official_version}:${entry.category}:${entry.id}`;
+function ownerForEntry(entry){
+  if(entry.category==='operators')return entry.record;
+  return entry.status==='removed'?entry.operator:current.operators[entry.record.operator_id];
+}
+function relatedModules(entry){
+  const id=entry.category==='operators'?entry.id:entry.record.operator_id;
+  const records=entry.status==='removed'||entry.sourceRemoved?(entry.relatedModules||[]):Object.values(current.modules);
+  return records.filter(m=>m.operator_id===id).sort((a,b)=>a.type.localeCompare(b.type)||a.id.localeCompare(b.id));
+}
+function selectedModuleIds(entry){
+  const ids=entry.moduleIds??state.modules.get(recordKey(entry))??(entry.status==='current'?relatedModules(entry).map(m=>m.id):[]);
+  return ids.filter(id=>relatedModules(entry).some(m=>m.id===id));
+}
+function exportEntry(entry,baseOnly=false){
+  return entry.category==='operators'?{...entry,moduleIds:baseOnly?[]:[...selectedModuleIds(entry)]}:entry;
+}
 const durationText = value => value === '即时 / 见描述' ? '即时' : /^\d+(?:\.\d+)?\s*秒$/.test(value) ? `持续时间 ${value}` : value;
 function levelHTML(level){return `<div class="skill-level"><div class="skill-metadata"><span class="level-tag">${e(level.label)}</span><span>初始 ${e(level.initial)} / 消耗 ${e(level.cost)} 技力</span><span>${e(durationText(level.duration))}</span>${level.charges>1?`<span>可充能 ${e(level.charges)} 次</span>`:''}</div><p class="effect-text">${text(level.description)}</p></div>`;}
 function potentialHTML(p){
@@ -24,9 +42,10 @@ function potentialHTML(p){
     return `<tr><th scope="row">潜能 ${i+2}</th><td>${effect}</td></tr>`;
   }).join('')+'</tbody></table>';
 }
-function skillHTML(skill,index){
-  const levels = state.skills==='all'?skill.levels:[skill.levels.at(-1)];
-  return `<section class="skill-box" data-skill="${index}"><div class="skill-heading"><h4><span class="skill-index">SKILL ${e(skill.index)}</span>${e(skill.name)}</h4><span class="skill-type">${e(skill.levels.at(-1).recovery)} · ${e(skill.levels.at(-1).trigger)}</span></div>${state.skills==='max'&&skill.levels.length>1?`<div class="level-tabs no-export" role="group" aria-label="${e(skill.name)}技能等级">${skill.levels.map((lev,i)=>`<button type="button" data-level="${i}" class="${i===skill.levels.length-1?'active':''}" aria-pressed="${i===skill.levels.length-1}">${e(lev.label)}</button>`).join('')}</div>`:''}<div class="skill-content">${levels.map(levelHTML).join('')}</div></section>`;
+function skillHTML(skill,index,entry){
+  const key=recordKey(entry)+':'+index,chosen=Math.min(state.skillLevels.get(key)??skill.levels.length-1,skill.levels.length-1);
+  const levels = state.skills==='all'?skill.levels:[skill.levels[chosen]];
+  return `<section class="skill-box" data-skill="${e(index)}"><div class="skill-heading"><h4><span class="skill-index">SKILL ${e(skill.index)}</span>${e(skill.name)}</h4><span class="skill-type">${e(skill.levels.at(-1).recovery)} · ${e(skill.levels.at(-1).trigger)}</span></div>${state.skills==='max'&&skill.levels.length>1?`<div class="level-tabs no-export" role="group" aria-label="${e(skill.name)}技能等级">${skill.levels.map((lev,i)=>`<button type="button" data-level="${i}" class="${i===chosen?'active':''}" aria-pressed="${i===chosen}">${e(lev.label)}</button>`).join('')}</div>`:''}<div class="skill-content">${levels.map(levelHTML).join('')}</div></section>`;
 }
 function baseSkillsHTML(p){
   if(!Array.isArray(p.baseSkills))return '<p class="card-note">该历史版本未记录后勤技能。</p>';
@@ -36,43 +55,120 @@ function baseSkillsHTML(p){
     return `<tr><th scope="row">${e(skill.name)}<small class="base-skill-room">${e(skill.room)}</small></th><td><div class="base-skill-meta">${e(skill.unlock.replace(/ · 1级$/, ''))}${previous.length?` · 替换「${e(previous.at(-1).name)}」`:''}</div><p class="effect-text">${text(skill.description)}</p></td></tr>`;
   }).join('')+'</tbody></table>';
 }
-function operatorBody(p){
+function baselineHTML(p){
+  const v=p.variants[Math.min(state.potential,p.variants.length)-1];
+  return '<table class="info-table baseline-table"><tbody><tr><th>特性</th><td><p class="effect-text">'+text(v.trait)+'</p></td></tr>'+
+    v.talents.map((t,i)=>`<tr><th><span class="talent-name">天赋 ${i+1}</span>${e(t.name)}</th><td><p class="effect-text">${text(t.description)}</p></td></tr>`).join('')+'</tbody></table>';
+}
+function operatorBody(p,entry){
   const v=p.variants[Math.min(state.potential,p.variants.length)-1];
   let body=`<div class="card-caption"><span>精英 ${e(p.phase)} · 满级 ${e(p.level)} · 满信赖 · ${e(p.position||'')}</span><span class="potential-chip">${potentialText(p.variants.length)}</span></div>`;
   body+='<h3 class="card-section-title">基础属性</h3>'+statsHTML(v.stats)+'<p class="card-note">已计入满信赖与所选潜能；不叠加模组、天赋或技能的战斗增益。</p>';
-  body+='<h3 class="card-section-title">特性与天赋</h3><table class="info-table"><tbody><tr><th>特性</th><td><p class="effect-text">'+text(v.trait)+'</p></td></tr>';
-  body+=v.talents.map((t,i)=>`<tr><th><span class="talent-name">天赋 ${i+1}</span>${e(t.name)}</th><td><p class="effect-text">${text(t.description)}</p></td></tr>`).join('')+'</tbody></table>';
+  body+='<h3 class="card-section-title">无模组特性与天赋</h3>'+baselineHTML(p);
   body+='<h3 class="card-section-title">潜能</h3>'+potentialHTML(p);
-  body+='<h3 class="card-section-title">技能</h3>'+(p.skills.map(skillHTML).join('')||'<p class="card-note">该干员没有技能。</p>');
+  body+='<h3 class="card-section-title">技能</h3>'+(p.skills.map((s,i)=>skillHTML(s,String(i),entry)).join('')||'<p class="card-note">该干员没有技能。</p>');
   body+='<h3 class="card-section-title">后勤技能</h3>'+baseSkillsHTML(p);
-  if(p.tokens?.length)body+='<details class="supplement"><summary>关联召唤物 · 最高等级基础属性</summary>'+p.tokens.map(t=>`<section class="token-block"><h4>${e(t.name)}</h4>${statsHTML(t.stats)}<p class="effect-text">${text(t.trait)}</p>${t.skills.map((s,i)=>skillHTML(s,'token-'+i)).join('')}</section>`).join('')+'</details>';
+  if(p.tokens?.length)body+='<details class="supplement"><summary>关联召唤物 · 最高等级基础属性</summary>'+p.tokens.map((t,ti)=>`<section class="token-block"><h4>${e(t.name)}</h4>${statsHTML(t.stats)}<p class="effect-text">${text(t.trait)}</p>${t.skills.map((s,i)=>skillHTML(s,`token-${ti}-${i}`,entry)).join('')}</section>`).join('')+'</details>';
   return body;
 }
 function bonusesHTML(bonuses){return bonuses.map(b=>`<span>${e(b.label)} <strong>${b.value>=0?'+':''}${e(b.value)}</strong></span>`).join('')||'<span>无额外属性加成</span>';}
-function moduleBody(m){
-  let body=`<div class="card-caption"><span>${e(m.profession)} / ${e(m.branch)} · 解锁：${e(m.unlock)}</span><span class="potential-chip">${potentialText(m.levels[0]?.effects.length||6)}</span></div>`;
+const effectTokens=value=>String(value).match(/\d+(?:\.\d+)?%?|[^\d]/gu)||[];
+// Keep each highlight on one line. html2canvas can paint a multiline inline
+// background over text that appeared earlier on the same line.
+const markedText=value=>effectTokens(value).map(token=>`<span class="effect-change">${text(token)}</span>`).join('');
+function changedText(before,after){
+  if(before===after)return text(after);
+  // Compare text only within an unambiguous effect across adjacent module levels.
+  // Numeric tokens stay whole: 20% -> 25% highlights 25%, rather than only the digit 5.
+  const a=effectTokens(before),b=effectTokens(after);
+  if(a.length*b.length>250000)return markedText(after);
+  const rows=Array.from({length:a.length+1},()=>new Uint16Array(b.length+1));
+  for(let i=a.length-1;i>=0;i--)for(let j=b.length-1;j>=0;j--)
+    rows[i][j]=a[i]===b[j]?rows[i+1][j+1]+1:Math.max(rows[i+1][j],rows[i][j+1]);
+  let i=0,j=0,changed='',out='';
+  const flush=()=>{if(changed){out+=markedText(changed);changed='';}};
+  while(j<b.length){
+    if(i<a.length&&a[i]===b[j]){flush();out+=text(b[j]);i++;j++;}
+    else if(i<a.length&&rows[i+1][j]>=rows[i][j+1])i++;
+    else changed+=b[j++];
+  }
+  flush();return out;
+}
+function moduleEffectsHTML(effects,previous){
+  return effects.map(f=>{
+    const same=items=>items.filter(x=>x.name===f.name&&x.condition===f.condition);
+    const matches=same(previous||[]);
+    const prior=same(effects).length===1&&matches.length===1?matches[0]:null;
+    const unchanged=prior&&prior.description===f.description;
+    return `<div class="module-effect"><h5>${e(f.name)}${f.condition?`<span class="condition">${e(f.condition)}</span>`:''}${unchanged?'<span class="unchanged-effect">同上一级</span>':''}</h5><p class="effect-text">${prior?changedText(prior.description,f.description):text(f.description)}</p></div>`;
+  }).join('')||'<p class="card-note">无额外文字效果。</p>';
+}
+function moduleBody(m,owner,includeBaseline=true){
+  let body=`<div class="card-caption"><span>${e(m.profession)} / ${e(m.branch)} · 解锁：${e(m.unlock)}</span><span class="potential-chip">${potentialText(owner?.variants.length||m.levels[0]?.effects.length||6)}</span></div>`;
   if(m.special)body+=`<p class="card-note">${e(m.special)}</p>`;
-  body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note" style="margin-bottom:16px">各级显示该等级完整加成，不与其他等级累加。</p>';
+  if(includeBaseline){
+    body+='<h3 class="card-section-title">无模组特性与天赋 · 对照基准</h3>';
+    body+=owner?`<p class="baseline-caption">${e(owner.name)} · 精英 ${e(owner.phase)} · 满级 ${e(owner.level)} · ${potentialText(owner.variants.length)} · 与模组相同数据版本</p>`+baselineHTML(owner):'<p class="card-note">该版本未记录所属干员资料，无法提供无模组对照。</p>';
+  }else body+='<p class="card-note">无模组特性与天赋见上方干员资料；以下均按相同潜能展示。</p>';
+  body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note module-explanation">各级为该级完整属性加成与模组效果，不与其他等级累加；追加效果保留原文，与上方无模组描述对照阅读。浅黄色标记与上一级同一效果相比新增或改写的文字。</p>';
+  let previous=[];
   for(const level of m.levels){
     const effects=level.effects[Math.min(state.potential,level.effects.length)-1]||[];
     body+=`<section class="module-level"><div class="module-level-label"><strong>${e(level.level)}</strong><small>LEVEL</small></div><div class="module-level-body"><div class="bonus">${bonusesHTML(level.bonuses)}</div>`;
     for(const token of level.tokenBonuses)body+=`<div class="bonus"><span>${e(token.name)}</span>${bonusesHTML(token.bonuses)}</div>`;
-    body+=effects.map(f=>`<div class="module-effect"><h5>${e(f.name)}${f.condition?`<span class="condition">${e(f.condition)}</span>`:''}</h5><p class="effect-text">${text(f.description)}</p></div>`).join('')||'<p class="card-note">无额外文字效果。</p>';
+    body+=moduleEffectsHTML(effects,previous);previous=effects;
     body+='</div></section>';
   }
   if(!m.levels.length)body+='<p class="card-note">本版本尚未提供该模组的战斗效果数据。</p>';
   return body;
 }
-function changeHTML(rows){return rows.length?`<details class="change-details"><summary>查看 ${rows.length} 处修改前后对照</summary><table class="change-table"><thead><tr><th>项目</th><th>之前</th><th>现在</th></tr></thead><tbody>${rows.map(([path,a,b])=>`<tr><td>${e(path)}</td><td>${e(typeof a==='object'?JSON.stringify(a):a??'无')}</td><td>${e(typeof b==='object'?JSON.stringify(b):b??'无')}</td></tr>`).join('')}</tbody></table></details>`:'';}
+function associatedModulesHTML(entry){
+  const modules=relatedModules(entry),selected=selectedModuleIds(entry);
+  if(!modules.length)return '<h3 class="card-section-title">所属模组</h3><p class="card-note">该版本暂无所属模组。</p>';
+  return `<section class="associated-modules"><h3 class="card-section-title ${selected.length?'':'no-export'}">所属模组</h3>`+`
+    <div class="module-picker no-export"><p>勾选后在下方展示，并随干员合并导出。也可单独导出干员。</p>
+    ${modules.map(m=>`<label><input type="checkbox" data-module="${e(m.id)}" ${selected.includes(m.id)?'checked':''}>${e(m.type)} · ${e(m.name)}</label>`).join('')}</div>`+
+    modules.filter(m=>selected.includes(m.id)).map(m=>`<section class="attached-module" data-module-id="${e(m.id)}"><div class="attached-module-heading"><h4 class="attached-module-title"><span>${e(m.type)}</span>${e(m.name)}</h4><button class="no-export" data-action="png-module" data-module-id="${e(m.id)}">模组对比 PNG</button></div>${moduleBody(m,entry.record,false)}</section>`).join('')+'</section>';
+}
+function changeHTML(rows){return rows.length?`<details class="change-details"><summary>查看 ${rows.length} 处版本更新前后对照</summary><table class="change-table"><thead><tr><th>项目</th><th>旧版本</th><th>新版本</th></tr></thead><tbody>${rows.map(([path,a,b])=>`<tr><td>${e(path)}</td><td>${e(typeof a==='object'?JSON.stringify(a):a??'无')}</td><td>${e(typeof b==='object'?JSON.stringify(b):b??'无')}</td></tr>`).join('')}</tbody></table></details>`:'';}
 function cardHTML(entry){
   const p=entry.record, operator=entry.category==='operators';
   const title=operator?p.name:p.operator_name+' · '+p.name;
   const subtitle=operator?`${p.english||''}　${p.profession} / ${p.branch}　${(p.tags||[]).join(' · ')}`:'MODULE / 模组资料';
-  return `<article class="data-card" data-record="${e(entry.id)}"><div class="card-meta"><strong class="card-version">${e(versionText(entry.version))}</strong><div class="card-meta-row"><p class="card-disclaimer">${e(disclaimer)}</p><span class="creator-credit">By 司音</span></div></div><div class="card-title ${operator?'':'module-title'}"><div><h3 class="card-name">${e(title)}</h3><div class="card-subtitle">${e(subtitle)}</div></div>${operator?`<div class="rarity" aria-label="${p.rarity}星">${'★'.repeat(p.rarity)}</div>`:`<div class="module-code">${e(p.type)}</div>`}</div><div class="card-body">${operator?operatorBody(p):moduleBody(p)}</div>${changeHTML(entry.changes||[])}</article>`;
+  return `<article class="data-card" data-record="${e(entry.id)}"><div class="card-meta"><strong class="card-version">${e(versionText(entry.version))}</strong><div class="card-meta-row"><p class="card-disclaimer">${e(disclaimer)}</p><span class="creator-credit">By 司音</span></div></div><div class="card-title ${operator?'':'module-title'}"><div><h3 class="card-name">${e(title)}</h3><div class="card-subtitle">${e(subtitle)}</div></div>${operator?`<div class="rarity" aria-label="${p.rarity}星">${'★'.repeat(p.rarity)}</div>`:`<div class="module-code">${e(p.type)}</div>`}</div><div class="card-body">${operator?operatorBody(p,entry)+associatedModulesHTML(entry):moduleBody(p,ownerForEntry(entry))}</div>${changeHTML(entry.changes||[])}</article>`;
 }
-function entryHTML(entry,index){return `<div class="entry" data-entry="${index}"><div class="entry-bar"><div class="entry-kind"><span class="badge ${entry.status}">${e(statusNames[entry.status])}</span>${entry.category==='operators'?'干员':'模组'}${entry.status==='current'?' · 不代表本次新增':''}</div><div class="entry-actions"><button data-action="queue">加入清单</button><button data-action="png">导出 PNG</button></div></div>${cardHTML(entry)}</div>`;}
+function entryHTML(entry,index){
+  const operator=entry.category==='operators',hasModules=operator&&relatedModules(entry).length>0;
+  return `<div class="entry" data-entry="${e(index)}"><div class="entry-bar"><div class="entry-kind"><span class="badge ${entry.status}">${e(statusNames[entry.status])}</span>${operator?'干员':'模组'}${['current','context'].includes(entry.status)?' · 不代表本次新增':''}</div><div class="entry-actions"><button data-action="queue">加入清单</button>${hasModules?'<button data-action="png-base">仅干员 PNG</button>':''}<button data-action="png">${hasModules?'合并导出 PNG':'导出 PNG'}</button></div></div>${cardHTML(entry)}</div>`;
+}
+function groupedEntriesHTML(){
+  const groups=new Map();state.contexts.clear();
+  report.entries.forEach((entry,index)=>{
+    const id=entry.category==='operators'?entry.id:entry.record.operator_id;
+    if(!groups.has(id))groups.set(id,[]);
+    groups.get(id).push({entry,index});
+  });
+  return [...groups.entries()].map(([id,items],groupIndex)=>{
+    const operatorItems=items.filter(x=>x.entry.category==='operators'),moduleItems=items.filter(x=>x.entry.category==='modules');
+    const owner=operatorItems[0]?.entry.record||ownerForEntry(moduleItems[0].entry);
+    const name=owner?.name||moduleItems[0]?.entry.record.operator_name||id;
+    const badges=items.map(({entry})=>`${entry.category==='operators'?'干员':'模组'}${statusNames[entry.status]}`);
+    const counts=[...new Set(badges)].map(b=>`<span class="group-count">${e(b)} × ${badges.filter(x=>x===b).length}</span>`).join('');
+    let context='';
+    if(!operatorItems.length&&owner){
+      const source=moduleItems.find(x=>x.entry.status!=='removed')?.entry||moduleItems[0].entry;
+      const contextOwner=ownerForEntry(source),key='context-'+groupIndex;
+      const entry={category:'operators',id,record:contextOwner,status:'context',sourceRemoved:source.status==='removed',
+        version:source.version,relatedModules:source.relatedModules,changes:[]};
+      // A context record is a reading aid, not a changed operator or a batch-export item.
+      state.contexts.set(key,entry);
+      context=`<details class="operator-context"><summary>查看 ${e(name)} 的完整资料与所属模组（${e(source.version.official_version)}，仅作对照）</summary>${entryHTML(entry,key)}</details>`;
+    }
+    return `<section class="operator-group" data-owner="${e(id)}"><div class="group-heading"><h3>${e(name)}${owner?`<small>${e(owner.profession)} / ${e(owner.branch)}</small>`:''}</h3><div>${counts}</div></div>${operatorItems.map(x=>entryHTML(x.entry,x.index)).join('')}${moduleItems.map(x=>entryHTML(x.entry,x.index)).join('')}${context}</section>`;
+  }).join('');
+}
 function renderEntries(){
-  $('entry-list').innerHTML=report.entries.length?report.entries.map(entryHTML).join(''):`<div class="empty-state"><h3>${report.previous?'这两个版本没有干员或模组变化':'当前版本已建立基准'}</h3><p>${report.previous?'仍可在下方选择当前版本资料，分别导出图片。':'尚无更早的已保存版本，无法判定新增内容。下方资料导出可直接使用；以后更新时，这里会列出真正的版本差异。'}</p></div>`;
+  $('entry-list').innerHTML=report.entries.length?groupedEntriesHTML():`<div class="empty-state"><h3>${report.previous?'这两个版本没有干员或模组变化':'当前版本已建立基准'}</h3><p>${report.previous?'仍可在下方选择当前版本资料，分别导出图片。':'尚无更早的已保存版本，无法判定新增内容。下方资料导出可直接使用；以后更新时，这里会列出真正的版本差异。'}</p></div>`;
   $('export-batch').disabled=!report.entries.length||state.busy;
 }
 function selectEntry(){const kind=$('record-kind').value;const id=$('record-select').value;state.selected=id?{category:kind,id,record:current[kind][id],status:'current',version:current.version,changes:[]}:null;renderPreview();}
@@ -87,15 +183,18 @@ function filterRecords(){
   else if(kind==='operators'&&!query&&current.operators.char_4231_clemnt)$('record-select').value='char_4231_clemnt';
   selectEntry();
 }
-function queueEntry(entry){if(!entry)return;state.queue.set(entry.category+':'+entry.id,entry);updateQueue();}
-function updateQueue(){$('queue-label').textContent=state.queue.size?`已选择 ${state.queue.size} 项：${[...state.queue.values()].map(x=>x.category==='operators'?x.record.name:x.record.operator_name+'·'+x.record.type).join('、')}`:'导出清单为空';$('export-queue').disabled=!state.queue.size||state.busy;$('clear-queue').disabled=!state.queue.size||state.busy;}
-function filename(entry){const r=entry.record;return `${entry.category==='operators'?'干员_'+r.name+'_'+r.profession:'模组_'+r.operator_name+'_'+r.type+'_'+r.name}_数据${entry.version.official_version}_潜能${Math.min(state.potential,entry.category==='operators'?r.variants.length:r.levels[0]?.effects.length||6)}${entry.category==='operators'?(state.skills==='all'?'_全部技能':'_所选技能'):''}.png`.replace(/[<>:"/\\|?*\x00-\x1f]/g,'_');}
+function queueEntry(entry){
+  if(!entry)return;const selected=exportEntry(entry);
+  state.queue.set(recordKey(selected)+':'+(selected.moduleIds||[]).slice().sort().join(','),selected);updateQueue();
+}
+function updateQueue(){$('queue-label').textContent=state.queue.size?`已选择 ${state.queue.size} 项：${[...state.queue.values()].map(x=>x.category==='operators'?x.record.name+(x.moduleIds.length?`（含 ${x.moduleIds.length} 个模组）`:'（仅干员）'):x.record.operator_name+'·'+x.record.type).join('、')}`:'导出清单为空';$('export-queue').disabled=!state.queue.size||state.busy;$('clear-queue').disabled=!state.queue.size||state.busy;}
+function filename(entry){const r=entry.record,modules=entry.category==='operators'?selectedModuleIds(entry).map(id=>relatedModules(entry).find(m=>m.id===id).type):[];return `${entry.category==='operators'?'干员_'+r.name+'_'+r.profession+(modules.length?'_含模组_'+modules.join('_'):''):'模组对比_'+r.operator_name+'_'+r.type+'_'+r.name}_数据${entry.version.official_version}_潜能${Math.min(state.potential,entry.category==='operators'?r.variants.length:ownerForEntry(entry)?.variants.length||r.levels[0]?.effects.length||6)}${entry.category==='operators'?(state.skills==='all'?'_全部技能':'_所选技能'):''}.png`.replace(/[<>:"/\\|?*\x00-\x1f]/g,'_');}
 function download(blob,name){const link=document.createElement('a');const url=URL.createObjectURL(blob);link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),60000);}
 function status(message,error=false){$('export-status').textContent=message;$('export-status').classList.toggle('error',error);}
 function busy(value){state.busy=value;document.querySelectorAll('button,input,select').forEach(el=>{el.disabled=value;});if(!value){$('export-batch').disabled=!report.entries.length;$('add-image').disabled=!state.selected;updateQueue();}}
-async function capture(entry,sourceCard){
+async function capture(entry){
   const stage=document.createElement('div');stage.className='export-stage';
-  if(sourceCard)stage.append(sourceCard.cloneNode(true));else stage.innerHTML=cardHTML(entry);
+  stage.innerHTML=cardHTML(entry);
   const card=stage.querySelector('.data-card');card.classList.add('export-card');
   card.querySelectorAll('details').forEach(detail=>{detail.open=true;});
   document.body.append(stage);
@@ -103,7 +202,7 @@ async function capture(entry,sourceCard){
     await document.fonts.ready;await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)));
     const height=Math.ceil(card.getBoundingClientRect().height),width=1000;
     const scale=Math.min(2,16000/height,Math.sqrt(32000000/(width*height)));
-    if(scale<0.75)throw Error('资料过长，请将技能选项切换为最高等级后再导出。');
+    if(scale<0.75)throw Error('资料过长，请减少勾选模组，或将技能切换为最高等级后导出。模组也可分别成图。');
     const canvas=await html2canvas(card,{backgroundColor:'#ffffff',scale,logging:false,windowWidth:1280,windowHeight:1000,scrollX:0,scrollY:0,imageTimeout:10000});
     const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));
     if(!blob)throw Error('浏览器无法生成图片，请使用最新版 Chrome 或 Edge。');
@@ -123,21 +222,47 @@ function zipStore(files){
   const end=new Uint8Array(22),v=new DataView(end.buffer);v.setUint32(0,0x06054b50,true);v.setUint16(8,files.length,true);v.setUint16(10,files.length,true);v.setUint32(12,centralSize,true);v.setUint32(16,offset,true);
   return new Blob([...local,...central,end],{type:'application/zip'});
 }
-async function exportOne(entry,card){if(state.busy)return;busy(true);status('正在生成 '+entry.record.name+' 的图片…');try{const blob=await capture(entry,card);download(blob,filename(entry));status('已生成 PNG：'+filename(entry)+'。请在浏览器下载列表中查看。');}catch(error){status('导出失败：'+error.message,true);}finally{busy(false);}}
-async function exportMany(entries){if(state.busy||!entries.length)return;busy(true);const files=[],used=new Set();try{for(let i=0;i<entries.length;i++){const entry=entries[i];status(`正在生成 ${i+1} / ${entries.length}：${entry.record.name}`);const displayed=[...document.querySelectorAll('#entry-list .entry')].find(el=>report.entries[Number(el.dataset.entry)]===entry);const blob=await capture(entry,displayed?.querySelector('.data-card'));let name=filename(entry);if(used.has(name))name=name.replace('.png','_'+entry.id+'.png');used.add(name);files.push({name,bytes:new Uint8Array(await blob.arrayBuffer())});}download(zipStore(files),`明日方舟_数据${current.version.official_version}_${files.length}张资料.zip`);status(`已生成 ${files.length} 张独立 PNG，已打包为 ZIP。解压后可分别使用。`);}catch(error){status('导出失败：'+error.message,true);}finally{busy(false);}}
+async function exportOne(entry){if(state.busy)return;busy(true);status('正在生成 '+entry.record.name+' 的图片…');try{const blob=await capture(entry);download(blob,filename(entry));status('已生成 PNG：'+filename(entry)+'。请在浏览器下载列表中查看。');}catch(error){status('导出失败：'+error.message,true);}finally{busy(false);}}
+async function exportMany(entries){if(state.busy||!entries.length)return;busy(true);const files=[],used=new Set();try{for(let i=0;i<entries.length;i++){const entry=exportEntry(entries[i]);status(`正在生成 ${i+1} / ${entries.length}：${entry.record.name}`);const blob=await capture(entry);let name=filename(entry),suffix=2;const original=name;while(used.has(name))name=original.replace('.png',`_${suffix++}.png`);used.add(name);files.push({name,bytes:new Uint8Array(await blob.arrayBuffer())});}download(zipStore(files),`明日方舟_数据${current.version.official_version}_${files.length}张资料.zip`);status(`已生成 ${files.length} 张独立 PNG，已打包为 ZIP。解压后可分别使用。`);}catch(error){status('导出失败：'+error.message,true);}finally{busy(false);}}
+function containerEntry(container){
+  const key=container.dataset.entry;
+  return key==='preview'?state.selected:state.contexts.get(key)||report.entries[Number(key)];
+}
 document.addEventListener('click',event=>{
   const button=event.target.closest('button');if(!button||state.busy)return;
   const container=button.closest('.entry');if(!container)return;
-  const entry=container.dataset.entry==='preview'?state.selected:report.entries[Number(container.dataset.entry)];
-  if(button.dataset.action==='png')exportOne(entry,container.querySelector('.data-card'));
+  const entry=containerEntry(container);if(!entry)return;
+  if(button.dataset.action==='png')exportOne(exportEntry(entry));
+  if(button.dataset.action==='png-base')exportOne(exportEntry(entry,true));
+  if(button.dataset.action==='png-module'){
+    const m=relatedModules(entry).find(m=>m.id===button.dataset.moduleId);
+    if(m)exportOne({category:'modules',id:m.id,record:m,version:entry.version,changes:[],
+      status:entry.status==='removed'||entry.sourceRemoved?'removed':'current',operator:entry.record});
+  }
   if(button.dataset.action==='queue')queueEntry(entry);
   if(button.dataset.level!==undefined){
     const box=button.closest('.skill-box'),index=box.dataset.skill;
-    // Token skills are kept in the all-level view when exporting; locate by title for interactive selection.
-    const source=index.startsWith('token-')?entry.record.tokens.flatMap(t=>t.skills).find(s=>box.querySelector('h4').textContent.includes(s.name)):entry.record.skills[Number(index)];
-    if(!source)return;box.querySelector('.skill-content').innerHTML=levelHTML(source.levels[Number(button.dataset.level)]);
-    box.querySelectorAll('[data-level]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',b===button?'true':'false');});
+    const token=index.startsWith('token-')?index.split('-').slice(1).map(Number):null;
+    const source=token?entry.record.tokens[token[0]]?.skills[token[1]]:entry.record.skills[Number(index)];
+    if(!source)return;
+    state.skillLevels.set(recordKey(entry)+':'+index,Number(button.dataset.level));
+    document.querySelectorAll('.entry .skill-box').forEach(other=>{
+      const otherEntry=containerEntry(other.closest('.entry'));
+      if(other.dataset.skill!==index||recordKey(otherEntry)!==recordKey(entry))return;
+      other.querySelector('.skill-content').innerHTML=levelHTML(source.levels[Number(button.dataset.level)]);
+      other.querySelectorAll('[data-level]').forEach(b=>{const active=b.dataset.level===button.dataset.level;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});
+    });
   }
+});
+document.addEventListener('change',event=>{
+  const input=event.target;if(!input.matches('input[data-module]')||state.busy)return;
+  const container=input.closest('.entry'),entry=containerEntry(container);
+  const selected=[...container.querySelectorAll('.module-picker input:checked')].map(el=>el.dataset.module);
+  state.modules.set(recordKey(entry),selected);
+  document.querySelectorAll('.entry').forEach(other=>{
+    const otherEntry=containerEntry(other);
+    if(recordKey(otherEntry)===recordKey(entry))other.querySelector('.associated-modules').outerHTML=associatedModulesHTML(otherEntry);
+  });
 });
 $('potential').addEventListener('change',()=>{state.potential=Number($('potential').value);renderEntries();renderPreview();});
 $('skill-mode').addEventListener('change',()=>{state.skills=$('skill-mode').value;renderEntries();renderPreview();});
