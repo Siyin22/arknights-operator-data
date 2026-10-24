@@ -110,7 +110,7 @@ function moduleBody(m,owner,includeBaseline=true){
     body+='<h3 class="card-section-title">无模组特性与天赋 · 对照基准</h3>';
     body+=owner?`<p class="baseline-caption">${e(owner.name)} · 精英 ${e(owner.phase)} · 满级 ${e(owner.level)} · ${potentialText(owner.variants.length)} · 与模组相同数据版本</p>`+baselineHTML(owner):'<p class="card-note">该版本未记录所属干员资料，无法提供无模组对照。</p>';
   }else body+='<p class="card-note">无模组特性与天赋见上方干员资料；以下均按相同潜能展示。</p>';
-  body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note module-explanation">各级为该级完整属性加成与模组效果，不与其他等级累加；追加效果保留原文，与上方无模组描述对照阅读。浅黄色标记与上一级同一效果相比新增或改写的文字。</p>';
+  body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note module-explanation">各级为该级完整属性加成与模组效果，不与其他等级累加；追加效果保留原文，与上方无模组描述对照阅读。淡红色标记与上一级同一效果相比新增或改写的文字。</p>';
   let previous=[];
   for(const level of m.levels){
     const effects=level.effects[Math.min(state.potential,level.effects.length)-1]||[];
