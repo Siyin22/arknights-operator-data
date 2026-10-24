@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>明日方舟 · 更新报告</title>
+<style>
+:root{color-scheme:light;--ink:#213b43;--muted:#60747b;--accent:#087b72;--line:#dce5e5}
+*{box-sizing:border-box}body{margin:0;background:#f3f6f5;color:var(--ink);font:15px/1.8 "LXGW WenKai","霞鹜文楷","Microsoft YaHei","微软雅黑",system-ui,sans-serif}
+main{max-width:1120px;margin:auto;padding:48px 32px 64px}header{padding:0 0 24px;border-bottom:1px solid var(--line)}
+.eyebrow{font-size:12px;letter-spacing:3px;color:var(--accent);font-weight:700}h1{font-size:34px;letter-spacing:-1px;margin:10px 0 8px}h2{font-size:23px;margin:36px 0 16px}h3{font-size:24px;margin:0 0 6px}h4{font-size:17px;margin:20px 0 6px}h5{font-size:17px;margin:0 0 10px}small{display:inline-block;font-size:14px;font-weight:400;color:var(--muted);margin-left:12px}
+p{margin:8px 0 14px;overflow-wrap:anywhere}.meta,.hint{font-size:13px;color:var(--muted)}.hint{margin-bottom:20px}.version{font-size:13px;color:var(--muted);overflow-wrap:anywhere}.status{font-size:19px;font-weight:600;margin-top:16px}
+article{background:white;border:1px solid var(--line);border-radius:12px;padding:28px 30px;margin:16px 0 24px;scroll-margin-top:90px}
+.toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;position:sticky;top:0;z-index:1;background:#f3f6f5f5;border-bottom:1px solid var(--line);padding:14px 0;flex-wrap:wrap}
+select,button{font:inherit;font-size:14px;border:1px solid #b5c9c6;border-radius:6px;padding:7px 12px;background:white;color:var(--ink)}button,summary,select{cursor:pointer}button:hover{border-color:var(--accent);color:var(--accent)}button:focus-visible,select:focus-visible,summary:focus-visible,a:focus-visible{outline:3px solid #78cbc1;outline-offset:3px}
+nav{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0 0}nav:empty{display:none}a{color:var(--accent);text-decoration:none}nav a{border:1px solid var(--line);border-radius:20px;padding:3px 14px;background:white}
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:22px 0}.stats>div{padding:12px 14px;background:#f5f8f7;border-radius:6px}dt{font-size:12px;color:var(--muted)}dd{font-size:23px;font-weight:650;margin:2px 0 0}
+.skill{border-top:1px solid var(--line);margin-top:22px;padding-top:2px}.skill h4{color:var(--accent)}details{margin-top:16px}summary{color:var(--accent);font-size:14px}details[open]>summary{margin-bottom:16px}details[open]{padding-bottom:8px}
+.module+.module{border-top:1px solid var(--line);margin-top:24px}.module-levels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:20px}.module-levels>section{padding:18px;background:#f6f8f7;border-radius:8px;font-size:14px}.bonus{color:var(--accent);font-weight:600}.condition{display:inline-block;background:#fff1d9;color:#84551c;font-size:12px;padding:2px 8px;border-radius:4px}.condition:empty{display:none}.condition+strong{display:block}
+.empty{padding:24px 28px;background:white;border:1px dashed #becfcc;border-radius:10px;color:var(--muted)}.source{margin-top:32px;font-size:13px;color:var(--muted)}footer{font-size:12px;color:var(--muted);margin-top:32px}[hidden]{display:none!important}
+@media(max-width:750px){main{padding:24px 16px}article{padding:20px 18px}h1{font-size:28px}h3 small{display:block;margin-left:0}.stats{grid-template-columns:repeat(3,1fr)}.stats>div{padding:10px}.module-levels{grid-template-columns:1fr}dd{font-size:20px}}
+@media print{body{background:white}main{max-width:none;padding:0}.toolbar,nav,footer{display:none}article{border-radius:0;padding:16px;break-inside:auto}.stats>div,.module-levels>section{break-inside:avoid}h2,h3,h4{break-after:avoid}.module-levels{grid-template-columns:1fr}header{padding-bottom:12px}}
+</style>
+</head>
+<body><main>
+<header><div class="eyebrow">ARKNIGHTS / LOCAL UPDATE</div><h1>明日方舟 · 更新报告</h1><div class="version">__VERSION__</div><div class="status">__STATUS__</div></header>
+<div class="toolbar"><label>查看潜能 <select id="potential" aria-label="报告潜能"><option value="1">一潜（默认）</option><option value="2">二潜</option><option value="3">三潜</option><option value="4">四潜</option><option value="5">五潜</option><option value="6">满潜</option></select></label><div><button id="expand" type="button">展开全部等级</button> <button id="print" type="button">打印 / 保存 PDF</button></div></div>
+<nav aria-label="新增干员">__NAVIGATION__</nav>
+__BODY__
+<footer>本机客户端数据 · 离线报告 · 仅展示本次新增内容</footer>
+</main>
+<script>
+document.getElementById('potential').addEventListener('change',event=>{
+  const rank=Number(event.target.value);
+  document.querySelectorAll('.potential-variant').forEach(el=>{el.hidden=Number(el.dataset.rank)!==Math.min(rank,Number(el.dataset.max));});
+});
+document.getElementById('expand').addEventListener('click',()=>{
+  const sections=[...document.querySelectorAll('article details')];
+  const open=sections.some(el=>!el.open);
+  sections.forEach(el=>{el.open=open;});
+  document.getElementById('expand').textContent=open?'收起补充信息':'展开全部等级';
+});
+document.getElementById('print').addEventListener('click',()=>window.print());
+</script>
+</body></html>

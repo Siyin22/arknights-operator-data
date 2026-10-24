@@ -1,8 +1,10 @@
-# 明日方舟 · 干员版本数据
+# 明日方舟 · 更新工具与干员版本数据
 
 **客户端 2.7.81 · 数据 78.2.0**（国服）。
 
-[阅读本次更新报告](更新报告.md) · [查看所有官方版本](https://github.com/Siyin22/arknights-operator-data/tags)
+[阅读本次更新报告](更新报告.md) · [查看所有官方版本](https://github.com/Siyin22/arknights-update-tool/tags)
+
+工具源码、启动入口、解析依赖与测试均位于 [`tool/`](tool/README.md)，首次使用请阅读 [安装说明](tool/安装说明.txt)。克隆后工具直接使用本仓库根目录的数据与 Git 历史。
 
 保存干员战斗资料、后勤技能与模组的可读数据。根目录始终是一套当前数据；旧版本保存在 Git 历史中，不按日期重复复制整套导出。
 
@@ -47,7 +49,7 @@ python compare.py <旧官方版本> <新官方版本>
 
 生成 `comparison/版本差异.html` 与 `comparison/版本差异.md`；不会改动当前数据。
 
-已保存版本：[78.2.0](https://github.com/Siyin22/arknights-operator-data/tree/78.2.0)
+已保存版本：[78.2.0](https://github.com/Siyin22/arknights-update-tool/tree/78.2.0)
 
 ## 数据口径
 

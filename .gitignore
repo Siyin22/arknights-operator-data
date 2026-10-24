@@ -1,3 +1,14 @@
 comparison/
 __pycache__/
 *.pyc
+tool/.venv/
+tool/work/
+tool/导出结果/
+tool/版本数据/
+tool/settings.json
+tool/pipeline.lock
+tool/启动错误.txt
+**/obj/
+*.pdb
+tool/tools/Il2CppDumper-patched/DummyDll/
+tool/tools/Il2CppDumper-patched/dump.cs

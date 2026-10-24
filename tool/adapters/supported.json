@@ -1,0 +1,13 @@
+{
+  "clients": [
+    {
+      "label": "明日方舟国服 PC 2.7.81",
+      "metadata_version": 29,
+      "type_record_bytes": 92,
+      "sha256": {
+        "binary": "583b04ff4d1b1a4b35eaf09d77d936408c25447c9e345ef0463d814b6a123fc5",
+        "metadata": "d3fede171f92740a6f5dc053c58c7013d3c962db764ad1f05cbe977c074fcd1f"
+      }
+    }
+  ]
+}
