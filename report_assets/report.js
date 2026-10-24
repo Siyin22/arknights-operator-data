@@ -76,17 +76,26 @@ const effectTokens=value=>String(value).match(/\d+(?:\.\d+)?%?|[^\d]/gu)||[];
 // Keep each highlight on one line. html2canvas can paint a multiline inline
 // background over text that appeared earlier on the same line.
 const markedText=value=>effectTokens(value).map(token=>`<span class="effect-change">${text(token)}</span>`).join('');
+function markedChange(value){
+  // A separator before/after an added clause belongs to the sentence, not its effect.
+  // Trim only clause separators; keep signs, percentages and brackets with their text.
+  const leading=value.match(/^[\s，。；：、！？,.!?;:…·]+/u)?.[0]||'';
+  const rest=value.slice(leading.length);
+  const trailing=rest.match(/[\s，。；：、！？,.!?;:…·]+$/u)?.[0]||'';
+  const content=rest.slice(0,rest.length-trailing.length);
+  return text(leading)+markedText(content)+text(trailing);
+}
 function changedText(before,after){
   if(before===after)return text(after);
   // Compare text only within an unambiguous effect across adjacent module levels.
   // Numeric tokens stay whole: 20% -> 25% highlights 25%, rather than only the digit 5.
   const a=effectTokens(before),b=effectTokens(after);
-  if(a.length*b.length>250000)return markedText(after);
+  if(a.length*b.length>250000)return text(after);
   const rows=Array.from({length:a.length+1},()=>new Uint16Array(b.length+1));
   for(let i=a.length-1;i>=0;i--)for(let j=b.length-1;j>=0;j--)
     rows[i][j]=a[i]===b[j]?rows[i+1][j+1]+1:Math.max(rows[i+1][j],rows[i][j+1]);
   let i=0,j=0,changed='',out='';
-  const flush=()=>{if(changed){out+=markedText(changed);changed='';}};
+  const flush=()=>{if(changed){out+=markedChange(changed);changed='';}};
   while(j<b.length){
     if(i<a.length&&a[i]===b[j]){flush();out+=text(b[j]);i++;j++;}
     else if(i<a.length&&rows[i+1][j]>=rows[i][j+1])i++;
@@ -110,7 +119,7 @@ function moduleBody(m,owner,includeBaseline=true){
     body+='<h3 class="card-section-title">无模组特性与天赋 · 对照基准</h3>';
     body+=owner?`<p class="baseline-caption">${e(owner.name)} · 精英 ${e(owner.phase)} · 满级 ${e(owner.level)} · ${potentialText(owner.variants.length)} · 与模组相同数据版本</p>`+baselineHTML(owner):'<p class="card-note">该版本未记录所属干员资料，无法提供无模组对照。</p>';
   }else body+='<p class="card-note">无模组特性与天赋见上方干员资料；以下均按相同潜能展示。</p>';
-  body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note module-explanation">各级为该级完整属性加成与模组效果，不与其他等级累加；追加效果保留原文，与上方无模组描述对照阅读。淡红色标记与上一级同一效果相比新增或改写的文字。</p>';
+  body+='<h3 class="card-section-title">模组升级效果</h3><p class="card-note module-explanation">各级为该级完整属性加成与模组效果，不与其他等级累加；追加效果保留原文，与上方无模组描述对照阅读。文字下半部的淡红色标记表示与上一级同一效果相比新增或改写的文字；片段首尾的分隔标点不标记。</p>';
   let previous=[];
   for(const level of m.levels){
     const effects=level.effects[Math.min(state.potential,level.effects.length)-1]||[];
