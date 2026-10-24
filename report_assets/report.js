@@ -3,6 +3,7 @@ const report = JSON.parse(document.getElementById('report-data').textContent);
 const current = report.current;
 const state = {potential:1, skills:'max', selected:null, queue:new Map(), busy:false};
 const $ = id => document.getElementById(id);
+const disclaimer = $('report-notice').textContent;
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const e = escapeHTML;
 const text = value => String(value ?? '').split(/(\d+(?:\.\d+)?%?)/g).map((part,i)=>i%2?`<span class="number">${e(part)}</span>`:e(part)).join('');
@@ -67,7 +68,7 @@ function cardHTML(entry){
   const p=entry.record, operator=entry.category==='operators';
   const title=operator?p.name:p.operator_name+' · '+p.name;
   const subtitle=operator?`${p.english||''}　${p.profession} / ${p.branch}　${(p.tags||[]).join(' · ')}`:'MODULE / 模组资料';
-  return `<article class="data-card" data-record="${e(entry.id)}"><div class="card-title ${operator?'':'module-title'}"><div><h3 class="card-name">${e(title)}</h3><div class="card-subtitle">${e(subtitle)}</div></div>${operator?`<div class="rarity" aria-label="${p.rarity}星">${'★'.repeat(p.rarity)}</div>`:`<div class="module-code">${e(p.type)}</div>`}</div><div class="card-body">${operator?operatorBody(p):moduleBody(p)}</div>${changeHTML(entry.changes||[])}<div class="card-footer"><strong>${e(versionText(entry.version))}</strong><span class="creator-credit">By 司音</span></div></article>`;
+  return `<article class="data-card" data-record="${e(entry.id)}"><div class="card-meta"><div class="card-meta-row"><strong class="card-version">${e(versionText(entry.version))}</strong><span class="creator-credit">By 司音</span></div><p class="card-disclaimer">${e(disclaimer)}</p></div><div class="card-title ${operator?'':'module-title'}"><div><h3 class="card-name">${e(title)}</h3><div class="card-subtitle">${e(subtitle)}</div></div>${operator?`<div class="rarity" aria-label="${p.rarity}星">${'★'.repeat(p.rarity)}</div>`:`<div class="module-code">${e(p.type)}</div>`}</div><div class="card-body">${operator?operatorBody(p):moduleBody(p)}</div>${changeHTML(entry.changes||[])}</article>`;
 }
 function entryHTML(entry,index){return `<div class="entry" data-entry="${index}"><div class="entry-bar"><div class="entry-kind"><span class="badge ${entry.status}">${e(statusNames[entry.status])}</span>${entry.category==='operators'?'干员':'模组'}${entry.status==='current'?' · 不代表本次新增':''}</div><div class="entry-actions"><button data-action="queue">加入清单</button><button data-action="png">导出 PNG</button></div></div>${cardHTML(entry)}</div>`;}
 function renderEntries(){
