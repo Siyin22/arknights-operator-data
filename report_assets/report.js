@@ -24,11 +24,24 @@ function relatedModules(entry){
   return records.filter(m=>m.operator_id===id).sort((a,b)=>a.type.localeCompare(b.type)||a.id.localeCompare(b.id));
 }
 function selectedModuleIds(entry){
-  const ids=entry.moduleIds??state.modules.get(recordKey(entry))??(entry.status==='current'?relatedModules(entry).map(m=>m.id):[]);
+  const defaults=entry.status==='current'?relatedModules(entry).map(m=>m.id):
+    entry.category==='operators'&&entry.status==='added'?report.entries.filter(e=>e.category==='modules'&&e.status==='added'&&
+      e.record.operator_id===entry.id&&e.version.official_version===entry.version.official_version).map(e=>e.id):[];
+  const ids=entry.moduleIds??state.modules.get(recordKey(entry))??defaults;
   return ids.filter(id=>relatedModules(entry).some(m=>m.id===id));
 }
 function exportEntry(entry,baseOnly=false){
   return entry.category==='operators'?{...entry,moduleIds:baseOnly?[]:[...selectedModuleIds(entry)]}:entry;
+}
+function updateExportEntries(entries=report.entries){
+  const prepared=entries.map(entry=>exportEntry(entry)),included=new Set();
+  for(const entry of prepared){
+    if(entry.category==='operators'&&entry.status==='added')
+      for(const id of entry.moduleIds)included.add(`${entry.version.official_version}:${id}`);
+  }
+  // An unchecked module remains a standalone item, so no update is lost.
+  return prepared.filter(entry=>!(entry.category==='modules'&&entry.status==='added'&&
+    included.has(`${entry.version.official_version}:${entry.id}`)));
 }
 const durationText = value => value === '即时 / 见描述' ? '即时' : /^\d+(?:\.\d+)?\s*秒$/.test(value) ? `持续时间 ${value}` : value;
 function levelHTML(level){return `<div class="skill-level"><div class="skill-metadata"><span class="level-tag">${e(level.label)}</span><span>初始 ${e(level.initial)} / 消耗 ${e(level.cost)} 技力</span><span>${e(durationText(level.duration))}</span>${level.charges>1?`<span>可充能 ${e(level.charges)} 次</span>`:''}</div><p class="effect-text">${text(level.description)}</p></div>`;}
@@ -178,7 +191,12 @@ function groupedEntriesHTML(){
 }
 function renderEntries(){
   $('entry-list').innerHTML=report.entries.length?groupedEntriesHTML():`<div class="empty-state"><h3>${report.previous?'这两个版本没有干员或模组变化':'当前版本已建立基准'}</h3><p>${report.previous?'仍可在下方选择当前版本资料，分别导出图片。':'尚无更早的已保存版本，无法判定新增内容。下方资料导出可直接使用；以后更新时，这里会列出真正的版本差异。'}</p></div>`;
-  $('export-batch').disabled=!report.entries.length||state.busy;
+  updateBatchButton();
+}
+function updateBatchButton(){
+  const count=updateExportEntries().length;
+  $('export-batch').textContent=count?`导出本次资料（${count} 张）`:'导出本次资料';
+  $('export-batch').disabled=!count||state.busy;
 }
 function selectEntry(){const kind=$('record-kind').value;const id=$('record-select').value;state.selected=id?{category:kind,id,record:current[kind][id],status:'current',version:current.version,changes:[]}:null;renderPreview();}
 function renderPreview(){$('preview').innerHTML=state.selected?entryHTML(state.selected,'preview'):'<p class="card-note">没有找到匹配的资料。</p>';$('add-image').disabled=!state.selected||state.busy;}
@@ -200,7 +218,7 @@ function updateQueue(){$('queue-label').textContent=state.queue.size?`已选择 
 function filename(entry){const r=entry.record,modules=entry.category==='operators'?selectedModuleIds(entry).map(id=>relatedModules(entry).find(m=>m.id===id).type):[];return `${entry.category==='operators'?'干员_'+r.name+'_'+r.profession+(modules.length?'_含模组_'+modules.join('_'):''):'模组对比_'+r.operator_name+'_'+r.type+'_'+r.name}_数据${entry.version.official_version}_潜能${Math.min(state.potential,entry.category==='operators'?r.variants.length:ownerForEntry(entry)?.variants.length||r.levels[0]?.effects.length||6)}${entry.category==='operators'?(state.skills==='all'?'_全部技能':'_所选技能'):''}.png`.replace(/[<>:"/\\|?*\x00-\x1f]/g,'_');}
 function download(blob,name){const link=document.createElement('a');const url=URL.createObjectURL(blob);link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),60000);}
 function status(message,error=false){$('export-status').textContent=message;$('export-status').classList.toggle('error',error);}
-function busy(value){state.busy=value;document.querySelectorAll('button,input,select').forEach(el=>{el.disabled=value;});if(!value){$('export-batch').disabled=!report.entries.length;$('add-image').disabled=!state.selected;updateQueue();}}
+function busy(value){state.busy=value;document.querySelectorAll('button,input,select').forEach(el=>{el.disabled=value;});if(!value){updateBatchButton();$('add-image').disabled=!state.selected;updateQueue();}}
 async function capture(entry){
   const stage=document.createElement('div');stage.className='export-stage';
   stage.innerHTML=cardHTML(entry);
@@ -272,13 +290,14 @@ document.addEventListener('change',event=>{
     const otherEntry=containerEntry(other);
     if(recordKey(otherEntry)===recordKey(entry))other.querySelector('.associated-modules').outerHTML=associatedModulesHTML(otherEntry);
   });
+  updateBatchButton();
 });
 $('potential').addEventListener('change',()=>{state.potential=Number($('potential').value);renderEntries();renderPreview();});
 $('skill-mode').addEventListener('change',()=>{state.skills=$('skill-mode').value;renderEntries();renderPreview();});
 $('record-kind').addEventListener('change',()=>{$('record-search').value='';filterRecords();});
 $('record-search').addEventListener('input',filterRecords);$('record-select').addEventListener('change',selectEntry);
 $('add-image').addEventListener('click',()=>queueEntry(state.selected));$('clear-queue').addEventListener('click',()=>{state.queue.clear();updateQueue();});
-$('export-queue').addEventListener('click',()=>exportMany([...state.queue.values()]));$('export-batch').addEventListener('click',()=>exportMany(report.entries));
+$('export-queue').addEventListener('click',()=>exportMany([...state.queue.values()]));$('export-batch').addEventListener('click',()=>exportMany(updateExportEntries()));
 const version=current.version;
 $('version-info').innerHTML=`<div class="version-box"><div class="version-item"><small>客户端版本</small><strong>${e(version.client_version||'未记录')}</strong><p>游戏程序与数据结构的版本</p></div><div class="version-item data"><small>数据版本</small><strong>${e(version.official_version)}</strong><p>干员、技能、模组配置的版本 · Git 标签</p></div></div>`;
 $('comparison-caption').innerHTML=`<div class="comparison-caption">${report.previous?e(versionText(report.previous))+' → '+e(versionText(version)):'首个已保存版本 · 建立对比基准'}</div>`;
